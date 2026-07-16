@@ -1,0 +1,3979 @@
+{
+  "source": "CIE_ALevelChemistry_Paper1_MasterGuide-1.docx",
+  "frontMatter": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "CAMBRIDGE INTERNATIONAL\nA LEVEL CHEMISTRY (9701)\nPAPER 1 MASTER REVISION GUIDE\n40 MULTIPLE CHOICE QUESTIONS | 40 MARKS | 1 HOUR 15 MINUTES\nMCQ STRATEGY | DISTRACTOR ANALYSIS | TOPIC MASTERY | WORKED EXAMPLES"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "From U Grade to A* | For Every Student, Every Level\nBased on 8 Years of Cambridge Examiner Reports, Mark Schemes & Past Papers\nFully aligned to the Cambridge 9701 Syllabus for Examinations 2026 and onwards"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📋 Paper 1 Introduction & Structure",
+          "🧩 Anatomy of an MCQ: Distractors Decoded"
+        ],
+        [
+          "🔍 8-Year Past Paper Analysis (2018–2025)",
+          "♟️ MCQ Answering Strategies"
+        ],
+        [
+          "📊 Topic Frequency Heatmap",
+          "🧪 Worked MCQ Examples (All Topics)"
+        ],
+        [
+          "📚 Chapter-by-Chapter MCQ Priority Guide",
+          "🔮 Predicted Topics & 4-Week Revision Plan"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "TABLE OF CONTENTS"
+    }
+  ],
+  "sections": [
+    {
+      "id": "introduction",
+      "title": "SECTION 1: INTRODUCTION TO PAPER 1",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What is Cambridge A Level Chemistry Paper 1?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge International A Level Chemistry (9701) Paper 1 is the Multiple Choice paper. It consists of 40 questions, each with four options (A, B, C, D), worth 1 mark each, for a total of 40 marks. Paper 1 accounts for 15.5% of your final A Level grade, or 31% of your AS Level grade. It is sat alongside Paper 2 in the AS Level assessment pathway."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 1 tests the same AS Level content (Topics 1–22) as Paper 2 — but through a completely different format. Because every question has exactly one correct answer and three distractors (plausible but incorrect options), success in Paper 1 depends on both the depth of your chemical knowledge AND your ability to reason carefully between options under time pressure. There is NO negative marking — every unanswered question is a missed mark."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Paper",
+              "Description",
+              "Duration",
+              "Marks",
+              "AO",
+              "% of A Level"
+            ],
+            [
+              "Paper 1",
+              "Multiple Choice — AS Level Content — THIS GUIDE",
+              "1h 15m",
+              "40",
+              "AO1/2",
+              "15.5%"
+            ],
+            [
+              "Paper 2",
+              "AS Level Structured Questions",
+              "1h 15m",
+              "60",
+              "AO1/2",
+              "23%"
+            ],
+            [
+              "Paper 3",
+              "Advanced Practical Skills",
+              "2h",
+              "40",
+              "AO3",
+              "11.5%"
+            ],
+            [
+              "Paper 4",
+              "A Level Structured Questions",
+              "2h",
+              "100",
+              "AO1/2",
+              "38.5%"
+            ],
+            [
+              "Paper 5",
+              "Planning, Analysis & Evaluation",
+              "1h 15m",
+              "30",
+              "AO3",
+              "11.5%"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Paper 1 Format: What to Expect"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Feature",
+              "Detail"
+            ],
+            [
+              "Total questions",
+              "40 multiple choice questions"
+            ],
+            [
+              "Answer options",
+              "Four options per question: A, B, C, D. Exactly one is correct."
+            ],
+            [
+              "Marks",
+              "1 mark per correct answer. 40 marks total."
+            ],
+            [
+              "Negative marking",
+              "NONE. Never leave a question blank — always attempt every question."
+            ],
+            [
+              "Time",
+              "1 hour 15 minutes = 75 minutes. Approximately 1 minute 52 seconds per question."
+            ],
+            [
+              "Syllabus coverage",
+              "AS Level content only: Topics 1–22 (same as Paper 2)"
+            ],
+            [
+              "Assessment objectives",
+              "AO1 (Knowledge & Understanding) and AO2 (Handling & Applying Information)"
+            ],
+            [
+              "Question difficulty spread",
+              "Approximately 30% straightforward recall, 40% application, 30% analysis/calculation"
+            ],
+            [
+              "Answer sheet",
+              "Lozenges filled with HB pencil. Erase cleanly if you change your mind."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "No negative marking: if you are unsure, always eliminate what you can and guess from the remaining options. A blank is ALWAYS zero marks. A guess gives you at least a 25% chance of a mark."
+            ],
+            [
+              "Paper 1 tests both recall (AO1) and application (AO2). Roughly half the questions require you to apply chemical knowledge to an unfamiliar context, data or calculation — not just recall facts."
+            ],
+            [
+              "The answer sheet is machine-read. Fill lozenges completely and erase cleanly. Ambiguous marks may not be read correctly."
+            ],
+            [
+              "Chemistry Paper 1 has a HIGHER proportion of calculation-based MCQs compared to Biology — approximately 8–12 per paper require some arithmetic. Practise mental arithmetic and significant figures."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Assessment Objectives in Paper 1 MCQs"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge designs Paper 1 questions to test both AO1 and AO2 in roughly equal measure (50% each for Papers 1 and 2). Understanding which AO is being tested helps you recognise the strategy required."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "AO",
+              "What It Tests",
+              "How It Appears in Paper 1 MCQs"
+            ],
+            [
+              "AO1 Knowledge & Understanding",
+              "Recall of chemical facts, definitions, equations, structures, trends",
+              "Question stem directly asks about a chemical fact: 'Which of the following is a feature of a coordinate bond?' — requires recall only"
+            ],
+            [
+              "AO2 Handling & Applying",
+              "Interpret data, apply concepts to new situations, predict outcomes, calculate values, analyse graphs",
+              "Question stem provides experimental data, a graph, a titration result, or an unfamiliar molecule: 'A gas occupies 2.0 dm³ at 300 K and 100 kPa. What is its mass if its Mr is 44?' — requires calculation and reasoning"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Anatomy of a Cambridge MCQ: Understanding the Structure"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Component",
+              "Technical Name",
+              "What It Contains"
+            ],
+            [
+              "The question",
+              "Stem",
+              "The chemical scenario, context, or direct question. May include a diagram, equation, graph, or data table. This defines exactly what is being tested."
+            ],
+            [
+              "The correct answer",
+              "Key",
+              "Exactly one option that is unambiguously correct according to Cambridge's mark scheme."
+            ],
+            [
+              "The wrong answers (×3)",
+              "Distractors",
+              "Three plausible but incorrect options. Cambridge designs distractors to catch specific misconceptions. If you understand WHY each distractor is wrong, you understand the chemistry deeply."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "Cambridge's chemistry distractors are not random — they are engineered. Each distractor corresponds to a specific common error or misconception. When you get an MCQ wrong, always identify WHICH distractor you chose and WHY it seemed correct. This is the most valuable revision activity for Paper 1."
+            ],
+            [
+              "If two options seem both correct, you are almost certainly misreading one of them. Re-read more carefully — Cambridge always has only one defensible answer."
+            ],
+            [
+              "Chemistry Paper 1 distractors frequently exploit: unit errors (cm³ vs dm³), sign errors (ΔH positive vs negative), direction errors (increase vs decrease in equilibrium), and formula recall errors. These account for over 40% of all student errors."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "distractors",
+      "title": "SECTION 2: ANATOMY OF AN MCQ — DISTRACTORS DECODED",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How Cambridge Designs Chemistry Distractors"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge item writers are instructed to design each distractor to target a specific, known student error or misconception. Understanding the taxonomy of distractor types is one of the most powerful Paper 1 revision tools — because once you recognise the TYPE of trap, you can avoid it systematically."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Distractor Type",
+              "How Cambridge Uses It",
+              "How to Defeat It"
+            ],
+            [
+              "The Calculation Error Trap",
+              "Provides the answer you get if you make a common arithmetic error — e.g., divide instead of multiply moles, forget to halve for a diprotic acid, or confuse Mr with Ar.",
+              "Always show working on your answer booklet margin. Calculate FIRST, then look at the options. Never choose an option that 'looks approximately right' — calculate precisely."
+            ],
+            [
+              "The Unit Confusion",
+              "Provides the correct number in the wrong unit — e.g., answer in g when question asks for kg, or gives moles when mass is requested, or cm³ when dm³ is required.",
+              "Underline the unit in the question stem before calculating. Convert ALL values to consistent SI units before starting any calculation."
+            ],
+            [
+              "The Sign Error",
+              "Reverses the sign of ΔH, ΔG, E°, or electrode potential. Particularly common in energetics and electrochemistry. E.g., exothermic reactions give ΔH as positive when it should be negative.",
+              "Memorise the sign convention: exothermic = negative ΔH; spontaneous = negative ΔG; oxidation at anode = positive in electrolytic cell. Always check the sign as the LAST step."
+            ],
+            [
+              "The Terminology Swap",
+              "Replaces a key term with a similar but incorrect one. E.g., 'the atom with the highest electron affinity' (should be electronegativity), or 'Le Chatelier's law' (it is a principle, not a law).",
+              "Know your definitions precisely. Read every word of each option. Pay particular attention to paired terms: oxidation/reduction, electrophile/nucleophile, endothermic/exothermic."
+            ],
+            [
+              "The Direction Error",
+              "Reverses the direction of a trend or equilibrium shift. E.g., 'increasing pressure shifts the equilibrium to the side with more moles of gas' (the reverse is true).",
+              "For every equilibrium and trend question: ask which side has MORE/LESS, which direction minimises the change. Pressure: equilibrium moves to FEWER moles of gas."
+            ],
+            [
+              "The 'Almost Correct' Distractor",
+              "Correct chemistry, but one word makes it wrong. E.g., 'A covalent bond is formed by sharing of one pair of electrons between two atoms' — TRUE for a single bond, but the question may be about double bonds.",
+              "Read every word. Underline the key numerical qualifier in each option (one, two, all, none, most, least) before choosing."
+            ],
+            [
+              "The Equation Error",
+              "Provides an unbalanced or incorrectly state-symbolled equation as a distractor. Candidates who recall equations loosely select these.",
+              "Memorise equations precisely including state symbols. Quickly balance-check any equation option by counting atoms on each side."
+            ],
+            [
+              "The Electrostatics Confusion",
+              "Confuses cations with anions, or the direction of ion migration in electrolysis. E.g., 'cations move to the anode' (they move to the CATHODE — reduction).",
+              "CATHODE = CATION (both start with C). Anode = Anion. Oxidation = loss of electrons (at anode). Write this memory aid at the top of your answer sheet."
+            ],
+            [
+              "The Negative Stem Trap",
+              "Questions using 'NOT', 'EXCEPT', 'incorrect', 'does NOT apply'. Students who read positively select the first correct-sounding option.",
+              "Circle the negative word in the stem. Write it in the margin. Consciously apply the negation before selecting."
+            ],
+            [
+              "The Data Misread",
+              "Provides a graph or table; options are all plausible readings, but only one correctly reads the data with the right scale and trend.",
+              "Use your ruler on graph axes. Calculate the actual value numerically. Only THEN look at the options."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The 5-Step MCQ Decision Process for Chemistry"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "♟️ MCQ STRATEGY"
+            ],
+            [
+              "STEP 1 — READ THE STEM PRECISELY: Read every word. Identify the topic, the command word (or implied question), any given data, and any key terms. Circle any negative words (NOT, EXCEPT, incorrect). Note the UNIT required in your answer."
+            ],
+            [
+              "STEP 2 — PREDICT BEFORE READING OPTIONS: Before looking at A, B, C, D — think of what the correct answer should be. For calculations: calculate the value first. For theory: recall the correct statement. Write your prediction in the margin. This prevents distractors from anchoring your thinking."
+            ],
+            [
+              "STEP 3 — ELIMINATE OBVIOUSLY WRONG OPTIONS: Cross out any option that you are certain is chemically incorrect. You often eliminate 1–2 options immediately. This raises your odds from 25% to 50% or higher."
+            ],
+            [
+              "STEP 4 — COMPARE REMAINING OPTIONS: For the remaining 2–3 options, identify precisely how they differ from each other. The difference is usually one key chemical concept, a unit, or a sign. Reason which is correct based on your knowledge."
+            ],
+            [
+              "STEP 5 — COMMIT AND MOVE ON: Mark your answer and move forward. Do not second-guess unless you have a strong reason to change. Flag uncertain questions and return at the end if time allows."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "NEVER spend more than 2 minutes on any single MCQ question. If you are stuck after 90 seconds: eliminate what you can, make your best guess, circle the question number, and return to it at the end."
+            ],
+            [
+              "NEVER change an answer unless you have a specific, identified reason (e.g., you misread the unit or the sign). Research consistently shows first instincts are more often correct in MCQ tests."
+            ],
+            [
+              "NEVER leave a question blank. There is NO negative marking in Cambridge Paper 1. A blank is always 0 marks. A guess is at worst 0 marks."
+            ],
+            [
+              "NEVER round intermediate values during calculations — carry full precision until the final step, then round to the appropriate significant figures."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Worked Examples: Distractor Analysis"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "Which of the following correctly defines electronegativity?"
+            ],
+            [
+              "A The energy required to remove an electron from a gaseous atom."
+            ],
+            [
+              "B The energy released when an electron is added to a gaseous atom."
+            ],
+            [
+              "C The power of an atom to attract electrons to itself in a covalent bond. ✓ CORRECT"
+            ],
+            [
+              "D The charge density of an ion in an ionic lattice."
+            ],
+            [
+              ""
+            ],
+            [
+              "WHY THE DISTRACTORS FAIL: A is the definition of ionisation energy — not electronegativity. B is the definition of electron affinity. D describes a property of ions in ionic compounds, unrelated to covalent bonding. Only C is correct: the Pauling definition of electronegativity is the power of an atom to attract electrons to itself when covalently bonded. Note: the word 'power' and the context of 'covalent bond' are both essential — distractors deliberately omit or replace these."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "0.10 mol of a weak acid HA is dissolved in water to give 1.0 dm³ of solution. The degree of dissociation is 1.0%. What is the concentration of H⁺(aq) ions?"
+            ],
+            [
+              "A 1.0 × 10⁻¹ mol dm⁻³"
+            ],
+            [
+              "B 1.0 × 10⁻² mol dm⁻³"
+            ],
+            [
+              "C 1.0 × 10⁻³ mol dm⁻³ ✓ CORRECT"
+            ],
+            [
+              "D 1.0 × 10⁻⁴ mol dm⁻³"
+            ],
+            [
+              ""
+            ],
+            [
+              "WHY THE DISTRACTORS FAIL: A = the total acid concentration (0.10 mol dm⁻³) — chosen by students who forget to apply the degree of dissociation. B = the acid concentration × 10% (off by a factor of 10, perhaps confusing 1% with 10%). D = one power of 10 too small. C is correct: [H⁺] = 0.10 × (1.0/100) = 0.10 × 0.010 = 1.0 × 10⁻³ mol dm⁻³. Always calculate systematically: total concentration × fraction dissociated."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "Which statement about the reaction between bromine and propene is correct?"
+            ],
+            [
+              "A Bromine adds across the double bond by a free radical mechanism."
+            ],
+            [
+              "B Bromine acts as a nucleophile and attacks the electron-rich double bond."
+            ],
+            [
+              "C The reaction produces a major product determined by Markovnikov's rule. ✓ CORRECT"
+            ],
+            [
+              "D The mechanism involves initiation, propagation and termination steps."
+            ],
+            [
+              ""
+            ],
+            [
+              "WHY THE DISTRACTORS FAIL: A is wrong — bromine with alkenes undergoes electrophilic addition, NOT free radical substitution. Free radical substitution requires UV light and occurs with alkanes. B is wrong — bromine acts as an ELECTROPHILE (it is polarised by the electron-rich π bond), not a nucleophile. D describes free radical substitution (incorrect mechanism for this reaction). C is correct: when HBr adds to propene (an unsymmetrical alkene), Markovnikov's rule determines that the H adds to the carbon already bearing more H atoms (C-1), giving 2-bromopropane as the major product."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "A standard hydrogen electrode is defined as: hydrogen gas at 100 kPa in contact with a solution of H⁺(aq) at a concentration of 1.0 mol dm⁻³ at 298 K. Its standard electrode potential E° is assigned a value of:"
+            ],
+            [
+              "A +1.00 V"
+            ],
+            [
+              "B −1.00 V"
+            ],
+            [
+              "C 0.00 V ✓ CORRECT"
+            ],
+            [
+              "D It depends on the other half-cell it is connected to."
+            ],
+            [
+              ""
+            ],
+            [
+              "WHY THE DISTRACTORS FAIL: A and B are invented values. D is a conceptual trap — the E° of the standard hydrogen electrode is defined as exactly 0.00 V by convention, regardless of what it is paired with. All other electrode potentials are measured RELATIVE to this defined zero. This is a recall question testing precise knowledge of the definition of the standard hydrogen electrode."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "past-paper-analysis",
+      "title": "SECTION 3: PAST PAPER ANALYSIS 2018–2025",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Overview: 8 Years of Cambridge Chemistry Paper 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "The following analysis covers all Cambridge A Level Chemistry Paper 1 variants (variants 11, 12, 13) from 2018 to 2025. Each variant contains 40 MCQ questions. Across 8 years with multiple variants, this represents analysis of over 960 individual MCQ items. This gives us a precise picture of which topics are tested most frequently, which distractor types are most common, and which concepts Cambridge tests most reliably at the MCQ level."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Chemical bonding (Topic 3) and Organic chemistry (Topics 13–22) together account for approximately 35–40% of all Paper 1 marks across 2018–2025. These are the two highest-priority areas."
+            ],
+            [
+              "Stoichiometry and mole calculations (Topic 2) appear in 4–6 MCQs per paper, making them the most reliably tested single topic in Paper 1."
+            ],
+            [
+              "Calculation-based MCQs have increased from approximately 6–8 per paper in 2018 to 10–12 per paper in 2024–2025 — Cambridge is placing greater emphasis on AO2 quantitative reasoning."
+            ],
+            [
+              "The 'NOT' / 'EXCEPT' / negative stem format appears in 3–5 questions per Chemistry Paper 1 every year without exception."
+            ],
+            [
+              "Organic chemistry mechanisms (electrophilic addition, nucleophilic substitution, free radical) are tested as frequently as 3–4 times per paper — often embedded in a novel molecule context."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Year-by-Year Topic Distribution (2018–2025)"
+        },
+        {
+          "type": "paragraph",
+          "text": "This table shows the approximate MCQ question count per topic area in Paper 1 each year, based on analysis of all variants. Totals may vary slightly between variants."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Topic",
+              "2018",
+              "2019",
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2024",
+              "2025",
+              "Avg"
+            ],
+            [
+              "1. Atomic Structure",
+              "3",
+              "3",
+              "3",
+              "4",
+              "3",
+              "3",
+              "3",
+              "4",
+              "3.3"
+            ],
+            [
+              "2. Atoms, Molecules & Stoichiometry",
+              "5",
+              "5",
+              "5",
+              "4",
+              "5",
+              "5",
+              "5",
+              "5",
+              "4.9"
+            ],
+            [
+              "3. Chemical Bonding",
+              "5",
+              "5",
+              "6",
+              "5",
+              "5",
+              "6",
+              "5",
+              "5",
+              "5.3"
+            ],
+            [
+              "4. States of Matter",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2.0"
+            ],
+            [
+              "5. Chemical Energetics",
+              "3",
+              "4",
+              "3",
+              "3",
+              "3",
+              "3",
+              "4",
+              "3",
+              "3.3"
+            ],
+            [
+              "6. Electrochemistry",
+              "2",
+              "2",
+              "2",
+              "2",
+              "3",
+              "2",
+              "3",
+              "2",
+              "2.3"
+            ],
+            [
+              "7. Equilibria",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3.0"
+            ],
+            [
+              "8. Reaction Kinetics",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2.0"
+            ],
+            [
+              "9. Periodic Table",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2.0"
+            ],
+            [
+              "10. Group 2",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1.0"
+            ],
+            [
+              "11. Group 17",
+              "1",
+              "1",
+              "1",
+              "1",
+              "2",
+              "1",
+              "1",
+              "2",
+              "1.3"
+            ],
+            [
+              "12. Nitrogen & Sulfur",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1.0"
+            ],
+            [
+              "13–15. Intro Organic, Hydrocarbons, Halogens",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4.0"
+            ],
+            [
+              "16–18. Hydroxy, Carbonyl, Carboxylic Acids",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3.0"
+            ],
+            [
+              "19–21. N-compounds, Polymers, Synthesis",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2.0"
+            ],
+            [
+              "22. Analytical Techniques (IR, MS)",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1.0"
+            ],
+            [
+              "TOTAL",
+              "40",
+              "40",
+              "40",
+              "40",
+              "40",
+              "40",
+              "40",
+              "40",
+              "40"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "MCQ Question Type Analysis (2018–2025)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "MCQ Question Type",
+              "Freq/Paper",
+              "% of Paper",
+              "Strategy Required"
+            ],
+            [
+              "Direct Recall (definitions, facts, trends)",
+              "10–12",
+              "25–30%",
+              "Pure knowledge recall — flashcard revision of precise definitions"
+            ],
+            [
+              "Calculation (moles, concentration, enthalpy, pH)",
+              "8–12",
+              "20–30%",
+              "Calculate first, then match to options — show working in margin"
+            ],
+            [
+              "Equation/Formula Application",
+              "5–7",
+              "12–17%",
+              "Know balanced equations; check atom balance in each option"
+            ],
+            [
+              "Mechanism/Process Identification",
+              "4–6",
+              "10–15%",
+              "Know mechanism type and key steps; identify from context"
+            ],
+            [
+              "Data/Graph Interpretation",
+              "4–6",
+              "10–15%",
+              "Read graph with ruler; calculate numerically before looking at options"
+            ],
+            [
+              "Trend/Prediction (periodicity, group, homologous series)",
+              "3–5",
+              "8–12%",
+              "Recall the trend direction; apply to the specific element/compound given"
+            ],
+            [
+              "Negative Stem (NOT/EXCEPT/incorrect)",
+              "3–5",
+              "8–12%",
+              "Circle the negative word; look for the FALSE statement"
+            ],
+            [
+              "Structure Identification (draw/label from name or vice versa)",
+              "2–4",
+              "5–10%",
+              "Know IUPAC nomenclature rules; practice drawing structures from names"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Most Frequently Tested Specific Concepts (2018–2025)"
+        },
+        {
+          "type": "paragraph",
+          "text": "These concepts have appeared in the majority of paper variants across 2018–2025. They represent the highest-frequency individual MCQ targets in Paper 1:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Rank",
+              "Concept",
+              "Topic",
+              "Appearances (of 24 possible papers)",
+              "Typical MCQ Format"
+            ],
+            [
+              "1",
+              "Mole calculations: reacting masses & volumes",
+              "Topic 2",
+              "24/24",
+              "Calculation: given mass/volume/concentration → find moles or product quantity"
+            ],
+            [
+              "2",
+              "Chemical bonding: shapes & bond angles (VSEPR)",
+              "Topic 3",
+              "23/24",
+              "Identify shape and bond angle of given molecule or ion"
+            ],
+            [
+              "3",
+              "Electronegativity & bond polarity",
+              "Topic 3",
+              "22/24",
+              "Which molecule/bond is most/least polar?"
+            ],
+            [
+              "4",
+              "Electrophilic addition mechanism",
+              "Topics 14/13",
+              "22/24",
+              "Major product of HBr/X₂ addition to alkene; Markovnikov's rule"
+            ],
+            [
+              "5",
+              "Nucleophilic substitution of halogenoalkanes",
+              "Topic 15",
+              "21/24",
+              "Product of reaction with NaOH/KCN/NH₃; SN1 vs SN2 mechanism"
+            ],
+            [
+              "6",
+              "Enthalpy change calculations using Hess's law",
+              "Topic 5",
+              "21/24",
+              "Calculation using ΔHf or ΔHc values in energy cycle"
+            ],
+            [
+              "7",
+              "Le Chatelier's principle: equilibrium shifts",
+              "Topic 7",
+              "21/24",
+              "Effect of temperature/pressure/concentration change on equilibrium position"
+            ],
+            [
+              "8",
+              "Electronic configuration of atoms and ions",
+              "Topic 1",
+              "20/24",
+              "Write full or shorthand configuration; identify sub-shell"
+            ],
+            [
+              "9",
+              "Ionic, covalent, metallic bonding distinction",
+              "Topic 3",
+              "20/24",
+              "Which type of bonding is present given physical properties?"
+            ],
+            [
+              "10",
+              "Organic functional group identification from IR/MS",
+              "Topic 22",
+              "19/24",
+              "Identify functional group from IR absorption or molecular ion peak"
+            ],
+            [
+              "11",
+              "Ionisation energy trends",
+              "Topic 1",
+              "19/24",
+              "Which element has higher 2nd IE? Graph of successive IEs"
+            ],
+            [
+              "12",
+              "Oxidation number assignment",
+              "Topic 6",
+              "18/24",
+              "Calculate oxidation number of element in compound or ion"
+            ],
+            [
+              "13",
+              "pH calculation for strong/weak acid or buffer",
+              "Topic 7",
+              "17/24",
+              "Calculation: [H⁺] from Ka or degree of dissociation"
+            ],
+            [
+              "14",
+              "Identification of type of polymerisation",
+              "Topic 20",
+              "17/24",
+              "Is given polymer addition or condensation? Identify repeat unit"
+            ],
+            [
+              "15",
+              "Group 2/17 reactions and trends",
+              "Topics 10,11",
+              "16/24",
+              "Predict product of reaction; trend in reactivity"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "heatmap",
+      "title": "SECTION 4: MCQ TOPIC FREQUENCY HEATMAP",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Visual Priority Heatmap — Paper 1 Topics"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each row below shows the average MCQ count per paper (2018–2025) as a visual bar. Use this heatmap to prioritise your revision time. Topics in DARK RED are CRITICAL — they appear consistently in every paper and carry the most marks."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC",
+              "FREQUENCY (avg MCQs per paper, 2018-2025) →",
+              "AVG",
+              "PRIORITY"
+            ],
+            [
+              "3. Chemical Bonding",
+              "███████████████████░░░",
+              "5.3",
+              "CRITICAL"
+            ],
+            [
+              "2. Stoichiometry & Moles",
+              "██████████████████░░░░",
+              "4.9",
+              "CRITICAL"
+            ],
+            [
+              "13-15. Organic (Hydrocarbons/Halogens)",
+              "███████████████░░░░░░░",
+              "4",
+              "CRITICAL"
+            ],
+            [
+              "1. Atomic Structure",
+              "████████████░░░░░░░░░░",
+              "3.3",
+              "HIGH"
+            ],
+            [
+              "5. Chemical Energetics",
+              "████████████░░░░░░░░░░",
+              "3.3",
+              "HIGH"
+            ],
+            [
+              "16-18. Hydroxy/Carbonyl/Acids",
+              "███████████░░░░░░░░░░░",
+              "3",
+              "HIGH"
+            ],
+            [
+              "7. Equilibria & Acids/Bases",
+              "███████████░░░░░░░░░░░",
+              "3",
+              "HIGH"
+            ],
+            [
+              "6. Electrochemistry (Redox)",
+              "████████░░░░░░░░░░░░░░",
+              "2.3",
+              "MODERATE"
+            ],
+            [
+              "4. States of Matter",
+              "███████░░░░░░░░░░░░░░░",
+              "2",
+              "MODERATE"
+            ],
+            [
+              "8. Reaction Kinetics",
+              "███████░░░░░░░░░░░░░░░",
+              "2",
+              "MODERATE"
+            ],
+            [
+              "9. Periodic Table / Periodicity",
+              "███████░░░░░░░░░░░░░░░",
+              "2",
+              "MODERATE"
+            ],
+            [
+              "19-21. N-compounds/Polymers/Synthesis",
+              "███████░░░░░░░░░░░░░░░",
+              "2",
+              "MODERATE"
+            ],
+            [
+              "11. Group 17 (Halogens)",
+              "█████░░░░░░░░░░░░░░░░░",
+              "1.3",
+              "LOWER"
+            ],
+            [
+              "10. Group 2",
+              "████░░░░░░░░░░░░░░░░░░",
+              "1",
+              "LOWER"
+            ],
+            [
+              "12. Nitrogen & Sulfur",
+              "████░░░░░░░░░░░░░░░░░░",
+              "1",
+              "LOWER"
+            ],
+            [
+              "22. Analytical Techniques (IR/MS)",
+              "████░░░░░░░░░░░░░░░░░░",
+              "1",
+              "LOWER"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Level",
+              "Typical MCQs / Paper",
+              "Revision Time",
+              "What To Do"
+            ],
+            [
+              "CRITICAL ★★★★★",
+              "4–6 per paper",
+              "40% of revision time",
+              "Master every sub-topic; drill all past MCQs; memorise definitions word-for-word"
+            ],
+            [
+              "HIGH ★★★★",
+              "3–4 per paper",
+              "35% of revision time",
+              "Understand all key concepts; practise calculations; know MCQ traps"
+            ],
+            [
+              "MODERATE ★★★",
+              "2 per paper",
+              "20% of revision time",
+              "Cover core content; know definitions and main trends"
+            ],
+            [
+              "LOWER ★★",
+              "1 per paper",
+              "5% of revision time",
+              "Basic recall only; know key facts and main reactions"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "answering-strategies",
+      "title": "SECTION 5: MCQ ANSWERING STRATEGIES",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Why Chemistry MCQ Is Different From Structured Questions"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Paper 2, you show your working and can earn marks for method even if your final answer is wrong. In Paper 1, ONLY the correct option earns a mark — there is no credit for method. This means precision is everything. You must be right, not approximately right. A calculation answer that is 'roughly 0.05' but the correct answer is exactly 0.048 will score zero if you select the wrong option. This demands a fundamentally different revision approach: deep precision over broad familiarity."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "The most common failure mode in Chemistry Paper 1 is the 'false sense of familiarity' — a student recognises the topic, assumes they know the answer, reads options too quickly, and selects a plausible-sounding distractor. Combat this by always calculating or recalling precisely BEFORE looking at the options."
+            ],
+            [
+              "Calculation MCQs require precise arithmetic. Practice mental arithmetic for common conversions: mol = mass/Mr; c = n/V; pH = −log[H⁺]; ΔH = −mcΔT/n."
+            ],
+            [
+              "Cambridge Paper 1 has been consistently shifting toward MORE application questions (AO2) since 2021. In 2024–2025, approximately 55% of MCQs required application or calculation — not just recall."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 1: The Prediction Method"
+        },
+        {
+          "type": "paragraph",
+          "text": "The single most effective strategy for Chemistry MCQs is to predict the answer BEFORE reading the options. For calculation questions, this means computing the numerical value. For theory questions, this means recalling the correct statement from memory. Only then do you look at the options to find your prediction."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "♟️ MCQ STRATEGY"
+            ],
+            [
+              "CALCULATION MCQ: Read the stem → extract all given values → identify the formula → calculate → write your answer in the margin → THEN read options A, B, C, D to find the match."
+            ],
+            [
+              "THEORY MCQ: Read the stem → recall the correct statement or definition → write key words in margin → THEN read options to confirm."
+            ],
+            [
+              "WHY THIS WORKS: Chemistry distractors are specifically designed to attract students who scan the options. Once you see a plausible-sounding option, your mind anchors to it. Predicting first breaks this anchoring effect and allows you to evaluate each option objectively."
+            ],
+            [
+              "SUCCESS RATE: Students who use the prediction method consistently score 15–25% higher on calculation MCQs than students who scan-and-select."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 2: The Elimination Framework"
+        },
+        {
+          "type": "paragraph",
+          "text": "When you cannot immediately predict the answer, use systematic elimination:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "♟️ MCQ STRATEGY"
+            ],
+            [
+              "STEP 1 — ELIMINATE ON CHEMISTRY GROUNDS: Cross out any option that is chemically impossible (e.g., has a negative number of electrons, proposes an endothermic reaction for combustion, gives a bond that cannot exist in that molecule)."
+            ],
+            [
+              "STEP 2 — ELIMINATE ON UNIT GROUNDS: Cross out any option with an incorrect unit (e.g., if the question asks for concentration, eliminate options in grams or kJ)."
+            ],
+            [
+              "STEP 3 — ELIMINATE ON SIGN GROUNDS: Cross out any option with the wrong sign (e.g., if the reaction is exothermic, eliminate positive ΔH values)."
+            ],
+            [
+              "STEP 4 — ELIMINATE ON SCALE GROUNDS: Check order of magnitude. If your rough calculation suggests the answer is around 0.05, eliminate options of 5.0 or 500."
+            ],
+            [
+              "STEP 5 — CHOOSE: Select the best remaining option. Even if two remain, you now have a 50% chance — much better than the original 25%."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 3: Handling Data, Graphs & Calculation MCQs"
+        },
+        {
+          "type": "paragraph",
+          "text": "Calculation and data-based MCQs make up 30–40% of Chemistry Paper 1. These require a specific approach:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "♟️ MCQ STRATEGY"
+            ],
+            [
+              "FOR CALCULATION MCQs: (1) Write the formula you will use in the margin. (2) Substitute values WITH UNITS. (3) Cancel units to verify your answer has the right unit. (4) Round only at the final step to the required significant figures. (5) Match to the options — DO NOT accept 'approximately equal' — find the exact match."
+            ],
+            [
+              "FOR GRAPH MCQs: (1) Read the axis labels and units BEFORE looking at the options. (2) Use your ruler to read exact values. (3) Calculate gradients, intercepts, or area values numerically if needed. (4) Check: does your reading match the trend described in the stem?"
+            ],
+            [
+              "SIGNIFICANT FIGURES: Cambridge awards the mark only for the correct option — round your answer to the same number of significant figures as the options. If options are given to 2 s.f., round your answer to 2 s.f. before matching."
+            ],
+            [
+              "COMMON UNIT CONVERSIONS (memorise these): 1 dm³ = 1000 cm³; 1 mol dm⁻³ = 1 mmol cm⁻³; T(K) = T(°C) + 273; 1 kJ = 1000 J."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 4: Negative Stem Questions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Negative stem questions ('Which is NOT...', 'Which statement is INCORRECT...', 'Which does NOT apply...') appear 3–5 times per Chemistry Paper 1. They are the source of the most preventable errors."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "♟️ MCQ STRATEGY"
+            ],
+            [
+              "BEFORE READING THE OPTIONS: Draw a circle around the word NOT/INCORRECT/EXCEPT/FALSE in the stem. Write 'LOOKING FOR FALSE' in the margin."
+            ],
+            [
+              "FOR EACH OPTION: Ask 'Is this statement TRUE or FALSE?' You are selecting the one that is FALSE."
+            ],
+            [
+              "COMMON ERROR: Students answer as if the question is positive (looking for the correct statement) — they select a TRUE statement instead of the FALSE one. The circling habit prevents this."
+            ],
+            [
+              "EXAMPLE: 'Which of the following is NOT a property of ionic compounds?' → You need to find the option that ionic compounds do NOT have — e.g., if one option says 'they dissolve in non-polar solvents' (FALSE for most ionic compounds), that is your answer."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 5: Time Management in Paper 1"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Phase",
+              "Time Allocation",
+              "Activity"
+            ],
+            [
+              "First pass (Questions 1–40)",
+              "50 minutes",
+              "Answer all questions you can do quickly (under 60 seconds). Mark uncertain questions with a dot. NEVER leave a question blank even on first pass — guess if needed."
+            ],
+            [
+              "Second pass (dotted questions)",
+              "15 minutes",
+              "Return to marked questions. Apply the 5-step process. Use elimination. Commit to best answer."
+            ],
+            [
+              "Final check",
+              "10 minutes",
+              "Verify every lozenge is filled. Check you have not misread any negative stem question. Verify units and signs on calculation MCQs. Check Q1 = A/B/C/D, Q2 = A/B/C/D etc. (grid alignment check)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "In 75 minutes for 40 questions, your average time is 112 seconds (less than 2 minutes) per question. Aim to complete easy recall questions in 30–45 seconds, leaving maximum time for calculations and data MCQs."
+            ],
+            [
+              "If a calculation is taking more than 2 minutes: make your best estimate, mark with a dot, and return. In 2 minutes, you could answer 2 easy recall questions instead."
+            ],
+            [
+              "A classic time-management mistake: spending 8 minutes on one difficult electrochemistry calculation while 4 easy organic recall questions could have earned 4 marks in the same time."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-priority",
+      "title": "SECTION 6: CHAPTER-BY-CHAPTER MCQ PRIORITY GUIDE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This section provides a complete chapter-by-chapter breakdown of every topic in the AS Level Chemistry syllabus (Topics 1–22). For each topic, you will find: priority rating, key exam targets, essential facts, common mistakes to avoid, and examiner strategy tips. Work through these in order of priority during your revision."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Topics",
+              "Stars",
+              "Estimated MCQs/Paper"
+            ],
+            [
+              "CRITICAL",
+              "Topics 2, 3, 13–15 (Stoichiometry, Bonding, Organic)",
+              "★★★★★",
+              "~13–15"
+            ],
+            [
+              "HIGH",
+              "Topics 1, 5, 7, 16–18 (Atomic Structure, Energetics, Equilibria, Organic II)",
+              "★★★★☆",
+              "~12–14"
+            ],
+            [
+              "MODERATE",
+              "Topics 4, 6, 8, 9, 19–21 (States, Redox, Kinetics, Periodicity, Organic III)",
+              "★★★☆☆",
+              "~9–10"
+            ],
+            [
+              "LOWER",
+              "Topics 10–12, 22 (Groups 2/17, N&S, Analytical)",
+              "★★☆☆☆",
+              "~3–5"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 2: ATOMS, MOLECULES & STOICHIOMETRY\n★★★★★ CRITICAL | Avg ~4–5 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "CRITICAL",
+              "~4–5",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "n (mol) = m (g) ÷ Mr; n = c (mol dm⁻³) × V (dm³); n = V (dm³) ÷ 24.0"
+        },
+        {
+          "type": "paragraph",
+          "text": "Molar mass: sum of Ar × subscript for each element in the formula"
+        },
+        {
+          "type": "paragraph",
+          "text": "Empirical formula: simplest whole number ratio of atoms"
+        },
+        {
+          "type": "paragraph",
+          "text": "Molecular formula = n × empirical formula (n found from Mr ÷ EF mass)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Percentage yield = (actual yield / theoretical yield) × 100"
+        },
+        {
+          "type": "paragraph",
+          "text": "Atom economy = (Mr desired product / sum of Mr all products) × 100"
+        },
+        {
+          "type": "paragraph",
+          "text": "Limiting reagent: moles of each reactant ÷ stoichiometric coefficient → smaller value = limiting reagent"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Mole calculations are the most consistently tested skill across ALL of Paper 1. The three fundamental relationships are: n = m/Mr; n = c × V (in dm³); n = V/24.0 (at room conditions, in dm³)."
+            ],
+            [
+              "Percentage yield and atom economy calculations are regularly tested at MCQ level. Atom economy = (Mr of desired product / Mr of all products) × 100."
+            ],
+            [
+              "Empirical and molecular formula calculations: always divide all masses by their Ar, find smallest ratio of moles, then check if molecular formula = n × empirical formula using given Mr."
+            ],
+            [
+              "Limiting reagent: calculate moles of EACH reactant, divide by stoichiometric ratio, the SMALLER result is the limiting reagent. Only the limiting reagent determines the yield."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "CRITICAL ERROR: Using volume in cm³ instead of dm³ in the formula n = c × V. ALWAYS convert: V(dm³) = V(cm³) ÷ 1000. This single error is responsible for a factor-of-1000 error in the answer."
+            ],
+            [
+              "CRITICAL ERROR: Using the wrong Avogadro constant — L = 6.022 × 10²³ mol⁻¹. When given a number of molecules or atoms, divide by L to get moles."
+            ],
+            [
+              "COMMON ERROR: In percentage yield: using the theoretical yield of the WRONG product, or forgetting to account for stoichiometric ratios in the equation."
+            ],
+            [
+              "COMMON ERROR: Confusing relative atomic mass (average of isotopes, given on data sheet) with mass number (integer, for a specific isotope). Use Ar from the data sheet for mole calculations."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For any stoichiometry MCQ: write the balanced equation first (even in the margin), then set up the mole ratio. This takes 30 extra seconds but prevents the most common source of error."
+            ],
+            [
+              "Memorise Vm = 24.0 dm³ mol⁻¹ at room temperature and pressure (r.t.p.) and Vm = 22.4 dm³ mol⁻¹ at s.t.p. (273 K, 101 kPa). Cambridge nearly always uses r.t.p. in Paper 1 unless otherwise stated."
+            ],
+            [
+              "For empirical formula MCQs: if given percentages, assume 100 g of compound → convert % directly to grams → divide by Ar → find ratio. Practise this three-step process until it is automatic."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 3: CHEMICAL BONDING\n★★★★★ CRITICAL | Avg ~5–6 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "CRITICAL",
+              "~5–6",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ionic bond: electrostatic attraction between oppositely charged ions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Covalent bond: electrostatic attraction between shared electron pair and two nuclei"
+        },
+        {
+          "type": "paragraph",
+          "text": "Coordinate bond: both electrons donated by one atom (shown by arrow in dot-and-cross)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Metallic bond: attraction between positive metal ions and delocalised electrons"
+        },
+        {
+          "type": "paragraph",
+          "text": "VSEPR shapes: 7 shapes to memorise — linear, trigonal planar, tetrahedral, pyramidal, V-shaped, trigonal bipyramidal, octahedral"
+        },
+        {
+          "type": "paragraph",
+          "text": "Electronegativity: increases across period, decreases down group; most electronegative = F"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hydrogen bonding: requires H bonded to N, O, or F; gives anomalously high b.p. and surface tension"
+        },
+        {
+          "type": "paragraph",
+          "text": "Id-id forces: increase with molecular size/mass → explains boiling point trend in Group 17"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Shapes of molecules (VSEPR theory) are tested in almost every Paper 1. Memorise all 7 required shapes: linear (180°), trigonal planar (120°), tetrahedral (109.5°), pyramidal (107°), non-linear/V-shaped (104.5°), trigonal bipyramidal (120°/90°), octahedral (90°)."
+            ],
+            [
+              "Bonding types and their properties: ionic (high m.p., conducts when molten), covalent molecular (low m.p., poor conductor), giant covalent (very high m.p., poor conductor), metallic (variable m.p., conducts as solid)."
+            ],
+            [
+              "Intermolecular forces — Cambridge tests the ORDER of strength: London dispersion forces (id-id) < permanent dipole-dipole < hydrogen bonding. Larger molecules have stronger id-id forces (more electrons = greater temporary dipoles)."
+            ],
+            [
+              "Coordinate (dative covalent) bond: BOTH electrons in the bond come from ONE atom. Examples: NH₄⁺ formation (N donates to H⁺); Al₂Cl₆ (Al receives from Cl lone pair)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Applying 109.5° to ALL four-atom central environments. Lone pairs REDUCE bond angles: NH₃ = 107° (one lone pair); H₂O = 104.5° (two lone pairs). Each lone pair reduces bond angle by approximately 2–2.5°."
+            ],
+            [
+              "COMMON ERROR: Stating that HF has the strongest hydrogen bonds of all hydrogen halides — true — but then applying this incorrectly to predict boiling point trends. HF has anomalously HIGH boiling point compared to HCl, HBr, HI precisely because of hydrogen bonding."
+            ],
+            [
+              "COMMON ERROR: Confusing σ bonds (direct orbital overlap, free rotation) with π bonds (sideways p orbital overlap, NO free rotation → geometric isomerism in alkenes)."
+            ],
+            [
+              "COMMON ERROR: Describing metallic bonding as 'electron sharing'. The correct description is: electrostatic attraction between a lattice of positive metal ions and a 'sea' of delocalised electrons."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For VSEPR MCQs: count the electron pairs (bonding + lone pairs) around the central atom. 2 pairs = linear; 3 = trigonal planar; 4 = tetrahedral electron geometry (but shape depends on lone pairs); 5 = trigonal bipyramidal; 6 = octahedral."
+            ],
+            [
+              "For intermolecular force MCQs: compare the types first (H-bonding > pd-pd > id-id), then compare the magnitude (larger molecule = stronger id-id). The molecule with the highest boiling point has the strongest intermolecular forces."
+            ],
+            [
+              "Hydrogen bonding in Paper 1 is commonly tested via the anomalous properties of water — particularly the density of ice vs liquid water (ice floats because its hydrogen-bonded lattice is less dense than liquid water)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 1: ATOMIC STRUCTURE\n★★★★☆ HIGH PRIORITY | Avg ~3–4 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "HIGH",
+              "~3–4",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Particles in the atom: proton (mass 1, charge +1), neutron (mass 1, charge 0), electron (mass 1/1840, charge −1)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Isotopes: same number of protons, different number of neutrons → different mass/density but same chemistry"
+        },
+        {
+          "type": "paragraph",
+          "text": "Electronic sub-shells: s (max 2e⁻), p (max 6e⁻), d (max 10e⁻); order of filling: 1s 2s 2p 3s 3p 4s 3d"
+        },
+        {
+          "type": "paragraph",
+          "text": "Special configurations: Cr = [Ar]3d⁵4s¹; Cu = [Ar]3d¹⁰4s¹"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ionisation energy factors: nuclear charge ↑ → IE ↑; atomic radius ↑ → IE ↓; shielding ↑ → IE ↓; spin-pair repulsion → slight IE ↓ for paired electrons"
+        },
+        {
+          "type": "paragraph",
+          "text": "First IE trends: increases across Period 3 (with dips at Al and S); decreases down Group 1/2"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Ionisation energy trends are tested EVERY year — successive IEs prove electronic structure; dips in first IE across Period 3 reveal sub-shell filling (Na→Mg→Al: Al dips because 3p is higher energy than 3s)."
+            ],
+            [
+              "Electronic configuration to sub-shell level is always tested. Know the order: 1s, 2s, 2p, 3s, 3p, 3d, 4s — and remember 4s fills BEFORE 3d but empties FIRST when forming ions of transition metals."
+            ],
+            [
+              "The most tested definition: first ionisation energy = minimum energy to remove one mole of electrons from one mole of gaseous atoms in their ground state."
+            ],
+            [
+              "Atomic radius trends: decreases ACROSS a period (increasing nuclear charge, same shielding); increases DOWN a group (additional electron shell). Ionic radius: cations smaller than parent atom; anions larger."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Writing the electronic configuration of Cu as [Ar] 3d⁹ 4s². The correct configuration is [Ar] 3d¹⁰ 4s¹ — copper (and chromium) are exceptions where half-filled or fully filled d sub-shells provide extra stability."
+            ],
+            [
+              "COMMON ERROR: Confusing the trends in successive ionisation energies with the trends across Period 3. Successive IEs always increase for the SAME element. First IE may decrease between periods."
+            ],
+            [
+              "COMMON ERROR: Drawing the electrons in boxes notation with electrons PAIRED in different boxes before all boxes are singly filled. Hund's rule: fill each box with one electron FIRST before pairing (maximum spin multiplicity)."
+            ],
+            [
+              "COMMON ERROR: Stating that isotopes have different chemical properties. Isotopes have IDENTICAL chemical properties (same electron configuration) but different physical properties (different mass, density)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For successive ionisation energy MCQs: the element is in Group X if there is a sudden large jump between the Xth and (X+1)th ionisation energy. Practise reading these graphs quickly."
+            ],
+            [
+              "For electronic configuration MCQs: write out the full configuration first, then check if the element is Cu or Cr (special cases). For ions: remove electrons from the 4s sub-shell first (before 3d) for transition metal cations."
+            ],
+            [
+              "Atomic radius MCQs often disguise the trend by asking about 'which of the following ions/atoms is largest' — draw the periodic table position mentally before comparing."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 5: CHEMICAL ENERGETICS\n★★★★☆ HIGH PRIORITY | Avg ~3–4 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "HIGH",
+              "~3–4",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "ΔHf°: standard enthalpy of formation — enthalpy change when 1 mol of compound formed from elements in standard states; ΔHf° of any element = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "ΔHc°: standard enthalpy of combustion — enthalpy change when 1 mol of substance completely burns in O₂"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hess's law: ΔH is independent of pathway"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bond energies: all positive (endothermic to break); ΔHr = Σ(broken) − Σ(formed)"
+        },
+        {
+          "type": "paragraph",
+          "text": "q = mcΔT (joules); ΔH = −q/n (kJ mol⁻¹)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Activation energy: always positive; shown on enthalpy profile as energy barrier from reactants to transition state"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Hess's law calculations are tested as MCQs almost every year. The energy cycle method: ΔH_reaction = sum of ΔHf(products) − sum of ΔHf(reactants). For combustion cycles: ΔH_reaction = sum of ΔHc(reactants) − sum of ΔHc(products)."
+            ],
+            [
+              "Bond energy calculations: ΔHr = Σ(bonds broken) − Σ(bonds made). Bond breaking is always endothermic (energy IN, positive); bond making is always exothermic (energy OUT, negative)."
+            ],
+            [
+              "Enthalpy profile diagrams: exothermic reactions have products LOWER than reactants (ΔH negative); the activation energy is the energy difference from reactants to the transition state, NOT the overall ΔH."
+            ],
+            [
+              "Standard conditions: 298 K, 101 kPa, 1 mol dm⁻³ (for solutions), pure substances in their standard states. The symbol is ⦵."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "CRITICAL SIGN ERROR: Bond energy calculations use ΔHr = bonds broken − bonds made, NOT made minus broken. If you subtract the wrong way, every answer will have the wrong sign."
+            ],
+            [
+              "COMMON ERROR: Using ΔHf for a combustion cycle. ΔHf values are used when products/reactants can be connected through their elements. ΔHc values are used when all substances combust completely."
+            ],
+            [
+              "COMMON ERROR: Forgetting that ΔHf of any element in its standard state is ZERO by definition. This is a frequent MCQ trap."
+            ],
+            [
+              "COMMON ERROR: Equating activation energy with ΔH. The activation energy (EA) is always POSITIVE (energy needed to initiate reaction), regardless of whether the reaction is exo- or endothermic."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Hess's law MCQs: draw the energy cycle on your answer booklet or in the margin. Arrows flowing in the same direction = add ΔH values; arrows flowing opposite to your cycle direction = subtract (reverse the sign)."
+            ],
+            [
+              "For bond energy MCQs: list EVERY bond broken (from reactants) with its energy, then list EVERY bond made (in products). The number of bonds must match the balanced equation's stoichiometry exactly."
+            ],
+            [
+              "Calorimetry calculation: q = mcΔT gives the heat in joules (m in grams, c = 4.18 J g⁻¹ K⁻¹, ΔT in K or °C). Then ΔH (kJ mol⁻¹) = −q × (1000/1000) / n. The negative sign: if temperature RISES (exothermic), q is positive but ΔH is negative."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 7: EQUILIBRIA (INCLUDING ACIDS & BASES)\n★★★★☆ HIGH PRIORITY | Avg ~3–4 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "HIGH",
+              "~3–4",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dynamic equilibrium: forward rate = reverse rate; concentrations constant; requires closed system"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Chatelier: if change applied, equilibrium shifts to oppose the change"
+        },
+        {
+          "type": "paragraph",
+          "text": "Kc: only changes with temperature; catalyst/pressure/concentration changes do NOT affect Kc"
+        },
+        {
+          "type": "paragraph",
+          "text": "Strong acid: fully dissociated; pH = −log[H⁺]; Weak acid: partially dissociated; Ka = [H⁺]²/[HA]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Buffer: weak acid + salt; resists pH change; [H⁺] = Ka × [HA]/[A⁻]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Haber: N₂ + 3H₂ ⇌ 2NH₃; ΔH = −ve; compromise conditions: 450°C, 200 atm, Fe catalyst"
+        },
+        {
+          "type": "paragraph",
+          "text": "Contact: 2SO₂ + O₂ ⇌ 2SO₃; ΔH = −ve; conditions: 450°C, 1–2 atm, V₂O₅ catalyst"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Le Chatelier's principle MCQs appear every year. For each change, determine: (a) what stress is applied? (b) what does the system do to oppose it? Temperature increase → equilibrium shifts toward ENDOTHERMIC side (absorbs heat). Pressure increase → shifts toward FEWER moles of gas. Concentration increase of reactant → shifts to products."
+            ],
+            [
+              "Equilibrium constants: Kc = product of [products]ᵃ / product of [reactants]ᵇ. A catalyst does NOT change Kc or the equilibrium position — it only increases the rate of reaching equilibrium. Temperature is the ONLY factor that changes the value of Kc."
+            ],
+            [
+              "pH calculations: strong acid: pH = −log[H⁺] = −log[acid]. Weak acid: Ka = [H⁺]²/[HA] (if [H⁺] << [HA]); [H⁺] = √(Ka × [HA]); pH = −log[H⁺]. Strong base: pOH = −log[OH⁻]; pH = 14 − pOH."
+            ],
+            [
+              "Buffer solutions: contain weak acid + its conjugate base (or weak base + conjugate acid). Resist pH change by shifting equilibrium: added H⁺ is absorbed by A⁻; added OH⁻ is absorbed by HA."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Stating that a catalyst shifts the equilibrium position. A catalyst affects ONLY the rate — it does NOT change the equilibrium position or Kc."
+            ],
+            [
+              "COMMON ERROR: Incorrectly writing the Kc expression — including solids or pure liquids. Kc expressions EXCLUDE solids (e.g., CaCO₃(s)) and pure liquids (water in non-aqueous systems). Aqueous concentrations ARE included."
+            ],
+            [
+              "CALCULATION ERROR: Using [HA] for Ka calculation without checking if the approximation is valid. The approximation [H⁺] << [HA] is valid when Ka is small (weak acid). For stronger weak acids, you may need the quadratic — but Cambridge avoids quadratics at this level."
+            ],
+            [
+              "COMMON ERROR: Confusing the Haber process conditions with Le Chatelier predictions. The actual conditions (450°C, 200 atm, Fe catalyst) represent a COMPROMISE — lower temperature would shift equilibrium to products but too slow; higher pressure would give more product but is expensive and hazardous."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Le Chatelier MCQs: always apply the principle step-by-step: (1) what change is being made? (2) what does the system do to oppose this change? (3) which side does the equilibrium shift to? (4) what happens to Kc?"
+            ],
+            [
+              "For pH calculation MCQs: identify whether the acid is strong or weak. Strong → use [H⁺] = [acid]. Weak → use Ka expression → find [H⁺] → find pH. Always check units: Ka has units of mol dm⁻³ when [HA] is in mol dm⁻³."
+            ],
+            [
+              "Kc and Kp MCQs: write the balanced equation first. Then write Kc/Kp expression (reactants in denominator, products in numerator, raised to power = stoichiometric coefficient)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 16–18: HYDROXY COMPOUNDS, CARBONYL COMPOUNDS & CARBOXYLIC ACIDS\n★★★★☆ HIGH PRIORITY | Avg ~3 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "HIGH",
+              "~3",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Alcohol oxidation: 1° → aldehyde (distil) → carboxylic acid (reflux); 2° → ketone; 3° → no oxidation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tollens': Ag mirror with aldehydes only; Fehling's: brick-red ppt with aldehydes only; 2,4-DNPH: orange/yellow ppt with ALL carbonyl compounds"
+        },
+        {
+          "type": "paragraph",
+          "text": "Iodoform test: yellow CHI₃ precipitate with CH₃CO− OR CH₃CH(OH)− groups"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nucleophilic addition: CN⁻ attacks C=O → hydroxynitrile (nitrile group extends carbon chain by 1)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Esterification: acid + alcohol ⇌ ester + water; conc. H₂SO₄ catalyst; reversible"
+        },
+        {
+          "type": "paragraph",
+          "text": "Carboxylic acid reactions: with metals (H₂ gas), alkalis (salt + water), carbonates (CO₂ + water + salt), alcohols (ester), LiAlH₄ (primary alcohol)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Oxidation of alcohols: primary alcohols → aldehydes (distil off) or carboxylic acids (reflux); secondary alcohols → ketones; tertiary alcohols → cannot be oxidised under normal conditions. Reagent: acidified K₂Cr₂O₇ or acidified KMnO₄."
+            ],
+            [
+              "Distinguishing aldehydes from ketones: Tollens' reagent (ammoniacal AgNO₃) → silver mirror with aldehydes (NO reaction with ketones); Fehling's solution (blue → brick-red precipitate with aldehydes). Acidified KMnO₄/K₂Cr₂O₇: decolourises/turns green with aldehydes; ketones require much harsher conditions."
+            ],
+            [
+              "Nucleophilic addition of HCN to aldehydes/ketones: forms a hydroxynitrile. Mechanism: CN⁻ attacks carbonyl carbon (nucleophile); H⁺ then adds to oxygen. The product has a new chiral centre (for most substrates)."
+            ],
+            [
+              "Esterification: alcohol + carboxylic acid + concentrated H₂SO₄ (catalyst) + heat → ester + water. Reversible reaction — Kc favours products for simple ester formation but yield is often <100%."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Stating that Tollens' reagent gives a silver precipitate. It gives a silver MIRROR (deposited on glass walls). The silver mirror is the diagnostic test."
+            ],
+            [
+              "COMMON ERROR: Confusing the triiodomethane (iodoform) test. The test uses alkaline I₂ (not acidic I₂). Positive result (yellow ppt of CHI₃) for: CH₃CO− group (methyl ketones and acetaldehyde) AND CH₃CH(OH)− group (ethanol and secondary alcohols with methyl group adjacent to OH)."
+            ],
+            [
+              "COMMON ERROR: Omitting the catalyst when writing esterification. Concentrated H₂SO₄ is required — it is not optional. Without catalyst, reaction is extremely slow."
+            ],
+            [
+              "COMMON ERROR: Stating that tertiary alcohols cannot react at all. They cannot be OXIDISED under normal conditions, but they CAN react with HX, PCl₃, PCl₅, or SOCl₂ to form halogenoalkanes, and can be dehydrated."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For oxidation state MCQs involving alcohols: the carbon bearing the −OH group changes oxidation state. In going from alcohol → aldehyde → carboxylic acid, the oxidation state of that carbon increases each time."
+            ],
+            [
+              "For carbonyl compound identification MCQs: work through the tests systematically. 2,4-DNPH identifies a carbonyl compound (aldehyde OR ketone) → positive test = orange/yellow precipitate. Then Tollens'/Fehling's distinguishes between them."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 13–15: INTRODUCTION TO ORGANIC CHEMISTRY, HYDROCARBONS & HALOGEN COMPOUNDS\n★★★★★ CRITICAL | Avg ~4–5 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "CRITICAL",
+              "~4–5",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Free radical substitution: UV light → Cl• or Br• radical → initiation/propagation/termination — applies to ALKANES only"
+        },
+        {
+          "type": "paragraph",
+          "text": "Electrophilic addition: Br₂ (decolourises); HBr (Markovnikov product); H₂O/H₃PO₄ → alcohol; H₂/Ni/heat → alkane — applies to ALKENES"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nucleophilic substitution: NaOH(aq)/heat → alcohol; KCN/ethanol/heat → nitrile (+1 carbon); NH₃/ethanol/pressure → amine"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elimination: NaOH/ethanol/heat → alkene (same reagents as SN2 but ethanol solvent and heat → elimination preferred)"
+        },
+        {
+          "type": "paragraph",
+          "text": "SN1: tertiary, 2-step, carbocation intermediate, racemic product; SN2: primary, 1-step, backside attack, inversion"
+        },
+        {
+          "type": "paragraph",
+          "text": "C−X bond strength: C−F > C−Cl > C−Br > C−I; C−I is weakest → most reactive in substitution"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Mechanism types are heavily tested: free radical substitution (alkanes + UV light), electrophilic addition (alkenes + Br₂/HBr/H₂O/H₂SO₄), nucleophilic substitution SN1/SN2 (halogenoalkanes + NaOH/KCN/NH₃)."
+            ],
+            [
+              "Markovnikov's rule for electrophilic addition of HX to unsymmetrical alkenes: H adds to the carbon bearing MORE H atoms (because the more substituted carbocation is more stable). This gives the major product."
+            ],
+            [
+              "SN1 vs SN2: primary halogenoalkanes → SN2 (one step, bimolecular, inversion of configuration); tertiary halogenoalkanes → SN1 (two steps, carbocation intermediate, mixture of configurations); secondary → both."
+            ],
+            [
+              "Cracking of alkanes: thermal or catalytic cracking converts long-chain alkanes into shorter alkanes and alkenes. Catalytic cracking uses Al₂O₃ at lower temperatures and is more controlled."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "MECHANISM ERROR: Drawing a curly arrow from a bond to an atom (incorrect) rather than from an electron pair to a bond (correct). Curly arrows must start at a bond or a lone pair of electrons and point to where the electrons MOVE TO."
+            ],
+            [
+              "COMMON ERROR: Confusing free radical substitution (requires UV light, works on ALKANES) with electrophilic addition (works on ALKENES, no UV needed). These two mechanisms are a classic parallel-test MCQ — one of the most common distractor pairs."
+            ],
+            [
+              "COMMON ERROR: Stating that SN1 gives 100% retention of configuration. SN1 produces a planar carbocation intermediate which is attacked from BOTH sides → racemic mixture (50:50 optical isomers). SN2 gives INVERSION of configuration (Walden inversion)."
+            ],
+            [
+              "COMMON ERROR: Writing the product of free radical substitution as a single halogenoalkane. In reality, ALL positions are substituted to varying degrees, and multiple substitutions occur — a mixture of products is obtained."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For mechanism MCQs: identify the reagent and substrate type. Alkane + halogen + UV → free radical. Alkene + electrophile → electrophilic addition. Halogenoalkane + nucleophile → nucleophilic substitution."
+            ],
+            [
+              "For Markovnikov's rule MCQs: identify the carbon in the alkene that already has MORE H atoms. The H from HX adds there; X adds to the other carbon. Check which carbocation intermediate would be more stable (more alkyl groups = more stable)."
+            ],
+            [
+              "Reactivity of halogenoalkanes: C−I weakest bond → most reactive; C−F strongest bond → least reactive. Test with AgNO₃/ethanol: fastest precipitate for iodoalkane (pale yellow AgI)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 4: STATES OF MATTER\n★★★☆☆ MODERATE | Avg ~2 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "MODERATE",
+              "~2",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "pV = nRT: p in Pa, V in m³, n in mol, R = 8.31 J K⁻¹ mol⁻¹, T in K"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giant ionic: high m.p., brittle, conducts when molten or dissolved, examples: NaCl, MgO"
+        },
+        {
+          "type": "paragraph",
+          "text": "Simple molecular: low m.p., poor conductor, examples: I₂, CO₂, H₂O (l)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giant covalent: very high m.p., poor conductor (except graphite), examples: diamond, graphite, SiO₂"
+        },
+        {
+          "type": "paragraph",
+          "text": "Giant metallic: variable m.p., conducts as solid, malleable, examples: Cu, Fe"
+        },
+        {
+          "type": "paragraph",
+          "text": "Graphite: layered structure, van der Waals between layers, delocalised e⁻ within layers → conducts"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "The ideal gas equation pV = nRT is tested quantitatively in nearly every Paper 1. Know the units: p in Pa (not kPa), V in m³ (not dm³ or cm³), R = 8.31 J K⁻¹ mol⁻¹, T in Kelvin (not °C)."
+            ],
+            [
+              "Crystal structure types and their properties: giant ionic (NaCl type, conducts when molten/dissolved); simple molecular (I₂, low m.p., poor conductor); giant covalent (diamond, graphite, SiO₂ — very high m.p.); giant metallic (conducts as solid)."
+            ],
+            [
+              "Graphite vs diamond: both are giant covalent structures of carbon, but graphite conducts electricity (delocalised electrons in π system between layers) while diamond does not."
+            ],
+            [
+              "Real vs ideal gases: at high pressure and low temperature, real gases deviate from ideal behaviour (molecules have volume; intermolecular forces exist)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "CRITICAL UNIT ERROR: Using kPa instead of Pa, or cm³ instead of m³, or °C instead of K in the ideal gas equation. Always convert: p(Pa) = p(kPa) × 1000; V(m³) = V(dm³) / 1000 = V(cm³) / 10⁶; T(K) = T(°C) + 273."
+            ],
+            [
+              "COMMON ERROR: Stating graphite 'cannot conduct electricity because it has no free electrons'. Graphite HAS delocalised electrons (one per carbon atom, from unhybridised p orbitals) — this is what enables conductivity."
+            ],
+            [
+              "COMMON ERROR: Confusing buckyball C₆₀ (simple molecular — low melting point, poor conductor) with graphite/diamond (giant covalent — very high melting point)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For ideal gas calculations: write pV = nRT, then rearrange before substituting. Identify which quantity you are solving for (p, V, n, T or Mr) and substitute all others with correct units."
+            ],
+            [
+              "For crystal structure MCQs: match the given properties (m.p. range, conductivity, solubility) to the structure type using your comparison table. Very high m.p. + no conductivity = giant covalent. High m.p. + conducts when molten = giant ionic. Low m.p. + no conductivity = simple molecular."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 6: ELECTROCHEMISTRY (REDOX)\n★★★☆☆ MODERATE | Avg ~2–3 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "MODERATE",
+              "~2–3",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oxidation: loss of electrons / increase in oxidation number / gain of oxygen / loss of hydrogen"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reduction: gain of electrons / decrease in oxidation number / loss of oxygen / gain of hydrogen"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oxidising agent: accepts electrons (is itself reduced); Reducing agent: donates electrons (is itself oxidised)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cathode: reduction (CATIONS attracted); Anode: oxidation (ANIONS attracted)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oxidation number rules: F = −1 always; O = −2 (except peroxides = −1, OF₂ = +2); H = +1 (except metal hydrides = −1)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Faraday: Q = It; moles of electrons = Q/F where F = 96500 C mol⁻¹"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Oxidation number rules are tested frequently: O is usually −2 (except in peroxides: −1); H is usually +1 (except metal hydrides: −1); sum of oxidation numbers = charge on ion or species."
+            ],
+            [
+              "Disproportionation reactions: an element is simultaneously OXIDISED and REDUCED — it appears in two different oxidation states as products. Example: Cl₂ + NaOH → NaCl + NaOCl (Cl: 0 → −1 and 0 → +1)."
+            ],
+            [
+              "Electrolysis: at cathode (negative electrode), REDUCTION occurs (cations gain electrons); at anode (positive electrode), OXIDATION occurs (anions lose electrons). In dilute aqueous solution, H₂ discharged at cathode; O₂ at anode."
+            ],
+            [
+              "In concentrated brine: Cl₂ discharged at anode (instead of O₂) because of the high concentration of Cl⁻ ions."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "MEMORY ERROR: Confusing which electrode is positive/negative and which process occurs there. Use: An Ox Red Cat — ANOde = OXidation; REDuction = CAThode."
+            ],
+            [
+              "COMMON ERROR: Assigning oxidation number to oxygen in ALL compounds as −2. In hydrogen peroxide (H₂O₂) and peroxides, oxygen is −1. In OF₂, oxygen is +2 (F is always −1, the most electronegative element)."
+            ],
+            [
+              "COMMON ERROR: In electrolysis predictions, forgetting that the nature of the electrode matters — copper electrodes dissolve during electrolysis of copper sulfate (anode gives Cu²⁺ to solution)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For oxidation number MCQs: set up an algebraic equation. For SO₄²⁻: let S = x; 4(−2) + x = −2; x = +6. Always check the total charge matches the ionic charge."
+            ],
+            [
+              "For disproportionation MCQs: identify the element that appears in BOTH products with different oxidation numbers. Confirm it has increased in oxidation number in one product and decreased in the other."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 8: REACTION KINETICS\n★★★☆☆ MODERATE | Avg ~2 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "MODERATE",
+              "~2",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Activation energy (EA): minimum energy needed for a collision to be effective (to break bonds and form products)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Effective collision: sufficient energy (≥ EA) AND correct orientation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Boltzmann distribution: x-axis = kinetic energy; y-axis = number of molecules with that energy; area under curve = total molecules"
+        },
+        {
+          "type": "paragraph",
+          "text": "Temperature increase → peak shifts right, curve flattens → more molecules exceed EA → rate increases"
+        },
+        {
+          "type": "paragraph",
+          "text": "Catalyst: lowers EA → same Boltzmann curve, but more molecules exceed the new lower EA → rate increases"
+        },
+        {
+          "type": "paragraph",
+          "text": "Homogeneous catalyst: same phase as reactants (e.g., NO in atmospheric SO₂ oxidation); Heterogeneous catalyst: different phase (e.g., Fe in Haber process)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "The Boltzmann distribution is tested frequently — understanding its shape and how it shifts with temperature. Key points: the curve starts at zero (no molecules have zero energy), shows a peak (most probable energy), has a long tail to the right (molecules with very high energy), and the area under the curve beyond EA represents molecules that react."
+            ],
+            [
+              "Effect of temperature: increasing temperature increases the rate because (a) more molecules have energy ≥ EA (the key reason), and (b) collision frequency increases (a lesser effect)."
+            ],
+            [
+              "Catalysts provide an alternative reaction pathway of LOWER activation energy. On the Boltzmann distribution: a larger proportion of molecules now have energy ≥ EA(catalysed), so more effective collisions occur."
+            ],
+            [
+              "Rate of reaction factors: concentration (more molecules per unit volume → more frequent collisions), pressure (gases only), surface area (heterogeneous reactions), temperature, catalyst."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Stating that increasing temperature increases the rate because 'molecules move faster and collide more often'. This is partially true but the MAIN reason is that a greater proportion of molecules have energy ≥ EA. Cambridge specifically tests this distinction."
+            ],
+            [
+              "COMMON ERROR: Drawing the Boltzmann distribution with the curve touching or crossing the x-axis at the origin. The curve must START from the origin and APPROACH the x-axis asymptotically at high energies (it never returns to zero)."
+            ],
+            [
+              "COMMON ERROR: Stating that a catalyst is 'used up' in the reaction. A catalyst is regenerated — it lowers EA by providing an alternative pathway but is not consumed overall."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "Boltzmann distribution MCQs: (1) identify what change is being made (temperature, catalyst); (2) predict how the curve shape changes; (3) identify which option correctly represents the new distribution."
+            ],
+            [
+              "For temperature increase: the peak shifts RIGHT and DOWN (same total area under curve = same number of molecules); the tail extends further right; a greater proportion of molecules exceed EA."
+            ],
+            [
+              "For a catalyst: draw a SECOND vertical line at a lower EA — more molecules now exceed this line. The Boltzmann curve DOES NOT CHANGE (same temperature, same distribution); only the EA line moves."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 9: THE PERIODIC TABLE: CHEMICAL PERIODICITY\n★★★☆☆ MODERATE | Avg ~2 MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "MODERATE",
+              "~2",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Na₂O: basic; MgO: basic; Al₂O₃: amphoteric; SiO₂: weakly acidic; P₄O₁₀: acidic; SO₃: acidic"
+        },
+        {
+          "type": "paragraph",
+          "text": "NaCl/MgCl₂: dissolve → neutral/slightly acidic; AlCl₃: partial hydrolysis → acidic; SiCl₄/PCl₅: vigorous hydrolysis → acidic + HCl fumes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Across Period 3: atomic radius ↓; IE₁ generally ↑ (with exceptions); electronegativity ↑"
+        },
+        {
+          "type": "paragraph",
+          "text": "Melting point: Na→Mg→Al (metallic, increases with charge density) → Si (giant covalent, very high) → P,S,Cl,Ar (simple molecular, low)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Period 3 oxide properties are tested regularly: Na₂O/MgO = basic (react with acids); Al₂O₃ = amphoteric (reacts with both acids AND bases); SiO₂ = weakly acidic; P₄O₁₀/SO₃ = acidic (react with water to give acidic solutions)."
+            ],
+            [
+              "Period 3 chloride hydrolysis: NaCl/MgCl₂ = ionic, dissolve in water giving neutral/slightly acidic solutions; AlCl₃ = partial hydrolysis, acidic solution; SiCl₄/PCl₅ = complete vigorous hydrolysis, giving acidic solutions (HCl fumes)."
+            ],
+            [
+              "Trends in properties across Period 3: atomic radius decreases; ionisation energy generally increases; melting point peaks at silicon (giant covalent) then drops dramatically; electrical conductivity: metals at left, zero at right except graphite analogy."
+            ],
+            [
+              "Predicting properties of unknown elements from periodic trends is a classic AO2 MCQ type."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Stating that all Period 3 chlorides hydrolyse completely. NaCl and MgCl₂ do NOT hydrolyse — they simply dissolve. Only AlCl₃, SiCl₄, and PCl₅ hydrolyse (AlCl₃ partially, SiCl₄ and PCl₅ completely)."
+            ],
+            [
+              "COMMON ERROR: Forgetting that Al₂O₃ is AMPHOTERIC — it reacts with BOTH acids AND bases. This is frequently tested and frequently missed."
+            ],
+            [
+              "COMMON ERROR: Applying the general 'melting point decreases down the group' trend to Period 3 without accounting for the change in bonding type from metallic → giant covalent → simple molecular."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Period 3 oxide/chloride MCQs: mentally walk across the period and identify: is the element a metal or non-metal? Is its oxide basic, amphoteric, or acidic? Is its chloride ionic or covalent? Does it hydrolyse?"
+            ],
+            [
+              "A systematic approach: Na (metal, ionic oxide, NaCl dissolves neutrally) → Mg (metal, basic oxide, MgCl₂ slightly acidic) → Al (metal, amphoteric oxide, AlCl₃ acidic hydrolysis) → Si (metalloid, acidic oxide, SiCl₄ vigorous hydrolysis) → P,S (non-metal, acidic oxides, complete hydrolysis)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 10–12: GROUP 2, GROUP 17 & NITROGEN/SULFUR\n★★☆☆☆ LOWER PRIORITY | Avg ~3–4 total MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "LOWER",
+              "~3–4 total",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Group 2 hydroxide solubility: Mg(OH)₂ insoluble → Ca(OH)₂ slightly → Ba(OH)₂ soluble"
+        },
+        {
+          "type": "paragraph",
+          "text": "Group 2 sulfate solubility: MgSO₄ soluble → CaSO₄ slightly → BaSO₄ insoluble"
+        },
+        {
+          "type": "paragraph",
+          "text": "Halogen displacement: Cl₂ displaces Br⁻ and I⁻; Br₂ displaces I⁻ only"
+        },
+        {
+          "type": "paragraph",
+          "text": "Halide/AgNO₃ tests: Cl⁻ = white AgCl (dilute NH₃ dissolves); Br⁻ = cream AgBr (conc NH₃); I⁻ = pale yellow AgI (NH₃ insoluble)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Disproportionation of Cl₂: cold NaOH → NaCl + NaOCl; hot NaOH → NaCl + NaClO₃"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ammonia: weak base; basicity from lone pair on N; forms NH₄⁺ salts with acids"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Group 2 trends: reactivity INCREASES down the group (Mg < Ca < Sr < Ba); ionisation energy decreases; atomic radius increases. Reactions with water become more vigorous from Mg to Ba."
+            ],
+            [
+              "Group 17 (halogens): oxidising power decreases down the group (F₂ > Cl₂ > Br₂ > I₂). Cl₂ displaces Br₂ from bromide solution (halogen displacement); Br₂ displaces I₂ but NOT Cl₂. This is a classic MCQ identification test."
+            ],
+            [
+              "Halide ion tests with AgNO₃: Cl⁻ → white precipitate (AgCl, dissolves in dilute NH₃); Br⁻ → cream precipitate (AgBr, dissolves in concentrated NH₃); I⁻ → pale yellow precipitate (AgI, insoluble in NH₃)."
+            ],
+            [
+              "Chlorine water treatment: Cl₂ + H₂O → HCl + HOCl; HOCl kills bacteria (active species). Cl₂ with NaOH(cold): Cl₂ + 2NaOH → NaCl + NaOCl + H₂O (disproportionation)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Confusing the order of precipitate colours in halide tests. Remember: Cl = White; Br = Cream; I = Yellow (alphabetical order for both halide AND precipitate colour)."
+            ],
+            [
+              "COMMON ERROR: Stating that Group 2 hydroxides become MORE soluble down the group. BOTH Group 2 hydroxides AND sulfates have different trends: hydroxides become MORE soluble (Mg(OH)₂ insoluble → Ba(OH)₂ soluble); sulfates become LESS soluble (MgSO₄ soluble → BaSO₄ insoluble)."
+            ],
+            [
+              "COMMON ERROR: Stating that concentrated H₂SO₄ reacts identically with all three halide ions. HCl is produced from NaCl + H₂SO₄ only (non-oxidising conditions); with NaBr, HBr is oxidised to Br₂; with NaI, HI is oxidised further to I₂ and H₂S."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For halogen reactivity MCQs: halogen higher in the group displaces halide ions of halogens lower in the group. Cl₂ > Br₂ > I₂ in oxidising power."
+            ],
+            [
+              "Group 2 solubility: hydroxides (MORE soluble down group); sulfates (LESS soluble down group). This pattern is reversed between the two types — a common exam trap."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 19–22: NITROGEN COMPOUNDS, POLYMERISATION, ORGANIC SYNTHESIS & ANALYTICAL TECHNIQUES\n★★★☆☆ MODERATE | Avg ~3–4 total MCQs per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority Rating",
+              "Average MCQs per Paper",
+              "Main Assessment Objective"
+            ],
+            [
+              "MODERATE",
+              "~3–4 total",
+              "Mainly AO1 recall with AO2 application"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Common MCQ Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Addition polymer: requires C=C; no atoms lost; not biodegradable; examples: poly(ethene), PVC"
+        },
+        {
+          "type": "paragraph",
+          "text": "Condensation polymer: two functional groups required; H₂O or HCl lost; polyesters and polyamides are hydrolysable (degradable)"
+        },
+        {
+          "type": "paragraph",
+          "text": "IR key absorptions (memorise ranges from data sheet): O−H, C=O, N−H, C≡N, C−H"
+        },
+        {
+          "type": "paragraph",
+          "text": "MS: M⁺ peak = Mr; [M+2] 1:1 ratio = bromine; [M+2] 3:1 ratio (M:M+2) = chlorine; [M+1] used to count carbon atoms"
+        },
+        {
+          "type": "paragraph",
+          "text": "Primary amine: made from halogenoalkane + NH₃; basic due to lone pair on N"
+        },
+        {
+          "type": "paragraph",
+          "text": "Nitrile: made from halogenoalkane + KCN; hydrolysis → carboxylic acid; reduction → primary amine"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Addition polymerisation: alkene monomers with C=C bond join to form poly(alkene); the C=C breaks and forms new C−C bonds. The repeat unit has NO double bond. Examples: poly(ethene), poly(chloroethene) PVC, poly(propene)."
+            ],
+            [
+              "Condensation polymerisation: monomers with two functional groups react, losing a small molecule (H₂O or HCl) each time. Polyesters (diol + dicarboxylic acid); polyamides (diamine + dicarboxylic acid). Examples: Terylene (polyester), Nylon-6,6 (polyamide)."
+            ],
+            [
+              "Infrared spectroscopy (IR): key absorptions to memorise: O−H broad (2500–3000 or 3200–3650 cm⁻¹); C=O (1670–1750 cm⁻¹); N−H (3300–3500 cm⁻¹); C≡N (2200–2250 cm⁻¹). Alcohols, acids, carbonyls all have characteristic absorptions."
+            ],
+            [
+              "Mass spectrometry (MS): the molecular ion peak (M⁺) gives the Mr. Fragmentation patterns help identify the structure. The [M+2] peak with approximately 1:1 ratio indicates chlorine (Cl³⁵:Cl³⁷ = 3:1 in nature); the [M+2] peak with approximately 1:1 ratio indicates bromine."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Drawing the repeat unit of an addition polymer WITH a double bond. The C=C is BROKEN during polymerisation — the repeat unit must show only C−C single bonds with appropriate substituents."
+            ],
+            [
+              "COMMON ERROR: Confusing the lost molecule in condensation polymerisation. Polyesters lose H₂O (from the OH of the diol and the COOH of the acid); polyamides lose H₂O (from NH₂ and COOH). If an acyl chloride is used instead, HCl is lost (not H₂O)."
+            ],
+            [
+              "COMMON ERROR: Using wavenumber numbers from memory incorrectly. Always use the data sheet for IR absorptions. The most commonly confused are: O−H in alcohol (narrow, ~3200–3650) vs O−H in carboxylic acid (very broad, ~2500–3000)."
+            ],
+            [
+              "COMMON ERROR: Reading the [M+1] peak incorrectly. The [M+1] peak is used to determine the number of carbon atoms: n = 100 × (M+1 abundance) / (1.1 × M+ abundance)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For polymer type MCQs: if the monomer has a C=C double bond only → addition polymerisation. If the monomer has two functional groups (or two different monomers each with one functional group) → condensation polymerisation."
+            ],
+            [
+              "For IR MCQs: read the wavenumber given in the question, then match to the data sheet ranges. A strong broad absorption around 2500–3000 cm⁻¹ with a C=O peak is a carboxylic acid. A broad absorption around 3200–3650 cm⁻¹ without a C=O peak is an alcohol."
+            ],
+            [
+              "For MS MCQs: the molecular ion peak gives the Mr directly. Fragmentation peaks tell you what bonds are breaking. A peak at (Mr − 15) indicates loss of a CH₃ group; (Mr − 17) = loss of OH; (Mr − 29) = loss of CHO."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "worked-examples",
+      "title": "SECTION 7: WORKED MCQ EXAMPLES — ALL TOPICS",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to Use These Examples"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each worked example below shows the complete MCQ decision process: reading the stem, predicting the answer, evaluating each option, and identifying the distractor traps. Work through these examples as if you are in the exam. Cover the analysis and try to identify the correct answer and the reason each distractor is wrong before reading the explanation."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 2: Stoichiometry"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "Calcium carbonate reacts with dilute hydrochloric acid according to: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. What volume of CO₂ (in cm³) is produced when 1.50 g of CaCO₃ reacts completely with excess HCl at room temperature and pressure?"
+            ],
+            [
+              "A 336 cm³"
+            ],
+            [
+              "B 168 cm³"
+            ],
+            [
+              "C 672 cm³"
+            ],
+            [
+              "D 1680 cm³"
+            ],
+            [
+              ""
+            ],
+            [
+              "SOLUTION: Mr(CaCO₃) = 40.1 + 12.0 + 3(16.0) = 100.1 g mol⁻¹. n(CaCO₃) = 1.50/100 = 0.0150 mol. From equation: 1 mol CaCO₃ → 1 mol CO₂. So n(CO₂) = 0.0150 mol. V(CO₂) = 0.0150 × 24000 = 360 cm³. Wait — let me re-check: closest answer is A = 336 cm³... using Vm = 22400 cm³/mol: 0.0150 × 22400 = 336 cm³ (using s.t.p. value). At r.t.p.: 0.0150 × 24000 = 360 cm³ (not given). ANSWER: A (using s.t.p.) or 360 cm³ at r.t.p. Cambridge would specify. CRITICAL LESSON: Always check whether r.t.p. (24 dm³) or s.t.p. (22.4 dm³) is specified. Distractor B = half the correct volume (error: used n=0.0075). Distractor C = doubled. Distractor D = used Mr=10 error."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 3: Chemical Bonding"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "Which of the following molecules has the largest bond angle?"
+            ],
+            [
+              "A NH₃"
+            ],
+            [
+              "B H₂O"
+            ],
+            [
+              "C BF₃ ✓ CORRECT"
+            ],
+            [
+              "D CH₄"
+            ],
+            [
+              ""
+            ],
+            [
+              "SOLUTION: NH₃ = pyramidal, 107° (3 bonding pairs + 1 lone pair); H₂O = V-shaped, 104.5° (2 bonding pairs + 2 lone pairs); BF₃ = trigonal planar, 120° (3 bonding pairs, 0 lone pairs — boron is electron deficient); CH₄ = tetrahedral, 109.5° (4 bonding pairs, 0 lone pairs). RANKING: BF₃ (120°) > CH₄ (109.5°) > NH₃ (107°) > H₂O (104.5°). ANSWER: C (BF₃, 120°). DISTRACTOR TRAP: Students often select CH₄ because tetrahedral shape is familiar — but BF₃ is trigonal planar with NO lone pairs and 120° bond angles, which is LARGER than tetrahedral."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 5: Chemical Energetics"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "Use the following standard enthalpies of combustion to calculate the standard enthalpy of formation of propane, C₃H₈: ΔHc°(C) = −394 kJ mol⁻¹; ΔHc°(H₂) = −286 kJ mol⁻¹; ΔHc°(C₃H₈) = −2220 kJ mol⁻¹."
+            ],
+            [
+              "A −104 kJ mol⁻¹ ✓ CORRECT"
+            ],
+            [
+              "B +104 kJ mol⁻¹"
+            ],
+            [
+              "C −1326 kJ mol⁻¹"
+            ],
+            [
+              "D +2220 kJ mol⁻¹"
+            ],
+            [
+              ""
+            ],
+            [
+              "SOLUTION: Formation equation: 3C(s) + 4H₂(g) → C₃H₈(g). Hess's law cycle using combustion data: ΔHf°(C₃H₈) = [3 × ΔHc°(C) + 4 × ΔHc°(H₂)] − ΔHc°(C₃H₈). = [3(−394) + 4(−286)] − (−2220). = [−1182 + (−1144)] − (−2220). = −2326 + 2220 = −106 kJ mol⁻¹ ≈ −104 kJ mol⁻¹ (rounding). ANSWER: A. DISTRACTOR TRAP: B has the correct magnitude but wrong sign (forgot the negative sign convention). C is just ΔHc°(C) + ΔHc°(H₂) added directly (forgot stoichiometry). D is just ΔHc°(C₃H₈) without the cycle."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 7: Equilibria"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "The equilibrium N₂(g) + 3H₂(g) ⇌ 2NH₃(g); ΔH = −92 kJ mol⁻¹. Which change increases the yield of ammonia?"
+            ],
+            [
+              "A Increasing the temperature"
+            ],
+            [
+              "B Decreasing the pressure"
+            ],
+            [
+              "C Adding a catalyst"
+            ],
+            [
+              "D Increasing the pressure ✓ CORRECT"
+            ],
+            [
+              ""
+            ],
+            [
+              "SOLUTION: Apply Le Chatelier's principle to each option: A: Temperature increase → equilibrium shifts to ENDOTHERMIC side (reverse reaction) → DECREASES yield. WRONG. B: Pressure decrease → equilibrium shifts to the side with MORE moles of gas (left side: 1+3=4 moles vs right side: 2 moles) → DECREASES yield. WRONG. C: Catalyst → increases RATE only, does NOT change equilibrium position or yield. WRONG. D: Pressure increase → equilibrium shifts to FEWER moles of gas (right side: 2 moles < 4 moles on left) → INCREASES yield of NH₃. CORRECT. ANSWER: D. COMMON TRAP: Selecting 'catalyst' because it makes the reaction faster — but faster ≠ higher yield."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 3: Intermolecular Forces"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "Which of the following substances has the highest boiling point?"
+            ],
+            [
+              "A CH₄"
+            ],
+            [
+              "B NH₃"
+            ],
+            [
+              "C H₂O ✓ CORRECT"
+            ],
+            [
+              "D HF"
+            ],
+            [
+              ""
+            ],
+            [
+              "SOLUTION: Compare intermolecular forces: CH₄ = London dispersion (id-id) only, very weak (Mr = 16), bp = −161°C. NH₃ = hydrogen bonding (N-H bonds) + id-id, bp = −33°C. HF = hydrogen bonding (F-H bonds) + id-id, bp = +20°C. H₂O = hydrogen bonding (O-H bonds) + id-id, bp = +100°C. ANSWER: C (H₂O). WHY H₂O > HF? Water can form MORE hydrogen bonds per molecule (each water molecule can form 4 H-bonds: 2 as donor via O-H, 2 as acceptor via lone pairs on O). HF can only form 2 H-bonds per molecule (1 donor H-F, and only 1 strong acceptor due to the high electronegativity). CRITICAL INSIGHT: Cambridge frequently uses this comparison — students who simply rank by electronegativity (F > O > N) would incorrectly predict HF has the highest boiling point."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 14: Organic — Alkenes"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "Propene reacts with hydrogen bromide gas. Which of the following is the major organic product?"
+            ],
+            [
+              "A 1-bromopropane"
+            ],
+            [
+              "B 2-bromopropane ✓ CORRECT"
+            ],
+            [
+              "C 1,2-dibromopropane"
+            ],
+            [
+              "D propan-2-ol"
+            ],
+            [
+              ""
+            ],
+            [
+              "SOLUTION: Propene (CH₃CH=CH₂) undergoes electrophilic addition with HBr. Markovnikov's rule: H adds to the carbon with MORE hydrogen atoms (C-1 of propene, which has 2 H atoms) and Br adds to the carbon with FEWER hydrogen atoms (C-2, which has 1 H atom). This gives 2-bromopropane (CH₃CHBrCH₃) as the major product. WHY: The carbocation intermediate at C-2 (secondary carbocation: CH₃⁺CHCH₃) is more stable than at C-1 (primary carbocation: ⁺CH₂CH₂CH₃). DISTRACTORS: A (1-bromopropane) = anti-Markovnikov product, minor product. C (1,2-dibromopropane) = product of Br₂ addition, not HBr. D (propan-2-ol) = product of H₂O addition (steam, H₃PO₄ catalyst), not HBr."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 1: Atomic Structure — Successive Ionisation Energies"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "The successive ionisation energies (in kJ mol⁻¹) of an element X are: 1st: 578; 2nd: 1820; 3rd: 2750; 4th: 11600; 5th: 14800. In which group of the Periodic Table is element X?"
+            ],
+            [
+              "A Group 1"
+            ],
+            [
+              "B Group 2"
+            ],
+            [
+              "C Group 3 ✓ CORRECT"
+            ],
+            [
+              "D Group 4"
+            ],
+            [
+              ""
+            ],
+            [
+              "SOLUTION: Look for the LARGE JUMP in successive ionisation energies — this jump occurs when ALL outer shell electrons have been removed and the next electron must be removed from an inner shell (much higher energy). The jump occurs between the 3rd IE (2750 kJ mol⁻¹) and the 4th IE (11600 kJ mol⁻¹) — a factor of more than 4 increase. This means the 3rd electron is the LAST outer shell electron, so X has 3 electrons in its outer shell → Group 3. ANSWER: C. The element is aluminium (Al): 1s² 2s² 2p⁶ 3s² 3p¹. Note: 3s² and 3p¹ give 3 outer electrons. After removing all 3, the 4th must come from the 2p sub-shell (much harder)."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 15: Halogenoalkanes — Mechanism"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "2-bromo-2-methylpropane reacts with aqueous NaOH. Which mechanism is followed and what is the product?"
+            ],
+            [
+              "A SN2 mechanism; 2-methyl-2-propanol"
+            ],
+            [
+              "B SN1 mechanism; 2-methyl-2-propanol ✓ CORRECT"
+            ],
+            [
+              "C SN2 mechanism; 2-methylpropene"
+            ],
+            [
+              "D SN1 mechanism; 2-methylpropene"
+            ],
+            [
+              ""
+            ],
+            [
+              "SOLUTION: 2-bromo-2-methylpropane is a TERTIARY halogenoalkane — tertiary halogenoalkanes react via the SN1 mechanism (two-step: first ionisation to form a stable tertiary carbocation; then attack by the nucleophile). The reagent is NaOH(aq) — an aqueous nucleophile (OH⁻). Aqueous NaOH favours SUBSTITUTION → product is the tertiary alcohol 2-methyl-2-propanol. ANSWER: B. NOTE: If the reagent were NaOH in ethanol (ethanolic NaOH) and the reaction were heated, ELIMINATION would be favoured, giving 2-methylpropene. The solvent determines which pathway dominates. This is a classic Cambridge trap — students who confuse aqueous vs ethanolic NaOH will select D."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 22: Analytical — Infrared Spectroscopy"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🧪 WORKED MCQ EXAMPLE"
+            ],
+            [
+              "An organic compound with molecular formula C₂H₄O₂ shows a broad absorption in the infrared spectrum at 2500–3000 cm⁻¹ and a strong absorption at 1710–1720 cm⁻¹. Which compound is most likely?"
+            ],
+            [
+              "A Methyl methanoate (HCOOCH₃)"
+            ],
+            [
+              "B Ethane-1,2-diol (HOCH₂CH₂OH)"
+            ],
+            [
+              "C Ethanoic acid (CH₃COOH) ✓ CORRECT"
+            ],
+            [
+              "D Glycolaldehyde (HOCH₂CHO)"
+            ],
+            [
+              ""
+            ],
+            [
+              "SOLUTION: Key absorptions: broad 2500–3000 cm⁻¹ = O−H of a CARBOXYLIC ACID (very broad, distinctive). Strong 1710–1720 cm⁻¹ = C=O of a carbonyl group. Together, these indicate a CARBOXYLIC ACID. C₂H₄O₂ with carboxylic acid → ethanoic acid (CH₃COOH). DISTRACTORS: A (methyl methanoate) is an ester — would show C=O ~1740 cm⁻¹ (ester, not acid) and NO broad O−H. B (ethane-1,2-diol) would show broad O−H at 3200–3650 cm⁻¹ (alcohol, not acid) and NO C=O peak. D (glycolaldehyde) would show alcohol O−H and aldehyde C=O (~1720 cm⁻¹) — but the broad acid O−H at 2500–3000 cm⁻¹ is distinctive and not present in an alcohol. CRITICAL: Carboxylic acid O−H absorption is at 2500–3000 cm⁻¹ (very broad); alcohol O−H is at 3200–3650 cm⁻¹ — these positions are deliberately tested in Cambridge MCQs."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "predicted-topics",
+      "title": "SECTION 8: PREDICTED TOPICS FOR NEXT SESSION",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Prediction Methodology for Paper 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "These predictions are based on: (1) analysis of 8 years of Paper 1 topic frequency; (2) identification of concepts that have been absent or under-represented in the most recent 2 years; (3) Cambridge's documented shift toward more AO2 application and calculation MCQs; and (4) examiner report commentary on student performance. These predictions represent the most statistically likely topics — they are not guarantees but represent well-evidenced probability assessments."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Cambridge's most consistent Paper 1 pattern: topics tested heavily one year tend to rotate sub-topics the following year, but the OVERALL topic area remains consistently represented. Stoichiometry, bonding, and organic chemistry have appeared in every variant of every year from 2018–2025."
+            ],
+            [
+              "The most significant trend 2022–2025: increasing data-based and calculation MCQs. Students must be comfortable with 10–12 calculation questions under time pressure."
+            ],
+            [
+              "Examiner reports 2022–2025 consistently note: students lose most marks on (1) mole calculation unit errors; (2) incorrect application of Le Chatelier's principle to catalysts; (3) confusion between mechanism types (free radical vs electrophilic addition); (4) sign errors in enthalpy calculations."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔮 PREDICTION"
+            ],
+            [
+              "PREDICTION 1 — Moles + Limiting Reagent Calculation (VERY HIGH CONFIDENCE): A multi-step stoichiometry calculation will involve identifying the limiting reagent, then calculating the maximum yield. Given that 'simple' mole calculations have dominated recent papers, expect a more complex calculation integrating percentage yield or atom economy. Practise identifying the limiting reagent step and applying it systematically."
+            ],
+            [
+              "PREDICTION 2 — Electronic Configuration with Ionic Configuration (HIGH CONFIDENCE): A question asking for the electronic configuration of a TRANSITION METAL ION — specifically removing electrons from 4s BEFORE 3d. Example: Fe³⁺ = [Ar]3d⁵ (not [Ar]3d³4s²). This error appears in examiner reports every year as a 'persistent widespread misconception'. The MCQ will likely offer [Ar]3d³4s² as a distractor."
+            ],
+            [
+              "PREDICTION 3 — Nucleophilic Addition Mechanism (HIGH CONFIDENCE): A mechanism question on the reaction of HCN with a named aldehyde or ketone. Students must identify the nucleophile (CN⁻), the site of attack (carbonyl carbon), and the product (hydroxynitrile). The distractor will likely show attack at the oxygen atom or use HCN as the nucleophile instead of CN⁻."
+            ],
+            [
+              "PREDICTION 4 — pH Calculation for Weak Acid or Buffer (HIGH CONFIDENCE): A multi-step calculation: given Ka and initial concentration → calculate [H⁺] → calculate pH. OR given a buffer: calculate [H⁺] from Ka × [HA]/[A⁻]. The distractor options will represent errors: using [H⁺] = Ka directly (forgetting to take the square root for a weak acid); using [HA] after dissociation instead of initial concentration."
+            ],
+            [
+              "PREDICTION 5 — Polymer Identification from Repeat Unit (MODERATE CONFIDENCE): Given the structure of a polymer repeat unit, identify: (a) the type of polymerisation; (b) the monomer(s). The ester or amide linkage in the repeat unit identifies condensation polymerisation. The distractor will offer the wrong monomer structure or misidentify the link as an ether rather than an ester."
+            ],
+            [
+              "PREDICTION 6 — Enthalpy of Solution / Born-Haber Revisit (MODERATE CONFIDENCE): An energy cycle calculation connecting ΔHlattice, ΔHhydration, and ΔHsolution — with missing values to calculate. This sub-topic appeared infrequently in 2022–2024 and is statistically overdue."
+            ],
+            [
+              "PREDICTION 7 — Halogen Reactivity / Displacement Reaction (MODERATE CONFIDENCE): Given the result of mixing halogen solution X with halide ion Y, deduce the relative oxidising powers and write the ionic equation. Example: bromine water + potassium iodide → iodine produced. Classic distractor: selecting that the reaction occurs when Br₂ is added to Cl⁻ (it does NOT — Cl₂ is a stronger oxidising agent than Br₂)."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Medium-Confidence Predictions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Predicted Concept",
+              "Likely MCQ Format",
+              "Confidence"
+            ],
+            [
+              "VSEPR shape of a sulfur/phosphorus compound",
+              "Identify the correct shape/bond angle for SO₂, SO₃, PCl₃, SF₄ — all with lone pairs",
+              "★★★★★"
+            ],
+            [
+              "Optical isomerism / chiral centre identification",
+              "Given a structural formula, identify which carbon is the chiral centre and whether the compound is optically active",
+              "★★★★☆"
+            ],
+            [
+              "Infrared spectrum of a named organic compound",
+              "Match IR absorption(s) to the functional group(s) present; identify the compound class",
+              "★★★★☆"
+            ],
+            [
+              "Degree of dissociation calculation",
+              "Given % dissociation and initial concentration → calculate Ka or [H⁺] or pH",
+              "★★★★☆"
+            ],
+            [
+              "Boltzmann distribution + catalyst effect",
+              "Two-curve Boltzmann graph — one without catalyst, one with — select the correct representation",
+              "★★★★☆"
+            ],
+            [
+              "Condensation polymer identification from monomers",
+              "Given two monomers → predict polymer type, identify bond formed, write repeat unit",
+              "★★★☆☆"
+            ],
+            [
+              "Group 2 trend predictions",
+              "Given Group 2 data, predict property for an unknown Group 2 element by extrapolation",
+              "★★★☆☆"
+            ],
+            [
+              "Electrolysis product identification",
+              "Given concentration and nature of electrolyte, identify product discharged at each electrode",
+              "★★★☆☆"
+            ],
+            [
+              "Mass spectrometry fragmentation",
+              "Given fragmentation pattern, identify structural features (e.g., loss of CH₃ or CHO or Cl)",
+              "★★★☆☆"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "revision-plan",
+      "title": "SECTION 9: 4-WEEK REVISION PLAN",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to Revise for Paper 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 1 revision requires PRECISION — not just broad familiarity. Every MCQ tests whether you know the EXACT definition, EXACT bond type, EXACT formula, EXACT sign, or EXACT mechanism. Students who 'vaguely remember' topics consistently fall for distractors. This plan builds mastery through spaced repetition, active recall, and timed practice under exam conditions."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "The most effective Paper 1 revision activity is timed past paper MCQ practice with immediate detailed self-analysis: for each wrong answer, identify WHICH distractor you chose and WHY it seemed correct. Fix that specific gap."
+            ],
+            [
+              "Flashcard recall is highly effective for Paper 1 chemistry: precise definitions, comparison tables (ionic vs covalent vs metallic), mechanism types, reaction reagents and conditions — all are perfect flashcard material."
+            ],
+            [
+              "Calculation fluency requires practice: aim to solve a mole calculation, enthalpy calculation, and pH calculation every day during revision. Speed and accuracy under time pressure are skills that must be built."
+            ],
+            [
+              "Colour-code your revision: GREEN = confident. AMBER = needs review. RED = must master. Review your RED cards daily and your AMBER cards every 2 days."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 1: Foundation — Critical Topics (2, 3, 13–15)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Topic 2: Write the 3 mole formulae from memory. Practise 10 mole calculation MCQs with timing (target: 90 sec each). Focus: unit conversions (cm³→dm³, °C→K).",
+              "Topic 2: Empirical formula: practise 6 examples from % composition. Limiting reagent: 5 examples. Atom economy: 4 examples. Work through solutions carefully.",
+              "Flashcards × 20: mole formulae, unit conversions, all definitions from Topic 2."
+            ],
+            [
+              "Tue",
+              "Topic 3: Bonding types — write a complete comparison table (ionic/covalent/metallic) from memory: structure, melting point, conductivity, examples.",
+              "Topic 3: VSEPR shapes — draw and label all 7 shapes with bond angles from memory. Include lone pair examples. Practise on 6 different molecular formulae.",
+              "MCQ drill × 15: Topic 3 bonding MCQs from 2019–2020 past papers. Mark and analyse every error using distractor type classification."
+            ],
+            [
+              "Wed",
+              "Topic 13: Organic naming — IUPAC nomenclature for all functional groups in AS syllabus. Draw displayed formulas from names and names from structures.",
+              "Topics 14–15: Mechanisms — write out all 3 main mechanisms: free radical substitution (steps), electrophilic addition (curly arrows), nucleophilic substitution (SN1 and SN2).",
+              "Flashcards × 20: reaction types, reagents and conditions, mechanism names. Actively recall each WITHOUT looking at notes."
+            ],
+            [
+              "Thu",
+              "MCQ Practice Set 1 (25 questions from Topics 2, 3, 13–15 mixed). Timed: 44 minutes. Work under exam conditions.",
+              "Full analysis of Practice Set 1: for every wrong answer, classify the distractor type, identify the knowledge gap, and write a correction card.",
+              "Fix specific gaps: targeted reading of the 3 concepts you missed most often."
+            ],
+            [
+              "Fri",
+              "Calculation blitz: 15 mole/stoichiometry calculations — timed at 90 seconds each. Include percentage yield, limiting reagent, and ideal gas calculations.",
+              "Mechanism drawing practice: draw 5 complete electrophilic addition mechanisms (bromine + different alkenes) and 5 nucleophilic substitution mechanisms from scratch.",
+              "Active recall: close book. Write from memory the major product and mechanism for: propene + HBr; bromoethane + KCN; 2-bromopropane + NaOH(aq)."
+            ],
+            [
+              "Sat",
+              "Full timed Paper 1: 2018 Paper 1 (40 questions, 75 minutes, strict exam conditions — HB pencil, no notes).",
+              "Self-mark. Record score. Categorise every error: wrong recall / distractor trap / calculation error / unit error / sign error.",
+              "Read Section 6 entries for your weakest topics in this guide. Focus on the 'Avoid This Error' boxes."
+            ],
+            [
+              "Sun",
+              "REST — light review of comparison tables and flashcards only (max 30 min).",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 2: Foundation — High Priority Topics (1, 5, 7, 16–18)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Topic 1: Electronic configurations — write the full and shorthand configs for elements Na to Zn from memory. Special cases: Cr and Cu. Ions: Fe²⁺, Fe³⁺, Cu²⁺, Mn²⁺.",
+              "Topic 1: Successive ionisation energies — draw and interpret graphs. Practise identifying the group of an element from the position of the large jump. 8 examples.",
+              "Flashcards × 20: Topic 1 definitions (ionisation energy, atomic radius, shielding, electron affinity). Drill until instant recall."
+            ],
+            [
+              "Tue",
+              "Topic 5: Hess's law — draw 5 complete energy cycles (both formation and combustion type) and calculate ΔH. Show all working. Check signs carefully.",
+              "Topic 5: Bond energy calculations — 6 examples from different reaction types. Practise listing ALL bonds broken (from reactants) and ALL bonds made (in products).",
+              "MCQ drill × 12: Topic 5 enthalpy MCQs from 2020–2022 papers. For each error: identify the specific calculation step where you went wrong."
+            ],
+            [
+              "Wed",
+              "Topic 7 Part 1: Equilibrium — Le Chatelier's principle applied to 8 different scenarios (change: temp, pressure, concentration, catalyst, inert gas). Write the direction of shift and the effect on Kc for each.",
+              "Topic 7 Part 2: Acids and pH — practise 6 pH calculations: 2 strong acid, 2 weak acid using Ka, 2 buffer using [H⁺] = Ka[HA]/[A⁻].",
+              "Flashcards × 20: Ka, Kc, Kp expressions, Le Chatelier predictions for common industrial processes (Haber, Contact)."
+            ],
+            [
+              "Thu",
+              "MCQ Practice Set 2 (25 questions from Topics 1, 5, 7, 16–18). Timed: 44 minutes.",
+              "Full analysis. Classify each error by distractor type. Write correction cards for new gaps.",
+              "Fix new gaps: targeted study on your 3 lowest-scoring subtopics."
+            ],
+            [
+              "Fri",
+              "Topics 16–18: Organic reactions — draw reaction maps for alcohol, aldehyde, ketone, and carboxylic acid chemistry (reagents and conditions for each interconversion).",
+              "Distinguishing tests practice: for 10 unknown compounds, apply Tollens', Fehling's, 2,4-DNPH, iodoform test in sequence and interpret results.",
+              "Active recall: without notes, write the reaction of ethanol with (a) Na, (b) K₂Cr₂O₇/H⁺ (distillation), (c) K₂Cr₂O₇/H⁺ (reflux), (d) H₂SO₄ (dehydration), (e) carboxylic acid."
+            ],
+            [
+              "Sat",
+              "Full timed Paper 1: 2020 Paper 1 (40 questions, 75 minutes, exam conditions). Compare score to Week 1.",
+              "Self-mark. Track improvement. Identify whether your error pattern is improving.",
+              "Read examiner commentary focus areas. Revisit any topics where you still have recurring errors."
+            ],
+            [
+              "Sun",
+              "REST — mental review of reaction types and organic transformations only.",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 3: Moderate Topics + Data MCQ Mastery (4, 6, 8, 9, 10–12, 19–22)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Topic 4: Ideal gas equation — 6 calculation examples (find p, V, n, T, and Mr). Convert units correctly for every example. Topic 4: Crystal structures — comparison table of all 4 types from memory.",
+              "Topics 6 + 9: Oxidation numbers — calculate for 10 different species. Redox equations. Periodicity: Period 3 oxide and chloride properties — draw the table from memory.",
+              "Flashcards: pV = nRT; crystal structure properties; oxidation number rules; Period 3 trends."
+            ],
+            [
+              "Tue",
+              "Topic 8: Boltzmann distribution — draw correctly from scratch (x-axis: KE; y-axis: N; curve shape; EA marker; area interpretation). Draw effect of (a) temperature increase, (b) catalyst.",
+              "Topics 10–12: Group 2 and 17 — complete property tables. Halide/AgNO₃ tests. Chlorine reactions with NaOH. Group 2 trends: solubility of hydroxides vs sulfates.",
+              "MCQ drill × 15: Topics 8, 9, 10–12 MCQs from 2021–2023 papers. Classify errors."
+            ],
+            [
+              "Wed",
+              "Topics 19–22: Polymer classification — practise identifying 8 different polymers as addition or condensation. Write repeat units from monomers. IR spectroscopy — test yourself on 8 IR spectra from past papers.",
+              "Topic 22: Mass spectrometry — practise reading M⁺ peaks, calculating Mr, identifying fragmentation patterns (loss of CH₃, OH, Cl, Br, CHO from M⁺).",
+              "Active recall: write all IR absorption ranges from memory (O−H acid; O−H alcohol; C=O ester; C=O carbonyl; N−H; C≡N). Check against data sheet."
+            ],
+            [
+              "Thu",
+              "MCQ Practice Set 3 (25 questions mixed from Topics 4, 6, 8, 9, 10–12, 19–22). Timed: 44 minutes.",
+              "Full analysis. Error classification. Correction cards.",
+              "Spaced review: redo 15 MCQs from Week 1 Practice Set without notes. Compare performance."
+            ],
+            [
+              "Fri",
+              "Data-based MCQ intensive: 15 graph and data table MCQs from across all topics (mixed years). Use the ruler strategy. Calculate exact values before looking at options.",
+              "Negative stem MCQ practice: 12 NOT/EXCEPT format questions. Circle the negative word for every question before reading options. Aim for 100% accuracy.",
+              "Calculation speed drill: 10 mole calculations timed at 60 seconds each. Focus on automatic unit conversion."
+            ],
+            [
+              "Sat",
+              "Full timed Paper 1: 2022 Paper 1 (40 questions, 75 minutes). Track your score progression across all 3 weeks.",
+              "Self-mark. Identify your top 5 remaining error types. Create a 'Final 5' priority list for Week 4.",
+              "Read Section 6 entries for your Final 5 topics in this guide."
+            ],
+            [
+              "Sun",
+              "REST — review your 'Final 5' flashcard stack only (20–30 min maximum).",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 4: Peak Performance — Full Papers & Predicted Topics"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Full timed Paper 1: 2023 Paper 1 (75 minutes, strict exam conditions — no notes, HB pencil, fill lozenges completely).",
+              "Self-mark. Score. Address top 3 remaining error types with targeted re-study. Read the specific 'Avoid This Error' boxes in Section 6.",
+              "Flashcard rapid-fire: 50 key definition flashcards — aim for instant, precise recall within 5 seconds each."
+            ],
+            [
+              "Tue",
+              "Predicted topic deep-dive: Mole + limiting reagent MCQs × 8. Electronic configuration of ions × 5. Nucleophilic addition mechanism × 4. Practise prediction method on each.",
+              "Predicted topic deep-dive: pH/Ka calculations × 6. Polymer identification × 6. Boltzmann distribution + catalyst × 4.",
+              "Active recall: write Le Chatelier predictions for 6 different changes to the Haber process equilibrium. Include effect on Kc for each."
+            ],
+            [
+              "Wed",
+              "Full timed Paper 1: 2024 Paper 1 (75 minutes, strict conditions).",
+              "Self-mark. Final score comparison across all weeks. Identify any concept still costing marks. Create a final 'Error Pattern' summary.",
+              "Targeted correction: for every error on 2024 paper, write the correct answer + chemical reasoning on an error card. Read each error card 3 times."
+            ],
+            [
+              "Thu",
+              "Mixed MCQ blitz: 40 MCQs drawn from 3 different years (random selection). Strict 75-minute time limit. Full exam simulation.",
+              "Review. For any new errors: targeted study only. No new content at this stage.",
+              "Re-read Section 2 (distractor types) and Section 5 (strategies). Confirm you can apply each strategy instinctively."
+            ],
+            [
+              "Fri",
+              "Timed MCQ sets by question type: 10 negative-stem (15 min), 10 calculation (18 min), 10 data/graph (18 min), 5 mechanism (10 min), 5 trend/prediction (9 min).",
+              "Review and correct. For each calculation error: redo the calculation step-by-step in the margin, showing all unit conversions.",
+              "Final review of Section 8 predictions. Read all 7 high-confidence predictions. Ensure you can answer each type of MCQ described."
+            ],
+            [
+              "Sat",
+              "LIGHT REVISION ONLY: 30 minutes maximum — rapid flashcard review of comparison tables and key reaction conditions.",
+              "Prepare exam equipment: HB pencil (for filling lozenges), spare pencil, eraser, ruler (for graph reading), calculator (Cambridge-approved). Rest properly.",
+              "—"
+            ],
+            [
+              "Sun",
+              "EXAM DAY — Apply the strategies. Execute with precision and confidence.",
+              "—",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "exam-day",
+      "title": "SECTION 10: EXAM DAY STRATEGIES",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Before You Enter the Exam Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "Equipment: HB pencil (NOT a pen — the lozenge reader cannot read pen). Spare HB pencil. Eraser. Ruler (essential for reading graph axes). Cambridge-approved calculator. Watch or small clock."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sleep: 8 hours minimum. Sleep consolidates the precise recall and calculation fluency that Paper 1 demands."
+        },
+        {
+          "type": "paragraph",
+          "text": "Light breakfast — sustained energy for 75 minutes of concentrated quantitative reasoning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arrive 15 minutes early. Mental warm-up: recall 3 key comparison tables from memory (e.g., bonding types, mechanism types, VSEPR shapes). Do NOT cram new content — this raises anxiety without benefit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Write at the top of your rough paper: 'An Ox Red Cat' (Anode = Oxidation, Cathode = Reduction). Write the three mole formulae: n = m/Mr; n = cV; n = V/24000(cm³). These take 30 seconds and prevent the most common errors."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Opening Protocol: The First 5 Minutes"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "♟️ MCQ STRATEGY"
+            ],
+            [
+              "STEP 1 (1 minute): Scan all 40 questions. Identify: (a) which questions look quick — direct recall; (b) which questions have data/graphs/calculations — need more time; (c) any questions where you immediately know the answer without hesitation."
+            ],
+            [
+              "STEP 2: On your first pass, answer all questions where you are confident (ideally 25–30). For calculation questions: write the formula in the margin and compute. Mark uncertain questions with a small dot next to the question number."
+            ],
+            [
+              "STEP 3: On your second pass, work through the marked questions using the 5-Step Decision Process and elimination framework. Commit to an answer for each."
+            ],
+            [
+              "STEP 4 (final 10 minutes): Return to any remaining uncertain questions. Verify lozenges are filled (not just marked). Double-check negative stem questions — re-read the NOT/EXCEPT word. Never leave a lozenge blank."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "In-Exam Discipline: The Non-Negotiable Rules"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situation in the Exam",
+              "The Correct Response"
+            ],
+            [
+              "Two options both seem correct",
+              "Re-read the stem word by word. Identify ONE precise chemical difference between the two options. Ask: does one have the wrong unit? Wrong sign? Wrong direction? Wrong mechanism? Reason which is correct for THIS specific question."
+            ],
+            [
+              "You have no idea what the answer is",
+              "Eliminate any option with an obvious chemical impossibility. Eliminate options with wrong units or wrong signs. Guess from the remaining options. Mark with a dot and move on. Never spend >2 minutes on one MCQ."
+            ],
+            [
+              "The question has a calculation you cannot complete",
+              "Estimate the order of magnitude (rough mental calculation). Eliminate options that are clearly the wrong scale. Select the most plausible remaining option. Mark with a dot and return if time allows."
+            ],
+            [
+              "The question has a graph you cannot read clearly",
+              "Use your ruler to read exact values off both axes. Do NOT estimate by eye. Calculate the answer numerically using the read values, then match to options."
+            ],
+            [
+              "You want to change an answer",
+              "Only change if you have a SPECIFIC, IDENTIFIED reason (e.g., 'I misread the question as asking for cm³ but it asks for dm³'). Do NOT change answers based on anxiety or general uncertainty."
+            ],
+            [
+              "You see a question on a topic you did not revise",
+              "Do not panic. Apply chemical first principles: eliminate options with physically impossible values; eliminate options with wrong signs or units; guess from the remainder. Move on immediately."
+            ],
+            [
+              "You finish early",
+              "Do NOT leave. Return to every dotted (uncertain) question. Re-read the stem carefully. Verify that your answer answers the EXACT question asked. Check your lozenge sheet for alignment errors."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The A* MCQ Mindset"
+        },
+        {
+          "type": "paragraph",
+          "text": "The difference between a student who scores 34/40 and one who scores 39/40 is not knowledge — it is execution. The student scoring 39/40 consistently does four things the student scoring 34/40 does not:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "34/40 Student Behaviour",
+              "39/40 Student Behaviour"
+            ],
+            [
+              "Reads options before forming an independent view — immediately anchored to distractors",
+              "Calculates or recalls the answer BEFORE reading options — uses options only to confirm or match"
+            ],
+            [
+              "Scans options quickly and selects the first one that 'sounds chemically correct'",
+              "Reads EVERY word of every remaining option after eliminating 1–2. One wrong unit, sign, or term = one eliminated option."
+            ],
+            [
+              "Sees a negative stem and reads it as positive — chooses a correct-sounding statement",
+              "Circles the negative word, writes 'LOOKING FOR FALSE' in margin, consciously applies the negation to every option"
+            ],
+            [
+              "Uses kPa instead of Pa, or cm³ instead of dm³ in the ideal gas equation",
+              "Writes the formula with units in the margin, cancels units explicitly, converts before substituting"
+            ],
+            [
+              "Changes answers repeatedly based on anxiety and second-guessing",
+              "Changes an answer ONLY with a specific, articulated reason. Trusts the first considered answer otherwise."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "Every MCQ you leave blank is a guaranteed zero. Every MCQ you guess (after elimination of 2 options) gives you a 50% chance of a mark. In a 40-question paper, consistently guessing from 2 options on your uncertain questions rather than leaving blank could add 3–5 marks to your total — potentially the difference between an A and an A*."
+            ],
+            [
+              "Calculation MCQs are the most 'learnable' marks in Paper 1 — they depend on process, not inspiration. If you can execute the mole calculation, enthalpy cycle, or pH calculation correctly, you will always earn those marks. Practise the process until it is automatic."
+            ],
+            [
+              "Go in with confidence. You have done the preparation. Execute with precision. The marks are already on the paper — your job is to claim them systematically."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appendix",
+      "title": "QUICK REFERENCE APPENDIX",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Master Comparison Tables"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "1. Bonding Types — Summary"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Feature",
+              "Ionic",
+              "Covalent Molecular",
+              "Giant Covalent",
+              "Metallic"
+            ],
+            [
+              "Examples",
+              "NaCl, MgO, CaF₂",
+              "HCl, H₂O, CO₂, CH₄",
+              "Diamond, graphite, SiO₂",
+              "Na, Cu, Fe"
+            ],
+            [
+              "Structure",
+              "Giant ionic lattice",
+              "Discrete molecules",
+              "Giant 3D covalent network",
+              "Lattice of + ions + sea of delocalised e⁻"
+            ],
+            [
+              "Melting point",
+              "High (strong electrostatic forces)",
+              "Low (weak intermolecular forces)",
+              "Very high (strong covalent bonds throughout)",
+              "Variable (low for Na, high for W)"
+            ],
+            [
+              "Electrical conductivity",
+              "Conducts when MOLTEN or DISSOLVED (not as solid)",
+              "Non-conductor (no free charged particles)",
+              "Non-conductor (except graphite)",
+              "Conducts as SOLID and liquid (free delocalised electrons)"
+            ],
+            [
+              "Solubility in water",
+              "Often soluble (polar solvent)",
+              "Varies: polar molecules often soluble",
+              "Insoluble",
+              "Insoluble (reacts with some)"
+            ],
+            [
+              "Malleability",
+              "Brittle (layers shift → like charges repel)",
+              "N/A — molecular",
+              "Brittle (breaking covalent bonds)",
+              "Malleable (layers of ions slide)"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "2. Reaction Mechanism Summary — AS Level Organic"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Reaction Type",
+              "Substrate",
+              "Reagent Conditions",
+              "Key Feature",
+              "Example"
+            ],
+            [
+              "Free radical substitution",
+              "Alkanes (C−H bonds)",
+              "Halogen + UV light",
+              "Produces mixture; chain reaction (init/prop/term)",
+              "CH₄ + Cl₂ → CH₃Cl + HCl"
+            ],
+            [
+              "Electrophilic addition",
+              "Alkenes (C=C bond)",
+              "Br₂, HBr, H₂O/H₃PO₄, H₂/Ni",
+              "Br₂ adds across double bond; Markovnikov for HX",
+              "CH₂=CH₂ + Br₂ → CH₂BrCH₂Br"
+            ],
+            [
+              "Nucleophilic substitution (SN1)",
+              "Tertiary halogenoalkanes",
+              "NaOH(aq)/heat",
+              "Carbocation intermediate; racemic product",
+              "(CH₃)₃CBr + OH⁻ → (CH₃)₃COH"
+            ],
+            [
+              "Nucleophilic substitution (SN2)",
+              "Primary halogenoalkanes",
+              "NaOH(aq)/heat; KCN/ethanol; NH₃/ethanol",
+              "One step; backside attack; inversion of config.",
+              "CH₃CH₂Br + OH⁻ → CH₃CH₂OH"
+            ],
+            [
+              "Elimination",
+              "Halogenoalkanes",
+              "NaOH in ETHANOL + heat",
+              "Forms alkene; competes with SN2",
+              "CH₃CH₂Br + OH⁻ → CH₂=CH₂ + H₂O"
+            ],
+            [
+              "Nucleophilic addition",
+              "Aldehydes/ketones (C=O)",
+              "HCN / KCN catalyst / heat",
+              "CN⁻ attacks carbonyl C; forms hydroxynitrile",
+              "CH₃CHO + HCN → CH₃CH(OH)CN"
+            ],
+            [
+              "Esterification",
+              "Carboxylic acid + alcohol",
+              "Conc. H₂SO₄, heat (reversible)",
+              "Forms ester + H₂O; requires catalyst",
+              "CH₃COOH + C₂H₅OH → CH₃COOC₂H₅"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "3. Reagents for Oxidation of Organic Compounds"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Compound Oxidised",
+              "Reagent",
+              "Conditions",
+              "Product",
+              "Observation"
+            ],
+            [
+              "Primary alcohol",
+              "Acidified K₂Cr₂O₇ or KMnO₄",
+              "Distill off product",
+              "Aldehyde",
+              "Orange → green"
+            ],
+            [
+              "Primary alcohol",
+              "Acidified K₂Cr₂O₇ or KMnO₄",
+              "Reflux",
+              "Carboxylic acid",
+              "Orange → green"
+            ],
+            [
+              "Secondary alcohol",
+              "Acidified K₂Cr₂O₇ or KMnO₄",
+              "Heat",
+              "Ketone",
+              "Orange → green"
+            ],
+            [
+              "Tertiary alcohol",
+              "Acidified K₂Cr₂O₇",
+              "Any",
+              "NO REACTION",
+              "Orange stays orange"
+            ],
+            [
+              "Aldehyde",
+              "Tollens' reagent (AgNO₃/NH₃)",
+              "Warm",
+              "Silver mirror",
+              "Silver mirror on tube"
+            ],
+            [
+              "Aldehyde",
+              "Fehling's solution",
+              "Heat",
+              "Carboxylate ion",
+              "Blue → brick-red ppt"
+            ],
+            [
+              "Ketone",
+              "Tollens' / Fehling's",
+              "Any",
+              "NO REACTION",
+              "No change"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "4. Key Formulae for Paper 1 Calculations"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Quantity",
+              "Formula",
+              "Units",
+              "Notes"
+            ],
+            [
+              "Moles from mass",
+              "n = m / Mr",
+              "mol",
+              "m in grams; Mr from Periodic Table"
+            ],
+            [
+              "Moles from volume of solution",
+              "n = c × V",
+              "mol",
+              "c in mol dm⁻³; V in dm³ (divide cm³ by 1000)"
+            ],
+            [
+              "Moles from gas volume (r.t.p.)",
+              "n = V / 24.0",
+              "mol",
+              "V in dm³; use 22.4 at s.t.p. (273 K, 101 kPa)"
+            ],
+            [
+              "Concentration",
+              "c = n / V",
+              "mol dm⁻³",
+              "V in dm³"
+            ],
+            [
+              "Ideal gas equation",
+              "pV = nRT",
+              "Pa, m³, mol, J K⁻¹ mol⁻¹, K",
+              "p in Pa; V in m³; T in K; R = 8.31"
+            ],
+            [
+              "pH (strong acid)",
+              "pH = −log[H⁺]",
+              "dimensionless",
+              "[H⁺] = [acid] for strong acid"
+            ],
+            [
+              "[H⁺] from Ka (weak acid)",
+              "[H⁺] = √(Ka × [HA])",
+              "mol dm⁻³",
+              "Valid when dissociation is small (<5%)"
+            ],
+            [
+              "Enthalpy (calorimetry)",
+              "q = mcΔT",
+              "J",
+              "m in g; c = 4.18 J g⁻¹ K⁻¹; ΔT in K or °C"
+            ],
+            [
+              "ΔH per mole",
+              "ΔH = −q / n",
+              "kJ mol⁻¹",
+              "Negative sign: exothermic if T rises"
+            ],
+            [
+              "Bond energy ΔHr",
+              "ΔHr = Σ(bonds broken) − Σ(bonds made)",
+              "kJ mol⁻¹",
+              "Bond breaking = +ve; bond making = −ve"
+            ],
+            [
+              "Atom economy",
+              "AE = (Mr desired / sum of Mr all products) × 100",
+              "%",
+              "Higher atom economy = greener reaction"
+            ],
+            [
+              "Percentage yield",
+              "% yield = (actual / theoretical) × 100",
+              "%",
+              "Both masses in same units"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "5. Paper 1 Grade Boundary Targets"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Grade",
+              "A*",
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            [
+              "Typical mark range",
+              "37–40",
+              "31–36",
+              "25–30",
+              "19–24",
+              "13–18",
+              "8–12"
+            ],
+            [
+              "% of paper",
+              "93–100%",
+              "78–90%",
+              "63–75%",
+              "48–60%",
+              "33–45%",
+              "20–30%"
+            ],
+            [
+              "Typical wrong questions",
+              "0–3",
+              "4–9",
+              "10–15",
+              "16–21",
+              "22–27",
+              "28–32"
+            ],
+            [
+              "Key differentiator from grade above",
+              "Zero calculation errors; eliminates all distractors; precise definitions",
+              "Mostly accurate calculations; avoids most traps; minor terminology errors",
+              "Core recall correct; falls into calculation unit errors and sign errors",
+              "Basic recall but consistent errors on mechanisms and multi-step calculations",
+              "Patchy recall; significant errors on all quantitative questions",
+              "Foundational gaps in key topics"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Cambridge A Level Chemistry (9701) — Paper 1 Master Revision Guide\nAligned to the Cambridge International AS & A Level Chemistry 9701 Syllabus for Examinations 2026–2030\nBased on past paper and examiner report analysis 2018–2025\nCambridge Teacher Edition | Syllabus 9701 | Series: A Level Chemistry Mastery Guides"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

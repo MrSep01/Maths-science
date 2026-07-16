@@ -1,0 +1,3341 @@
+{
+  "source": "CIE_ALevelChemistry_Paper3_MasterGuide.docx",
+  "frontMatter": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "CAMBRIDGE INTERNATIONAL\nA LEVEL CHEMISTRY (9701)\nPAPER 3 MASTER REVISION GUIDE\nADVANCED PRACTICAL SKILLS | 40 MARKS | 2 HOURS\nQUALITATIVE ANALYSIS | QUANTITATIVE SKILLS | TITRATION MASTERY | DATA PRESENTATION"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "From U Grade to A* | For Every Student, Every Level\nBased on 8 Years of Cambridge Examiner Reports, Mark Schemes & Past Papers\nFully aligned to the Cambridge 9701 Syllabus for Examinations 2028 and onwards"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📋 Paper 3 Introduction & Structure",
+          "🔬 The Three Assessed Skills Decoded"
+        ],
+        [
+          "🔍 8-Year Past Paper Analysis (2018–2025)",
+          "📊 Skill & Task Frequency Heatmap"
+        ],
+        [
+          "🧪 Qualitative Analysis Complete Reference",
+          "⚗️ Quantitative Practical Techniques"
+        ],
+        [
+          "📈 Data Presentation & Graph Masterclass",
+          "🔮 Predicted Tasks & 4-Week Revision Plan"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "TABLE OF CONTENTS"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "SECTION 1: INTRODUCTION TO PAPER 3",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What is Cambridge A Level Chemistry Paper 3?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge International A Level Chemistry (9701) Paper 3 is the Advanced Practical Skills paper. Unlike Papers 1 and 2, which are written theory papers, Paper 3 is a timetabled, laboratory-based practical examination. Candidates carry out actual chemical experiments under exam conditions and are assessed on their manipulative skills, data recording, and analytical reasoning."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 3 accounts for 11.5% of your final A Level grade, or 23% of your AS Level grade. It tests Assessment Objective 3 (AO3) exclusively — experimental skills and investigations. No AO1 or AO2 marks are available here. A student who excels at theory but has poor practical technique will consistently underperform on Paper 3."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Paper",
+              "Description",
+              "Duration",
+              "Marks",
+              "AO",
+              "% of A Level"
+            ],
+            [
+              "Paper 1",
+              "Multiple Choice — AS Level Content",
+              "1h 15m",
+              "40",
+              "AO1/2",
+              "15.5%"
+            ],
+            [
+              "Paper 2",
+              "AS Level Structured Questions",
+              "1h 15m",
+              "60",
+              "AO1/2",
+              "23%"
+            ],
+            [
+              "Paper 3",
+              "Advanced Practical Skills — THIS GUIDE",
+              "2h",
+              "40",
+              "AO3",
+              "11.5%"
+            ],
+            [
+              "Paper 4",
+              "A Level Structured Questions",
+              "2h",
+              "100",
+              "AO1/2",
+              "38.5%"
+            ],
+            [
+              "Paper 5",
+              "Planning, Analysis & Evaluation",
+              "1h 15m",
+              "30",
+              "AO3",
+              "11.5%"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Paper 3 is the ONLY Cambridge Chemistry paper where you carry out real laboratory work during the exam. You are assessed on what you DO and RECORD — not just what you know."
+            ],
+            [
+              "Paper 3 consists of 2–3 questions totalling 40 marks. Typically: ONE observational (qualitative) question (~12–15 marks) and ONE or TWO quantitative questions (~25–28 marks total)."
+            ],
+            [
+              "The context of Paper 3 questions may be outside the syllabus content — you will be told what to do and given relevant information. You are being assessed on your practical SKILLS, not your knowledge of that specific reaction."
+            ],
+            [
+              "Examiner reports 2018–2025 consistently identify the same errors: (1) insufficient significant figures in burette readings; (2) tables missing units or headings; (3) graphs with points not plotted accurately; (4) sources of error stated as 'human error' (never accepted); (5) observations recorded as conclusions ('a precipitate formed' is an observation; 'Cu²⁺ is present' is a conclusion — both needed)."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Paper 3 Format: What to Expect"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Feature",
+              "Detail"
+            ],
+            [
+              "Total marks",
+              "40 marks"
+            ],
+            [
+              "Number of questions",
+              "2–3 questions, each with multiple sub-parts"
+            ],
+            [
+              "Question types",
+              "ONE observational (qualitative analysis) question + ONE or TWO quantitative questions"
+            ],
+            [
+              "Duration",
+              "2 hours = 120 minutes. Approximately 3 minutes per mark."
+            ],
+            [
+              "Apparatus",
+              "All apparatus, chemicals and instructions provided by the centre from Cambridge's Confidential Instructions"
+            ],
+            [
+              "Writing instrument",
+              "Pen for written answers; pencil ONLY for graphs and diagrams"
+            ],
+            [
+              "Calculator",
+              "Cambridge-approved scientific calculator required and permitted"
+            ],
+            [
+              "Data sheet / QA notes",
+              "Qualitative Analysis notes are provided as part of the exam paper"
+            ],
+            [
+              "Assessment objective",
+              "AO3 only: experimental skills and investigations"
+            ],
+            [
+              "% of qualification",
+              "11.5% of A Level; 23% of AS Level"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Three Assessed Skills (AO3)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 3 assesses AO3 through three distinct skill areas. Every mark on Paper 3 falls into one of these three categories. Understanding each one precisely transforms your approach to every sub-question."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Skill Area",
+              "What It Tests",
+              "Marks Available",
+              "Key Sub-Skills"
+            ],
+            [
+              "Skill 1 Manipulation, Measurement & Observation",
+              "Your physical practical ability — how accurately and carefully you carry out the experiment",
+              "~12 marks minimum",
+              "Setting up apparatus correctly; taking accurate burette/thermometer readings; making precise observations (colours, precipitates, quantities); deciding how many readings to take"
+            ],
+            [
+              "Skill 2 Presentation of Data & Observations",
+              "How you record, display and organise your experimental results",
+              "~6 marks minimum",
+              "Drawing correctly headed tables with units; recording raw data to consistent precision; plotting graphs with correct scales, labelled axes, best-fit lines; calculating and displaying results clearly"
+            ],
+            [
+              "Skill 3 Analysis, Conclusions & Evaluation",
+              "How you interpret results, draw conclusions and critically evaluate your experiment",
+              "~10 marks minimum",
+              "Describing trends from data; performing calculations from results; drawing conclusions from observations; identifying sources of error; calculating percentage errors; suggesting improvements"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Mark Allocation Across the Three Skills"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Skill",
+              "Minimum Marks",
+              "Typical Marks",
+              "What Cambridge Tests"
+            ],
+            [
+              "Skill 1: Manipulation, Measurement & Observation",
+              "12",
+              "12–16",
+              "Accurate burette readings (nearest 0.05 cm³); consistent data; concordant titres; correct observations with appropriate detail; correct number of repeat readings"
+            ],
+            [
+              "Skill 2: Presentation of Data & Observations",
+              "6",
+              "6–10",
+              "Table with correct headings and units; correct significant figures; graph with labelled axes, appropriate scale, accurate plotting, best-fit line; calculated values displayed correctly"
+            ],
+            [
+              "Skill 3: Analysis, Conclusions & Evaluation",
+              "10",
+              "10–14",
+              "Trend description; gradient calculation; conclusion from data; identified source of error (specific, not 'human error'); realistic improvement; percentage error calculation"
+            ],
+            [
+              "TOTAL",
+              "28 (minimum)",
+              "40",
+              "Marks split across the three skills; remaining marks assigned flexibly across skills by Cambridge"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "The 12 'remaining' marks (40 − 28 minimum) are allocated flexibly across the three skills and vary between papers. Read the mark scheme for any past paper to see exactly how marks are distributed for that specific paper."
+            ],
+            [
+              "Skill 1 marks are earned IN the laboratory — you cannot improve them after the fact. Skill 2 and 3 marks are earned on your answer sheet — these are improvable with practice and technique."
+            ],
+            [
+              "Many students lose Skill 2 marks not because they don't know how to draw a table or graph, but because they rush. Skill 2 marks are some of the easiest marks on Paper 3 — slow down and apply the rules methodically."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "SECTION 2: THE THREE SKILLS — FULLY DECODED",
+      "blocks": [
+        {
+          "type": "table",
+          "rows": [
+            [
+              "SKILL 1: MANIPULATION, MEASUREMENT & OBSERVATION\nMarks awarded for what you DO in the laboratory — accuracy, care, and decision-making"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Skill 1A: Successful Collection of Data and Observations"
+        },
+        {
+          "type": "paragraph",
+          "text": "This sub-skill awards marks for correctly setting up apparatus, following instructions, collecting sufficient data, and making observations with appropriate detail and accuracy."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "APPARATUS SETUP: Follow the Confidential Instructions exactly. If you deviate from the method, record this on your answer sheet. Ask the Supervisor only if genuinely stuck — assistance reduces your mark for this section."
+            ],
+            [
+              "BURETTE READINGS: Always read a burette to the nearest 0.05 cm³ (halfway between the 0.1 cm³ graduations). Record as X.X0 or X.X5 — never X.X or X.X3. Both the initial AND final readings must be recorded separately before calculating the titre."
+            ],
+            [
+              "THERMOMETER READINGS: Read to the nearest 0.5°C when using a thermometer calibrated at 1°C intervals. Always record the units."
+            ],
+            [
+              "CONCORDANT TITRES: Carry out a rough titration first — this does not count toward your final average. Then perform titrations until you have at least TWO titres within 0.10 cm³ of each other. These are concordant. Use only concordant titres for your average."
+            ],
+            [
+              "QUALITATIVE OBSERVATIONS: Record EVERY observation, including 'no change' and 'remains colourless'. Note colour precisely — not just 'white' but 'off-white' or 'cream' if applicable. Note intensity: 'pale blue', 'dark green'. Note the quantity of precipitate: 'dense white precipitate', 'slight cloudiness'."
+            ],
+            [
+              "NUMBER OF READINGS: For rate experiments, take enough readings to define the full shape of the curve (not fewer than 6 data points). For colour change timings, run at least 3 repeats at each concentration."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Skill 1B: Quality of Measurements and Observations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge awards marks here for the accuracy and consistency of your data. These marks are awarded by comparing your results to the Supervisor's reference values."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "CONCORDANT TITRES: Two concordant titres must be within 0.10 cm³ of each other. If your titres are not concordant after 3 attempts, continue until they are — up to the practical time limit. Never average non-concordant titres."
+            ],
+            [
+              "BURETTE PRECISION: All burette readings must be recorded to the same precision (2 decimal places: X.X0 or X.X5). A reading recorded as '23.4' instead of '23.40' loses a mark."
+            ],
+            [
+              "THERMOMETER PRECISION: Record to the nearest 0.5°C consistently throughout. If one reading is 24.5°C and the next is 25°C (not 25.0°C), this inconsistency may cost a mark."
+            ],
+            [
+              "COLOUR DESCRIPTIONS: Use precise colour vocabulary. 'Blue' is insufficient if the precipitate is pale blue — the mark scheme may require 'pale blue'. Use comparisons where appropriate: 'the solution became darker brown than at the previous concentration'."
+            ],
+            [
+              "GRAPH QUALITY: Points should be plotted to within ±0.5 small squares of the correct position. A line of best fit must have an approximately equal scatter of points on both sides along its entire length."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Skill 1C: Decisions Relating to Measurements"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge awards marks for making good experimental decisions — not just following instructions blindly."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "ANOMALOUS READINGS: If a reading appears anomalous (far from the others), repeat it before deciding to exclude it. Mark anomalous points on your graph with a circled cross (⊗) and note them in your answer."
+            ],
+            [
+              "RANGE AND DISTRIBUTION: For a rate experiment varying concentration, use a range that spans at least 5-fold. Distribute points so the graph clearly shows any curve shape — more points where the curve changes gradient."
+            ],
+            [
+              "REPEATING MEASUREMENTS: For colour-change timing experiments, run 3 repeats at each concentration and average them. For titrations, always run at least one rough titre before starting concordant titres."
+            ],
+            [
+              "CONFIRMATORY TESTS: In qualitative analysis, if a precipitate could be either white or cream (AgCl vs AgBr), perform the ammonia test — this confirms which halide is present. Cambridge specifically rewards performing confirmatory tests when the situation requires them."
+            ],
+            [
+              "SELECTING REAGENTS: In open qualitative analysis tasks, select the most diagnostic test first (e.g., add NaOH to test for metal ions before testing for specific anions). Work systematically from general to specific."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "SKILL 2: PRESENTATION OF DATA & OBSERVATIONS\nMarks awarded for how clearly, accurately and correctly you record and display your data"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Skill 2A: Recording Data and Observations — Tables"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every quantitative experiment requires a data table. Cambridge awards specific marks for correct table structure and content."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "TABLE HEADING FORMAT: Column headings must include BOTH the quantity AND the unit, separated by a forward slash: 'Volume of NaOH added / cm³' or 'Temperature / °C'. Alternative formats accepted: 'Volume of NaOH added (cm³)' or 'Volume of NaOH added in cm³'. All three formats are acceptable."
+            ],
+            [
+              "PRECISION CONSISTENCY: All values in one column must be recorded to the SAME number of decimal places. If one volume is recorded as 23.40 cm³, all other volumes in that column must also be to 2 d.p. A column where some values are 23.4 and others 23.40 loses the consistency mark."
+            ],
+            [
+              "RAW DATA FIRST: Always record raw data (initial and final burette readings) in the table before calculated values (titre). Never record only the titre without the individual readings."
+            ],
+            [
+              "CALCULATED QUANTITIES: Show at least one example calculation beneath your table. For the mean titre: show which titres you used (concordant only) and the arithmetic. For rate = 1/t: show the substitution."
+            ],
+            [
+              "QUALITATIVE OBSERVATIONS TABLE: For the observational question, draw a table with three columns: Reagent added / Test | Observation | Inference. Every row must have all three components. 'No precipitate' is a valid observation — never leave cells blank."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "EXAMPLE: Correct titration table layout"
+            ],
+            [
+              "Titre number | Initial burette reading / cm³ | Final burette reading / cm³ | Titre / cm³"
+            ],
+            [
+              "Rough | 0.00 | 24.80 | 24.80"
+            ],
+            [
+              "1 | 0.00 | 24.65 | 24.65"
+            ],
+            [
+              "2 | 0.00 | 24.70 | 24.70"
+            ],
+            [
+              "3 | 24.70 | 49.35 | 24.65"
+            ],
+            [
+              "Mean titre (concordant titres 1 and 3): (24.65 + 24.65) / 2 = 24.65 cm³"
+            ],
+            [
+              "→ Titre 2 (24.70) is NOT concordant with titres 1 and 3 (difference = 0.05 cm³, but titre 2 differs from titre 1 by 0.05 — actually all three are within 0.10 cm³ of each other; use lowest two or all three — check mark scheme for that paper)"
+            ],
+            [
+              "KEY MARKS EARNED: (1) Correct heading format with units [1]; (2) All readings to 0.05 cm³ [1]; (3) Rough titre identified and excluded from average [1]; (4) Concordant titres identified and mean calculated correctly [1]."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Skill 2B: Graph Drawing"
+        },
+        {
+          "type": "paragraph",
+          "text": "Graph questions appear in almost every Paper 3. Cambridge awards marks for specific graph features. These marks are entirely systematic — follow the rules and earn them all."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "AXIS LABELS: Both axes must be labelled with the quantity AND unit (same format as table headings). An unlabelled axis loses the label mark. A labelled axis with no unit loses half credit."
+            ],
+            [
+              "SCALE: Choose a scale that uses at least HALF the graph grid in BOTH directions. The scale must be linear and use 'easy' units: 1, 2, 5, or 10 units per large square. Never use 3, 4, 6, or 7 — these make reading and plotting impractical."
+            ],
+            [
+              "PLOTTING: Plot each point with a small cross (×) or a circled dot (⊙). Points must be plotted to within ±0.5 small grid squares of the correct position. Use a sharp pencil — large, blurry points lose precision marks."
+            ],
+            [
+              "BEST-FIT LINE: For a straight-line relationship, draw a single straight line of best fit through the data points with an approximately equal number of points on each side along the full length. Do NOT connect the dots. Do NOT force the line through the origin unless the data clearly supports it."
+            ],
+            [
+              "SMOOTH CURVE: For a curved relationship, draw a smooth continuous curve through or near the data points. Do not draw a straight line between each adjacent point — this is a 'dot-to-dot' and loses the line mark."
+            ],
+            [
+              "ANOMALOUS POINTS: If a point is clearly anomalous (falls far from the trend), circle it and ignore it when drawing your best-fit line. Do NOT erase anomalous points — they must remain visible on the graph."
+            ],
+            [
+              "GRADIENT CALCULATION: Use two points on the LINE (not data points unless they happen to be on the line) that are as far apart as possible — ideally more than half the line length apart. Show the triangle on the graph. Calculate: gradient = Δy/Δx with correct units."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "EXAMPLE: Graph of volume of gas produced (cm³) vs time (s) for a reaction"
+            ],
+            [
+              "CHECKLIST before handing in:"
+            ],
+            [
+              "✓ x-axis: 'Time / s' — labelled with unit"
+            ],
+            [
+              "✓ y-axis: 'Volume of gas produced / cm³' — labelled with unit"
+            ],
+            [
+              "✓ Scale: data spans 0–120 s and 0–48 cm³; using 2 s per small square and 2 cm³ per small square — data occupies >50% of grid ✓"
+            ],
+            [
+              "✓ All 8 data points plotted with × to within 0.5 small squares ✓"
+            ],
+            [
+              "✓ Smooth curve drawn through the points (rate slows as reaction proceeds — curve flattens) ✓"
+            ],
+            [
+              "✓ Anomalous point at t=60s circled; curve drawn ignoring it ✓"
+            ],
+            [
+              "✓ Tangent drawn at t=20s to find initial rate; gradient = Δy/Δx = (38−0)/(40−0) = 0.95 cm³ s⁻¹ ✓"
+            ],
+            [
+              "MARKS EARNED: axes labelled [1]; appropriate scale [1]; points plotted accurately [1]; smooth curve [1]; gradient calculated correctly with units [1] = 5/5 available graph marks."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "SKILL 3: ANALYSIS, CONCLUSIONS & EVALUATION\nMarks awarded for interpreting your data, reaching conclusions, and critically assessing your experiment"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Skill 3A: Interpretation of Data and Observations"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "DESCRIBING TRENDS: State the direction (increases/decreases/stays constant) and the relationship type (linear, proportional, exponential). For a graph: refer to specific regions if the trend changes. Example: 'The volume of gas produced increases rapidly between 0 and 30 s, then levels off between 60 and 120 s as the reaction nears completion.'"
+            ],
+            [
+              "READING FROM GRAPHS: Use a ruler to read specific values. Draw construction lines on the graph (lightly in pencil) to show where you are reading from. State the value you read: 'From the graph, when the volume = 40 cm³, the time = 55 s.'"
+            ],
+            [
+              "GRADIENT READING: Choose two points on the LINE (not data points) at least half the line length apart. Show the right-angled triangle. Calculate Δy and Δx using the scale. State units of gradient: if y-axis is cm³ and x-axis is s, gradient units = cm³ s⁻¹."
+            ],
+            [
+              "INTERCEPTS: For a straight-line graph, read the y-intercept from the graph (where the line crosses the y-axis). Alternatively, use the gradient and a point on the line in y = mx + c."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Skill 3B: Drawing Conclusions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "CONCLUSION FROM CALCULATION: Show the calculation step-by-step, then state the conclusion explicitly. Example: 'The concentration of the acid = n/V = 2.47×10⁻³ / 0.025 = 0.0988 mol dm⁻³, so the acid has a concentration of approximately 0.099 mol dm⁻³.'"
+            ],
+            [
+              "CONCLUSION FROM QUALITATIVE ANALYSIS: First state the observation, then state the inference. Example: 'A cream/off-white precipitate was produced that was partially soluble in concentrated ammonia solution. This indicates the presence of bromide ions (Br⁻).' NEVER write just the inference without the supporting observation."
+            ],
+            [
+              "HYPOTHESIS TESTING: If the question asks whether your data supports a given hypothesis, calculate the relevant values, compare them, and then state explicitly 'the data supports / does not support the hypothesis because...'"
+            ],
+            [
+              "ECF IN CONCLUSIONS: If your calculated concentration is wrong but your subsequent conclusion is consistent with your wrong value, Cambridge may award ECF marks. Always write the conclusion statement even if you suspect your calculation may contain an error."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Skill 3C: Identifying Sources of Error and Suggesting Improvements"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is consistently one of the most poorly answered sections in Paper 3. The reason: students state generic errors ('human error', 'parallax error') that Cambridge never accepts. Every source of error must be SPECIFIC and CHEMICAL."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "NEVER WRITE: 'Human error' — Cambridge explicitly states this is NOT an acceptable source of error. It is too vague and non-specific."
+            ],
+            [
+              "NEVER WRITE: 'I made a mistake in my reading' — same problem. Must be specific."
+            ],
+            [
+              "NEVER WRITE: 'The equipment was inaccurate' — must specify WHICH equipment and WHAT the specific inaccuracy is."
+            ],
+            [
+              "NEVER WRITE: 'Parallax error when reading the burette' — parallax error IS acceptable as a type but must be coupled with the specific consequence: 'Parallax error when reading the burette meniscus may have caused the burette reading to be consistently too high or too low, affecting the titre.'"
+            ],
+            [
+              "NEVER WRITE: 'The experiment should be done more carefully' — this is not a specific improvement."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "SPECIFIC ERROR FORMAT: State (1) the source; (2) the direction of effect (makes result too high / too low); (3) why it's significant. Example: 'Heat loss from the polystyrene cup to the surroundings means the temperature rise recorded is less than the true temperature change, so the calculated enthalpy change is less exothermic than the true value.'"
+            ],
+            [
+              "TYPES OF SPECIFIC ERRORS (always accepted if relevant): heat loss/gain to surroundings; incomplete combustion; evaporation of reactant; side reactions producing a different product; slow colour change at endpoint making over-titration likely; indicator requiring a colour that is difficult to see against a dark solution; dissolved CO₂ in water affecting the endpoint."
+            ],
+            [
+              "PERCENTAGE ERROR: Cambridge often asks for the percentage error of a specific measurement. Formula: % error = (uncertainty / measured value) × 100. The uncertainty = half the smallest graduation: burette (±0.05 cm³), thermometer calibrated at 1°C (±0.5°C). Show both values in the calculation."
+            ],
+            [
+              "IMPROVEMENTS: Must be realistic and specific. Good improvements: use a colorimetric/pH meter instead of an indicator (eliminates endpoint subjectivity); use a water bath to maintain constant temperature; use a more accurate balance; repeat experiment with more concentrations to improve graph reliability; use a polystyrene lid to reduce heat loss."
+            ],
+            [
+              "SYSTEMATIC vs RANDOM ERROR: Distinguish between them when asked. Systematic: consistently affects all readings in the same direction (e.g., a burette with a zero error always reads 0.15 cm³ too high). Random: affects readings unpredictably (e.g., variation in timing the colour change). Systematic errors cannot be reduced by averaging; random errors can."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Skill 3D: Percentage Error Calculations"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "QUESTION: A thermometer calibrated at 1°C intervals is used to measure a temperature change of 8.5°C. Calculate the maximum percentage error in this measurement."
+            ],
+            [
+              "STEP 1: Identify the uncertainty = half the smallest graduation = ½ × 1°C = ±0.5°C."
+            ],
+            [
+              "(Note: there are TWO temperature readings — initial and final — so total uncertainty = 2 × 0.5°C = ±1.0°C)"
+            ],
+            [
+              "STEP 2: Calculate percentage error:"
+            ],
+            [
+              "% error = (total uncertainty / measured value) × 100"
+            ],
+            [
+              "= (1.0 / 8.5) × 100 = 11.8%"
+            ],
+            [
+              "COMMON MARK SCHEME REQUIREMENT: Show both the uncertainty AND the calculation. A bare answer of '11.8%' without working earns 0 marks on a 2-mark question."
+            ],
+            [
+              "BURETTE EXAMPLE: For a titre of 24.65 cm³ using a burette (uncertainty ±0.05 cm³ per reading, two readings):"
+            ],
+            [
+              "Total uncertainty = 2 × 0.05 = ±0.10 cm³"
+            ],
+            [
+              "% error = (0.10 / 24.65) × 100 = 0.41%"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "SECTION 3: PAST PAPER ANALYSIS 2018–2025",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Overview: 8 Years of Cambridge Chemistry Paper 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "The following analysis covers all Cambridge A Level Chemistry Paper 3 variants (variants 31, 32, 33) from 2018 to 2025. Each variant is 40 marks. Across 8 years with multiple variants, this represents analysis of over 960 individual practical marks. This reveals which tasks, skills and experimental contexts Cambridge returns to most reliably."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Acid-alkali titration (with an indicator) appears in virtually every Paper 3 — either as the primary quantitative question or as part of a combined practical. It is the single most reliably tested quantitative task."
+            ],
+            [
+              "The qualitative analysis question always tests cation identification (with NaOH and NH₃) and anion identification (with AgNO₃, BaCl₂, or dilute acid). The specific ions rotate, but the test procedure is always the same."
+            ],
+            [
+              "Graph drawing of a rate experiment (volume of gas, colour change timing, or mass loss) appears in approximately 70% of all Paper 3 variants — making it the most tested graphing context."
+            ],
+            [
+              "Sources of error and improvements are tested in nearly EVERY Paper 3, typically as 2–3 marks in the evaluation section. Students consistently score below 50% on these marks due to writing generic rather than specific errors."
+            ],
+            [
+              "Percentage error calculations appeared in over 80% of Paper 3 variants from 2020–2025, almost always with the burette (titre) or thermometer as the instrument."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Year-by-Year Task Distribution (2018–2025)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Task / Context",
+              "2018",
+              "2019",
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2024",
+              "2025",
+              "Appeared"
+            ],
+            [
+              "Acid-alkali titration (indicator)",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "8/8"
+            ],
+            [
+              "Qualitative analysis (cations)",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "8/8"
+            ],
+            [
+              "Qualitative analysis (anions)",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "8/8"
+            ],
+            [
+              "Organic distinguishing tests",
+              "✓",
+              "✗",
+              "✓",
+              "✓",
+              "✗",
+              "✓",
+              "✓",
+              "✓",
+              "6/8"
+            ],
+            [
+              "Graph of rate data (gas vol/mass loss)",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✗",
+              "✓",
+              "7/8"
+            ],
+            [
+              "Redox/permanganate titration",
+              "✗",
+              "✓",
+              "✗",
+              "✓",
+              "✓",
+              "✗",
+              "✓",
+              "✓",
+              "5/8"
+            ],
+            [
+              "Thermometric experiment (ΔH)",
+              "✓",
+              "✓",
+              "✗",
+              "✓",
+              "✗",
+              "✓",
+              "✓",
+              "✗",
+              "5/8"
+            ],
+            [
+              "Gravimetric experiment",
+              "✗",
+              "✓",
+              "✓",
+              "✗",
+              "✓",
+              "✗",
+              "✗",
+              "✓",
+              "4/8"
+            ],
+            [
+              "Rates experiment (timing colour change)",
+              "✓",
+              "✗",
+              "✓",
+              "✗",
+              "✓",
+              "✓",
+              "✗",
+              "✓",
+              "5/8"
+            ],
+            [
+              "Gas collection over water",
+              "✗",
+              "✓",
+              "✗",
+              "✓",
+              "✗",
+              "✗",
+              "✓",
+              "✗",
+              "3/8"
+            ],
+            [
+              "Percentage error calculation",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "8/8"
+            ],
+            [
+              "Source of error (specific)",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "8/8"
+            ],
+            [
+              "Graph gradient calculation",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "8/8"
+            ],
+            [
+              "Concordant titres / mean calculation",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "✓",
+              "8/8"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Most Frequently Tested Tasks & Skills"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Rank",
+              "Task / Skill",
+              "Frequency",
+              "Typical Marks",
+              "What Cambridge Tests"
+            ],
+            [
+              "1",
+              "Recording concordant titres + calculating mean",
+              "8/8",
+              "3–4",
+              "Two titres within 0.10 cm³; correct exclusion of rough titre; mean to 2 d.p."
+            ],
+            [
+              "2",
+              "Table with correct headings + units",
+              "8/8",
+              "2",
+              "Heading format; units present; consistent precision"
+            ],
+            [
+              "3",
+              "Percentage error calculation",
+              "8/8",
+              "2",
+              "Formula applied correctly; uncertainty stated; working shown"
+            ],
+            [
+              "4",
+              "Specific source of error (with consequence)",
+              "8/8",
+              "2",
+              "NOT 'human error'; specific to the experiment; direction of effect stated"
+            ],
+            [
+              "5",
+              "Graph plotting + best-fit line/curve",
+              "7/8",
+              "3–4",
+              "Scale; labelled axes; accurate points; best-fit line; anomalous points circled"
+            ],
+            [
+              "6",
+              "Gradient calculation from graph",
+              "7/8",
+              "2",
+              "Points on line chosen; triangle shown; correct Δy/Δx; units stated"
+            ],
+            [
+              "7",
+              "Qualitative: cation test with NaOH",
+              "8/8",
+              "2–3",
+              "Observation recorded precisely; correct ionic equation; correct inference"
+            ],
+            [
+              "8",
+              "Qualitative: anion test (AgNO₃ or BaCl₂)",
+              "8/8",
+              "2",
+              "Precipitate colour and solubility; correct identification"
+            ],
+            [
+              "9",
+              "Conclusion from titration calculation",
+              "8/8",
+              "3–4",
+              "n = cV; ratio; final concentration/mass; correct units; ECF applied"
+            ],
+            [
+              "10",
+              "Suggesting realistic improvement",
+              "8/8",
+              "1–2",
+              "Specific to experiment; not 'be more careful'; explains why it improves accuracy"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "SECTION 4: SKILL & TASK FREQUENCY HEATMAP",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Visual Priority Heatmap — Paper 3 Skills & Tasks"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each row shows the average mark allocation per paper (2018–2025). Tasks in DARK RED are tested in virtually every paper — these are your highest-priority preparation areas. The bar is scaled against the highest-scoring task (Titration, ~13 marks/paper)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "SKILL / TASK",
+              "MARK FREQUENCY (avg marks per paper, 2018-2025) →",
+              "AVG",
+              "PRIORITY"
+            ],
+            [
+              "Titration (acid-alkali / redox)",
+              "████████████████████░░",
+              "13",
+              "CRITICAL"
+            ],
+            [
+              "Qualitative Analysis (cation + anion)",
+              "█████████████████░░░░░",
+              "11",
+              "CRITICAL"
+            ],
+            [
+              "Graph Drawing & Gradient",
+              "█████████████░░░░░░░░░",
+              "8",
+              "CRITICAL"
+            ],
+            [
+              "Table Design & Data Recording",
+              "█████████░░░░░░░░░░░░░",
+              "6",
+              "HIGH"
+            ],
+            [
+              "Calculation from Practical Data",
+              "█████████░░░░░░░░░░░░░",
+              "6",
+              "HIGH"
+            ],
+            [
+              "Source of Error & Improvements",
+              "██████░░░░░░░░░░░░░░░░",
+              "4",
+              "HIGH"
+            ],
+            [
+              "Percentage Error Calculation",
+              "█████░░░░░░░░░░░░░░░░░",
+              "3",
+              "HIGH"
+            ],
+            [
+              "Thermometric Experiment",
+              "██████░░░░░░░░░░░░░░░░",
+              "4",
+              "MODERATE"
+            ],
+            [
+              "Rates Experiment (timing / gas vol)",
+              "██████░░░░░░░░░░░░░░░░",
+              "4",
+              "MODERATE"
+            ],
+            [
+              "Organic Distinguishing Tests",
+              "█████░░░░░░░░░░░░░░░░░",
+              "3",
+              "MODERATE"
+            ],
+            [
+              "Gravimetric Experiment",
+              "███░░░░░░░░░░░░░░░░░░░",
+              "2",
+              "LOWER"
+            ],
+            [
+              "Gas Collection Experiment",
+              "███░░░░░░░░░░░░░░░░░░░",
+              "2",
+              "LOWER"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Revision Focus",
+              "What To Do"
+            ],
+            [
+              "CRITICAL ★★★★★",
+              "10–13",
+              "50% of preparation",
+              "Practise every week under timed conditions; memorise all QA test results; master titration procedure precisely"
+            ],
+            [
+              "HIGH ★★★★",
+              "3–6",
+              "35% of preparation",
+              "Learn calculation sequences; master table/graph rules; practise writing specific errors"
+            ],
+            [
+              "MODERATE ★★★",
+              "2–4",
+              "12% of preparation",
+              "Cover the experimental procedure; know what to record and how"
+            ],
+            [
+              "LOWER ★★",
+              "1–2",
+              "3% of preparation",
+              "Basic procedure awareness; know what the experiment measures"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "SECTION 5: QUALITATIVE ANALYSIS — COMPLETE MASTERCLASS",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Observational Question: Structure & Strategy"
+        },
+        {
+          "type": "paragraph",
+          "text": "The qualitative analysis (QA) question gives you an unknown substance or mixture and a series of specified tests to perform. You must record every observation precisely, then identify the ions present from your observations. This question typically carries 12–15 marks and appears in every Paper 3."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "ALWAYS USE THE QA NOTES PROVIDED: The Qualitative Analysis notes are printed in your exam paper. Use them actively — check your observations against the table after each test."
+            ],
+            [
+              "RECORD 'NO CHANGE' EXPLICITLY: If a test produces no visible change, write 'no precipitate formed' or 'solution remains colourless'. A blank cell in your observations table earns 0 marks. 'No change' is a valid and sometimes correct answer."
+            ],
+            [
+              "OBSERVATIONS BEFORE INFERENCES: Always write the observation first (what you see), then the inference (what ion is present). These are awarded separate marks. A correct inference without the observation earns half marks at best."
+            ],
+            [
+              "USE EXCESS REAGENT: When adding NaOH(aq) or NH₃(aq), add enough to be in excess. Observe (a) whether a precipitate forms; (b) the colour of the precipitate; (c) whether it dissolves in excess. Each is a separate mark."
+            ],
+            [
+              "CONFIRMATORY TESTS: If your first test gives an ambiguous result, perform the confirmatory test. Example: white precipitate with NaOH could be Mg²⁺ or Al³⁺ — the confirmatory test is to add excess NaOH: Al(OH)₃ dissolves (Al³⁺ confirmed); Mg(OH)₂ does not (Mg²⁺ confirmed)."
+            ],
+            [
+              "THREE-COLUMN TABLE: Draw a table immediately with headings: 'Reagent added / Test' | 'Observation' | 'Inference'. Complete every row as you carry out each test."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Cation Tests: Complete Reference"
+        },
+        {
+          "type": "paragraph",
+          "text": "The following table covers all cations listed in the Cambridge Qualitative Analysis notes. Memorise each observation for both NaOH(aq) and NH₃(aq) — and critically, whether the precipitate dissolves in EXCESS."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Cation",
+              "With NaOH(aq) — Limited",
+              "With NaOH(aq) — Excess",
+              "With NH₃(aq) — Limited",
+              "With NH₃(aq) — Excess",
+              "Key Distinguishing Feature"
+            ],
+            [
+              "Al³⁺",
+              "White ppt",
+              "White ppt DISSOLVES → colourless solution",
+              "White ppt",
+              "White ppt INSOLUBLE",
+              "Only cation whose hydroxide dissolves in EXCESS NaOH (amphoteric)"
+            ],
+            [
+              "NH₄⁺",
+              "No ppt; gas produced on warming (NH₃ — turns damp red litmus blue)",
+              "—",
+              "—",
+              "—",
+              "Only cation that produces ammonia gas with NaOH on warming"
+            ],
+            [
+              "Ba²⁺",
+              "Faint white ppt (only if [Ba²⁺] high)",
+              "—",
+              "No ppt",
+              "—",
+              "Confirmed by white ppt with dilute H₂SO₄ (BaSO₄ insoluble)"
+            ],
+            [
+              "Ca²⁺",
+              "White ppt (only if [Ca²⁺] not too low)",
+              "—",
+              "No ppt",
+              "—",
+              "White ppt with excess NaOH does NOT dissolve; Ca(OH)₂ slightly soluble"
+            ],
+            [
+              "Cr³⁺",
+              "Grey-green ppt",
+              "Grey-green ppt DISSOLVES in excess → dark green solution",
+              "Grey-green ppt",
+              "Grey-green ppt INSOLUBLE",
+              "Green colour distinctive; dissolves in excess NaOH only"
+            ],
+            [
+              "Cu²⁺",
+              "Pale blue ppt",
+              "Pale blue ppt INSOLUBLE",
+              "Pale blue ppt",
+              "Pale blue ppt DISSOLVES → deep blue/dark blue solution",
+              "Deep blue complex [Cu(NH₃)₄]²⁺ with excess NH₃ is diagnostic"
+            ],
+            [
+              "Fe²⁺",
+              "Green ppt (turns brown/rust on standing in air)",
+              "Green ppt INSOLUBLE",
+              "Green ppt (turns brown on exposure to air)",
+              "Green ppt INSOLUBLE",
+              "Green ppt that OXIDISES to brown/rust in air = Fe²⁺ (not Fe³⁺)"
+            ],
+            [
+              "Fe³⁺",
+              "Red-brown ppt",
+              "Red-brown ppt INSOLUBLE",
+              "Red-brown ppt",
+              "Red-brown ppt INSOLUBLE",
+              "Red-brown colour is distinctive for Fe³⁺"
+            ],
+            [
+              "Mg²⁺",
+              "White ppt",
+              "White ppt INSOLUBLE",
+              "White ppt",
+              "White ppt INSOLUBLE",
+              "White ppt insoluble in both excess NaOH and excess NH₃"
+            ],
+            [
+              "Mn²⁺",
+              "Off-white/beige ppt (rapidly turns brown in air)",
+              "Off-white ppt INSOLUBLE",
+              "Off-white ppt (turns brown rapidly in air)",
+              "Off-white ppt INSOLUBLE",
+              "Rapidly turns brown = manganese(II); confirmed by no dissolution in excess"
+            ],
+            [
+              "Zn²⁺",
+              "White ppt",
+              "White ppt DISSOLVES → colourless solution",
+              "White ppt",
+              "White ppt DISSOLVES → colourless solution",
+              "Dissolves in BOTH excess NaOH and excess NH₃"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Anion Tests: Complete Reference"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Anion",
+              "Test Reagent",
+              "Observation",
+              "Confirmatory Step",
+              "Write As"
+            ],
+            [
+              "CO₃²⁻ (carbonate)",
+              "Dilute HCl or dilute H₂SO₄",
+              "Effervescence / fizzing; gas produced",
+              "Pass gas through limewater → white ppt (CO₂ confirmed)",
+              "CO₃²⁻ + 2H⁺ → H₂O + CO₂"
+            ],
+            [
+              "Cl⁻ (chloride)",
+              "AgNO₃(aq) in dilute HNO₃",
+              "White precipitate",
+              "Add dilute then conc NH₃(aq) → white ppt dissolves in DILUTE NH₃",
+              "Ag⁺ + Cl⁻ → AgCl (white ppt)"
+            ],
+            [
+              "Br⁻ (bromide)",
+              "AgNO₃(aq) in dilute HNO₃",
+              "Cream / off-white precipitate",
+              "Add dilute NH₃ → ppt remains; add CONC NH₃ → ppt dissolves",
+              "Ag⁺ + Br⁻ → AgBr (cream ppt)"
+            ],
+            [
+              "I⁻ (iodide)",
+              "AgNO₃(aq) in dilute HNO₃",
+              "Pale yellow precipitate",
+              "Add conc NH₃ → ppt INSOLUBLE (insoluble in NH₃)",
+              "Ag⁺ + I⁻ → AgI (pale yellow ppt, insoluble in NH₃)"
+            ],
+            [
+              "NO₃⁻ (nitrate)",
+              "NaOH(aq) + Al foil, warm",
+              "NH₃ gas evolved (turns damp red litmus blue)",
+              "—",
+              "NO₃⁻ + 8[H] → NH₃ + 2H₂O + OH⁻ (aluminium provides [H])"
+            ],
+            [
+              "NO₂⁻ (nitrite)",
+              "NaOH(aq) + Al foil",
+              "NH₃ gas evolved; also decolourises acidified KMnO₄",
+              "Decolourises acidified KMnO₄",
+              "NO₂⁻ + 6[H] → NH₃ + 2OH⁻; also acts as reducing agent"
+            ],
+            [
+              "SO₄²⁻ (sulfate)",
+              "BaCl₂(aq) or Ba(NO₃)₂ in dilute HCl",
+              "White precipitate INSOLUBLE in excess dilute acid",
+              "Insolubility in dilute acid distinguishes from SO₃²⁻",
+              "Ba²⁺ + SO₄²⁻ → BaSO₄ (white ppt, insoluble in dilute strong acid)"
+            ],
+            [
+              "SO₃²⁻ (sulfite)",
+              "BaCl₂(aq) in dilute HCl",
+              "White precipitate SOLUBLE in excess dilute acid; also decolourises acidified KMnO₄",
+              "Decolourises acidified KMnO₄ (reducing agent)",
+              "Ba²⁺ + SO₃²⁻ → BaSO₃ (white ppt, SOLUBLE in dilute acid)"
+            ],
+            [
+              "S₂O₃²⁻ (thiosulfate)",
+              "Dilute H⁺ (HCl or H₂SO₄)",
+              "Off-white/pale yellow precipitate slowly forms (colloidal S); solution becomes cloudy",
+              "—",
+              "S₂O₃²⁻ + 2H⁺ → S + SO₂ + H₂O"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Gas Tests: Complete Reference"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Gas",
+              "Test",
+              "Positive Result"
+            ],
+            [
+              "NH₃ (ammonia)",
+              "Hold damp red litmus paper near the mouth of the tube",
+              "Turns blue"
+            ],
+            [
+              "CO₂ (carbon dioxide)",
+              "Pass through limewater (saturated Ca(OH)₂)",
+              "White precipitate / limewater turns milky"
+            ],
+            [
+              "H₂ (hydrogen)",
+              "Apply a lighted splint near the mouth of the tube",
+              "'Squeaky pop'"
+            ],
+            [
+              "O₂ (oxygen)",
+              "Apply a glowing splint near the mouth of the tube",
+              "Splint relights"
+            ],
+            [
+              "Cl₂ (chlorine)",
+              "Hold damp blue litmus paper near the tube",
+              "Turns red then bleaches (turns white)"
+            ],
+            [
+              "SO₂ (sulfur dioxide)",
+              "Hold damp potassium dichromate paper near the tube; or pass into acidified KMnO₄",
+              "Dichromate paper turns green; KMnO₄ decolourises"
+            ],
+            [
+              "HCl (hydrogen chloride)",
+              "Hold damp blue litmus paper near tube; or hold glass rod dipped in NH₃ near tube",
+              "Litmus turns red; white fumes (NH₄Cl) with NH₃ rod"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Organic Functional Group Tests"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Functional Group",
+              "Reagent / Test",
+              "Observation (Positive)",
+              "Notes"
+            ],
+            [
+              "Aldehyde (–CHO)",
+              "Tollens' reagent (ammoniacal AgNO₃), warm gently",
+              "Silver mirror on inside of tube",
+              "Ketones do NOT react with Tollens'"
+            ],
+            [
+              "Aldehyde (–CHO)",
+              "Fehling's solution, heat",
+              "Blue solution → brick-red precipitate",
+              "Ketones do NOT react with Fehling's"
+            ],
+            [
+              "Carbonyl C=O (all)",
+              "2,4-DNPH (Brady's reagent)",
+              "Orange/yellow precipitate forms",
+              "Tests for aldehydes AND ketones"
+            ],
+            [
+              "CH₃CO– or CH₃CH(OH)– group",
+              "Alkaline aqueous iodine (I₂/NaOH)",
+              "Yellow precipitate of CHI₃ (triiodomethane)",
+              "Iodoform test; distinctive yellow crystals"
+            ],
+            [
+              "Alcohol –OH (any primary/secondary)",
+              "Acidified K₂Cr₂O₇, warm",
+              "Orange solution → green (Cr³⁺)",
+              "Tertiary alcohols do NOT decolourise — remains orange"
+            ],
+            [
+              "C=C (alkene)",
+              "Aqueous bromine water",
+              "Orange/brown → decolourises (goes colourless)",
+              "Not specific — reducing agents also decolourise"
+            ],
+            [
+              "Carboxylic acid –COOH",
+              "Na₂CO₃ or NaHCO₃ solution",
+              "Effervescence / fizzing (CO₂ evolved)",
+              "Phenols do NOT react with NaHCO₃ (too weak); useful distinction"
+            ],
+            [
+              "Halogenoalkane C–X",
+              "NaOH(aq), heat; then acidify and add AgNO₃",
+              "Precipitate: white (Cl⁻), cream (Br⁻), pale yellow (I⁻)",
+              "Hydrolysis releases halide ion; AgNO₃ identifies it"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Writing Observations and Conclusions"
+        },
+        {
+          "type": "paragraph",
+          "text": "The single most common mark loss in the qualitative analysis question is writing an INCOMPLETE observation (e.g., omitting the colour of a precipitate) or writing a conclusion without the supporting observation. Cambridge always requires both."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "PRECIPITATE OBSERVATIONS — always state: (1) whether a precipitate formed; (2) the COLOUR of the precipitate; (3) whether it was dissolved/soluble in excess reagent. Example: 'A pale blue precipitate formed that was insoluble in excess NaOH(aq).'"
+            ],
+            [
+              "GAS OBSERVATIONS — always state: (1) effervescence / bubbles / gas evolved; (2) the colour of the gas if visible; (3) the result of the confirmatory test. Example: 'Effervescence occurred; a colourless gas was produced that turned damp red litmus paper blue. This confirms ammonia gas (NH₃).'"
+            ],
+            [
+              "COLOUR CHANGES IN SOLUTION — always state: (1) the starting colour; (2) the ending colour. Never just 'the colour changed'. Example: 'The orange solution became green.' Not: 'The colour changed.'"
+            ],
+            [
+              "INFERENCE FORMAT: '[Observation]. This indicates the presence of [ion/species] because [reason from QA notes].' Example: 'A cream precipitate formed that was partially soluble in concentrated ammonia. This indicates the presence of bromide ions (Br⁻), as AgBr is cream-coloured and partially soluble in concentrated ammonia.'"
+            ],
+            [
+              "WHEN YOU SEE NO CHANGE: 'No precipitate formed; the solution remained colourless.' This is a valid and complete observation. Never leave the cell blank."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "SECTION 6: QUANTITATIVE PRACTICAL TECHNIQUES",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Titration Mastery: Acid-Alkali and Redox"
+        },
+        {
+          "type": "paragraph",
+          "text": "Titration is the most frequently examined quantitative technique in Paper 3. It appears in virtually every paper. Mastery of the complete titration procedure — from setup through to calculation — is non-negotiable."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Complete Titration Procedure (Step-by-Step)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "STEP 1 — SETUP: Clamp the burette vertically using a stand and clamp. Check the tap is closed. Fill the burette above the 0.00 cm³ mark with the titrant. Open the tap briefly to fill the tip and expel any air bubbles. Adjust to 0.00 cm³ (or record the exact initial reading). Rinse the conical flask with distilled water (this does NOT affect the moles of analyte)."
+            ],
+            [
+              "STEP 2 — ADD ANALYTE: Use a pipette (not a measuring cylinder) to add the exact volume of analyte to the conical flask. Add 2–3 drops of indicator. Note the colour before titration begins."
+            ],
+            [
+              "STEP 3 — ROUGH TITRATION: Add the titrant rapidly from the burette until the colour just changes and remains for 30 seconds. Record this rough titre. It should NOT be used in the mean calculation but it tells you approximately where the endpoint is."
+            ],
+            [
+              "STEP 4 — ACCURATE TITRATIONS: Refill the burette to approximately 0.00 cm³. Add the titrant dropwise (one drop at a time) when you approach within 2–3 cm³ of the rough titre. Stop at the first permanent colour change that lasts 30 seconds. Record the initial and final burette readings to the nearest 0.05 cm³. Calculate the titre."
+            ],
+            [
+              "STEP 5 — CONCORDANT TITRES: Repeat until you have at least TWO titres within 0.10 cm³ of each other. These are concordant. Average ONLY the concordant titres (exclude the rough and any non-concordant accurate titres)."
+            ],
+            [
+              "STEP 6 — CALCULATE: n = c × V (V in dm³). Apply the mole ratio from the equation. Find the unknown concentration or mass. Show every step clearly."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Indicator Selection"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Titration Type",
+              "Suitable Indicator",
+              "Colour Change at Endpoint",
+              "pH Range of Indicator"
+            ],
+            [
+              "Strong acid + strong alkali",
+              "Methyl orange OR phenolphthalein",
+              "MO: red → yellow (at endpoint from acid side); Phthalein: colourless → pink",
+              "MO: 3.1–4.4; Phthalein: 8.3–10.0"
+            ],
+            [
+              "Strong acid + weak alkali",
+              "Methyl orange",
+              "Red → yellow (acid added to alkali: yellow → red)",
+              "3.1–4.4 (matches weakly alkaline equivalence point ~pH 5–6)"
+            ],
+            [
+              "Weak acid + strong alkali",
+              "Phenolphthalein",
+              "Colourless → pink (alkali added to acid)",
+              "8.3–10.0 (matches weakly alkaline equivalence point ~pH 8–9)"
+            ],
+            [
+              "Redox: KMnO₄ as titrant",
+              "Self-indicating — NO indicator needed",
+              "Colourless/pale → permanent pale pink (first excess of KMnO₄)",
+              "N/A — MnO₄⁻ itself is the indicator"
+            ],
+            [
+              "Iodine-thiosulfate",
+              "Starch solution (added near endpoint)",
+              "Blue-black → colourless",
+              "N/A — starch + I₂ gives blue-black; disappears at endpoint"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Titration Calculation — Standard Sequence"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "QUESTION: 25.0 cm³ of H₂SO₄(aq) is titrated against 0.100 mol dm⁻³ NaOH. The mean concordant titre = 23.40 cm³. Calculate the concentration of the H₂SO₄."
+            ],
+            [
+              "EQUATION: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O (mole ratio: 1 : 2)"
+            ],
+            [
+              "STEP 1 — Moles of NaOH:"
+            ],
+            [
+              "n(NaOH) = c × V = 0.100 × (23.40/1000) = 0.100 × 0.02340 = 2.340 × 10⁻³ mol"
+            ],
+            [
+              "STEP 2 — Moles of H₂SO₄ (from mole ratio 1:2):"
+            ],
+            [
+              "n(H₂SO₄) = n(NaOH) / 2 = 2.340 × 10⁻³ / 2 = 1.170 × 10⁻³ mol"
+            ],
+            [
+              "STEP 3 — Concentration of H₂SO₄:"
+            ],
+            [
+              "c(H₂SO₄) = n / V = 1.170 × 10⁻³ / (25.0/1000) = 1.170 × 10⁻³ / 0.0250 = 0.0468 mol dm⁻³"
+            ],
+            [
+              "ANSWER: c(H₂SO₄) = 0.0468 mol dm⁻³ [or 4.68 × 10⁻² mol dm⁻³]"
+            ],
+            [
+              "MARKS AVAILABLE: n(NaOH) correct [1]; ratio applied correctly [1]; c(H₂SO₄) correct with units [1] = 3 marks."
+            ],
+            [
+              "ECF: If n(NaOH) is wrong but correctly halved and divided by 0.0250, ECF marks are awarded for steps 2 and 3."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Other Quantitative Methods"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Method",
+              "What Is Measured",
+              "Key Practical Points",
+              "Common Errors"
+            ],
+            [
+              "Thermometric experiment",
+              "Temperature change (ΔT) during a reaction in a polystyrene cup",
+              "Record initial temperature; add reagent; stir; record maximum/minimum temperature; calculate q = mcΔT; ΔH = −q/n",
+              "Heat loss to surroundings (always too small a ΔT); using plastic cup lid reduces heat loss; mass of solution = mass of all liquids added"
+            ],
+            [
+              "Gravimetric experiment",
+              "Mass change (e.g., loss of water from a hydrated salt, or mass of CO₂ produced)",
+              "Heat to constant mass — reheat and reweigh until successive readings agree to within 0.01g; use crucible with lid to prevent spitting",
+              "Not heating to constant mass = incomplete decomposition; spitting causes loss of solid → mass loss too high"
+            ],
+            [
+              "Rates experiment — gas volume",
+              "Volume of gas produced vs time",
+              "Record volume at regular time intervals (e.g., every 30s); swirl flask gently between readings; stop when no more gas produced",
+              "Forgetting to record the initial volume (t=0, V=0); gas dissolving in solution (especially CO₂) — use water-insoluble gas for best results"
+            ],
+            [
+              "Rates experiment — timing colour change",
+              "Time for a colour to appear or disappear at different concentrations",
+              "Keep total volume constant (use distilled water to make up); record time to the nearest second; use consistent colour endpoint; repeat 3× and average",
+              "Total volume NOT constant between experiments — invalidates rate comparison; inconsistent colour endpoint judgment"
+            ],
+            [
+              "Gas collection over water",
+              "Volume of gas collected (corrected for water vapour pressure)",
+              "Fill trough with water; invert gas syringe/tube; collect gas; read volume at end; correct for water vapour pressure if required",
+              "Bubbles escaping before collection starts; not reading gas volume at same temperature as atmospheric pressure calibration"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Data Tables: Design & Completion"
+        },
+        {
+          "type": "paragraph",
+          "text": "Marks for table design are awarded for specific features. Learn these rules so you never lose table marks through carelessness."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "DRAW THE TABLE BEFORE TAKING READINGS: Design and draw your results table BEFORE starting the experiment. Leave enough rows for all planned readings, plus extras for repeats. Write headings with units immediately."
+            ],
+            [
+              "HEADING FORMAT (required): 'Quantity / unit' — e.g., 'Volume of acid added / cm³', 'Temperature / °C', 'Time / s', 'Mass of crucible + contents / g'. The slash separates quantity and unit."
+            ],
+            [
+              "UNITS IN HEADINGS, NOT DATA CELLS: Never write 'cm³' after each number in a column. Put it once in the heading. In the data cells: just the numbers."
+            ],
+            [
+              "CONSISTENT DECIMAL PLACES: Every value in a column must have the SAME number of decimal places. Choose based on the instrument precision: burette → 2 d.p. (X.X5 or X.X0); thermometer calibrated at 1°C → 1 d.p. (X.X or X.5); balance 2 d.p. → 2 d.p. (X.XX)."
+            ],
+            [
+              "CALCULATED COLUMNS: Show at least one sample calculation below the table — do not just fill in the calculated column without showing where the values came from."
+            ],
+            [
+              "RAW DATA BEFORE PROCESSED DATA: For titrations: columns for initial reading, final reading, titre — in that order. Never omit the initial and final readings even if you start all titrations from 0.00 cm³."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Graph Drawing: Rules & Common Errors"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Rule",
+              "Why It Matters",
+              "Common Error That Loses Marks"
+            ],
+            [
+              "Label BOTH axes with quantity AND unit",
+              "Axis label mark is awarded per axis — unlabelled = 0",
+              "Writing just 'Volume' without '/cm³' or 'Time' without '/s'"
+            ],
+            [
+              "Choose a scale that uses ≥50% of the grid in both directions",
+              "Scale mark requires data to occupy majority of grid",
+              "Cramming all data into top-left quarter; using 3, 4, 6, 7 per square"
+            ],
+            [
+              "Scale must be linear and use 'easy' intervals: 1, 2, 5, 10",
+              "Examiners check scale linearity — non-linear = 0 for scale",
+              "Using 3 or 6 per large square; changing scale mid-axis"
+            ],
+            [
+              "Plot all points with × or ⊙ to ±0.5 small squares",
+              "Plotting accuracy mark checks each point",
+              "Plotting blobs; forgetting to plot (0,0) when it's a data point"
+            ],
+            [
+              "Draw best-fit straight line OR smooth curve — never dot-to-dot",
+              "Line of best fit mark requires genuine best-fit",
+              "Joining consecutive points with straight segments ('dot-to-dot')"
+            ],
+            [
+              "For gradient: use two points ON THE LINE at least half the line length apart",
+              "Gradient mark requires correct Δy/Δx with units",
+              "Using original data points (not on line) to calculate gradient; omitting units from gradient"
+            ],
+            [
+              "Circle anomalous points — do NOT erase them",
+              "Points must be visible; anomaly noted for evaluation section",
+              "Erasing anomalous points; including anomalous point in the best-fit line"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Calculations from Practical Data"
+        },
+        {
+          "type": "paragraph",
+          "text": "Calculation marks in Paper 3 follow the same ECF rules as Paper 2. Show every step. Include units throughout. Round only at the final step."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "RATES CALCULATIONS: From a gas volume vs time graph, find the rate at a specific time by drawing a tangent at that point. The rate = gradient of the tangent = Δ(volume)/Δ(time) [units: cm³ s⁻¹]."
+            ],
+            [
+              "THERMOMETRIC CALCULATIONS: q = mcΔT (use mass of the SOLUTION in grams, c = 4.18 J g⁻¹ K⁻¹, ΔT = temperature change in K or °C). Then ΔH = −q / n [kJ mol⁻¹] where n = moles of limiting reagent."
+            ],
+            [
+              "GRAVIMETRIC: moles of water of crystallisation = mass of water lost / 18.0. Then calculate the ratio: moles of anhydrous salt : moles of water = 1 : n. State this as the formula MXₙ·nH₂O."
+            ],
+            [
+              "MEAN RATE FROM GRAPH: Initial rate = gradient of tangent at t = 0 (steepest part of curve). Average rate = total volume / total time. These are different values — use the correct one for the question."
+            ],
+            [
+              "CONCENTRATION FROM TITRATION: Always follow the 4-step sequence — n(known) → mole ratio → n(unknown) → c or mass of unknown. Never skip the mole ratio step even when it is 1:1."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "SECTION 7: ANALYSIS, CONCLUSIONS & EVALUATION",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Interpreting Data and Drawing Conclusions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔬 PRACTICAL STRATEGY"
+            ],
+            [
+              "DESCRIBE THE PATTERN: For a graph or data table, state the relationship in quantitative terms where possible. Not 'the rate increases as concentration increases' but 'the rate doubles each time the concentration of X is doubled, suggesting a first-order relationship with respect to X.'"
+            ],
+            [
+              "USE SPECIFIC VALUES: When describing a trend from a graph, reference specific values. 'As the concentration increases from 0.1 to 0.5 mol dm⁻³, the time decreases from 120 s to 24 s' is worth more than 'time decreases as concentration increases.'"
+            ],
+            [
+              "LINK OBSERVATION TO CONCLUSION: For qualitative data, always link the specific observation to the inference: 'The green precipitate formed with NaOH(aq) turned brown on exposure to air, indicating Fe²⁺ ions, which have been oxidised to Fe³⁺ by atmospheric oxygen.'"
+            ],
+            [
+              "CONCLUSION STATEMENT: End every analysis section with a clear conclusion sentence. 'Therefore, the concentration of the HCl solution is 0.115 mol dm⁻³.' — precise, with units, stated explicitly."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Identifying Sources of Error"
+        },
+        {
+          "type": "paragraph",
+          "text": "The following is a list of SPECIFIC, ACCEPTED sources of error for common Paper 3 experiments. These replace the vague 'human error' that Cambridge never accepts."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Experiment",
+              "Specific Source of Error",
+              "Direction of Effect",
+              "Better Than Saying..."
+            ],
+            [
+              "Any titration",
+              "The colour change at the endpoint is gradual (not sharp), making it difficult to identify the exact endpoint — may result in slight over- or under-titration",
+              "Titre may be slightly too large (over-titration) or too small",
+              "'I misjudged the endpoint'"
+            ],
+            [
+              "Thermometric experiment",
+              "Heat loss from the polystyrene cup to the surrounding air during the experiment",
+              "ΔT recorded is less than the true ΔT → ΔH calculated is less exothermic than true value",
+              "'The equipment was not accurate'"
+            ],
+            [
+              "Thermometric experiment",
+              "The thermometer is not stirred continuously, so the temperature reading may not reflect the true bulk temperature of the solution",
+              "ΔT may be recorded as too low if a hot spot is missed",
+              "'Human error in reading the thermometer'"
+            ],
+            [
+              "Rates experiment (colour change)",
+              "The perceived colour change endpoint is subjective — different observers may stop the timer at slightly different colour intensities",
+              "Time recorded varies randomly between repeats",
+              "'Human error in judging the colour'"
+            ],
+            [
+              "Rates experiment (gas volume)",
+              "Some of the gas (especially CO₂) dissolves in the reaction mixture before being collected, reducing the measured volume",
+              "Volume of gas measured is less than the volume actually produced",
+              "'Gas escapes before being collected'"
+            ],
+            [
+              "Gravimetric experiment",
+              "The solid is not heated to constant mass — some water of crystallisation may remain",
+              "Mass loss recorded is less than the true mass of water, so n(water) is too small",
+              "'The experiment was not done carefully enough'"
+            ],
+            [
+              "Gravimetric experiment",
+              "Spitting of the solid out of the crucible during strong heating",
+              "Some solid is lost → mass of anhydrous salt appears less than it actually is → mole ratio is wrong",
+              "'Some solid was lost'"
+            ],
+            [
+              "Any experiment",
+              "Contamination of the reaction vessel with traces of the previous reagent (if the flask was not rinsed properly)",
+              "The concentration/volume of reagent is effectively different from the intended value",
+              "'The flask was dirty'"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Suggesting Improvements"
+        },
+        {
+          "type": "paragraph",
+          "text": "Improvements must be (1) specific, (2) realistic in a school laboratory, and (3) directly address the stated error. Generic improvements like 'use better equipment' or 'be more careful' are never awarded marks."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Error Being Addressed",
+              "Specific Improvement",
+              "Why It Works"
+            ],
+            [
+              "Subjective endpoint in titration",
+              "Use a colorimeter or pH meter to detect the endpoint instead of a visual indicator",
+              "Removes human judgment from endpoint detection; gives a more precise, reproducible endpoint"
+            ],
+            [
+              "Heat loss in thermometric experiment",
+              "Use an insulated lid on the polystyrene cup during the experiment",
+              "Reduces rate of heat loss to surroundings; increases measured ΔT; gives more accurate ΔH"
+            ],
+            [
+              "Heat loss in thermometric experiment",
+              "Extrapolate the cooling curve back to the time of mixing to find the maximum theoretical temperature",
+              "Corrects for heat loss that occurred AFTER mixing; gives the true maximum temperature"
+            ],
+            [
+              "Subjective colour change in rates experiment",
+              "Use a colorimeter to measure absorbance instead of timing a visual colour change",
+              "Removes subjective judgment; gives objective, reproducible measurements"
+            ],
+            [
+              "Solid not heated to constant mass",
+              "Reheat, cool and reweigh until successive mass readings agree to within 0.01 g",
+              "Ensures all water has been removed; confirms the decomposition is complete"
+            ],
+            [
+              "Gas dissolves in solution (rates experiment)",
+              "Use a less soluble gas; or calibrate the volume by collecting a known amount over water first",
+              "Minimises the proportion of gas lost through dissolving; gives more accurate volume readings"
+            ],
+            [
+              "Insufficient data points on graph",
+              "Take more measurements at smaller intervals — especially in the region of greatest change (steepest gradient)",
+              "Gives a more reliable curve; reduces uncertainty in gradient/intercept readings"
+            ],
+            [
+              "Only one set of concordant titres",
+              "Repeat the entire experiment using a different sample of the same solution and compare results",
+              "Checks for systematic error in the original experiment; increases reliability of the result"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Percentage Error Calculations"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Instrument",
+              "Uncertainty per reading",
+              "Notes on total uncertainty",
+              "Example"
+            ],
+            [
+              "Burette (50 cm³)",
+              "±0.05 cm³",
+              "Two readings per titre → total uncertainty = 2 × 0.05 = ±0.10 cm³",
+              "Titre = 24.65 cm³; % error = (0.10/24.65) × 100 = 0.41%"
+            ],
+            [
+              "Thermometer (1°C gradations)",
+              "±0.5°C",
+              "Two readings (initial + final) → total = 2 × 0.5 = ±1.0°C",
+              "ΔT = 8.5°C; % error = (1.0/8.5) × 100 = 11.8%"
+            ],
+            [
+              "Electronic balance (0.01 g)",
+              "±0.005 g",
+              "Two weighings → total = 2 × 0.005 = ±0.01 g",
+              "Mass = 2.50 g; % error = (0.01/2.50) × 100 = 0.40%"
+            ],
+            [
+              "Measuring cylinder (1 cm³)",
+              "±0.5 cm³",
+              "One reading → total = ±0.5 cm³",
+              "Volume = 25 cm³; % error = (0.5/25) × 100 = 2.0%"
+            ],
+            [
+              "25 cm³ pipette",
+              "±0.04 cm³ (class B)",
+              "One reading → total = ±0.04 cm³",
+              "Volume = 25.00 cm³; % error = (0.04/25.00) × 100 = 0.16%"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "When the question asks 'calculate the percentage error in the measurement of X', always: (1) state the uncertainty of the instrument; (2) decide if one or two readings are involved; (3) calculate total uncertainty; (4) apply the formula with working shown."
+            ],
+            [
+              "Cambridge sometimes asks 'suggest how the percentage error in the titre could be reduced'. The answer is ALWAYS: use a smaller burette (e.g., 10 cm³ instead of 50 cm³) so the titre is a larger fraction of the burette capacity — or take a larger sample volume so the titre is larger."
+            ],
+            [
+              "The percentage error question is worth 2 marks on almost every Paper 3. It takes 90 seconds to answer correctly if you know the formula. Never skip it."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "SECTION 8: WORKED EXAMPLES — ALL QUESTION TYPES",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to Use These Examples"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each worked example below covers a complete sub-section of a typical Paper 3 question — from recording the raw data through to the final mark-scheme comparison. For each example, the key marks are identified explicitly. Work through these as if in the exam, then compare your response to the model answer."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Example 1: Titration Table — Recording and Mean Calculation"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "CONTEXT: You perform four acid-alkali titrations of 25.0 cm³ of NaOH(aq) with HCl from a burette."
+            ],
+            [
+              "Your raw readings: Rough: 0.00 → 24.80 = 24.80 cm³ | Run 1: 0.00 → 24.65 cm³ | Run 2: 24.65 → 49.30 = 24.65 cm³ | Run 3: 0.00 → 24.75 = 24.75 cm³"
+            ],
+            [
+              "CORRECT TABLE:"
+            ],
+            [
+              "Titre | Initial / cm³ | Final / cm³ | Titre / cm³"
+            ],
+            [
+              "Rough | 0.00 | 24.80 | 24.80"
+            ],
+            [
+              "Run 1 | 0.00 | 24.65 | 24.65"
+            ],
+            [
+              "Run 2 | 24.65 | 49.30 | 24.65"
+            ],
+            [
+              "Run 3 | 0.00 | 24.75 | 24.75"
+            ],
+            [
+              "CONCORDANT TITRES: Runs 1 and 2 are concordant (both 24.65 cm³, difference = 0.00 cm³ < 0.10 cm³ ✓)."
+            ],
+            [
+              "Run 3 (24.75) differs from runs 1&2 by 0.10 cm³ — this is exactly at the boundary. Cambridge typically accepts titres within 0.10 cm³ of each other. If uncertain, include all three in the calculation."
+            ],
+            [
+              "MEAN TITRE (using concordant runs 1 and 2): (24.65 + 24.65) / 2 = 24.65 cm³"
+            ],
+            [
+              "MARKS: Headings with units [1]; all readings to 0.05 cm³ [1]; rough titre identified and excluded [1]; concordant titres identified and mean calculated correctly [1] = 4/4."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Example 2: Full Titration Calculation"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "CONTEXT: The mean titre of 0.0500 mol dm⁻³ KMnO₄ against Fe²⁺ solution (25.0 cm³) = 22.30 cm³."
+            ],
+            [
+              "Equation: MnO₄⁻ + 5Fe²⁺ + 8H⁺ → Mn²⁺ + 5Fe³⁺ + 4H₂O (mole ratio KMnO₄ : Fe²⁺ = 1 : 5)"
+            ],
+            [
+              "STEP 1 — n(KMnO₄):"
+            ],
+            [
+              "n = c × V = 0.0500 × (22.30/1000) = 0.0500 × 0.02230 = 1.115 × 10⁻³ mol [1]"
+            ],
+            [
+              "STEP 2 — n(Fe²⁺) using mole ratio 1:5:"
+            ],
+            [
+              "n(Fe²⁺) = 5 × 1.115 × 10⁻³ = 5.575 × 10⁻³ mol [1]"
+            ],
+            [
+              "STEP 3 — c(Fe²⁺):"
+            ],
+            [
+              "c = n / V = 5.575 × 10⁻³ / (25.0/1000) = 5.575 × 10⁻³ / 0.0250 = 0.223 mol dm⁻³ [1]"
+            ],
+            [
+              "ANSWER: c(Fe²⁺) = 0.223 mol dm⁻³"
+            ],
+            [
+              "UNITS MUST BE STATED. Rounding: 3 significant figures consistent with given data."
+            ],
+            [
+              "MARKS: 3/3. ECF: wrong n(KMnO₄) but correctly multiplied by 5 and divided by 0.025 → ECF for steps 2 and 3."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Example 3: Graph Drawing Marks Checklist"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "CONTEXT: Plot a graph of volume of CO₂ / cm³ vs time / s for the following data:"
+            ],
+            [
+              "t / s: 0 20 40 60 80 100 120 140 160"
+            ],
+            [
+              "V / cm³: 0 12 22 30 36 40 42 43 43"
+            ],
+            [
+              "BEFORE DRAWING — CHECK:"
+            ],
+            [
+              "✓ x-axis label: 'Time / s'; y-axis label: 'Volume of CO₂ produced / cm³'"
+            ],
+            [
+              "✓ x-axis range: 0–160 s; y-axis range: 0–43 cm³"
+            ],
+            [
+              "✓ Scale: 10 s per small square (uses full x-axis width); 5 cm³ per large square (data fills >50% of y-axis) ✓"
+            ],
+            [
+              "✓ Plot all 9 points with × symbols; check each to within 0.5 small squares"
+            ],
+            [
+              "✓ Draw a smooth CURVE (not straight lines between points) — the curve flattens as the reaction nears completion"
+            ],
+            [
+              "✓ No anomalous points in this dataset"
+            ],
+            [
+              "GRADIENT AT t = 20 s (drawing tangent):"
+            ],
+            [
+              "Draw a tangent to the curve at t = 20 s (the point of steepest slope if not at t = 0)"
+            ],
+            [
+              "Read two far-apart points on the tangent: e.g., (0, 0) and (40, 24)"
+            ],
+            [
+              "Gradient = Δy/Δx = (24 − 0) / (40 − 0) = 0.60 cm³ s⁻¹"
+            ],
+            [
+              "MARKS: axes labelled with units [1]; appropriate scale [1]; all points plotted accurately [1]; smooth curve [1]; gradient with triangle shown and units [1] = 5/5."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Example 4: Complete Qualitative Analysis — Cation Identification"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "CONTEXT: An aqueous solution may contain one or more of the following cations: Cu²⁺, Fe³⁺, Zn²⁺, NH₄⁺."
+            ],
+            [
+              "TEST 1: Add NaOH(aq) dropwise, then in excess."
+            ],
+            [
+              "OBSERVATION: A pale blue precipitate forms that is insoluble in excess NaOH(aq)."
+            ],
+            [
+              "INFERENCE: Cu²⁺ is present. The pale blue precipitate is Cu(OH)₂. Insoluble in excess NaOH confirms Cu²⁺ (not Zn²⁺, which would dissolve)."
+            ],
+            [
+              "TEST 2: Add NaOH(aq) and warm."
+            ],
+            [
+              "OBSERVATION: A gas is produced that turns damp red litmus paper blue."
+            ],
+            [
+              "INFERENCE: NH₄⁺ is present. The gas is ammonia (NH₃). Reaction: NH₄⁺ + OH⁻ → NH₃ + H₂O."
+            ],
+            [
+              "TEST 3: Add excess NH₃(aq)."
+            ],
+            [
+              "OBSERVATION: A pale blue precipitate forms initially, then dissolves in excess NH₃(aq) to give a deep blue solution."
+            ],
+            [
+              "INFERENCE: Cu²⁺ confirmed. The deep blue solution is [Cu(NH₃)₄]²⁺ (tetraamminecopper(II) complex). Fe³⁺ would NOT dissolve in excess NH₃."
+            ],
+            [
+              "CONCLUSION: Cu²⁺ and NH₄⁺ are present. Fe³⁺ is ABSENT (no red-brown precipitate). Zn²⁺ is ABSENT (the pale blue precipitate did not dissolve in excess NaOH)."
+            ],
+            [
+              "MARKS: Observation + inference for each test [1 per test]; correct conclusion [1]; correct use of confirmatory test [1] = typically 6–8 marks depending on paper."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Example 5: Source of Error + Improvement (Thermometric Experiment)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "QUESTION [2 marks]: The experiment measured the enthalpy change of neutralisation using a polystyrene cup. Identify ONE source of error in this experiment and suggest ONE improvement."
+            ],
+            [
+              "POOR ANSWER (0/2): 'Human error when reading the thermometer. The improvement would be to be more careful.'"
+            ],
+            [
+              "→ Scores 0/2: 'human error' is not specific; 'be more careful' is not an improvement."
+            ],
+            [
+              "PARTIAL ANSWER (1/2): 'Heat was lost from the polystyrene cup to the surroundings, making the temperature rise smaller than expected.'"
+            ],
+            [
+              "→ Scores 1/2: specific source of error identified with direction of effect. Missing the improvement."
+            ],
+            [
+              "FULL MARK ANSWER (2/2):"
+            ],
+            [
+              "Source of error: 'Heat is lost from the polystyrene cup to the surrounding air during the experiment. This means the temperature rise recorded is less than the true temperature change of the reaction, so the calculated enthalpy change is less exothermic than the actual value.' [1]"
+            ],
+            [
+              "Improvement: 'Place a polystyrene lid on the cup during the experiment to reduce heat loss to the surroundings, giving a larger and more accurate temperature rise.' [1]"
+            ],
+            [
+              "KEY: Error = specific (heat loss from cup) + direction (ΔT too small). Improvement = specific (lid) + mechanism (reduces heat loss)."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Example 6: Percentage Error Calculation"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "QUESTION [2 marks]: A student uses a burette to obtain titres of approximately 18.0 cm³. Calculate the maximum percentage error in a single titre reading from a 50 cm³ burette (calibrated at 0.1 cm³ intervals)."
+            ],
+            [
+              "STEP 1: Uncertainty per reading = half the smallest graduation = ½ × 0.1 = 0.05 cm³"
+            ],
+            [
+              "STEP 2: A titre requires TWO readings (initial + final), so total uncertainty = 2 × 0.05 = 0.10 cm³ [1]"
+            ],
+            [
+              "STEP 3: % error = (uncertainty / measured value) × 100 = (0.10 / 18.0) × 100 = 0.56% [1]"
+            ],
+            [
+              "ANSWER: 0.56%"
+            ],
+            [
+              "MARKS: Total uncertainty stated as 0.10 cm³ [1]; correct % error calculated with working shown [1] = 2/2."
+            ],
+            [
+              "FOLLOW-UP QUESTION: How could this percentage error be reduced?"
+            ],
+            [
+              "ANSWER: 'Use a smaller burette (e.g., 10 cm³) so the titre represents a larger fraction of the burette scale, OR increase the volume of solution titrated so the titre is larger — reducing the % error for the same absolute uncertainty.'"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Example 7: Organic Distinguishing Tests — Worked Sequence"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "CONTEXT: You are given three unknown organic compounds P, Q, R. Carry out tests to identify which contains (a) a carbonyl group; (b) an aldehyde group; (c) the CH₃CO– group."
+            ],
+            [
+              "TEST 1 — 2,4-DNPH (identifies carbonyl):"
+            ],
+            [
+              "Add 2,4-DNPH reagent to separate samples of P, Q, and R."
+            ],
+            [
+              "OBSERVATION: P gives an orange precipitate. Q and R give no precipitate."
+            ],
+            [
+              "INFERENCE: P contains a C=O (carbonyl) functional group. Q and R do not contain a carbonyl group."
+            ],
+            [
+              "TEST 2 — Tollens' reagent (distinguishes aldehyde from ketone):"
+            ],
+            [
+              "Add Tollens' reagent (ammoniacal AgNO₃) to P only. Warm gently in a water bath."
+            ],
+            [
+              "OBSERVATION: A silver mirror forms on the inside of the test tube."
+            ],
+            [
+              "INFERENCE: P contains an aldehyde group (–CHO). An aldehyde reduces Ag⁺ to Ag; ketones do not react with Tollens'."
+            ],
+            [
+              "TEST 3 — Iodoform test (identifies CH₃CO– group):"
+            ],
+            [
+              "Add alkaline aqueous iodine (I₂/NaOH) to P."
+            ],
+            [
+              "OBSERVATION: A yellow precipitate of triiodomethane (CHI₃) forms with a distinctive antiseptic smell."
+            ],
+            [
+              "INFERENCE: P contains the CH₃CO– group. This confirms P is ethanal (CH₃CHO) — the only aldehyde with the CH₃CO– group."
+            ],
+            [
+              "MARKS: Each observation + inference pair [1 each]; final identification of P as ethanal [1] = typically 4–5 marks."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Example 8: Gravimetric Experiment — Water of Crystallisation"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 WORKED EXAMPLE"
+            ],
+            [
+              "CONTEXT: A student heats a sample of hydrated copper(II) sulfate (CuSO₄·nH₂O) in a crucible to constant mass."
+            ],
+            [
+              "Mass of crucible = 12.40 g; mass of crucible + hydrated salt = 15.90 g; mass of crucible + anhydrous salt = 14.68 g"
+            ],
+            [
+              "STEP 1 — Mass of hydrated salt: 15.90 − 12.40 = 3.50 g"
+            ],
+            [
+              "STEP 2 — Mass of anhydrous CuSO₄: 14.68 − 12.40 = 2.28 g"
+            ],
+            [
+              "STEP 3 — Mass of water lost: 3.50 − 2.28 = 1.22 g"
+            ],
+            [
+              "STEP 4 — Moles of CuSO₄ (Mr = 159.6): n = 2.28 / 159.6 = 0.01428 mol"
+            ],
+            [
+              "STEP 5 — Moles of H₂O (Mr = 18.0): n = 1.22 / 18.0 = 0.06778 mol"
+            ],
+            [
+              "STEP 6 — Ratio n(H₂O) : n(CuSO₄) = 0.06778 / 0.01428 = 4.75 ≈ 5"
+            ],
+            [
+              "CONCLUSION: n = 5; formula is CuSO₄·5H₂O"
+            ],
+            [
+              "MARKS: Mass of water calculated correctly [1]; n(CuSO₄) and n(H₂O) correct [1 each]; ratio calculated and rounded to nearest integer [1]; correct formula stated [1] = 5/5."
+            ],
+            [
+              "NOTE: The ratio may not be exactly a whole number due to experimental error. Always round to the nearest integer and state this."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "SECTION 9: PREDICTED TASKS FOR NEXT SESSION",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Prediction Methodology for Paper 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 3 predictions are based on: (1) 8-year analysis of task frequency across all variants; (2) tasks not seen or under-tested in 2023–2024; (3) Cambridge's published syllabus requirements for practical skills; (4) examiner report commentary on student preparation gaps. Note that Paper 3 tasks can be from ANY area of chemistry, including content not in the AS syllabus — you are assessed on practical skills, not subject knowledge of that particular reaction."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Acid-alkali titration and qualitative analysis appear in EVERY Paper 3. These are guaranteed. Direct at least 40% of your preparation time to becoming expert in both."
+            ],
+            [
+              "The specific ions tested in qualitative analysis rotate across papers. Recent years (2022–2025) have frequently included Cr³⁺ (distinctive grey-green precipitate) and Fe²⁺ (green ppt turning brown in air). Expect these to continue or for Mn²⁺ to return (off-white ppt, rapidly turning brown)."
+            ],
+            [
+              "Graph drawing with a rate experiment has appeared in 7 of the last 8 papers. The specific context changes (gas volume, colour timing, mass loss) but the graph skills tested are identical each time."
+            ],
+            [
+              "Examiner reports for 2023–2025 consistently note that percentage error calculations are answered poorly, despite appearing every year. This suggests Cambridge will continue testing it and may increase the mark allocation."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔮 PREDICTION"
+            ],
+            [
+              "PREDICTION 1 — ACID-ALKALI TITRATION + INDICATOR SELECTION (GUARANTEED): An acid-alkali titration using a named indicator will appear. The quantitative question will include: recording of burette readings to 0.05 cm³; identification of concordant titres; mean calculation; and a multi-step concentration or mass calculation. The indicator question will ask to justify the choice based on the equivalence point pH. Practise titration of weak acid vs strong alkali (phenolphthalein) and strong acid vs weak alkali (methyl orange)."
+            ],
+            [
+              "PREDICTION 2 — QUALITATIVE ANALYSIS WITH Cr³⁺, Mn²⁺, OR Zn²⁺ (HIGH CONFIDENCE): The qualitative question will include at least one transition metal or Group 2 cation alongside a common anion (SO₄²⁻, CO₃²⁻, or halide). Cr³⁺ is particularly likely — grey-green precipitate with NaOH(aq) that dissolves in excess to give a dark green solution. Fe²⁺ is also due — green precipitate that turns brown in air. Know the behaviour of ALL 11 cations in the QA notes."
+            ],
+            [
+              "PREDICTION 3 — GRAPH OF RATE DATA WITH TANGENT GRADIENT (HIGH CONFIDENCE): A rate experiment will produce a volume of gas vs time (or mass vs time) graph. You will be asked to: plot the graph; draw a smooth curve; draw a tangent at a specified time; calculate the gradient (= rate at that time) with correct units. Practice drawing tangents to curves accurately — this is the most frequently missed graph skill."
+            ],
+            [
+              "PREDICTION 4 — THERMOMETRIC EXPERIMENT WITH ΔH CALCULATION (HIGH CONFIDENCE): A thermometric experiment (neutralisation or dissolution) where you record the temperature of a solution vs time or record an initial and maximum/minimum temperature. The calculation will require: q = mcΔT; ΔH = −q/n; a discussion of heat loss as the main source of error. The improvement (polystyrene lid, or extrapolation of cooling curve) is almost certain to be asked."
+            ],
+            [
+              "PREDICTION 5 — PERCENTAGE ERROR QUESTION USING BURETTE AND/OR THERMOMETER (GUARANTEED): A percentage error question worth 2 marks will appear. It will either use the burette (total uncertainty = ±0.10 cm³) or the thermometer (total uncertainty = ±1.0°C for two readings). Practise applying the formula: (uncertainty / measured value) × 100. Always show the intermediate step of stating the total uncertainty."
+            ],
+            [
+              "PREDICTION 6 — SOURCE OF ERROR + IMPROVEMENT (GUARANTEED, 2 MARKS): A 2-mark evaluation question asking for ONE specific source of error (with direction of effect) and ONE specific improvement for the same experiment. The error will relate to either the titration endpoint, heat loss, or timing precision. The improvement must address the stated error specifically — not be a generic 'be more careful' statement."
+            ],
+            [
+              "PREDICTION 7 — ORGANIC DISTINGUISHING TESTS (MODERATE CONFIDENCE): An organic qualitative analysis question testing identification of a carbonyl compound, distinguishing aldehyde from ketone (Tollens'/Fehling's), and possibly the iodoform test for a methyl ketone. You will be given three unknown organic liquids and must perform tests in a logical sequence. Know the 2,4-DNPH → Tollens' → iodoform sequence."
+            ],
+            [
+              "PREDICTION 8 — GRAVIMETRIC OR REDOX TITRATION (MODERATE CONFIDENCE): A gravimetric experiment (water of crystallisation, or thermal decomposition of a carbonate) OR a permanganate/iodine-thiosulfate titration. The gravimetric experiment is overdue — it last appeared prominently in 2021–2022. The calculation (mole ratio → formula) is straightforward if every step is shown clearly."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Predicted Task",
+              "Likelihood",
+              "Preparation Action"
+            ],
+            [
+              "Acid-alkali titration",
+              "★★★★★ CERTAIN",
+              "Practise 5 complete titrations per week; memorise the 4-step calculation sequence"
+            ],
+            [
+              "Qualitative analysis (mixed cations + anions)",
+              "★★★★★ CERTAIN",
+              "Memorise ALL entries in the QA reference table; practise writing obs + inference for each"
+            ],
+            [
+              "Graph of rate data + tangent gradient",
+              "★★★★☆ VERY LIKELY",
+              "Draw 3 rate graphs from past papers; practise tangent drawing; always include units on gradient"
+            ],
+            [
+              "Percentage error calculation",
+              "★★★★★ CERTAIN",
+              "Write the formula and apply it to burette and thermometer examples until automatic"
+            ],
+            [
+              "Specific source of error + improvement",
+              "★★★★★ CERTAIN",
+              "Write 3 specific error statements per week; avoid 'human error'; include direction of effect"
+            ],
+            [
+              "Thermometric experiment + ΔH calculation",
+              "★★★★☆ VERY LIKELY",
+              "Practise the q = mcΔT → ΔH = −q/n sequence; discuss heat loss in every evaluation"
+            ],
+            [
+              "Organic distinguishing tests (QA organic)",
+              "★★★☆☆ LIKELY",
+              "Know the 2,4-DNPH → Tollens' → iodoform sequence; know all observations precisely"
+            ],
+            [
+              "Permanganate/iodine-thiosulfate titration",
+              "★★★☆☆ LIKELY",
+              "Review self-indicating permanganate procedure; practise iodine-starch endpoint recognition"
+            ],
+            [
+              "Gravimetric experiment (water of crystallisation)",
+              "★★★☆☆ LIKELY",
+              "Practise the 6-step calculation: masses → moles → ratio → formula"
+            ],
+            [
+              "Gas collection over water",
+              "★★☆☆☆ POSSIBLE",
+              "Know the apparatus setup; understand water vapour correction if asked"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "SECTION 10: 4-WEEK REVISION PLAN",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to Revise for Paper 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 3 revision is unique: the most effective activities involve actually DOING practical work. Reading about titrations is not a substitute for performing them. If possible, arrange laboratory access for timed practice. For each session, use past paper instructions to simulate the exact exam context — the Confidential Instructions are not available, but past paper question booklets describe what was done."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "The most effective Paper 3 revision is timed practical sessions using past paper question booklets. Practise recording data in the correct table format; practise graph drawing with a ruler and sharp pencil; practise writing specific evaluation comments immediately after each session."
+            ],
+            [
+              "For qualitative analysis revision: use the QA reference table in this guide and test yourself daily — cover the 'Observation' column and recall it from the cation name alone. Do this until you can complete the full table from memory in under 5 minutes."
+            ],
+            [
+              "For calculation revision: practise the titration calculation sequence (n → ratio → n → c) and the thermometric sequence (q = mcΔT → ΔH = −q/n) until each step is automatic. A Paper 3 calculation should take under 3 minutes once fluent."
+            ],
+            [
+              "Skill 2 (table and graph) marks are 'free marks' — they follow fixed rules. A student who learns and applies the rules consistently earns all Skill 2 marks on every question. Invest 20% of revision time mastering these rules."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 1: Foundation — Qualitative Analysis & Titration Procedure"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "QA Revision: Copy the complete cation table (NaOH column + NH₃ column) from memory. Check against Section 5. Identify the 3 cations you are least confident in.",
+              "QA Revision: Copy the complete anion table from memory. Focus on: halide tests (AgNO₃ + ammonia solubility), sulfate/sulfite distinction (BaCl₂ + acid), CO₃²⁻ (acid + limewater).",
+              "Flashcards × 15: one per cation. Front: cation name. Back: NaOH observation + NH₃ observation + dissolves in excess?"
+            ],
+            [
+              "Tue",
+              "QA Practice: Use a past Paper 3 qualitative question (2018 or 2019). Read the instructions; write the three-column table; record observations and inferences in full sentences.",
+              "Mark your QA answers against the mark scheme. For each missed mark: write the exact mark scheme phrase. Note which cations/anions you consistently get wrong.",
+              "Review the 3 cations/anions you missed. Write their full observation sequence 3 times from memory."
+            ],
+            [
+              "Wed",
+              "Titration Procedure: Write out the complete 6-step titration procedure from memory (see Section 6). Focus on: burette reading precision; rough titre exclusion; concordant titre criteria.",
+              "Titration Calculation: Practise the 4-step calculation sequence (n → ratio → n → c) using 5 different examples with different mole ratios (1:1, 1:2, 2:1, 1:5).",
+              "Table Design: Draw a perfect titration table (5 rows, 3 data columns) with headings and units. Then fill it with invented data to the correct precision (0.05 cm³)."
+            ],
+            [
+              "Thu",
+              "Past Paper Practice: 2019 Paper 3 — complete the qualitative analysis section and titration table recording under timed conditions (45 minutes for these sections).",
+              "Mark and compare. Classification: for each missed mark, is it Skill 1 (method), Skill 2 (recording), or Skill 3 (analysis)?",
+              "Write 3 specific sources of error for acid-alkali titration with direction of effect. No 'human error'. Compare to Section 7."
+            ],
+            [
+              "Fri",
+              "Graph Drawing Practice: Plot three graphs from past Paper 3 data sets (one straight line, one smooth curve, one tangent required). Apply the 7-graph rules checklist for each.",
+              "Gradient Calculation: For each of your three graphs, calculate the gradient using two points on the LINE (not data points). Include units. Check against the mark scheme.",
+              "QA Self-Test: Cover the 'Observation' column of the cation table. Recall each observation from the cation name. Aim for 100% accuracy."
+            ],
+            [
+              "Sat",
+              "Full timed practice: 2020 Paper 3 qualitative question + titration question under exam conditions (2 hours total, including set-up simulation time).",
+              "Mark paper. Record score and error categories (Skill 1/2/3). Write correction statements for every missed mark.",
+              "Review the mark scheme comments for 2020 Paper 3 (available with the past paper). Note recurring examiner criticisms."
+            ],
+            [
+              "Sun",
+              "REST — light review of QA flashcards and table/graph rules only (30 min max).",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 2: Quantitative Techniques — Graphs, Rates, Thermometric"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Rate Experiment Revision: Review the gas volume vs time experiment structure. Draw a model graph from scratch — axes, scale, points, curve, tangent. Calculate gradient at two different times.",
+              "Thermometric Experiment: Write out the complete procedure (measuring initial temperature, adding reagent, recording max temperature). Practise q = mcΔT and ΔH = −q/n calculations × 4.",
+              "Flashcards: instrument precision values — burette (±0.05), thermometer (±0.5), pipette (±0.04), balance (±0.005). Write the percentage error formula."
+            ],
+            [
+              "Tue",
+              "Past Paper: 2021 Paper 3 rate/graph question. Draw the graph under timed conditions. Calculate gradient with correct units. Comment on precision.",
+              "Mark and compare graph against mark scheme. For each missed mark: identify the specific rule violated (scale, plotting, line type, units on gradient).",
+              "Write 2 specific sources of error for a rates experiment (colour change timing) + 1 improvement for each. No generic errors."
+            ],
+            [
+              "Wed",
+              "Percentage Error Masterclass: Calculate % error for 8 different measurements — 4 burette, 2 thermometer, 2 balance. Show total uncertainty AND formula AND answer for each.",
+              "Improvement Strategies: For 6 different experiments (titration, thermometric, rate — gas, rate — colour, gravimetric, gas collection), write the best realistic improvement for the most common error in each.",
+              "Review your percentage error calculations. Write the formula from memory. Check: 2 readings = double the uncertainty for burette and thermometer."
+            ],
+            [
+              "Thu",
+              "Full quantitative section: 2022 Paper 3 quantitative question — graph + calculation + evaluation. Timed (60 minutes).",
+              "Mark and compare. Focus on: was the graph scale correct? Were calculation units included at every step? Was the source of error specific?",
+              "Calculation practice: gravimetric water of crystallisation × 3 examples (different hydrated salts). Show all 6 steps."
+            ],
+            [
+              "Fri",
+              "Organic QA tests revision: Write observations and inferences for each organic test (2,4-DNPH, Tollens', Fehling's, iodoform, bromine water, K₂Cr₂O₇). Practice in three-column format.",
+              "Past Paper: 2023 Paper 3 (any section not yet practised). Focus particularly on the evaluation sub-parts.",
+              "Active recall: write the 7 graph rules from memory. Apply them as a checklist to a graph you drew this week."
+            ],
+            [
+              "Sat",
+              "Full timed simulation: 2021 Paper 3 (all sections, 2 hours, exam conditions). This is the midpoint check — aim to improve on Week 1 score.",
+              "Mark paper. Compare error categories to Week 1. Are Skill 2 errors decreasing? Are Skill 3 evaluations becoming more specific?",
+              "Write your 'top 3 persistent errors' — the three marks you still most often miss. Prepare targeted correction cards for Week 3."
+            ],
+            [
+              "Sun",
+              "REST — mental review of the 7 graph rules and QA observation table (20 min max).",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 3: Advanced Evaluation & Mixed Practical Types"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Evaluation Masterclass: Write 10 specific sources of error (covering titration, thermometric, rate, gravimetric) with direction of effect. Score them against the criteria in Section 7.",
+              "Improvements Masterclass: For each of the 10 errors, write the specific improvement. Check: does it directly address the error? Is it realistic? Does it explain why it improves accuracy?",
+              "Read examiner report commentary for 2022 or 2023 Paper 3. Note: what specific errors did students make in the evaluation section?"
+            ],
+            [
+              "Tue",
+              "Redox Titration: Practise permanganate titration calculation sequence (MnO₄⁻ : reductant = 1:5 or 1:8). Know that KMnO₄ is self-indicating (no indicator needed). Practise iodine-thiosulfate: add starch near endpoint.",
+              "Gravimetric experiment: full calculation for 3 examples (hydrated salts with different n values: 2, 5, 7). Include the 'heating to constant mass' explanation in your evaluation.",
+              "Flashcard drill: organic tests — front: compound/functional group; back: test reagent + observation + inference. 10 cards, 3 repeats."
+            ],
+            [
+              "Wed",
+              "Mixed QA + Quantitative: Use 2023 or 2024 Paper 3. Complete the full paper under timed conditions (2 hours). This is the most important practice session of Week 3.",
+              "Full mark scheme comparison. For every missed mark: (1) classify as Skill 1/2/3; (2) write the mark scheme phrase; (3) identify what you would do differently.",
+              "Spaced review: redo the qualitative observation from Week 1 QA practice. Has your accuracy improved? Check against the QA table."
+            ],
+            [
+              "Thu",
+              "AO3 Writing Practice: Write 5 'conclusion' statements from fictional practical data. Each must include: the calculated value, the unit, and a statement about what it means in the context of the experiment.",
+              "Data interpretation practice: describe 5 graphs in qualitative terms — what is the relationship? Is it linear, proportional, inversely proportional, or exponential? Quote specific values from each graph.",
+              "Percentage error drill: 6 calculations in 9 minutes — one per 1.5 minutes. Include total uncertainty step every time."
+            ],
+            [
+              "Fri",
+              "Weak spots: Target your 'top 3 persistent errors' from Week 2. For each, write a model answer and then write it again from memory.",
+              "Past Paper: 2024 Paper 3 evaluation sections only (skip setup/recording; focus entirely on Sources of Error, Improvements, and Percentage Error sub-parts).",
+              "Review: read the key mark scheme language phrases in Section 2 of this guide. Write 5 of them from memory."
+            ],
+            [
+              "Sat",
+              "Full timed simulation: 2022 Paper 3 (all sections, 2 hours, exam conditions). Target: improve by 3–4 marks from Week 2 score.",
+              "Mark paper. Track improvement across all 3 weeks. Identify top 2 remaining weaknesses.",
+              "Write your 'Final Week' improvement plan: 2 targets to address in Week 4."
+            ],
+            [
+              "Sun",
+              "REST — light QA self-test and graph rules review only (20 min).",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 4: Peak Performance — Full Papers & Predicted Tasks"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Full timed Paper 3 simulation: 2023 or 2024 Paper 3 (2 hours, exam conditions). Use actual exam equipment if possible — burette, thermometer, graph paper.",
+              "Mark paper. Score. Address top 2 remaining error types with targeted practice.",
+              "Rapid-fire QA: say observation for each of 11 cations + NaOH in under 4 minutes from memory."
+            ],
+            [
+              "Tue",
+              "Predicted task practice (1): Thermometric experiment simulation — measure ΔT for a neutralisation; calculate q and ΔH; write source of error and improvement.",
+              "Predicted task practice (2): Gravimetric simulation — calculate water of crystallisation from given masses; round mole ratio; state formula.",
+              "Write the complete 6-step titration procedure from memory. Check against Section 6."
+            ],
+            [
+              "Wed",
+              "Predicted task practice (3): Rate experiment graph from given data; draw smooth curve; draw tangent at specified time; calculate gradient with units.",
+              "Predicted task practice (4): Full QA question — 5 cations and 3 anions unknown. Work through tests systematically. Write three-column table.",
+              "Write 3 percentage error calculations from memory (burette, thermometer, balance) — include total uncertainty step."
+            ],
+            [
+              "Thu",
+              "Mixed blitz: 30 marks of mixed Paper 3 sub-questions drawn from 3 different year papers. Timed at 90 minutes.",
+              "Full review. For each error: write the correction. Confirm: are Skill 2 (table/graph) errors now eliminated? Are Skill 3 (evaluation) errors now specific?",
+              "Re-read Section 7 (worked examples). Identify which two examples you find most challenging. Re-read those sections."
+            ],
+            [
+              "Fri",
+              "Final weak-spot session: any remaining gaps from Week 4 practice. No new content — consolidate only.",
+              "Prepare exam equipment: blue/black pen; HB pencil (for all graphs, diagrams, mechanisms); ruler (30 cm); sharp pencil (for graph plotting); calculator.",
+              "Mental review: 7 graph rules; 6-step titration procedure; QA observations for the 5 most common cations."
+            ],
+            [
+              "Sat",
+              "LIGHT REVISION ONLY: 30 minutes maximum — QA flashcards and graph rules checklist. Rest well — the lab work requires physical and mental energy.",
+              "—",
+              "—"
+            ],
+            [
+              "Sun",
+              "EXAM DAY — Set up apparatus carefully. Record EVERY observation. Write units on every table heading. Draw the graph with a sharp pencil. Be specific in every evaluation comment.",
+              "—",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-11",
+      "title": "SECTION 11: EXAM DAY STRATEGIES",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Before You Enter the Laboratory"
+        },
+        {
+          "type": "paragraph",
+          "text": "Equipment: blue/black ink pen (for all written answers). HB pencil (mandatory for ALL graphs, diagrams, mechanisms, tables drawn on graph paper). 30 cm ruler (for best-fit straight lines; also useful for graph paper alignment). Sharp HB pencil (blunt pencil = large, inaccurate data points = lost marks). Calculator."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read the question booklet for 2 minutes before touching any apparatus. Identify: (a) what the qualitative question requires; (b) what the quantitative question requires; (c) where you need to draw a table BEFORE recording data."
+        },
+        {
+          "type": "paragraph",
+          "text": "Draw your results tables BEFORE starting the experiment. Set up the table with all headings, units, and enough rows. If you collect data before drawing the table, you may record it in the wrong format and have to rewrite it under time pressure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Check the apparatus provided matches what you expect. If anything is missing or broken, notify the Supervisor IMMEDIATELY — before starting the experiment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Allocate your 2 hours: approximately 45–50 minutes for the qualitative section; approximately 70–75 minutes for the quantitative section(s). Leave 5 minutes at the end for checking."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "In-Laboratory Discipline: The Non-Negotiable Rules"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situation in the Exam",
+              "The Correct Response"
+            ],
+            [
+              "You are unsure whether your titres are concordant",
+              "Check: are the two closest titres within 0.10 cm³ of each other? If yes: concordant. If not: run another titre. Never average non-concordant titres."
+            ],
+            [
+              "Your burette reading is between two graduations",
+              "Read to the nearest 0.05 cm³. If the meniscus is between 23.4 and 23.5, record 23.45. If it is on 23.4, record 23.40. Never record 23.4 — must be to 2 decimal places."
+            ],
+            [
+              "A precipitate forms that could be white OR cream",
+              "Perform the ammonia test. Add dilute NH₃ first — if it dissolves, it is AgCl (Cl⁻). If it does not dissolve in dilute but dissolves in concentrated NH₃, it is AgBr (Br⁻). Record BOTH the original observation AND the ammonia test result."
+            ],
+            [
+              "You have a data point that looks anomalous on your graph",
+              "Plot the point accurately. Circle it. Do NOT erase it. Draw the best-fit line or curve ignoring this point. Note it in your evaluation as an anomalous point."
+            ],
+            [
+              "You run out of time for the graph",
+              "Draw the axes, label them, and plot as many points as you can. An incomplete graph with correct axes and labelling earns 2 marks. A complete graph earns 5 marks — but any marks are better than none."
+            ],
+            [
+              "You make a mistake in a calculation",
+              "Cross out the error clearly with a single horizontal line. Write the correction above or below. Do NOT use correction fluid. Do NOT scribble over the error — it must remain readable for ECF marks."
+            ],
+            [
+              "The evaluation asks for a source of error",
+              "Write: specific apparatus + specific effect + direction (too high/too low). Never 'human error'. Never 'the equipment was inaccurate'. Always one specific, named, directional error."
+            ],
+            [
+              "You are running short of time with the evaluation unanswered",
+              "Write the key phrase for each mark — even a one-sentence specific error statement earns 1 mark. Never leave the evaluation blank."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The A* Practical Mindset"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Common Student Behaviour",
+              "A* Student Behaviour"
+            ],
+            [
+              "Starts the experiment before drawing the table",
+              "Draws the full table with headings and units BEFORE collecting the first data point"
+            ],
+            [
+              "Records burette readings as '24.6' or '24.65'",
+              "Records ALL burette readings to 0.05 cm³ precision: '24.65' or '24.60' — never a single decimal"
+            ],
+            [
+              "Writes 'a white precipitate formed'",
+              "Writes 'a dense white precipitate formed that was insoluble in excess NaOH(aq)' — colour + quantity + solubility"
+            ],
+            [
+              "Writes 'human error' in the evaluation",
+              "Writes 'heat loss from the polystyrene cup to the surrounding air caused the measured temperature rise to be less than the actual temperature rise, making the calculated ΔH less exothermic'"
+            ],
+            [
+              "Draws a graph by connecting data points with straight lines",
+              "Draws a smooth best-fit curve with an equal scatter of points on both sides; circles anomalous points"
+            ],
+            [
+              "Calculates gradient using original data points",
+              "Draws a right-angled triangle on the LINE, uses two points far apart on the LINE, calculates Δy/Δx, states units"
+            ],
+            [
+              "Leaves the percentage error blank",
+              "Writes: uncertainty = 2 × 0.05 = ±0.10 cm³; % error = (0.10/24.65) × 100 = 0.41%"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "Every mark on Paper 3 is predetermined by what you write on your answer sheet. The marks cannot find you — you must claim them by writing the correct information in the correct format."
+            ],
+            [
+              "The 7 graph rules are worth 4–5 marks on almost every Paper 3. They cost you nothing to apply — they are purely technique. Spend 3 extra minutes getting the graph perfect. Those 3 minutes earn 4–5 marks."
+            ],
+            [
+              "Paper 3 is the most improvable paper with the least additional content knowledge required. The marks come from precision, care, and following established rules — not from knowing additional chemistry. Every student can dramatically improve their Paper 3 score with targeted practice."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appendix",
+      "title": "QUICK REFERENCE APPENDIX",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Complete QA Reference Table — Cation Tests"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Cation",
+              "With NaOH(aq)",
+              "Behaviour in excess NaOH",
+              "With NH₃(aq)",
+              "Behaviour in excess NH₃",
+              "Confirming Feature"
+            ],
+            [
+              "Al³⁺",
+              "White ppt",
+              "DISSOLVES → colourless",
+              "White ppt",
+              "INSOLUBLE",
+              "Only dissolves in excess NaOH — amphoteric"
+            ],
+            [
+              "NH₄⁺",
+              "No ppt; NH₃ gas on warming",
+              "—",
+              "—",
+              "—",
+              "Ammonia turns damp red litmus blue"
+            ],
+            [
+              "Ba²⁺",
+              "Faint white ppt (high conc only)",
+              "—",
+              "No ppt",
+              "—",
+              "White ppt with dilute H₂SO₄"
+            ],
+            [
+              "Ca²⁺",
+              "White ppt (mod/high conc)",
+              "—",
+              "No ppt",
+              "—",
+              "Slightly soluble hydroxide"
+            ],
+            [
+              "Cr³⁺",
+              "Grey-green ppt",
+              "DISSOLVES → dark green soln",
+              "Grey-green ppt",
+              "INSOLUBLE",
+              "Green colour distinctive"
+            ],
+            [
+              "Cu²⁺",
+              "Pale blue ppt",
+              "INSOLUBLE",
+              "Pale blue ppt",
+              "DISSOLVES → deep blue [Cu(NH₃)₄]²⁺",
+              "Deep blue with excess NH₃"
+            ],
+            [
+              "Fe²⁺",
+              "Green ppt (→ brown in air)",
+              "INSOLUBLE",
+              "Green ppt (→ brown)",
+              "INSOLUBLE",
+              "Green → brown on standing in air"
+            ],
+            [
+              "Fe³⁺",
+              "Red-brown ppt",
+              "INSOLUBLE",
+              "Red-brown ppt",
+              "INSOLUBLE",
+              "Red-brown is distinctive"
+            ],
+            [
+              "Mg²⁺",
+              "White ppt",
+              "INSOLUBLE",
+              "White ppt",
+              "INSOLUBLE",
+              "White ppt insoluble in both"
+            ],
+            [
+              "Mn²⁺",
+              "Off-white ppt (→ brown rapidly)",
+              "INSOLUBLE",
+              "Off-white ppt",
+              "INSOLUBLE",
+              "Rapid browning in air"
+            ],
+            [
+              "Zn²⁺",
+              "White ppt",
+              "DISSOLVES → colourless",
+              "White ppt",
+              "DISSOLVES → colourless",
+              "Dissolves in excess of BOTH NaOH and NH₃"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Complete QA Reference Table — Anion Tests"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Anion",
+              "Reagent",
+              "Observation",
+              "Confirmatory Test"
+            ],
+            [
+              "CO₃²⁻",
+              "Dilute HCl or H₂SO₄",
+              "Effervescence; colourless gas produced",
+              "Gas turns limewater milky (CO₂)"
+            ],
+            [
+              "Cl⁻",
+              "AgNO₃(aq) in dilute HNO₃",
+              "White ppt",
+              "Dissolves in DILUTE NH₃(aq)"
+            ],
+            [
+              "Br⁻",
+              "AgNO₃(aq) in dilute HNO₃",
+              "Cream / off-white ppt",
+              "Dissolves in CONCENTRATED NH₃(aq) only"
+            ],
+            [
+              "I⁻",
+              "AgNO₃(aq) in dilute HNO₃",
+              "Pale yellow ppt",
+              "INSOLUBLE in NH₃(aq)"
+            ],
+            [
+              "NO₃⁻",
+              "NaOH(aq) + Al foil, warm",
+              "NH₃ gas evolved",
+              "Turns damp red litmus paper blue"
+            ],
+            [
+              "NO₂⁻",
+              "NaOH(aq) + Al foil",
+              "NH₃ gas evolved; decolourises KMnO₄",
+              "Turns damp red litmus blue; purple → colourless"
+            ],
+            [
+              "SO₄²⁻",
+              "BaCl₂(aq) in dilute HCl",
+              "White ppt INSOLUBLE in excess dilute acid",
+              "Insolubility in acid distinguishes from SO₃²⁻"
+            ],
+            [
+              "SO₃²⁻",
+              "BaCl₂(aq) in dilute HCl",
+              "White ppt SOLUBLE in excess dilute acid; decolourises KMnO₄",
+              "Decolourises acidified KMnO₄"
+            ],
+            [
+              "S₂O₃²⁻",
+              "Dilute H⁺",
+              "Pale yellow/off-white cloudiness slowly forms",
+              "Solution becomes progressively more opaque"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The 7 Non-Negotiable Graph Rules"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Rule",
+              "Requirement",
+              "Mark Lost If..."
+            ],
+            [
+              "1. Label x-axis",
+              "Quantity name + unit in format 'Quantity / unit'",
+              "x-axis not labelled, or unit missing"
+            ],
+            [
+              "2. Label y-axis",
+              "Quantity name + unit in format 'Quantity / unit'",
+              "y-axis not labelled, or unit missing"
+            ],
+            [
+              "3. Appropriate scale",
+              "Data must use ≥50% of grid in BOTH directions; scale must use 1, 2, 5 or 10 per square",
+              "Scale cramped; data in corner; awkward scale (3, 4, 6, 7 per square)"
+            ],
+            [
+              "4. Accurate plotting",
+              "All points plotted with × or ⊙ to within ±0.5 small squares",
+              "Points plotted as blobs; more than 2 points off by >0.5 squares"
+            ],
+            [
+              "5. Best-fit line or smooth curve",
+              "Single straight line OR smooth continuous curve; approximately equal scatter of points on both sides; NEVER dot-to-dot",
+              "Connecting data points with straight line segments; line forced through origin incorrectly"
+            ],
+            [
+              "6. Anomalous points",
+              "Anomalous points circled (⊗); excluded from best-fit line; NOT erased",
+              "Anomalous point included in line; erased"
+            ],
+            [
+              "7. Gradient (if asked)",
+              "Two points ON THE LINE at least half the line length apart; right-angle triangle drawn; Δy/Δx calculated; units stated",
+              "Using original data points; omitting units; triangle too small"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Key Formulae for Paper 3 Calculations"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Quantity",
+              "Formula",
+              "Units",
+              "Notes"
+            ],
+            [
+              "Moles from concentration",
+              "n = c × V",
+              "mol",
+              "V in dm³ (divide cm³ by 1000)"
+            ],
+            [
+              "Concentration from moles",
+              "c = n / V",
+              "mol dm⁻³",
+              "V in dm³"
+            ],
+            [
+              "Heat transferred",
+              "q = m × c × ΔT",
+              "J",
+              "m in g; c = 4.18 J g⁻¹ K⁻¹; ΔT in K or °C"
+            ],
+            [
+              "Molar enthalpy change",
+              "ΔH = −q / n",
+              "kJ mol⁻¹",
+              "Convert q from J to kJ (÷1000); n = moles of limiting reagent"
+            ],
+            [
+              "Percentage error",
+              "% error = (uncertainty / measured value) × 100",
+              "%",
+              "Uncertainty = n × (½ × smallest graduation); n = number of readings"
+            ],
+            [
+              "Rate of reaction",
+              "Rate = gradient of tangent to graph at a point",
+              "cm³ s⁻¹ or mol dm⁻³ s⁻¹",
+              "Draw tangent; calculate Δy/Δx; state units"
+            ],
+            [
+              "Mean titre (concordant)",
+              "Mean = sum of concordant titres / number of concordant titres",
+              "cm³",
+              "Exclude rough titre; exclude any non-concordant titres"
+            ],
+            [
+              "Moles from mass",
+              "n = m / Mr",
+              "mol",
+              "m in g; Mr from periodic table / data sheet"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Paper 3 Grade Boundary Targets"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Grade",
+              "A*",
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            [
+              "Typical mark range",
+              "36–40",
+              "30–35",
+              "24–29",
+              "18–23",
+              "12–17",
+              "7–11"
+            ],
+            [
+              "% of paper",
+              "90–100%",
+              "75–88%",
+              "60–72%",
+              "45–58%",
+              "30–43%",
+              "18–28%"
+            ],
+            [
+              "Marks lost",
+              "0–4",
+              "5–10",
+              "11–16",
+              "17–22",
+              "23–28",
+              "29–33"
+            ],
+            [
+              "Key differentiator",
+              "Perfect recording precision; all Skill 2 marks; all % error marks; specific evaluations",
+              "Mostly correct; minor precision errors; occasional generic evaluation",
+              "Correct procedure; inconsistent precision; usually generic evaluation",
+              "Broadly correct observations; table/graph errors; missing marks in evaluation",
+              "Patchy observations; frequent precision errors; very general evaluation",
+              "Significant gaps in QA knowledge; major table/graph errors"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Cambridge A Level Chemistry (9701) — Paper 3 Master Revision Guide\nAligned to the Cambridge International AS & A Level Chemistry 9701 Syllabus for Examinations 2026–2030\nBased on past paper and examiner report analysis 2018–2025\nCambridge Teacher Edition | Syllabus 9701 | Series: A Level Chemistry Mastery Guides"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

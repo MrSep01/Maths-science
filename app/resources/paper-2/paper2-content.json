@@ -1,0 +1,3743 @@
+{
+  "source": "CIE_ALevelChemistry_Paper2_MasterGuide.docx",
+  "frontMatter": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "CAMBRIDGE INTERNATIONAL\nA LEVEL CHEMISTRY (9701)\nPAPER 2 MASTER REVISION GUIDE\nSTRUCTURED QUESTIONS | 60 MARKS | 1 HOUR 15 MINUTES\nCOMMAND WORDS | MARK SCHEME LANGUAGE | WORKED ANSWERS | TOPIC MASTERY"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "From U Grade to A* | For Every Student, Every Level\nBased on 8 Years of Cambridge Examiner Reports, Mark Schemes & Past Papers\nFully aligned to the Cambridge 9701 Syllabus for Examinations 2026 and onwards"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📋 Paper 2 Introduction & Structure",
+          "🔑 Command Words Decoded"
+        ],
+        [
+          "🔍 8-Year Past Paper Analysis (2018–2025)",
+          "✍️ Answering Strategies for Structured Questions"
+        ],
+        [
+          "📊 Topic Frequency & Mark Heatmap",
+          "📝 Worked Answer Examples (All Topics)"
+        ],
+        [
+          "📚 Chapter-by-Chapter Priority & Key Facts",
+          "🔮 Predicted Topics & 4-Week Revision Plan"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "TABLE OF CONTENTS"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "SECTION 1: INTRODUCTION TO PAPER 2",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What is Cambridge A Level Chemistry Paper 2?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge International A Level Chemistry (9701) Paper 2 is the AS Level Structured Questions paper. It consists of structured questions of varying lengths — from short 1-mark responses to extended 5–6-mark explanations — for a total of 60 marks. Paper 2 accounts for 23% of your final A Level grade, or 46% of your AS Level grade."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 2 tests the same AS Level content (Topics 1–22) as Paper 1, but through a completely different format. Unlike Paper 1 MCQs, every mark in Paper 2 requires a written response. There are no options to choose from — you must generate accurate, precise, chemically correct answers from scratch. This demands not just knowledge, but the ability to express that knowledge in the exact language that Cambridge examiners award marks for."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Paper",
+              "Description",
+              "Duration",
+              "Marks",
+              "AO",
+              "% of A Level"
+            ],
+            [
+              "Paper 1",
+              "Multiple Choice — AS Level Content",
+              "1h 15m",
+              "40",
+              "AO1/2",
+              "15.5%"
+            ],
+            [
+              "Paper 2",
+              "AS Level Structured Questions — THIS GUIDE",
+              "1h 15m",
+              "60",
+              "AO1/2",
+              "23%"
+            ],
+            [
+              "Paper 3",
+              "Advanced Practical Skills",
+              "2h",
+              "40",
+              "AO3",
+              "11.5%"
+            ],
+            [
+              "Paper 4",
+              "A Level Structured Questions",
+              "2h",
+              "100",
+              "AO1/2",
+              "38.5%"
+            ],
+            [
+              "Paper 5",
+              "Planning, Analysis & Evaluation",
+              "1h 15m",
+              "30",
+              "AO3",
+              "11.5%"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Paper 2 is worth MORE than Paper 1 (23% vs 15.5% of A Level). A student who performs poorly on Paper 2 cannot fully compensate with Paper 1. Invest revision time proportionally."
+            ],
+            [
+              "You have 75 minutes for 60 marks — that is exactly 75 seconds per mark. A 1-mark question should take ~75 seconds; a 6-mark question should take ~7–8 minutes maximum. Strict time discipline is essential."
+            ],
+            [
+              "Paper 2 has NO marks for 'working shown if answer is wrong' in the same way as A Level maths — BUT Cambridge does award 'error carried forward' (ECF) marks in calculations. Always show all working steps."
+            ],
+            [
+              "The single biggest source of mark loss in Paper 2 across all 8 years of examiner reports: VAGUE OR INCOMPLETE EXPLANATIONS. Students who write 'the rate increases' without explaining WHY (in terms of collision frequency, activation energy, or Boltzmann distribution) consistently score 0 or 1 out of 2–3 on explanation questions."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Paper 2 Format: What to Expect"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Feature",
+              "Detail"
+            ],
+            [
+              "Total marks",
+              "60 marks"
+            ],
+            [
+              "Question format",
+              "Structured questions — typically 4–6 questions each with multiple sub-parts (a), (b), (c), etc."
+            ],
+            [
+              "Mark allocation per sub-part",
+              "Typically 1–6 marks per sub-part. The mark allocation is shown in brackets, e.g. [2]"
+            ],
+            [
+              "Time",
+              "1 hour 15 minutes = 75 minutes. Target: 75 seconds per mark."
+            ],
+            [
+              "Syllabus coverage",
+              "AS Level content: Topics 1–22 (same as Paper 1 and Paper 3)"
+            ],
+            [
+              "Assessment objectives",
+              "AO1 (Knowledge & Understanding) and AO2 (Handling & Applying) — 50% each"
+            ],
+            [
+              "Writing instrument",
+              "Blue or black ink pen. Pencil only for graphs and diagrams."
+            ],
+            [
+              "Calculators",
+              "Cambridge-approved scientific calculators are required and permitted."
+            ],
+            [
+              "Data sheet",
+              "A copy of the Data Section is provided with the paper (bond energies, electrode potentials, etc.)."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Assessment Objectives in Paper 2"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "AO",
+              "What It Tests",
+              "How It Appears in Paper 2"
+            ],
+            [
+              "AO1 Knowledge & Understanding",
+              "Recall of chemical facts, definitions, equations, mechanisms, trends",
+              "Command words: state, define, give, name, describe, write — require direct recall of syllabus content"
+            ],
+            [
+              "AO2 Handling & Applying",
+              "Apply chemistry to new contexts, interpret data, calculate, predict, evaluate",
+              "Command words: explain, calculate, deduce, suggest, predict, justify, comment — require reasoning beyond recall"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Anatomy of a Structured Question"
+        },
+        {
+          "type": "paragraph",
+          "text": "Every Paper 2 structured question has four components. Understanding each one determines your approach."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Component",
+              "What It Contains",
+              "How to Use It"
+            ],
+            [
+              "Context / Stem",
+              "Background scenario, compound, reaction, or data. May include a diagram, equation, graph, or table.",
+              "Read carefully BEFORE reading the sub-questions. The context often contains information you will need — a concentration, a temperature, a structural formula. Missing context information is a very common source of error."
+            ],
+            [
+              "Sub-question letter",
+              "(a), (b), (c)... Each sub-part is a separate question, often building on the previous answer.",
+              "Answer each sub-part independently. Your answer to (a) may be used in (b). A wrong (a) that is consistently used in (b) and (c) earns ECF marks — always show your working."
+            ],
+            [
+              "Command word",
+              "The verb at the start of each sub-question: state, explain, calculate, deduce, suggest, etc.",
+              "The command word defines EXACTLY what kind of answer earns marks. 'State' requires a bare fact. 'Explain' requires a reason WITH a consequence. Misreading the command word loses marks immediately."
+            ],
+            [
+              "Mark allocation",
+              "The number in square brackets: [1], [2], [3] etc.",
+              "Plan your answer length before writing. [1] = one marking point, one sentence. [2] = two marking points. [3] = at least three distinct chemical points. NEVER write one sentence for a 3-mark question."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "BEFORE answering any sub-question: (1) read the mark allocation, (2) decode the command word, (3) identify what chemical topic this sub-part is testing. Only then write your answer."
+            ],
+            [
+              "The mark allocation tells you how many distinct points you need. If a question is [3], you need THREE separate, chemically correct points. One long sentence attempting to say three things in one often earns only 1 mark."
+            ],
+            [
+              "Paper 2 questions follow a logical progression within each question: sub-parts build on each other. Read all sub-parts of a question BEFORE answering (a), so you know where the question is heading."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "SECTION 2: COMMAND WORDS — DECODED",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Cambridge Command Word Taxonomy"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge's command words are not interchangeable. Each one signals a specific type of response with a specific depth of answer. Getting the command word wrong is the fastest way to lose marks on Paper 2 — a student who 'explains' when asked to 'state' writes far too much; a student who 'states' when asked to 'explain' earns 0 out of 2."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Command Word",
+              "What Cambridge Expects",
+              "Marks Typically Awarded",
+              "Chemistry Example"
+            ],
+            [
+              "STATE",
+              "A bare, precise fact. No justification required. One sentence maximum per mark.",
+              "1–2",
+              "'State the type of bonding in magnesium chloride.' Answer: ionic bonding."
+            ],
+            [
+              "DEFINE",
+              "A precise formal definition using the exact chemical language from the syllabus. Missing one key component loses the mark.",
+              "1–2",
+              "'Define the term first ionisation energy.' Must include: one mole, gaseous atoms, ground state, removal of one electron, per mole."
+            ],
+            [
+              "GIVE",
+              "Produce a specific answer from memory or from the given data. Equivalent to 'state' in most contexts.",
+              "1",
+              "'Give the name of the type of polymerisation.' Answer: addition polymerisation."
+            ],
+            [
+              "NAME",
+              "Identify a substance, process, or type by its correct chemical name.",
+              "1",
+              "'Name the type of reaction between bromine and propene.' Answer: electrophilic addition."
+            ],
+            [
+              "DESCRIBE",
+              "List the key features or observable steps of a process or trend. What happens — not why.",
+              "2–4",
+              "'Describe the trend in first ionisation energies across Period 3.' Must include: generally increases, with specific dips at Al and S, with reason for the dips NOT required."
+            ],
+            [
+              "EXPLAIN",
+              "State WHAT happens AND WHY. Both components required. Marks are split between the observation and the reason.",
+              "2–4",
+              "'Explain why the first ionisation energy of aluminium is lower than that of magnesium.' Must state: Al has a 3p electron (higher energy than 3s); easier to remove; despite higher nuclear charge — both parts needed."
+            ],
+            [
+              "CALCULATE",
+              "Show all working. Include units at each step. Round appropriately at the final step.",
+              "2–5",
+              "All arithmetic steps must be shown. ECF applies if a wrong value is correctly used in subsequent steps."
+            ],
+            [
+              "DEDUCE",
+              "Use the information provided (data, graph, context) to reach a conclusion. This is AO2 — reasoning from evidence.",
+              "1–2",
+              "'Deduce the order of reaction with respect to X from the graph.' Must identify the relationship from the data."
+            ],
+            [
+              "PREDICT",
+              "Use chemical knowledge or trend extrapolation to forecast an outcome for a situation not directly tested in the syllabus.",
+              "1–2",
+              "'Predict whether the reaction is feasible.' Use ΔG = ΔH − TΔS to calculate; conclude from sign of ΔG."
+            ],
+            [
+              "SUGGEST",
+              "Apply chemical principles to an unfamiliar or novel situation. There may be more than one valid answer. Marks for chemical reasoning, not a single 'correct' answer.",
+              "1–3",
+              "'Suggest why compound X has a higher boiling point than compound Y.' Novel context — must apply intermolecular force principles correctly."
+            ],
+            [
+              "JUSTIFY",
+              "Support a conclusion with evidence or chemical reasoning. 'Because' statements required.",
+              "1–3",
+              "'Justify your choice of indicator for this titration.' Must give the pKa/equivalence point argument, not just name the indicator."
+            ],
+            [
+              "DETERMINE",
+              "Use the given data, graph, or calculation to find a specific value. Show working.",
+              "1–3",
+              "'Determine the rate constant k from the graph.' Must extract gradient or intercept and apply correctly."
+            ],
+            [
+              "OUTLINE",
+              "Give a brief account of the key steps or features. Less detail than 'describe'.",
+              "1–3",
+              "'Outline the mechanism of free radical substitution.' Give the three stages without full curly arrow detail."
+            ],
+            [
+              "SKETCH",
+              "Draw a freehand graph showing the correct shape and key features (labels, axes, inflection points). Does not need to be precise but must be chemically correct.",
+              "2–3",
+              "'Sketch the pH curve for the titration of ethanoic acid with NaOH.' Must show correct start pH, equivalence point pH >7, buffer region, and shape."
+            ],
+            [
+              "WRITE",
+              "Produce a balanced equation, structural formula, or specific chemical expression.",
+              "1–2",
+              "'Write the equation for the reaction.' Must be balanced with correct state symbols if asked."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How Examiners Use Command Words to Award Marks"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge marks Paper 2 using a mark scheme with specific 'marking points'. Each marking point is a distinct piece of chemical information. Understanding how marks are distributed helps you plan your answer."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📋 COMMAND WORD GUIDE"
+            ],
+            [
+              "FOR 'EXPLAIN' QUESTIONS: Marks are almost always split into (a) the observation/fact and (b) the reason/mechanism. For a 2-mark 'explain': 1 mark for WHAT happens + 1 mark for WHY. For a 4-mark 'explain': usually 2 WHAT points + 2 WHY points. Never write just the observation — always follow it immediately with 'because...' or 'this is because...'"
+            ],
+            [
+              "FOR 'DESCRIBE' QUESTIONS: List observable facts in logical order. Marks are awarded for each correct, distinct observation. The direction of a trend, the colour change, the products formed — each is a separate mark."
+            ],
+            [
+              "FOR 'CALCULATE' QUESTIONS: Marks are awarded at each step: (1) correct formula or expression [1], (2) correct substitution [1], (3) correct final answer with units [1]. A wrong formula but correct arithmetic earns 0. A correct method but arithmetic error earns method marks."
+            ],
+            [
+              "FOR 'SUGGEST' QUESTIONS: Cambridge accepts any chemically reasonable answer. You will not lose marks for suggesting something unexpected — as long as your chemical reasoning is sound. State the principle you are applying, then apply it to the new context."
+            ],
+            [
+              "FOR 'SKETCH' QUESTIONS: Marks are awarded for specific features: (a) axes labelled [1], (b) correct shape [1], (c) correct starting/ending point or key feature [1]. A sketch that has the right general shape but wrong key values scores partial marks."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Worked Examples: Reading the Command Word"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [2 marks]: Explain why sodium chloride has a high melting point."
+            ],
+            [
+              "WHAT 'EXPLAIN' REQUIRES: State the structure/bonding fact (WHAT) + give the energetic reason (WHY)."
+            ],
+            [
+              "POOR ANSWER (0/2): 'NaCl has ionic bonding and this makes the melting point high.'"
+            ],
+            [
+              "→ Scores 0: mentions ionic bonding but gives no chemical reason why this leads to high m.p."
+            ],
+            [
+              "PARTIAL ANSWER (1/2): 'NaCl has a giant ionic lattice structure held by strong electrostatic forces.'"
+            ],
+            [
+              "→ Scores 1: correctly identifies the structure and force. Missing: why this requires high energy."
+            ],
+            [
+              "FULL ANSWER (2/2): 'Sodium chloride has a giant ionic lattice in which Na⁺ and Cl⁻ ions are held by strong electrostatic forces of attraction. A large amount of energy is required to overcome these forces and separate the ions, so the melting point is high.'"
+            ],
+            [
+              "→ Scores 2: (1) strong electrostatic attractions in giant lattice; (2) large energy required to break/overcome them."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [3 marks]: Describe and explain the trend in atomic radius across Period 3 (Na to Ar)."
+            ],
+            [
+              "WHAT 'DESCRIBE AND EXPLAIN' REQUIRES: (1) state the trend; (2) explain why with nuclear charge; (3) explain shielding stays constant."
+            ],
+            [
+              "POOR ANSWER (1/3): 'Atomic radius decreases because the nuclear charge increases.'"
+            ],
+            [
+              "→ Scores 1: correct trend and basic reason, but incomplete — no mention of constant shielding."
+            ],
+            [
+              "FULL ANSWER (3/3): 'Atomic radius decreases from Na to Ar (excluding noble gas). This is because the nuclear charge (number of protons) increases across the period, while the number of inner electron shells (shielding) remains constant. The increased nuclear charge exerts a greater attractive force on the outer electrons, pulling them closer to the nucleus, so the atomic radius decreases.'"
+            ],
+            [
+              "→ Scores 3: (1) correct trend; (2) increasing nuclear charge; (3) constant shielding — all three marking points present."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [2 marks]: Suggest why compound A (Mr = 86, containing an ester group) has a lower boiling point than compound B (Mr = 74, containing an −OH group)."
+            ],
+            [
+              "WHAT 'SUGGEST' REQUIRES: Apply intermolecular force principles to an unfamiliar comparison. Novel context — no single 'right' answer but must use correct chemistry."
+            ],
+            [
+              "POOR ANSWER (0/2): 'Compound B has a higher boiling point because it is smaller.'"
+            ],
+            [
+              "→ Scores 0: Mr comparison is made but wrong direction (A is larger) and no correct chemical principle stated."
+            ],
+            [
+              "FULL ANSWER (2/2): 'Compound B contains an −OH group which forms intermolecular hydrogen bonds (O−H···O). Hydrogen bonds are stronger than the permanent dipole–dipole forces and London dispersion forces present in compound A (which has no −OH or N−H group). More energy is required to overcome hydrogen bonds in B, so B has a higher boiling point despite its lower Mr.'"
+            ],
+            [
+              "→ Scores 2: (1) hydrogen bonding identified in B; (2) correctly explained as stronger than forces in A, justifying the boiling point despite Mr difference."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "SECTION 3: PAST PAPER ANALYSIS 2018–2025",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Overview: 8 Years of Cambridge Chemistry Paper 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "The following analysis covers all Cambridge A Level Chemistry Paper 2 variants (variants 21, 22, 23) from 2018 to 2025. Each variant is worth 60 marks. Across 8 years with multiple variants, this represents analysis of over 1,440 individual structured question marks. This provides a precise picture of which topics receive the most marks, which question types are most common, and which concepts Cambridge examiners return to most reliably."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Chemical bonding (Topic 3) and Stoichiometry (Topic 2) together account for approximately 20–28% of Paper 2 marks in every year analysed — making them the two most reliably tested topics."
+            ],
+            [
+              "Organic chemistry (Topics 13–22 combined) typically accounts for 20–25 marks per paper — roughly 33–42% of Paper 2. A student who cannot write organic mechanisms or name organic products will struggle significantly."
+            ],
+            [
+              "Calculation-based questions account for approximately 18–24 marks per paper (30–40%). These are spread across stoichiometry, energetics, equilibria, electrochemistry, and reaction kinetics."
+            ],
+            [
+              "Examiner reports consistently identify the same three weaknesses year after year: (1) vague explanations lacking chemical mechanism; (2) unit errors in calculations; (3) incomplete definitions that omit one key component."
+            ],
+            [
+              "Paper 2 questions increased in AO2 weighting from approximately 45% in 2018 to approximately 55% in 2024–2025 — Cambridge is placing greater emphasis on novel application and data interpretation."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Year-by-Year Topic Distribution (2018–2025)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Approximate mark allocation per topic area across Paper 2 (average of all variants). Totals may vary slightly between variants."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Topic",
+              "2018",
+              "2019",
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2024",
+              "2025",
+              "Avg"
+            ],
+            [
+              "1. Atomic Structure",
+              "4",
+              "5",
+              "4",
+              "4",
+              "4",
+              "5",
+              "4",
+              "4",
+              "4.3"
+            ],
+            [
+              "2. Stoichiometry & Moles",
+              "8",
+              "7",
+              "8",
+              "7",
+              "8",
+              "7",
+              "8",
+              "8",
+              "7.6"
+            ],
+            [
+              "3. Chemical Bonding",
+              "8",
+              "8",
+              "8",
+              "9",
+              "8",
+              "8",
+              "9",
+              "8",
+              "8.3"
+            ],
+            [
+              "4. States of Matter",
+              "3",
+              "3",
+              "4",
+              "3",
+              "3",
+              "3",
+              "3",
+              "4",
+              "3.3"
+            ],
+            [
+              "5. Chemical Energetics",
+              "6",
+              "7",
+              "6",
+              "7",
+              "6",
+              "7",
+              "7",
+              "6",
+              "6.5"
+            ],
+            [
+              "6. Electrochemistry",
+              "3",
+              "4",
+              "3",
+              "3",
+              "4",
+              "3",
+              "4",
+              "3",
+              "3.4"
+            ],
+            [
+              "7. Equilibria & Acids",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "4",
+              "5",
+              "4.9"
+            ],
+            [
+              "8. Reaction Kinetics",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3.0"
+            ],
+            [
+              "9. Periodicity",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3.0"
+            ],
+            [
+              "10. Group 2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2.0"
+            ],
+            [
+              "11. Group 17",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2.0"
+            ],
+            [
+              "12. Nitrogen & Sulfur",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2",
+              "2.0"
+            ],
+            [
+              "13-15. Intro/Hydrocarbons/Halogens",
+              "5",
+              "4",
+              "5",
+              "5",
+              "4",
+              "5",
+              "4",
+              "5",
+              "4.6"
+            ],
+            [
+              "16-18. Hydroxy/Carbonyl/Acids",
+              "4",
+              "4",
+              "3",
+              "4",
+              "4",
+              "3",
+              "4",
+              "3",
+              "3.6"
+            ],
+            [
+              "19-21. N-compds/Polymers/Synthesis",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1.0"
+            ],
+            [
+              "22. Analytical (IR, MS)",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1",
+              "1.0"
+            ],
+            [
+              "TOTAL",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60",
+              "60"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Question Type Distribution"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Question Type",
+              "Marks/Paper",
+              "% of Paper",
+              "Command Words",
+              "Strategy"
+            ],
+            [
+              "Short recall (1–2 mark)",
+              "12–16",
+              "20–27%",
+              "state, name, give, write",
+              "Fast, precise; one sentence per mark; key terms only"
+            ],
+            [
+              "Definition (1–2 mark)",
+              "4–6",
+              "7–10%",
+              "define, state the meaning",
+              "Learn Cambridge's precise definition word-for-word"
+            ],
+            [
+              "Calculation (2–5 mark)",
+              "18–24",
+              "30–40%",
+              "calculate, determine, find, show",
+              "Show every step; include units throughout; round at final step only"
+            ],
+            [
+              "Explanation (2–4 mark)",
+              "10–14",
+              "17–23%",
+              "explain, describe and explain, account for",
+              "WHAT + WHY structure; one sentence per mark; avoid vague language"
+            ],
+            [
+              "Describe trend (2–3 mark)",
+              "4–6",
+              "7–10%",
+              "describe, compare, contrast",
+              "State direction, magnitude, and exceptions clearly"
+            ],
+            [
+              "Suggest / Deduce (1–3 mark)",
+              "4–6",
+              "7–10%",
+              "suggest, deduce, predict, comment",
+              "Apply principle to novel context; always give chemical reasoning"
+            ],
+            [
+              "Sketch / Draw (2–3 mark)",
+              "2–4",
+              "3–7%",
+              "sketch, draw, complete the diagram",
+              "Labels, shape, and key values; pencil for graphs"
+            ],
+            [
+              "Write equation (1–2 mark)",
+              "4–6",
+              "7–10%",
+              "write the equation, construct",
+              "Balance atoms and charges; include state symbols if requested"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Most Frequently Tested Specific Concepts (2018–2025)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Rank",
+              "Concept",
+              "Topic",
+              "Appearances",
+              "Typical Marks & Format"
+            ],
+            [
+              "1",
+              "Mole calculations: reacting masses, concentrations, volumes",
+              "2",
+              "24/24",
+              "3–5 marks; multi-step: identify moles → stoichiometry → find quantity"
+            ],
+            [
+              "2",
+              "Chemical bonding: shapes, bond angles, lone pairs (VSEPR)",
+              "3",
+              "23/24",
+              "2–3 marks; draw/name shape; state bond angle; explain lone pair effect"
+            ],
+            [
+              "3",
+              "Hess's law / enthalpy cycle calculations",
+              "5",
+              "22/24",
+              "3–5 marks; draw energy cycle; apply ΔHf or ΔHc values"
+            ],
+            [
+              "4",
+              "Organic mechanisms: electrophilic addition, nucleophilic substitution",
+              "13–15",
+              "22/24",
+              "3–4 marks; curly arrows with correct start/end points; reagents"
+            ],
+            [
+              "5",
+              "Le Chatelier's principle: qualitative equilibrium predictions",
+              "7",
+              "21/24",
+              "2–3 marks; predict shift + justify with principle; effect on Kc"
+            ],
+            [
+              "6",
+              "Electronic configuration to sub-shell level",
+              "1",
+              "21/24",
+              "1–2 marks; full notation or electrons-in-boxes; ion configurations"
+            ],
+            [
+              "7",
+              "Ionic, covalent, metallic bonding definitions and properties",
+              "3",
+              "20/24",
+              "2–3 marks; define bonding type + link to physical property"
+            ],
+            [
+              "8",
+              "Oxidation number assignment and redox equation balancing",
+              "6",
+              "20/24",
+              "2–3 marks; calculate oxidation numbers; identify oxidising/reducing agent"
+            ],
+            [
+              "9",
+              "pH calculations for strong/weak acid, Ka, buffer",
+              "7",
+              "19/24",
+              "3–4 marks; multi-step calculation; must show all steps clearly"
+            ],
+            [
+              "10",
+              "Organic functional group reactions: reagents and conditions",
+              "16–18",
+              "19/24",
+              "2–4 marks; state correct reagents, conditions, and product"
+            ],
+            [
+              "11",
+              "Ionisation energy trends and graph interpretation",
+              "1",
+              "18/24",
+              "2–3 marks; identify sub-shell from jump in graph; explain in terms of structure"
+            ],
+            [
+              "12",
+              "Rate equation, order of reaction from concentration data",
+              "8 (A level note: basic kinetics in AS)",
+              "17/24",
+              "2–3 marks; deduce order from data; construct rate expression"
+            ],
+            [
+              "13",
+              "Infrared spectroscopy: identify functional groups from IR spectrum",
+              "22",
+              "17/24",
+              "1–2 marks; state the absorption range and the functional group"
+            ],
+            [
+              "14",
+              "Intermolecular forces: explain boiling point trends",
+              "3",
+              "16/24",
+              "2–3 marks; identify type of force; explain relative strength; link to boiling point"
+            ],
+            [
+              "15",
+              "Period 3 oxide and chloride reactions with water",
+              "9",
+              "15/24",
+              "2–3 marks; write equation; state pH; explain in terms of bonding/electronegativity"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "SECTION 4: TOPIC FREQUENCY & MARK HEATMAP",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Visual Priority Heatmap — Paper 2 Topics"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each row shows the average mark allocation per paper (2018–2025). Topics in DARK RED account for the most marks — invest proportionally more revision time here. The bar length represents mark frequency scaled against the highest-scoring topic (Chemical Bonding, ~8.3 marks)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC / CHAPTER",
+              "MARK FREQUENCY (avg marks per paper, 2018-2025) →",
+              "AVG",
+              "PRIORITY"
+            ],
+            [
+              "3. Chemical Bonding",
+              "███████████████░░░░░░░",
+              "8.3",
+              "CRITICAL"
+            ],
+            [
+              "2. Stoichiometry & Moles",
+              "██████████████░░░░░░░░",
+              "7.6",
+              "CRITICAL"
+            ],
+            [
+              "5. Chemical Energetics",
+              "████████████░░░░░░░░░░",
+              "6.5",
+              "CRITICAL"
+            ],
+            [
+              "13-15. Organic (Hydrocarbons/Halogens)",
+              "████████░░░░░░░░░░░░░░",
+              "4.6",
+              "HIGH"
+            ],
+            [
+              "7. Equilibria & Acids/Bases",
+              "█████████░░░░░░░░░░░░░",
+              "4.9",
+              "HIGH"
+            ],
+            [
+              "1. Atomic Structure",
+              "████████░░░░░░░░░░░░░░",
+              "4.3",
+              "HIGH"
+            ],
+            [
+              "16-18. Hydroxy/Carbonyl/Acids",
+              "███████░░░░░░░░░░░░░░░",
+              "3.6",
+              "HIGH"
+            ],
+            [
+              "6. Electrochemistry (Redox)",
+              "██████░░░░░░░░░░░░░░░░",
+              "3.4",
+              "MODERATE"
+            ],
+            [
+              "4. States of Matter",
+              "██████░░░░░░░░░░░░░░░░",
+              "3.3",
+              "MODERATE"
+            ],
+            [
+              "8. Reaction Kinetics",
+              "██████░░░░░░░░░░░░░░░░",
+              "3",
+              "MODERATE"
+            ],
+            [
+              "9. Periodic Table / Periodicity",
+              "██████░░░░░░░░░░░░░░░░",
+              "3",
+              "MODERATE"
+            ],
+            [
+              "10. Group 2",
+              "████░░░░░░░░░░░░░░░░░░",
+              "2",
+              "LOWER"
+            ],
+            [
+              "11. Group 17 (Halogens)",
+              "████░░░░░░░░░░░░░░░░░░",
+              "2",
+              "LOWER"
+            ],
+            [
+              "12. Nitrogen & Sulfur",
+              "████░░░░░░░░░░░░░░░░░░",
+              "2",
+              "LOWER"
+            ],
+            [
+              "19-21. N-compounds/Polymers/Synthesis",
+              "██░░░░░░░░░░░░░░░░░░░░",
+              "1",
+              "LOWER"
+            ],
+            [
+              "22. Analytical Techniques (IR/MS)",
+              "██░░░░░░░░░░░░░░░░░░░░",
+              "1",
+              "LOWER"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Typical Marks / Paper",
+              "Revision Time",
+              "What To Do"
+            ],
+            [
+              "CRITICAL ★★★★★",
+              "6–9 marks",
+              "40% of revision",
+              "Master every sub-topic; practise all past questions; write model answers from memory"
+            ],
+            [
+              "HIGH ★★★★",
+              "3–5 marks",
+              "35% of revision",
+              "Understand all key concepts; practise calculation steps; know marking point language"
+            ],
+            [
+              "MODERATE ★★★",
+              "2–3 marks",
+              "20% of revision",
+              "Cover core content; know definitions and main trends; practise one worked example each"
+            ],
+            [
+              "LOWER ★★",
+              "1–2 marks",
+              "5% of revision",
+              "Basic recall only; learn key reactions and main trends"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "SECTION 5: STRUCTURED QUESTION ANSWERING STRATEGIES",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Why Paper 2 Demands a Different Approach"
+        },
+        {
+          "type": "paragraph",
+          "text": "In Paper 1, you select from given options — wrong knowledge can still result in a lucky guess. In Paper 2, you generate every answer yourself, from scratch, in chemical language that matches Cambridge's mark scheme. There are no options to fall back on. Partial knowledge earns partial marks. Precise, complete knowledge earns full marks. This guide's strategies are designed to extract the maximum marks from what you know — and to prevent you from losing marks on what you do know through poor technique."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "The three rules of Paper 2 success: (1) NEVER write one sentence for a multi-mark question. (2) ALWAYS include units in every step of a calculation. (3) ALWAYS answer the specific command word — not the question you wish had been asked."
+            ],
+            [
+              "Examiner reports 2018–2025 consistently identify: 'students who described when asked to explain', 'students who explained when asked to state', and 'students who gave a correct answer with no working shown' as the most common avoidable mark losses."
+            ],
+            [
+              "Paper 2 allows error carried forward (ECF): if you get part (a) wrong but use that wrong value correctly in part (b), you earn the method marks for (b). ALWAYS show your working — a wrong answer with correct method earns more marks than a blank."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 1: Read — Decode — Plan — Answer"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ STRUCTURED Q STRATEGY"
+            ],
+            [
+              "STEP 1 — READ THE CONTEXT: Before reading any sub-question, read the full context, diagram, and any given data. Extract and annotate key values (concentrations, temperatures, Ar values, etc.) in the margin."
+            ],
+            [
+              "STEP 2 — READ ALL SUB-PARTS FIRST: Scan all sub-parts (a), (b), (c)... of the question before answering any. This shows you where the question is going and prevents you from using up information needed later."
+            ],
+            [
+              "STEP 3 — DECODE THE COMMAND WORD: For each sub-part, identify the command word. Write a mental note: 'state = just the fact', 'explain = fact + reason', 'calculate = show all steps'. The command word defines your entire answer structure."
+            ],
+            [
+              "STEP 4 — COUNT THE MARKS: Look at the mark allocation [n]. Plan to make n distinct chemical points. For [3]: three separate, chemically correct statements. Never combine three points into one long sentence — examiners count marking points, not sentences."
+            ],
+            [
+              "STEP 5 — WRITE PRECISELY: Use the chemical vocabulary from your revision. Avoid vague terms: 'stronger forces' → 'stronger intermolecular forces of attraction'; 'more energy' → 'more energy required to overcome...'; 'the bond breaks' → 'the C–Br bond undergoes heterolytic fission'."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 2: Calculation Questions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ STRUCTURED Q STRATEGY"
+            ],
+            [
+              "FORMULA FIRST: Write the formula you will use before substituting values. This earns a formula mark even if your final answer has an arithmetic error: e.g., n = m/Mr or Ka = [H⁺]²/[HA]."
+            ],
+            [
+              "UNITS AT EVERY STEP: Write the unit next to every number in every line of working. This prevents unit conversion errors and earns the unit mark. Convert ALL values before substituting: cm³ → dm³ (÷1000), °C → K (+273), kPa → Pa (×1000)."
+            ],
+            [
+              "SHOW ALL INTERMEDIATE STEPS: Never skip from formula to final answer. Examiners award marks at each step. A three-step calculation with three marking points requires three clearly shown lines."
+            ],
+            [
+              "ECF — ERROR CARRIED FORWARD: If you make an error in step 1, clearly show your subsequent steps using your wrong value. Examiners will award ECF marks if the method is correct. A wrong answer with correct subsequent method scores MORE than a blank."
+            ],
+            [
+              "SIGNIFICANT FIGURES: Give the answer to the same number of significant figures as the data in the question (or one more). State the unit clearly after the final answer. Cambridge deducts 1 mark for omitted units on 3+ mark calculations."
+            ],
+            [
+              "ROUND ONLY AT THE END: Carry full calculator precision through all intermediate steps. Only round the final answer. Rounding intermediate values propagates errors and can cost marks."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 3: 'Explain' and 'Describe' Questions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ STRUCTURED Q STRATEGY"
+            ],
+            [
+              "THE 'WHAT + WHY' RULE FOR 'EXPLAIN': Every 'explain' answer must contain (a) WHAT happens (the observation or change) and (b) WHY it happens (the chemical reason or mechanism). If a 2-mark explain question gives 1 mark for each component, a single-component answer scores only 1 mark maximum."
+            ],
+            [
+              "AVOID CIRCULAR REASONING: 'The rate increases because the reaction is faster' is circular — it says nothing. Instead: 'The rate increases because at higher temperature, a greater proportion of molecules have kinetic energy greater than or equal to the activation energy, so the frequency of effective collisions increases.'"
+            ],
+            [
+              "THE DIRECTION RULE FOR 'DESCRIBE': For trend questions, always state: (1) the direction of change (increases/decreases/stays constant); (2) across what range; (3) any exceptions or anomalies. Missing the exception in a Period 3 IE question is a frequently penalised error."
+            ],
+            [
+              "LINK STRUCTURE TO PROPERTY: The majority of Paper 2 'explain' questions ask you to link a structural feature (bonding, intermolecular forces, lattice type) to a physical or chemical property (melting point, conductivity, reactivity). Always make this link explicit in your answer."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 4: 'Suggest' Questions (AO2)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ STRUCTURED Q STRATEGY"
+            ],
+            [
+              "'SUGGEST' = APPLY A PRINCIPLE TO A NEW CONTEXT. You will not have seen the exact situation before. Identify WHICH chemical principle applies, then apply it explicitly to the given context."
+            ],
+            [
+              "THREE-STEP SUGGEST APPROACH: (1) Identify the relevant principle ('This involves hydrogen bonding...'); (2) Apply it to the given compound ('...because compound X has an O−H group bonded to an electronegative O atom'); (3) State the consequence ('...so X forms stronger intermolecular forces than Y, giving X a higher boiling point')."
+            ],
+            [
+              "DO NOT LEAVE 'SUGGEST' BLANK: Cambridge accepts any chemically reasonable answer. If you are unsure, apply the most relevant principle from your knowledge and make a logical argument. Partial marks are available even if your suggestion is not the expected answer."
+            ],
+            [
+              "COMMON 'SUGGEST' THEMES IN PAPER 2: Why an unexpected boiling point or solubility? (intermolecular forces) — Why is a reaction faster/slower than expected? (activation energy, steric effects) — Why does an equilibrium lie unexpectedly to one side? (entropy, enthalpy balance) — Why does a spectroscopic result look different? (functional group, symmetry)."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 5: Extended Response (5–6 Mark) Questions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ STRUCTURED Q STRATEGY"
+            ],
+            [
+              "PLAN BEFORE WRITING: For any question worth 5–6 marks, spend 60–90 seconds writing a brief bullet plan in the margin before writing your answer. This ensures you include all required points and prevents disorganised answers."
+            ],
+            [
+              "USE SEQUENCED LANGUAGE: Extended answers must flow logically. Use connective phrases: 'This is because...', 'As a result...', 'Therefore...', 'Furthermore...', 'This means that...' — these signal clear cause-and-effect reasoning."
+            ],
+            [
+              "CHECK MARK ALLOCATION REPEATEDLY: While writing a 6-mark answer, mentally count your marking points. After each sentence, ask: 'Is this a new chemical point, or am I repeating myself?' Stop when you have made n distinct points for an n-mark question."
+            ],
+            [
+              "NEVER REPEAT: If you state a point, do not repeat it in different words. Examiners award each marking point only once. Additional sentences restating the same idea do not earn additional marks — they only waste time."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 6: Mark Scheme Language and High-Value Phrases"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge mark schemes use specific language. The following phrases, when used correctly in context, are consistently accepted as marking points. Learning these exact phrases is one of the highest-return revision activities for Paper 2."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "BONDING & STRUCTURE: 'giant ionic lattice'; 'strong electrostatic forces of attraction between oppositely charged ions'; 'delocalised electrons'; 'high charge density'; 'sea of delocalised electrons'; 'simple molecular structure with weak van der Waals forces between molecules'"
+            ],
+            [
+              "INTERMOLECULAR FORCES: 'hydrogen bonds form between the O−H/N−H of one molecule and the lone pair on O/N of another'; 'instantaneous dipole–induced dipole forces'; 'greater electron density / more electrons → stronger id-id forces'; 'hydrogen bonding requires H bonded to a highly electronegative atom (N, O, F)'"
+            ],
+            [
+              "KINETICS & EQUILIBRIUM: 'greater proportion of molecules have energy ≥ the activation energy'; 'frequency of effective collisions increases'; 'equilibrium shifts to the right/left to oppose the change (Le Chatelier)'; 'Kc is not affected by changes in concentration/pressure/catalyst — only by temperature'"
+            ],
+            [
+              "ENERGETICS: 'more energy is released making bonds than is required to break bonds → exothermic'; 'ΔG = ΔH − TΔS < 0 for a feasible/spontaneous reaction'; 'lattice energy becomes more exothermic as ionic charge increases / ionic radius decreases'"
+            ],
+            [
+              "ORGANIC MECHANISMS: 'heterolytic fission of the C−X bond'; 'electrophile attracted to the high electron density of the π bond'; 'nucleophile donates a lone pair of electrons to the electrophilic carbon'; 'carbocation stability: tertiary > secondary > primary'; 'Markovnikov addition: H adds to C with more H substituents'"
+            ],
+            [
+              "PERIODICITY: 'nuclear charge increases across the period while shielding remains approximately constant'; 'additional electron shell increases shielding and atomic radius down the group'; 'amphoteric: reacts with both acids and bases'; 'vigorous hydrolysis produces HCl fumes and an acidic solution'"
+            ],
+            [
+              "RATES & DEFINITIONS: 'activation energy: minimum energy required for a collision to be effective (to form products)'; 'first ionisation energy: minimum energy to remove one mole of electrons from one mole of gaseous atoms in their ground state'; 'Ka: equilibrium constant for the dissociation of a weak acid in aqueous solution'"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 7: Time Management in Paper 2"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Phase",
+              "Time",
+              "Activity"
+            ],
+            [
+              "Reading time (before writing)",
+              "3–4 min",
+              "Read ALL questions. Identify which questions you are most confident in. Mark challenging sub-parts with a dot to return to."
+            ],
+            [
+              "First pass (all questions in order)",
+              "55–60 min",
+              "Answer every sub-part. Short answers first — they earn marks quickly and build confidence. For calculations, show all working even if you are uncertain. Never leave a sub-part blank."
+            ],
+            [
+              "Review pass (dotted / uncertain)",
+              "10 min",
+              "Return to any sub-parts you marked. Check calculation answers against the mark allocation — have you given enough steps? Check explain answers — have you given WHAT and WHY?"
+            ],
+            [
+              "Final check",
+              "3–5 min",
+              "Verify: (a) units on all calculated answers; (b) state symbols in all equations if required; (c) no blank sub-parts — write at least an attempt for every question."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "75 seconds per mark is your target pace. A 3-mark sub-part gets 3.75 minutes. If you are spending more than 4 minutes on a 3-mark question, you are spending too long — move on, mark it, and return."
+            ],
+            [
+              "Start with the questions you are most confident in, not necessarily question 1. This builds momentum and secures marks before tackling harder questions."
+            ],
+            [
+              "In the last 5 minutes: if you have an unanswered sub-part, write something — even the most basic relevant chemical fact. A blank scores 0 marks. A partially correct statement may earn 1 mark."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "SECTION 6: CHAPTER- BY- CHAPTER STRUCTURED QUESTION GUIDE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This section provides a complete chapter-by-chapter breakdown of every AS Level Chemistry topic (1–22) for Paper 2. For each topic: priority rating, typical question formats, essential marking points, high-value phrases, common errors, and examiner strategy tips."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Topics",
+              "Stars",
+              "Avg Marks / Paper"
+            ],
+            [
+              "CRITICAL",
+              "Topics 2, 3, 5 (Stoichiometry, Bonding, Energetics)",
+              "★★★★★",
+              "~22–25 marks"
+            ],
+            [
+              "HIGH",
+              "Topics 1, 7, 13–18 (Atomic Structure, Equilibria, Organic)",
+              "★★★★☆",
+              "~20–24 marks"
+            ],
+            [
+              "MODERATE",
+              "Topics 4, 6, 8, 9, 19–22 (States, Redox, Kinetics, Periodicity, Analytical)",
+              "★★★☆☆",
+              "~10–13 marks"
+            ],
+            [
+              "LOWER",
+              "Topics 10–12 (Groups 2/17, Nitrogen & Sulfur)",
+              "★★☆☆☆",
+              "~5–6 marks"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 2: ATOMS, MOLECULES & STOICHIOMETRY\n★★★★★ CRITICAL | Avg ~7–8 marks marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "CRITICAL",
+              "~7–8 marks",
+              "Multi-step calculation; stoichiometric equation; empirical formula"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mole calculations are the most reliably tested skill — and the most mark-dense. The three core formulae: n = m/Mr; n = c × V(dm³); n = V(dm³)/24.0. Know which to use without hesitation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multi-step calculations are the standard format: typically (1) find moles of one substance; (2) apply stoichiometric ratio; (3) find mass/volume/concentration of another. Each step earns a mark."
+        },
+        {
+          "type": "paragraph",
+          "text": "Empirical and molecular formula questions: (1) divide masses by Ar; (2) divide all by smallest; (3) express as simplest ratio → EF; (4) EF mass × n = Mr → MF. All four steps must be shown."
+        },
+        {
+          "type": "paragraph",
+          "text": "Percentage yield = (actual yield / theoretical yield) × 100. Atom economy = (Mr desired product / sum of Mr all products) × 100. Both are tested as calculations AND conceptual questions about green chemistry."
+        },
+        {
+          "type": "paragraph",
+          "text": "Limiting reagent questions: calculate moles of each reactant; divide by stoichiometric coefficient; the smaller result identifies the limiting reagent. Always state which reagent is limiting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ionic equations: cancel spectator ions; check charges balance on both sides; check atoms balance. Write state symbols only if the question requests them."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL MARK SCHEME PHRASES: 'n(X) = m/Mr = .../... = ... mol'; 'mole ratio from equation: 1 mol X : 2 mol Y'; 'n(Y) = 2 × n(X) = ... mol'; 'theoretical yield = n × Mr = ... g'; 'percentage yield = (actual/theoretical) × 100 = ...%'"
+            ],
+            [
+              "'Atom economy = Mr desired product / (sum of Mr of all products) × 100'"
+            ],
+            [
+              "'The empirical formula is ... because the simplest ratio of moles is ...'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "CRITICAL ERROR: Forgetting to convert cm³ to dm³ (÷1000) before using n = cV. This is the most common single source of mark loss across ALL years of Paper 2 examiner reports."
+            ],
+            [
+              "COMMON ERROR: Using n = V/24.0 for a gas at STP (0°C) — the 24.0 dm³ mol⁻¹ value is for RTP (25°C). Use 22.4 dm³ mol⁻¹ at STP, or use pV = nRT for all other conditions."
+            ],
+            [
+              "COMMON ERROR: In percentage yield: using the theoretical yield of the WRONG substance (e.g., calculating moles of product based on excess reagent, not limiting reagent)."
+            ],
+            [
+              "COMMON ERROR: Writing an ionic equation with spectator ions included — Cambridge specifically penalises this. Cancel Na⁺, K⁺, NO₃⁻, SO₄²⁻ etc. when they appear on both sides unchanged."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For all calculation sub-parts: write the formula, substitute with values AND units, cancel units, give answer. These four steps match the four marking points."
+            ],
+            [
+              "If a question says 'show your working', an answer without working scores 0 even if correct. Always show working regardless."
+            ],
+            [
+              "For limiting reagent: show moles of BOTH reactants divided by their coefficients — the smaller result is the limiting reagent. State this explicitly: 'X is the limiting reagent.'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 3: CHEMICAL BONDING\n★★★★★ CRITICAL | Avg ~8–9 marks marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "CRITICAL",
+              "~8–9 marks",
+              "Dot-and-cross; shape and bond angle; explain property from bonding"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "VSEPR shapes must be drawn AND named with bond angles: BF₃ = trigonal planar (120°); CH₄ = tetrahedral (109.5°); NH₃ = pyramidal (107°); H₂O = non-linear/V-shaped (104.5°); SF₆ = octahedral (90°); PF₅ = trigonal bipyramidal (120°/90°)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Each lone pair reduces bond angles by approximately 2–2.5°. For Paper 2: ALWAYS explain lone pair effect when the bond angle is less than the electron pair geometry predicts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dot-and-cross diagrams: show ALL electron pairs (bonding AND lone pairs); show only outer shell electrons; for coordinate bonds, use an arrow instead of a cross-cross pair."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hydrogen bonding questions require: (a) identify which atoms are involved (N–H···N; O–H···O; O–H···N); (b) state that H is bonded to a highly electronegative atom; (c) draw the hydrogen bond with correct orientation. All three components earn marks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Properties from bonding: for every 'explain the melting point/conductivity/solubility' question — identify the structure type first (giant ionic, simple molecular, giant covalent, metallic), then explain the relevant forces/bonds and how much energy is needed to overcome them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Electronegativity: increases across Period 3; decreases down Group. Explain in terms of increasing nuclear charge across period (same shielding); additional shielding down group (more electron shells)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL MARK SCHEME PHRASES: 'giant ionic lattice'; 'strong electrostatic forces of attraction between oppositely charged ions'; 'a large amount of energy is required to overcome these forces'"
+            ],
+            [
+              "'the lone pair on the N/O atom repels the bonding pairs more strongly than bonding pairs repel each other, reducing the bond angle'"
+            ],
+            [
+              "'hydrogen bond: the δ+ hydrogen atom of one molecule attracted to a lone pair on the O/N atom of an adjacent molecule'"
+            ],
+            [
+              "'metallic bonding: attraction between the lattice of positive metal ions and the delocalised electrons'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Giving a bond angle of 109.5° for NH₃. The electron geometry is tetrahedral (109.5°) but the SHAPE is pyramidal with bond angle 107° due to the lone pair's greater repulsion."
+            ],
+            [
+              "COMMON ERROR: Drawing dot-and-cross diagrams with electrons on the outer shell of the atom rather than in bonds and lone pairs on the correct atoms."
+            ],
+            [
+              "COMMON ERROR: Describing hydrogen bonding as 'attraction between H and O atoms'. The correct description: 'attraction between the δ+ H of one molecule and the lone pair on the O/N of another molecule'."
+            ],
+            [
+              "COMMON ERROR: Stating that metallic bonding involves 'sharing of electrons'. The correct language: 'electrostatic attraction between the lattice of positive metal ions and the sea of delocalised electrons'."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For VSEPR shape questions: (1) count bonding pairs + lone pairs on central atom; (2) identify electron pair geometry; (3) name the MOLECULAR shape (ignoring lone pairs); (4) state bond angle; (5) explain if lone pairs present."
+            ],
+            [
+              "For 'explain the high melting point of X' questions: always identify the structure type first, then describe the forces/bonds and state that a large amount of energy is needed to overcome them."
+            ],
+            [
+              "For dot-and-cross diagrams: draw the central atom first, then add bonding pairs, then lone pairs. Check: each atom has the correct total electrons. For ions: show the square bracket and charge."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 5: CHEMICAL ENERGETICS\n★★★★★ CRITICAL | Avg ~6–7 marks marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "CRITICAL",
+              "~6–7 marks",
+              "Energy cycle calculation; bond energy calculation; calorimetry"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Hess's law energy cycles are tested as multi-step calculations. The two cycle types: (1) Formation cycle: ΔHr = ΣΔHf(products) − ΣΔHf(reactants); (2) Combustion cycle: ΔHr = ΣΔHc(reactants) − ΣΔHc(products). Note the subtraction is reversed between the two types."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bond energy calculations: ΔHr = Σ(bonds broken, all positive) − Σ(bonds made, all positive). Always list EVERY bond in the reactant and product structures. Count bonds in the structural formula, not the molecular formula."
+        },
+        {
+          "type": "paragraph",
+          "text": "Calorimetry: q = mcΔT (J); ΔH = −q/n (kJ mol⁻¹). The negative sign: exothermic reaction (temperature rises) → q is positive → ΔH is negative. Endothermic: temperature falls → q is negative → ΔH is positive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enthalpy profile diagrams: exothermic = products lower than reactants; activation energy = energy gap from reactants to transition state peak; with catalyst: same start/end but LOWER transition state."
+        },
+        {
+          "type": "paragraph",
+          "text": "Standard conditions: 298 K, 101 kPa, all species in standard states. ΔHf° of ANY element in its standard state = 0 by definition — this is a commonly tested fact."
+        },
+        {
+          "type": "paragraph",
+          "text": "Hess's law cycles must show: (1) arrow directions; (2) all species with state symbols; (3) enthalpy values with signs; (4) the algebraic route. Marks are awarded for the cycle diagram AND the calculation."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL PHRASES: 'ΔHr = ΣΔHf(products) − ΣΔHf(reactants) = ... − ... = ... kJ mol⁻¹'"
+            ],
+            [
+              "'bonds broken (endothermic, +ve): [list]; bonds made (exothermic, counted as +ve): [list]; ΔHr = Σbroken − Σmade = ... kJ mol⁻¹'"
+            ],
+            [
+              "'q = mcΔT = ... × 4.18 × ... = ... J; ΔH = −q/n = −.../... = ... kJ mol⁻¹ (exo/endothermic because ΔH is −ve/+ve)'"
+            ],
+            [
+              "'ΔHf° of any element in its standard state = 0 kJ mol⁻¹ by definition'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "CRITICAL SIGN ERROR: In bond energy calculations — getting ΔHr = bonds made − bonds broken instead of bonds broken − bonds made. The result has the wrong sign. Every bond energy is positive (energy to BREAK). The calculation always subtracts bonds made."
+            ],
+            [
+              "COMMON ERROR: In calorimetry, forgetting to divide by n (number of moles) to get ΔH per mole. The calculation gives total heat q; ΔH per mole = −q/n."
+            ],
+            [
+              "COMMON ERROR: In Hess's law, reversing a cycle arrow but forgetting to reverse the sign of ΔH. If you go AGAINST an arrow, you REVERSE the sign (multiply by −1)."
+            ],
+            [
+              "COMMON ERROR: Using the incorrect Vm for gas volume calculations — 24.0 dm³ mol⁻¹ at RTP; 22.4 dm³ mol⁻¹ at STP. The question will specify; use the appropriate value."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Hess's law: draw the cycle in the margin with arrows before writing your answer. Label each arrow with its ΔH value. Trace the two routes from reactants to products and equate them."
+            ],
+            [
+              "For bond energy calculations: write out the full structural formula (not molecular formula) of every reactant and product. Count each bond type individually. List them in a table: bond | number | energy | total."
+            ],
+            [
+              "For calorimetry: memorise the sequence: (1) q = mcΔT [in J]; (2) convert to kJ (÷1000); (3) n = mass/Mr of the substance that was combusted/reacted; (4) ΔH = −q/n [kJ mol⁻¹]."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 7: EQUILIBRIA, ACIDS & BASES\n★★★★☆ HIGH | Avg ~4–5 marks marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "HIGH",
+              "~4–5 marks",
+              "Le Chatelier prediction; Kc expression; pH calculation"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Le Chatelier's principle — Cambridge's exact wording for 3-mark questions: (1) state the direction of shift; (2) give the reason (what stress is being opposed); (3) explain the effect on Kc (only temperature changes Kc). All three parts needed for full marks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Kc expressions: products over reactants; each concentration raised to the power of its stoichiometric coefficient; pure solids and pure liquids are NOT included. For Kp, use partial pressures instead of concentrations."
+        },
+        {
+          "type": "paragraph",
+          "text": "pH calculations — the three cases: strong acid: pH = −log[acid]; weak acid: [H⁺] = √(Ka × [HA]), pH = −log[H⁺]; buffer: [H⁺] = Ka × [HA]/[A⁻], pH = −log[H⁺]."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ka and pKa: Ka = [H⁺][A⁻]/[HA]; pKa = −log(Ka). Stronger acid = larger Ka = smaller pKa. The weak acid approximation [H⁺] << [HA] is valid when Ka is small (<5%)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Buffer solutions: explain the mechanism — (a) added H⁺ is removed by A⁻ (the conjugate base); (b) added OH⁻ is removed by HA (the weak acid). Both components of the mechanism needed for full marks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Brønsted–Lowry acid-base pairs: identify conjugate pairs by noting which species gains/loses one proton. In any equilibrium, there are two conjugate acid-base pairs."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL PHRASES: 'equilibrium shifts to the right/left to oppose the change in temperature/concentration/pressure (Le Chatelier's principle)'"
+            ],
+            [
+              "'the value of Kc increases/decreases because temperature increases/decreases (Kc is temperature-dependent)'"
+            ],
+            [
+              "'the conjugate acid of X is... (species with one more H⁺); the conjugate base of Y is... (species with one fewer H⁺)'"
+            ],
+            [
+              "'the buffer resists pH change: added H⁺ reacts with A⁻ (CH₃COO⁻ + H⁺ → CH₃COOH); added OH⁻ reacts with HA (CH₃COOH + OH⁻ → CH₃COO⁻ + H₂O)'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Stating that a catalyst shifts the equilibrium position. A catalyst ONLY increases the rate of reaching equilibrium — it does NOT shift the equilibrium position or change Kc."
+            ],
+            [
+              "CALCULATION ERROR: Using [HA] after dissociation (equilibrium concentration) instead of the initial concentration of the weak acid. For the approximation Ka ≈ [H⁺]²/[HA]₀, [HA]₀ is the initial concentration."
+            ],
+            [
+              "DEFINITION ERROR: Writing Kc without excluding pure solids/liquids. CaCO₃(s) and H₂O(l) should NOT appear in Kc expressions for heterogeneous equilibria."
+            ],
+            [
+              "COMMON ERROR: Forgetting that only TEMPERATURE changes the value of Kc. Changes in concentration, pressure, or addition of a catalyst do NOT change Kc."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Le Chatelier 3-mark questions: write three separate sentences. (1) 'The equilibrium shifts to the right / left.' (2) 'This is because... [the principle applied to this change].' (3) 'The value of Kc [increases/decreases/stays the same] because [temperature increases/decreases/no temperature change].'"
+            ],
+            [
+              "For buffer mechanism: write two separate equations or two separate sentences — one for added H⁺, one for added OH⁻. Each mechanism earns one mark."
+            ],
+            [
+              "For pH calculations: write Ka = [H⁺]²/[HA] first, then rearrange to [H⁺] = √(Ka × [HA]), substitute values, calculate [H⁺], then pH = −log[H⁺]. Four clear steps for a 4-mark calculation."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 13–15: INTRO ORGANIC, HYDROCARBONS & HALOGEN COMPOUNDS\n★★★★★ CRITICAL | Avg ~4–5 marks marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "CRITICAL",
+              "~4–5 marks",
+              "Dot-and-cross; shape and bond angle; explain property from bonding"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mechanism drawing is tested in every Paper 2. Rules for curly arrows: (1) arrow STARTS at a bond or lone pair; (2) arrow ENDS at an atom or a bond being formed; (3) show intermediate where applicable; (4) show charges on intermediates. Missing or wrong arrow starts/ends = lost marks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Electrophilic addition mechanism (alkene + Br₂ or HX): (1) polarisation of Br–Br or H–X by the π electrons; (2) Br⁺ or H⁺ attacks the π bond → carbocation intermediate; (3) Br⁻ or X⁻ attacks the carbocation. Two-step for Br₂; Markovnikov's rule for HX."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nucleophilic substitution mechanisms: SN2 (primary halogenoalkane) — one step, backside attack, show partial bonds; SN1 (tertiary) — two steps, carbocation intermediate, then nucleophile attacks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reagents and conditions for key reactions: MUST know: (a) alkene + steam: H₃PO₄ catalyst, 300°C; (b) elimination: NaOH in ethanol, heat; (c) substitution: NaOH(aq), heat; (d) nitrile formation: KCN in ethanol, heat; (e) amine formation: NH₃ in ethanol, pressure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Free radical substitution: initiation (UV → Cl• + Cl•); propagation (Cl• + CH₄ → CH₃• + HCl; CH₃• + Cl₂ → CH₃Cl + Cl•); termination (two radicals combine). Write balanced equations for all three stages."
+        },
+        {
+          "type": "paragraph",
+          "text": "IUPAC nomenclature: for Paper 2, you must correctly name organic products of reactions. Practice: (1) find longest chain; (2) number from end closest to functional group; (3) name substituents alphabetically."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL PHRASES: 'the π electrons of the double bond polarise the Br–Br bond, inducing a δ+ on one Br and δ− on the other'"
+            ],
+            [
+              "'the carbocation forms at the more substituted carbon because tertiary carbocations are more stable than secondary (due to positive inductive effect of alkyl groups)'"
+            ],
+            [
+              "'heterolytic fission of the C–X bond: both electrons go to X, forming X⁻ and a carbocation'"
+            ],
+            [
+              "'the nucleophile (OH⁻/CN⁻) attacks the δ+ carbon using its lone pair, displacing the halide ion as a leaving group'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "MECHANISM ERROR: Drawing curly arrows from an atom (incorrect) rather than from a bond or lone pair. The arrow must originate from where the electrons ARE (bond or lone pair), pointing to where they move TO."
+            ],
+            [
+              "MECHANISM ERROR: Omitting the partial charges (δ+ and δ−) on the halogen molecule in the electrophilic addition mechanism. The polarisation of Br₂ by the π cloud is a required marking point."
+            ],
+            [
+              "COMMON ERROR: Confusing the conditions for elimination vs substitution of halogenoalkanes. Elimination: NaOH in ETHANOL, heat. Substitution: NaOH in WATER (aqueous), heat. Same reagent, different solvent — completely different products."
+            ],
+            [
+              "COMMON ERROR: Omitting the intermediate carbocation structure in SN1 mechanisms. The carbocation with correct charge and structure MUST be drawn as an intermediate step."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For mechanism questions: draw the mechanism in pencil first, then go over in pen. Check: (1) do all curly arrows start at a bond or lone pair? (2) are all charges shown on intermediates? (3) are all species correctly labelled?"
+            ],
+            [
+              "For 'state the reagents and conditions' questions: give BOTH the reagent AND the conditions (temperature, catalyst, solvent). 'NaOH' alone without 'heat' or 'aqueous' earns only partial marks."
+            ],
+            [
+              "For Markovnikov's rule questions: identify which carbon has more H atoms; H adds there; X adds to the other carbon; state why (more stable secondary/tertiary carbocation)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 1: ATOMIC STRUCTURE\n★★★★☆ HIGH | Avg ~4–5 marks marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "HIGH",
+              "~4–5 marks",
+              "State/explain/calculate"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Successive ionisation energies: identify the group of an element from the position of the large jump (between Xth and (X+1)th IE means X outer electrons → Group X). Explain each jump in terms of removing from a different shell."
+        },
+        {
+          "type": "paragraph",
+          "text": "Electronic configuration to sub-shell level must be written correctly: order of filling 1s 2s 2p 3s 3p 4s 3d. Special cases for exam: Cr = [Ar]3d⁵4s¹; Cu = [Ar]3d¹⁰4s¹. For ions: remove electrons from 4s first (not 3d)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ionisation energy factors — exact language for marking points: nuclear charge (increases IE), atomic/ionic radius (decreases IE), shielding by inner shells and sub-shells (decreases IE), spin-pair repulsion (slightly decreases IE for paired electron)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Explain the dip in IE₁ from Mg to Al: Al has a 3p electron at higher energy than the 3s electrons of Mg; despite Al having a higher nuclear charge, the 3p electron is easier to remove."
+        },
+        {
+          "type": "paragraph",
+          "text": "Explain the dip in IE₁ from P to S: S has a paired electron in one 3p orbital — spin-pair repulsion reduces the energy needed to remove it compared to the singly occupied 3p orbitals in P."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL PHRASES: 'minimum energy required to remove one mole of electrons from one mole of gaseous atoms in their ground state'"
+            ],
+            [
+              "'large increase between the Xth and (X+1)th IE: the (X+1)th electron is in a shell closer to the nucleus with greater nuclear attraction and less shielding'"
+            ],
+            [
+              "'Al has a lower IE₁ than Mg: Al's outer electron is in a 3p orbital (higher energy, more shielded) compared to Mg's 3s orbital'"
+            ],
+            [
+              "'S has a lower IE₁ than P: S has spin-pair repulsion in one 3p orbital, which reduces the energy needed to remove the electron'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Writing the electronic configuration of Fe³⁺ as [Ar]3d³4s². When forming cations from transition metals, 4s electrons are removed FIRST: Fe³⁺ = [Ar]3d⁵."
+            ],
+            [
+              "COMMON ERROR: Explaining the Period 3 first IE trend without mentioning the EXCEPTIONS (Al lower than Mg; S lower than P). Cambridge specifically rewards identifying these exceptions."
+            ],
+            [
+              "DEFINITION ERROR: Omitting 'gaseous atoms' or 'ground state' from the definition of first ionisation energy. Both are required marking points: 'minimum energy to remove one mole of electrons from one mole of gaseous atoms in their ground state'."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For successive IE graphs: identify the large jump first, then state 'the element is in Group X because there is a large increase between the Xth and (X+1)th ionisation energies, indicating that the (X+1)th electron is in an inner shell (closer to the nucleus with less shielding).'"
+            ],
+            [
+              "For electron configuration questions: write full config first, then check if it's Cu or Cr. For ions of d-block: always remove 4s electrons before 3d."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 16–18: HYDROXY, CARBONYL COMPOUNDS & CARBOXYLIC ACIDS\n★★★★☆ HIGH | Avg ~3–4 marks marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "HIGH",
+              "~3–4 marks",
+              "State/explain/calculate"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oxidation reactions of alcohols: primary → aldehyde (distil; acidified K₂Cr₂O₇, orange → green) → carboxylic acid (reflux); secondary → ketone (distil; orange → green); tertiary → no reaction (orange stays orange)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nucleophilic addition of HCN to aldehydes/ketones: mechanism requires (1) CN⁻ attacks carbonyl C as nucleophile; (2) lone pair of CN⁻ forms bond to C; (3) H⁺ adds to O to form OH. Product = hydroxynitrile with new chiral centre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Distinguishing tests — mark scheme expects: 2,4-DNPH → orange/yellow precipitate = carbonyl compound present; Tollens' → silver mirror = aldehyde; Fehling's → brick-red precipitate = aldehyde; iodoform (alkaline I₂) → yellow ppt CHI₃ = CH₃CO− or CH₃CH(OH)−."
+        },
+        {
+          "type": "paragraph",
+          "text": "Esterification: carboxylic acid + alcohol → ester + H₂O; requires concentrated H₂SO₄ catalyst; reversible equilibrium (Kc < complete conversion). The 'ester group' is –COO–."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carboxylic acid reactions: with Na (H₂ produced); with NaOH (salt + H₂O); with Na₂CO₃/NaHCO₃ (salt + CO₂ + H₂O — distinguishes carboxylic acids from phenols and alcohols); with alcohol (ester); with LiAlH₄ (primary alcohol)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Acidity comparison: carboxylic acids > phenol > carbonic acid > alcohols > water. In Paper 2, explain in terms of stability of the conjugate base (carboxylate ion is stabilised by delocalisation)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL PHRASES: 'primary alcohol → aldehyde by distillation with acidified K₂Cr₂O₇ (orange to green); further oxidation to carboxylic acid by reflux'"
+            ],
+            [
+              "'2,4-DNPH gives an orange/yellow precipitate with all carbonyl compounds (aldehydes and ketones)'"
+            ],
+            [
+              "'Tollens' reagent: silver mirror formed only with aldehydes (RCHO oxidised to RCOO⁻; Ag⁺ reduced to Ag)'"
+            ],
+            [
+              "'CN⁻ acts as a nucleophile: its lone pair attacks the electrophilic (δ+) carbonyl carbon, forming a new C–CN bond'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Stating that tertiary alcohols cannot react at all. Tertiary alcohols CANNOT be oxidised under normal conditions (no reaction with K₂Cr₂O₇), but they CAN react with HBr, PCl₅, dehydration, and Na."
+            ],
+            [
+              "MECHANISM ERROR: Drawing the CN⁻ attacking the oxygen of the carbonyl (not the carbon). The carbon is the electrophilic centre (δ+) in C=O — CN⁻ attacks the CARBON."
+            ],
+            [
+              "TEST CONFUSION: Describing the product of Tollens' reagent as a 'white precipitate'. The product is a SILVER MIRROR on the glass. Precipitate vs mirror is a common marking distinction."
+            ],
+            [
+              "COMMON ERROR: Stating that 2,4-DNPH gives a colour change only with aldehydes. It gives an orange/yellow precipitate with ANY carbonyl compound — both aldehydes AND ketones."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For distinguishing test questions: apply tests in sequence — first 2,4-DNPH (identifies carbonyl), then Tollens'/Fehling's (distinguishes aldehyde from ketone). Always state the specific observation (colour, precipitate type)."
+            ],
+            [
+              "For the iodoform test: the positive test result is a yellow precipitate of CHI₃ (triiodomethane). State the condition: alkaline aqueous iodine. State the group required: CH₃CO− or CH₃CH(OH)−."
+            ],
+            [
+              "For 'explain the acidity' questions: (1) state which is more acidic; (2) name the conjugate base; (3) explain WHY it is more stable (delocalisation in carboxylate; partial delocalisation in phenoxide; no delocalisation in alkoxide)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 6: ELECTROCHEMISTRY (REDOX)\n★★★☆☆ MODERATE | Avg ~3–4 marks marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "MODERATE",
+              "~3–4 marks",
+              "State/explain/calculate"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Oxidation number assignment: O = −2 (except peroxides = −1, OF₂ = +2); H = +1 (except metal hydrides = −1); F = −1 always; sum = charge on ion. Use algebra: for SO₄²⁻: x + 4(−2) = −2 → x = +6."
+        },
+        {
+          "type": "paragraph",
+          "text": "Balancing redox equations using oxidation numbers: (1) assign oxidation numbers; (2) identify the element oxidised and reduced; (3) balance electron transfer; (4) balance charges with H⁺ or OH⁻; (5) balance H and O with H₂O."
+        },
+        {
+          "type": "paragraph",
+          "text": "Disproportionation: element simultaneously oxidised AND reduced — appears in two different oxidation states in the products. Cl₂ + 2NaOH → NaCl + NaOCl + H₂O (Cl: 0 → −1 AND 0 → +1)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Electrolysis predictions: cathode (negative) = reduction; anode (positive) = oxidation. In dilute aqueous solution: H₂ at cathode; O₂ at anode. In concentrated NaCl: Cl₂ at anode (not O₂). Copper electrodes in CuSO₄(aq): Cu dissolves from anode, Cu deposited at cathode."
+        },
+        {
+          "type": "paragraph",
+          "text": "Faraday calculations: Q = It (charge in coulombs); moles of electrons = Q/F (F = 96 500 C mol⁻¹); moles of product = moles of electrons / charge on ion. Show all three steps."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL PHRASES: 'oxidation is loss of electrons / increase in oxidation number; reduction is gain of electrons / decrease in oxidation number'"
+            ],
+            [
+              "'disproportionation: the element is simultaneously oxidised (oxidation number increases) and reduced (oxidation number decreases) in the same reaction'"
+            ],
+            [
+              "'at the cathode (negative electrode): reduction occurs, cations gain electrons'"
+            ],
+            [
+              "'moles of electrons = Q/F = (I × t) / 96500; moles of product = moles of e⁻ / n (where n = charge on ion)'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "OXIDATION NUMBER TRAP: Assigning O = −2 in H₂O₂. In peroxides (O–O bond), oxygen = −1. This is tested specifically in Paper 2."
+            ],
+            [
+              "COMMON ERROR: Writing a redox equation that is balanced for atoms but not for charge. Check: sum of charges on left = sum of charges on right. If not, add H⁺ (in acid) or OH⁻ (in alkali)."
+            ],
+            [
+              "ELECTROLYSIS ERROR: Stating that O₂ is always produced at the anode. In concentrated halide solutions, the halogen (Cl₂, Br₂) is preferentially discharged because the halide ions are in high concentration."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For oxidation number questions: set up the algebraic equation immediately — do not try to 'spot' the number intuitively. For complex ions: write 'Let oxidation number of X = n; then n + contributions from other atoms = overall charge.'"
+            ],
+            [
+              "For disproportionation: show the oxidation number of the element in the reactant AND in each product. State explicitly which oxidation state is higher and which is lower."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 9: PERIODIC TABLE & CHEMICAL PERIODICITY\n★★★☆☆ MODERATE | Avg ~3 marks marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "MODERATE",
+              "~3 marks",
+              "State/explain/calculate"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Period 3 oxides — write equations for reactions with water and state approximate pH: Na₂O (strongly basic, pH ~14); MgO (weakly basic, pH ~9); Al₂O₃ (amphoteric — reacts with both acids AND bases); SiO₂ (weakly acidic); P₄O₁₀ (strongly acidic, pH ~1); SO₃ (strongly acidic)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Period 3 chlorides with water: NaCl (dissolves → neutral); MgCl₂ (dissolves → slightly acidic); AlCl₃ (partial hydrolysis → acidic); SiCl₄ (vigorous hydrolysis → SiO₂ + HCl → strongly acidic); PCl₅ (vigorous hydrolysis → H₃PO₄ + HCl)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Across Period 3: atomic radius DECREASES (increasing nuclear charge, same shielding); first IE generally INCREASES (with exceptions at Al and S as tested in Topic 1); electronegativity INCREASES; melting point peaks at Si (giant covalent) then drops sharply."
+        },
+        {
+          "type": "paragraph",
+          "text": "The 'amphoteric' behaviour of Al₂O₃ is a key Paper 2 target: Al₂O₃ + 3H₂SO₄ → Al₂(SO₄)₃ + 3H₂O (acts as base); Al₂O₃ + 2NaOH + 3H₂O → 2NaAl(OH)₄ (acts as acid, forming aluminate)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL PHRASES: 'Al₂O₃ is amphoteric: reacts with both acids (Al₂O₃ + H₂SO₄ → Al₂(SO₄)₃ + H₂O) and bases (Al₂O₃ + NaOH → NaAlO₂ + H₂O)'"
+            ],
+            [
+              "'SiCl₄ undergoes vigorous hydrolysis with water producing SiO₂ and HCl: SiCl₄ + 2H₂O → SiO₂ + 4HCl; the solution is strongly acidic'"
+            ],
+            [
+              "'across Period 3, atomic radius decreases because nuclear charge increases while the number of inner electron shells (shielding) remains approximately constant'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON ERROR: Stating that ALL Period 3 oxides react with water. SiO₂ does NOT dissolve in water (it is a giant covalent network solid). It only reacts with hot concentrated NaOH."
+            ],
+            [
+              "COMMON ERROR: Forgetting that Al₂O₃ is AMPHOTERIC. This is specifically and regularly tested. Equations for both acid reaction and base reaction must be known."
+            ],
+            [
+              "HYDROLYSIS ERROR: Stating that NaCl and MgCl₂ 'hydrolyse'. They do NOT hydrolyse — they simply dissolve to give neutral and slightly acidic solutions respectively."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Period 3 oxide/chloride questions: mentally walk across the period: Na (metal, basic oxide, ionic chloride dissolves neutrally) → Al (amphoteric oxide, AlCl₃ partially hydrolyses) → Si,P,S (non-metal, acidic oxides, vigorous hydrolysis)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 10–12: GROUP 2, GROUP 17 & NITROGEN/SULFUR\n★★☆☆☆ LOWER | Avg ~5–6 marks total marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "LOWER",
+              "~5–6 marks total",
+              "Multi-step calculation; stoichiometric equation; empirical formula"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Group 2 reactions: with O₂ (form MO oxides); with H₂O (Mg reacts slowly with cold water, Ca–Ba react vigorously, producing M(OH)₂ + H₂); with dilute HCl/H₂SO₄ (MCl₂/MSO₄ + H₂). Reactivity increases down the group."
+        },
+        {
+          "type": "paragraph",
+          "text": "Group 2 hydroxide and sulfate solubility TRENDS (commonly tested as a 2-mark describe question): hydroxides MORE soluble down the group (Mg(OH)₂ insoluble → Ba(OH)₂ soluble); sulfates LESS soluble down the group (MgSO₄ soluble → BaSO₄ insoluble)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Group 17 reactions: Cl₂ with cold NaOH → NaCl + NaOCl + H₂O (disproportionation); with hot NaOH → NaCl + NaClO₃ + H₂O. Chlorine in water: Cl₂ + H₂O ⇌ HCl + HOCl; HOCl is the active antibacterial species."
+        },
+        {
+          "type": "paragraph",
+          "text": "Halide ion tests with AgNO₃/ethanol: Cl⁻ → white AgCl (dissolves in dilute NH₃); Br⁻ → cream AgBr (dissolves in concentrated NH₃); I⁻ → pale yellow AgI (insoluble in NH₃). Plus test with concentrated H₂SO₄: Cl⁻ → HCl; Br⁻ → Br₂; I⁻ → I₂ (and H₂S)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nitrogen: explain lack of reactivity (N≡N triple bond, very high bond enthalpy 944 kJ mol⁻¹, and non-polar). Formation of NO and NO₂ in car engines; role in acid rain; NOₓ as catalysts in SO₂ oxidation in atmosphere."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL PHRASES: 'Group 2 hydroxides become more soluble down the group; Group 2 sulfates become less soluble down the group'"
+            ],
+            [
+              "'Cl₂ + 2NaOH(aq, cold) → NaCl + NaOCl + H₂O: disproportionation (Cl goes from 0 to +1 and −1)'"
+            ],
+            [
+              "'HOCl is the active species that kills bacteria in water treatment; it dissociates to form ClO⁻ and H⁺'"
+            ],
+            [
+              "'I⁻ + Ag⁺ → AgI (pale yellow precipitate insoluble in ammonia solution); Cl⁻ + Ag⁺ → AgCl (white precipitate soluble in dilute ammonia)'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "SOLUBILITY TREND CONFUSION: Students reverse the Group 2 trends. REMEMBER: Hydroxides (MORE soluble down) — opposite to sulfates (LESS soluble down). These opposing trends are a deliberate exam trap."
+            ],
+            [
+              "COMMON ERROR: Stating that all halogens react with NaOH in the same way. Only Cl₂ is tested in this reaction; the products differ with cold vs hot NaOH. Cl₂ + 2NaOH(cold) → NaCl + NaOCl + H₂O; Cl₂ + 6NaOH(hot) → 5NaCl + NaClO₃ + 3H₂O."
+            ],
+            [
+              "COMMON ERROR: Writing Ba²⁺ as a test for SO₄²⁻ without adding dilute acid. The precipitate BaSO₄ must be tested in ACID conditions — if it dissolves, it was BaSO₃ (sulfite), not BaSO₄."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Group 2 trend questions: always state the DIRECTION of the trend and give the chemical reason (change in lattice energy vs hydration enthalpy for solubility; charge density for thermal stability)."
+            ],
+            [
+              "For Group 17 displacement questions: remember Cl₂ displaces Br⁻ and I⁻ (Cl₂ is stronger oxidising agent); Br₂ displaces I⁻ only; I₂ displaces neither."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 19–22: N-COMPOUNDS, POLYMERS, ORGANIC SYNTHESIS & ANALYTICAL\n★★★☆☆ MODERATE | Avg ~3 marks total marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Question Types Typical"
+            ],
+            [
+              "MODERATE",
+              "~3 marks total",
+              "Multi-step calculation; stoichiometric equation; empirical formula"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & Marking Point Targets"
+        },
+        {
+          "type": "paragraph",
+          "text": "Condensation polymerisation: diol + dicarboxylic acid → polyester + H₂O; diamine + dicarboxylic acid → polyamide + H₂O; or using acyl chloride → HCl instead of H₂O. For Paper 2: draw the repeat unit from given monomers OR identify monomers from given repeat unit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Infrared (IR) spectroscopy: state the absorption range AND the functional group. Key absorptions from data sheet: O–H (carboxylic acid) 2500–3000 cm⁻¹ very broad; O–H (alcohol) 3200–3650 cm⁻¹; C=O 1670–1750 cm⁻¹; N–H 3300–3500 cm⁻¹; C≡N 2200–2250 cm⁻¹."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mass spectrometry: molecular ion peak (M⁺) = Mr. Identify fragmentation: loss of CH₃ (−15), loss of Cl (−35/−37), loss of OH (−17), loss of CHO (−29). The [M+2] peak: ratio ~3:1 → Cl; ratio ~1:1 → Br."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multi-step organic synthesis: for a 'suggest a route' question — identify the starting material's functional group; identify the target's functional group; select the appropriate reagents/conditions for each transformation; check atom count is consistent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Primary amines: made from halogenoalkane + excess NH₃ (ethanol, pressure) OR from nitrile + LiAlH₄ OR from amide + LiAlH₄. Amines are basic (lone pair on N); ethylamine more basic than ammonia; phenylamine less basic (lone pair delocalised into ring)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "MODEL PHRASES: 'absorption at 2500–3000 cm⁻¹ (very broad): O–H of a carboxylic acid'; 'absorption at 1710–1750 cm⁻¹: C=O of a carbonyl/ester/acid'"
+            ],
+            [
+              "'molecular ion peak at m/e = X: Mr of compound = X; fragmentation peak at (X–15): loss of CH₃'"
+            ],
+            [
+              "'ester linkage in repeat unit: formed from condensation of −OH (diol) and −COOH (dicarboxylic acid), losing H₂O per repeat unit'"
+            ],
+            [
+              "'phenylamine is a weaker base than ammonia because the lone pair on N is delocalised into the aromatic ring, making it less available to accept a proton'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "IR ABSORPTION CONFUSION: Confusing the O–H absorption of an alcohol (3200–3650 cm⁻¹, narrow-broad) with that of a carboxylic acid (2500–3000 cm⁻¹, very broad). The 'very broad' description is the key diagnostic for a carboxylic acid. The data sheet gives both — check carefully."
+            ],
+            [
+              "POLYMER ERROR: Drawing a condensation polymer repeat unit that still includes the small molecule (H₂O or HCl). The repeat unit shows ONLY the repeating backbone unit, with the lost molecule already removed."
+            ],
+            [
+              "SYNTHESIS ERROR: Proposing a reaction step that is chemically impossible (e.g., converting an alkane directly to an alcohol without a halogenation step). Each step must be chemically feasible with known reagents."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For IR questions: read the absorption value given → look it up in the data sheet → identify the functional group → state both the group AND the bond type (e.g., 'broad absorption at 3200–3650 cm⁻¹ indicates O–H of an alcohol')."
+            ],
+            [
+              "For polymer repeat unit questions: count the atoms in the backbone — there should be a net loss of H₂O (or HCl) per repeat unit relative to the monomers. Check: bond type (ester –COO– or amide –CONH–) identifies the polymer class."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "SECTION 7: WORKED ANSWER EXAMPLES — ALL TOPICS",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to Use These Examples"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each worked answer below shows the complete answering process: reading the command word, counting marks, planning the response, and writing a full-mark answer. For each example, a poor answer (with mark awarded) is shown alongside the full-mark answer. Study the poor answers carefully — they represent the most common student mistakes from Cambridge examiner reports."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 2: Stoichiometry — Multi-step Calculation"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [4 marks]: 25.0 cm³ of 0.100 mol dm⁻³ sodium hydroxide solution reacts with excess hydrochloric acid. Calculate the mass of sodium chloride produced. (Mr: NaCl = 58.5)"
+            ],
+            [
+              "COMMAND WORD: Calculate → show all steps; include units throughout."
+            ],
+            [
+              "PLAN (4 marks): Step 1: moles NaOH. Step 2: mole ratio. Step 3: moles NaCl. Step 4: mass NaCl."
+            ],
+            [
+              "POOR ANSWER (1/4): 'Mass = 0.0025 × 58.5 = 0.146 g'"
+            ],
+            [
+              "→ Only final step shown. No formula, no conversion, no mole ratio step. Scores 1 mark for correct arithmetic if working accidentally correct."
+            ],
+            [
+              "FULL MARK ANSWER (4/4):"
+            ],
+            [
+              "Step 1: n(NaOH) = c × V = 0.100 × (25.0/1000) = 0.100 × 0.0250 = 2.50 × 10⁻³ mol [1]"
+            ],
+            [
+              "Step 2: NaOH + HCl → NaCl + H₂O; mole ratio NaOH : NaCl = 1 : 1 [1]"
+            ],
+            [
+              "Step 3: n(NaCl) = n(NaOH) = 2.50 × 10⁻³ mol [1]"
+            ],
+            [
+              "Step 4: mass(NaCl) = n × Mr = 2.50 × 10⁻³ × 58.5 = 0.146 g [1]"
+            ],
+            [
+              "TOTAL: 4/4. KEY: cm³ converted to dm³ (÷1000); balanced equation written; each step clearly labelled."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 3: Chemical Bonding — Shape and Bonding"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [4 marks]: (a) Draw a dot-and-cross diagram for the ammonia molecule, NH₃. Show outer electrons only. [2] (b) State the shape and bond angle of NH₃, and explain why the bond angle is less than that of CH₄. [2]"
+            ],
+            [
+              "POOR ANSWER part (b) (0/2): 'NH₃ is pyramidal with a 107° bond angle because it has a lone pair.'"
+            ],
+            [
+              "→ Scores 0: states lone pair exists but does NOT explain the mechanism. 'Because it has a lone pair' is not an explanation."
+            ],
+            [
+              "FULL MARK ANSWER part (b) (2/2):"
+            ],
+            [
+              "'NH₃ has a pyramidal shape with a bond angle of 107°. [1 mark for shape + angle]"
+            ],
+            [
+              "The lone pair on the N atom repels the three bonding pairs more strongly than bonding pairs repel each other. This greater repulsion compresses the H–N–H bond angle below the tetrahedral angle of 109.5° in CH₄ (which has four bonding pairs and no lone pairs). [1 mark for explanation of lone pair repulsion]'"
+            ],
+            [
+              "COMMON ERROR: Stating the bond angle as 109.5° (the electron pair geometry) instead of 107° (the actual molecular geometry). Electron pair geometry ≠ molecular shape when lone pairs are present."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 5: Chemical Energetics — Hess's Law"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [4 marks]: Use the following data to calculate the standard enthalpy change for the reaction: C(s) + 2H₂(g) → CH₄(g). ΔHf°(CO₂) = −394 kJ mol⁻¹; ΔHf°(H₂O) = −286 kJ mol⁻¹; ΔHc°(CH₄) = −890 kJ mol⁻¹."
+            ],
+            [
+              "COMMAND WORD: Calculate — show energy cycle or algebraic calculation, all steps."
+            ],
+            [
+              "FULL MARK ANSWER (4/4):"
+            ],
+            [
+              "[Draw cycle: C(s) + 2H₂(g) →[ΔHf°(CH₄)] CH₄(g)"
+            ],
+            [
+              "↓ ΔHc(elements) ↓ ΔHc°(CH₄) = −890"
+            ],
+            [
+              "CO₂(g) + 2H₂O(l) ←"
+            ],
+            [
+              "Route 1 (direct): ΔHf°(CH₄) [unknown]"
+            ],
+            [
+              "Route 2 (via combustion products): ΔHc°(C) + 2×ΔHc°(H₂) = (−394) + 2×(−286) = −966 kJ mol⁻¹ [2]"
+            ],
+            [
+              "Hess's law: ΔHf°(CH₄) + ΔHc°(CH₄) = ΔHc°(elements)"
+            ],
+            [
+              "ΔHf°(CH₄) = −966 − (−890) = −966 + 890 = −76 kJ mol⁻¹ [1]"
+            ],
+            [
+              "Sign and value correct: ΔHf°(CH₄) = −76 kJ mol⁻¹ [1]"
+            ],
+            [
+              "TOTAL: 4/4. KEY: cycle drawn; route 2 calculated correctly; algebraic manipulation correct; sign correct."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 7: Equilibria — Le Chatelier + Kc"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [3 marks]: For the reaction: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) ΔH = −92 kJ mol⁻¹"
+            ],
+            [
+              "Explain what happens to the equilibrium position and the value of Kc when the temperature is increased."
+            ],
+            [
+              "COMMAND WORD: Explain → WHAT + WHY for each part."
+            ],
+            [
+              "PLAN (3 marks): (1) direction of shift; (2) reason (Le Chatelier); (3) effect on Kc."
+            ],
+            [
+              "POOR ANSWER (1/3): 'The equilibrium shifts to the left and Kc decreases.'"
+            ],
+            [
+              "→ Scores 1: correct shift direction given but no explanation of WHY; Kc change stated without justification."
+            ],
+            [
+              "FULL MARK ANSWER (3/3):"
+            ],
+            [
+              "'The equilibrium shifts to the LEFT (towards N₂ and H₂). [1]"
+            ],
+            [
+              "This is because increasing temperature favours the endothermic direction. The reverse reaction is endothermic (ΔH = +92 kJ mol⁻¹), so the equilibrium shifts in that direction to absorb the additional heat energy, opposing the temperature increase (Le Chatelier's principle). [1]"
+            ],
+            [
+              "The value of Kc DECREASES. This is because Kc is only affected by temperature, and increasing temperature for an exothermic reaction (ΔH negative) always decreases Kc. [1]'"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 1: Atomic Structure — Definition + Successive IEs"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [4 marks]: (a) Define the term first ionisation energy. [2] (b) The successive ionisation energies of element X are 578, 1820, 2750, 11600, 14800 kJ mol⁻¹. Identify the group of X in the Periodic Table and explain your reasoning. [2]"
+            ],
+            [
+              "POOR ANSWER part (a) (1/2): 'The energy needed to remove an electron from an atom.'"
+            ],
+            [
+              "→ Scores 1/2: missing 'gaseous', 'ground state', 'one mole', 'minimum energy'. Cambridge mark scheme requires all four components."
+            ],
+            [
+              "FULL MARK ANSWER part (a) (2/2):"
+            ],
+            [
+              "'The minimum energy required to remove one mole of electrons from one mole of gaseous atoms in their ground state (to form gaseous 1+ ions).' [2]"
+            ],
+            [
+              "ALL components present: minimum energy [1], one mole, gaseous, ground state [1]."
+            ],
+            [
+              "FULL MARK ANSWER part (b) (2/2):"
+            ],
+            [
+              "'Element X is in Group 3. [1] There is a large increase in ionisation energy between the 3rd IE (2750 kJ mol⁻¹) and the 4th IE (11600 kJ mol⁻¹). This indicates that the 3rd electron is the last outer shell electron — the 4th electron must be removed from an inner shell, which is closer to the nucleus and more strongly attracted. Therefore X has 3 outer shell electrons → Group 3. [1]'"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 13–15: Organic Mechanism — Electrophilic Addition"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [4 marks]: Propene reacts with hydrogen bromide gas. (a) Name the mechanism. [1] (b) Draw the mechanism for the formation of the major product, showing curly arrows, intermediates and relevant charges. [3]"
+            ],
+            [
+              "Part (a) ANSWER (1/1): 'Electrophilic addition.'"
+            ],
+            [
+              "Part (b) FULL MARK ANSWER (3/3):"
+            ],
+            [
+              "Step 1: Draw propene (CH₃CH=CH₂) with a curly arrow from the π bond pointing to H of H–Br. Draw a second curly arrow from H–Br bond to Br. Show Br⁻ leaving. Show the carbocation at C-2: CH₃CH⁺CH₃ (secondary, more stable). Show δ+ on H and δ− on Br of HBr. [1 for correct polarisation and first curly arrow]"
+            ],
+            [
+              "Step 2: Carbocation intermediate drawn correctly — positive charge shown on correct carbon (C-2, the more substituted position — secondary carbocation preferred over primary). [1 for correct carbocation intermediate]"
+            ],
+            [
+              "Step 3: Curly arrow from Br⁻ lone pair to the positive carbon. Final product: 2-bromopropane (CH₃CHBrCH₃). [1 for correct product and final curly arrow]"
+            ],
+            [
+              "KEY MARKING POINTS: (1) δ+ and δ− shown on HBr; (2) carbocation at C-2 (not C-1) with + charge shown; (3) Br⁻ attacks C-2 to give 2-bromopropane as major product. Markovnikov's rule: H adds to C-1 (more H substituents); Br adds to C-2."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 7: pH Calculation — Weak Acid"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [4 marks]: Calculate the pH of a 0.050 mol dm⁻³ solution of ethanoic acid. Ka(CH₃COOH) = 1.8 × 10⁻⁵ mol dm⁻³."
+            ],
+            [
+              "COMMAND WORD: Calculate — show all steps; state assumptions."
+            ],
+            [
+              "POOR ANSWER (1/4): 'pH = −log(1.8 × 10⁻⁵) = 4.74'"
+            ],
+            [
+              "→ Scores 0–1: calculates pKa not pH. Common error: confusing pKa with pH."
+            ],
+            [
+              "FULL MARK ANSWER (4/4):"
+            ],
+            [
+              "Step 1: Ka expression: Ka = [H⁺][CH₃COO⁻] / [CH₃COOH] [1]"
+            ],
+            [
+              "Step 2: Assumption: [H⁺] = [CH₃COO⁻] and [CH₃COOH] ≈ 0.050 mol dm⁻³ (weak acid, degree of dissociation is small)."
+            ],
+            [
+              "So Ka ≈ [H⁺]² / 0.050 [1]"
+            ],
+            [
+              "Step 3: [H⁺]² = Ka × 0.050 = 1.8 × 10⁻⁵ × 0.050 = 9.0 × 10⁻⁷"
+            ],
+            [
+              "[H⁺] = √(9.0 × 10⁻⁷) = 9.49 × 10⁻⁴ mol dm⁻³ [1]"
+            ],
+            [
+              "Step 4: pH = −log(9.49 × 10⁻⁴) = 3.02 [1]"
+            ],
+            [
+              "TOTAL: 4/4. KEY: Ka expression written; approximation stated; square root taken (not Ka directly); correct pH not pKa."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 16–18: Carbonyl Chemistry — Distinguishing Tests"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [4 marks]: An organic compound X gives an orange precipitate with 2,4-DNPH reagent, a silver mirror with Tollens' reagent, and a yellow precipitate with alkaline aqueous iodine. Identify compound X as specifically as possible and justify each piece of evidence."
+            ],
+            [
+              "FULL MARK ANSWER (4/4):"
+            ],
+            [
+              "Compound X is ethanal (CH₃CHO). [1 mark for correct identification]"
+            ],
+            [
+              "Evidence 1: Orange precipitate with 2,4-DNPH → X contains a C=O (carbonyl) functional group. Rules in: all carbonyl compounds (aldehydes and ketones). [0.5 mark — builds to next]"
+            ],
+            [
+              "Evidence 2: Silver mirror with Tollens' reagent → X is an ALDEHYDE (not a ketone). Tollens' reagent is reduced (Ag⁺ → Ag) only by aldehydes, which are oxidised to carboxylate ions. [1 mark]"
+            ],
+            [
+              "Evidence 3: Yellow precipitate with alkaline I₂ (iodoform test) → X contains the CH₃CO− group. The only aldehyde with this group is ethanal (CH₃CHO). [1 mark]"
+            ],
+            [
+              "Therefore compound X = ethanal. [Already credited above]"
+            ],
+            [
+              "TOTAL: 4/4. KEY: each test linked to the specific functional group it identifies; compound named correctly at the most specific level possible."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 22: Analytical — IR and Mass Spectrometry"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER EXAMPLE"
+            ],
+            [
+              "QUESTION [3 marks]: An organic compound has the molecular formula C₃H₆O₂. Its IR spectrum shows a very broad absorption at 2500–3000 cm⁻¹ and a strong absorption at 1710 cm⁻¹. Its mass spectrum shows a molecular ion peak at m/e = 74 and a fragment at m/e = 45. Identify the compound and explain how each piece of evidence supports your answer."
+            ],
+            [
+              "FULL MARK ANSWER (3/3):"
+            ],
+            [
+              "Compound: propanoic acid (CH₃CH₂COOH)."
+            ],
+            [
+              "Evidence 1: IR absorption at 2500–3000 cm⁻¹ (very broad) → O–H of a carboxylic acid (not an alcohol, which absorbs at 3200–3650 cm⁻¹). [1]"
+            ],
+            [
+              "Evidence 2: IR absorption at 1710 cm⁻¹ → C=O of a carboxylic acid (in the range 1670–1740 cm⁻¹ for carbonyl groups). Combined with the O–H absorption, confirms a carboxylic acid. [1]"
+            ],
+            [
+              "Evidence 3: m/e = 74 = Mr of propanoic acid (C₃H₆O₂: 3×12 + 6×1 + 2×16 = 74 ✓). Fragment at m/e = 45 = loss of 74 − 45 = 29 = CHO group (or C₂H₅ group); consistent with CH₃CH₂⁺ (m/e = 29) or COOH⁺ (m/e = 45 = 12+16+16+1). [1]"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "SECTION 8: PREDICTED TOPICS FOR NEXT SESSION",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Prediction Methodology for Paper 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "These predictions are based on: (1) 8-year analysis of Paper 2 topic frequency and mark allocation; (2) identification of sub-topics under-represented in 2023–2025; (3) Cambridge's documented trend toward more AO2 application questions; (4) examiner report commentary on student performance and persistent weaknesses. These are evidenced predictions — not guarantees — and represent the highest-probability question targets."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Cambridge's most consistent Paper 2 pattern: core topics (bonding, stoichiometry, energetics) are tested every year without exception, but the SPECIFIC SUB-TOPIC within each rotates. Topic 3 always appears, but may focus on dot-and-cross diagrams one year and intermolecular forces the next."
+            ],
+            [
+              "The most significant trend 2022–2025: increasing 'suggest' and 'deduce' questions — AO2 now accounts for approximately 55% of Paper 2. Students who can only recall facts (AO1) consistently underperform relative to their Paper 1 score."
+            ],
+            [
+              "Examiner reports 2022–2025 note persistent student weaknesses in: (1) incomplete definitions; (2) vague explanations (missing the 'because' mechanism); (3) wrong units in calculations; (4) incomplete mechanisms (missing curly arrow start/end points). These weaknesses create the most predictable mark-loss patterns."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔮 PREDICTION"
+            ],
+            [
+              "PREDICTION 1 — Multi-step Mole Calculation with Limiting Reagent and % Yield (VERY HIGH CONFIDENCE): A 4–5 mark stoichiometry calculation will require: (1) identifying the limiting reagent from given masses of two reactants; (2) calculating the theoretical yield; (3) calculating the percentage yield from a given actual yield. Practise this sequence explicitly — each step is a separate mark."
+            ],
+            [
+              "PREDICTION 2 — Enthalpy Cycle using Standard Enthalpies of Formation (HIGH CONFIDENCE): A 4-mark calculation using ΔHf° values in a Hess's law cycle. Students consistently lose marks by incorrectly using ΔHc° values when ΔHf° are given (different cycle structure). Draw the cycle before calculating — this prevents the most common error of reversing the direction."
+            ],
+            [
+              "PREDICTION 3 — Nucleophilic Addition Mechanism of HCN with a Named Aldehyde or Ketone (HIGH CONFIDENCE): A 3–4 mark mechanism question requiring: curly arrows; the CN⁻ nucleophile attacking the carbonyl carbon; the O⁻ intermediate; protonation to form OH; correct product name. The most common error (drawing attack on O rather than C) is explicitly noted in recent examiner reports."
+            ],
+            [
+              "PREDICTION 4 — Buffer Solution: Composition + Mechanism + pH Calculation (HIGH CONFIDENCE): A 5–6 mark question covering: (a) explain what a buffer solution is [1]; (b) explain how the named buffer resists pH change when acid is added AND when alkali is added [2]; (c) calculate the pH given Ka, [HA], and [A⁻] [2–3]. The mechanism marks require two separate equations/explanations (one for acid addition, one for alkali addition)."
+            ],
+            [
+              "PREDICTION 5 — Period 3 Chloride Hydrolysis: Equations + pH Comparison (HIGH CONFIDENCE): Describe and write equations for the reactions of SiCl₄ and NaCl with water, compare the pH of the solutions formed, and explain the difference in terms of bonding. This sub-topic appeared in examiner reports as underperformed in 2023–2024."
+            ],
+            [
+              "PREDICTION 6 — Electronic Configuration of Transition Metal Ion + Explanation of Anomalous Configuration (MODERATE CONFIDENCE): Write the electronic configuration of a specific transition metal ion (likely Fe³⁺, Cu²⁺, or Cr³⁺) — specifically testing that students remove 4s electrons before 3d when forming cations. The anomalous configurations of Cr and Cu are due for testing."
+            ],
+            [
+              "PREDICTION 7 — Polymer Repeat Unit Drawing + Classification (MODERATE CONFIDENCE): Given two monomers (likely a diol and a dicarboxylic acid, or a diacid chloride and a diamine), draw the repeat unit of the polymer and classify the type. State whether the polymer is biodegradable (polyesters and polyamides are — poly(alkenes) are not). A novel monomer pair will be used — not Nylon-6,6 or Terylene directly."
+            ],
+            [
+              "PREDICTION 8 — Infrared Spectrum Interpretation Leading to Structural Identification (MODERATE CONFIDENCE): Given two or more IR absorptions and a molecular formula, identify the compound. The most likely combination: O–H (broad, 2500–3000 cm⁻¹) + C=O (1710–1740 cm⁻¹) = carboxylic acid. Or: N–H (3300–3500 cm⁻¹) + C=O (1640–1690 cm⁻¹) = amide."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Medium-Confidence Predictions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Predicted Topic",
+              "Likely Format",
+              "Marks",
+              "Confidence"
+            ],
+            [
+              "VSEPR: shape of a sulfur compound (SO₂ or SF₄)",
+              "State shape, bond angle, explain lone pair effect",
+              "2–3",
+              "★★★★★"
+            ],
+            [
+              "Optical isomerism: identify chiral centre + draw enantiomers",
+              "Structural formula → circle chiral C + draw mirror image pair",
+              "2–3",
+              "★★★★☆"
+            ],
+            [
+              "Kc expression + calculation from equilibrium concentrations",
+              "Write expression; substitute values; calculate Kc",
+              "3–4",
+              "★★★★☆"
+            ],
+            [
+              "Boiling point comparison using intermolecular forces",
+              "Suggest: identify stronger force type + explain why → higher b.p.",
+              "2",
+              "★★★★☆"
+            ],
+            [
+              "Electrode potential calculation for a cell",
+              "Write cell notation; calculate E°cell; predict direction of electron flow",
+              "3",
+              "★★★☆☆"
+            ],
+            [
+              "Group 2 thermal stability trend + explanation",
+              "Describe and explain trend in stability of carbonates/nitrates",
+              "2–3",
+              "★★★☆☆"
+            ],
+            [
+              "Organic synthesis route (2–3 steps)",
+              "Starting material to target via multiple functional group transformations",
+              "3–4",
+              "★★★☆☆"
+            ],
+            [
+              "Mass spectrum fragmentation interpretation",
+              "m/e peaks → identify fragments → deduce structural feature",
+              "2",
+              "★★★☆☆"
+            ],
+            [
+              "Rate equation from experimental data",
+              "Construct rate equation from initial rate/concentration table",
+              "2–3",
+              "★★★☆☆"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "SECTION 9: 4-WEEK REVISION PLAN",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to Revise for Paper 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 2 revision requires a fundamentally different approach to Paper 1. Knowing a topic is not sufficient — you must be able to WRITE a correct, precise, mark-scheme-language answer under timed conditions. The most effective revision activities are: (1) writing full answers from memory and comparing to mark schemes; (2) practising calculations step-by-step with units; (3) learning model phrases for each topic's key marking points."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "The most effective Paper 2 revision activity: answer past paper sub-questions under timed conditions, then compare your answer word-for-word against the mark scheme. For every missed mark, identify the EXACT phrase you omitted and add it to a 'mark scheme language' flashcard."
+            ],
+            [
+              "Calculation fluency for Paper 2: practise the full three-step sequence for each calculation type (moles, enthalpy, pH, electrolysis) until you can write it without thinking. Speed and accuracy under time pressure are essential."
+            ],
+            [
+              "For every 'explain' question you practise: check your answer contains BOTH a 'what' statement AND a 'because/this is because' reason. If you have only one component, you score at most half marks regardless of what else you write."
+            ],
+            [
+              "Write definitions from memory every day. Compare your written definition to the mark scheme phrase word for word. Cambridge awards definition marks for specific vocabulary — 'minimum energy', 'per mole', 'gaseous atoms', 'ground state' — each is a separate mark."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 1: Critical Topics — Stoichiometry, Bonding, Energetics"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Topic 2: Write the three mole formulae from memory. Complete 8 mole calculations (reacting masses, volumes, concentrations) — write every step with units. Include two limiting reagent examples.",
+              "Topic 2: Practise 4 empirical formula calculations and 2 percentage yield calculations. Write one full ionic equation, cancelling spectator ions. Check all units.",
+              "Mark scheme language cards × 10: mole calculation phrases. Write each from memory before checking."
+            ],
+            [
+              "Tue",
+              "Topic 3: Draw and name all 7 VSEPR shapes from memory with bond angles. Explain (in full sentences) why each lone pair reduces the bond angle.",
+              "Topic 3: Dot-and-cross diagrams × 6 (NH₃, H₂O, CO₂, BF₃, SF₆, PCl₃). Write out bonding type and property link for: NaCl (ionic→m.p.), SiO₂ (giant covalent→m.p.), CH₄ (simple molecular→m.p.), Cu (metallic→conductivity).",
+              "Write the hydrogen bonding definition (full model answer) from memory. Compare to mark scheme phrase. Add any missing words to flashcard."
+            ],
+            [
+              "Wed",
+              "Topic 5: Draw two Hess's law cycles (one ΔHf° type, one ΔHc° type). Write the algebraic equation for each. Solve with real values from past papers.",
+              "Topic 5: Bond energy calculations × 4 — structural formula → count bonds → list broken/formed → ΔHr. Calorimetry calculation × 2 — q=mcΔT → ΔH = −q/n.",
+              "Write the enthalpy definition set from memory: ΔHf°, ΔHc°, ΔHneut, activation energy. Compare to mark scheme language."
+            ],
+            [
+              "Thu",
+              "Timed practice: 20 marks of past Paper 2 questions from Topics 2, 3, 5 (mixed). Time strictly at 30 minutes (75 sec/mark).",
+              "Mark and compare every answer against the mark scheme. For each missed mark: write the specific phrase you omitted. Create a correction card.",
+              "Review your top 5 missed phrases. Write them from memory 3 times each."
+            ],
+            [
+              "Fri",
+              "Topic 3 extended: Intermolecular forces — write a model 3-mark 'explain the boiling point' answer for each of: id-id forces, pd-pd forces, hydrogen bonding. Include the mechanism, not just the label.",
+              "Topic 5 extended: Enthalpy profile diagrams — draw and label: activation energy, ΔH (exo and endo), effect of catalyst on Ea. Write a 2-mark explanation of why a catalyst increases rate.",
+              "Active recall: close all notes. Write from memory the Hess's law formula for a formation cycle AND a combustion cycle."
+            ],
+            [
+              "Sat",
+              "Full timed Paper 2 practice: 2018 Paper 2 (60 marks, 75 minutes). Strict exam conditions — pen only (pencil for diagrams), no notes.",
+              "Mark paper. Record score. Classify every missed mark as: (a) wrong recall; (b) incomplete explanation; (c) calculation error; (d) unit omission; (e) wrong definition. Tally each category.",
+              "Read the examiner report commentary for 2018 Paper 2. Note which weaknesses apply to you."
+            ],
+            [
+              "Sun",
+              "REST — light review of mark scheme language flashcards only (max 30 min).",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 2: High Priority Topics — Atomic Structure, Equilibria, Organic Chemistry"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Topic 1: Write the first IE definition from memory (all 4 components). Write electronic configurations for Na to Zn (full notation). Write Fe²⁺, Fe³⁺, Cu²⁺, Cr³⁺ from memory.",
+              "Topic 1: Successive IE graph: practise 6 examples of identifying the group from the large jump. Write a full 2-mark answer explaining the jump each time.",
+              "Definition cards × 10: IE₁, IE₂, isotopes, atomic radius. Check each word against mark scheme."
+            ],
+            [
+              "Tue",
+              "Topic 7 Part 1: Write Le Chatelier's principle (exact definition). Apply to 5 scenarios (temp, pressure, conc changes — write 3-sentence answer for each). Include Kc effect.",
+              "Topic 7 Part 2: Kc expressions × 4 (write correctly; exclude solids). pH calculations × 4 (strong acid × 2, weak acid × 2 using Ka). Show ALL steps.",
+              "Write the buffer mechanism from memory: two equations (added H⁺; added OH⁻). Check against mark scheme."
+            ],
+            [
+              "Wed",
+              "Topics 13–15: Draw three complete organic mechanisms from memory: (1) free radical substitution of ethane + Cl₂; (2) electrophilic addition of Br₂ to ethene; (3) SN2 of bromoethane + OH⁻. Check curly arrow starts and ends.",
+              "Topics 13–15: Write the reagents and conditions for 10 key reactions from memory (halogenation of alkane, addition reactions of alkene, substitution/elimination of halogenoalkane). Include catalyst, temperature, solvent.",
+              "Mechanism cards × 6 — draw the intermediate and check. Correction cards for any wrong curly arrows."
+            ],
+            [
+              "Thu",
+              "Timed practice: 25 marks of past Paper 2 questions from Topics 1, 7, 13–15. Time at 37 minutes.",
+              "Full mark scheme comparison. Classify errors. Write correction cards.",
+              "Improvement tracking: compare error category totals to Week 1. Which categories are improving?"
+            ],
+            [
+              "Fri",
+              "Topics 16–18: Write model answers for (a) oxidation of primary vs secondary vs tertiary alcohol [3 marks]; (b) nucleophilic addition of HCN mechanism [3 marks]; (c) identify aldehyde vs ketone using three tests [3 marks].",
+              "Topic 9: Period 3 oxide and chloride table from memory (oxide type, pH in water, chloride hydrolysis equation). Write equations for Al₂O₃ acting as both acid and base.",
+              "Write esterification reaction conditions from memory. Write the carboxylic acid reaction with Na₂CO₃ (equation + observation)."
+            ],
+            [
+              "Sat",
+              "Full timed Paper 2 practice: 2020 Paper 2 (60 marks, 75 minutes). Compare score to Week 1.",
+              "Mark paper. Track error categories. Identify top 3 persistent weaknesses.",
+              "Write your 'top 3 weakness phrases' 5 times each from memory."
+            ],
+            [
+              "Sun",
+              "REST — mental review of reaction conditions and definitions only.",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 3: Moderate Topics + AO2 Application Skills"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Topics 4+6: Ideal gas equation — 4 calculations (find each of p, V, n, T, Mr). Oxidation number assignment × 10. Balance 3 redox equations using half-equations.",
+              "Topics 8+9: Boltzmann distribution — draw correctly; explain effect of T increase and catalyst. Write a Period 3 oxide table from memory with all reactions and equations.",
+              "Definition cards: Ka, Kc, Kp, activation energy, atom economy. Check mark scheme language."
+            ],
+            [
+              "Tue",
+              "Topics 10–12: Group 2 reactions and solubility trends. Write equations for Ca/Mg with O₂, H₂O, HCl. Group 17: halogen displacement series. Write AgNO₃ test results for all 3 halides.",
+              "Topics 19–21: Draw repeat units for: poly(ethene), poly(chloroethene), Nylon-6,6 (polyamide), Terylene (polyester). Classify each. Write one novel condensation polymer from given monomers.",
+              "IR absorption table from memory — write 5 key absorptions (O-H acid, O-H alcohol, C=O, N-H, C≡N). Compare to data sheet."
+            ],
+            [
+              "Wed",
+              "AO2 PRACTICE: 'Suggest' questions — 8 examples from different topics. For each: (1) identify the principle; (2) apply to the given context; (3) state the consequence. Focus on unfamiliar organic compounds.",
+              "AO2 PRACTICE: 'Deduce' from data — 6 examples using graphs and tables. Practise extracting Kc from equilibrium data; rate from concentration-time graph; order of reaction from rate table.",
+              "Write the 3-step 'suggest' strategy from memory. Apply it to one new example not previously seen."
+            ],
+            [
+              "Thu",
+              "Timed practice: 30 marks of mixed Paper 2 questions (all topics). Time at 37 minutes. Deliberately include AO2 questions.",
+              "Full mark comparison. Note: what % of your errors are now AO2 (application) vs AO1 (recall)? Adjust revision focus accordingly.",
+              "Spaced review: redo 10 mark scheme comparison from Week 1. Have your model answer phrases improved?"
+            ],
+            [
+              "Fri",
+              "Extended response practice: write two 5–6 mark questions in full from start to finish. Topics: (1) explain the properties of a named Period 3 compound [5]; (2) plan a synthesis route for a 3-step organic reaction [6].",
+              "Peer-review your extended answers against the mark scheme. For each 6-mark answer: have you made 6 distinct chemical points? Count them.",
+              "Timed definition practice: 8 definitions in 12 minutes — all from memory, compared to mark scheme."
+            ],
+            [
+              "Sat",
+              "Full timed Paper 2: 2022 Paper 2. Track score progression across 3 weeks.",
+              "Mark and classify errors. Create your 'Final Week' priority list: the 5 marking points you still most often miss.",
+              "Write your 'Final Week' 5 priority phrases × 5 each from memory."
+            ],
+            [
+              "Sun",
+              "REST — light review of AO2 strategy notes and 'Final Week' priority phrases.",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 4: Peak Performance — Full Papers & Predicted Topics"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Full timed Paper 2: 2023 Paper 2 (75 minutes, strict exam conditions — pen, no notes, pencil only for diagrams and graphs).",
+              "Mark paper. Score. Address top 3 remaining error types with targeted re-study. Read the specific 'Avoid This Error' boxes in Section 6.",
+              "Rapid-fire definition cards × 20. Target: instant recall within 5 seconds."
+            ],
+            [
+              "Tue",
+              "Predicted topic deep-dive: (1) Mole + limiting reagent + % yield calculation × 3; (2) Hess's law ΔHf° cycle × 3; (3) Buffer mechanism + pH calculation × 3.",
+              "Predicted topic deep-dive: (4) HCN mechanism (nucleophilic addition) × 3; (5) Period 3 chloride hydrolysis equations × all; (6) Electronic config of transition metal ions × 5.",
+              "Write Le Chatelier 3-sentence answer template from memory. Apply to 3 different equilibrium changes."
+            ],
+            [
+              "Wed",
+              "Full timed Paper 2: 2024 Paper 2 (75 minutes, exam conditions).",
+              "Mark paper. Final score comparison across 4 weeks. Write a 'persistent error' summary: the 3 types of mark you most consistently miss.",
+              "Error cards × 15: for each error on 2024 paper, write the correct mark scheme phrase. Read each card 3 times."
+            ],
+            [
+              "Thu",
+              "Mixed timed practice: 40 marks of questions drawn from 3 different years (random selection). Time at 50 minutes. Full exam simulation.",
+              "Review and correct. Targeted study only — no new content at this stage.",
+              "Re-read Section 2 (command words) and Section 5 (strategies). Confirm you can apply each strategy without consulting the guide."
+            ],
+            [
+              "Fri",
+              "Timed practice sets by question type: 8 marks of definitions (12 min); 12 marks of calculations (18 min); 10 marks of explain questions (15 min); 5 marks of mechanism drawing (10 min).",
+              "Review and correct. For each calculation error: redo step-by-step showing all units. For each explanation error: rewrite with WHAT+WHY structure.",
+              "Final review of Section 8 predictions. Ensure you can write a model answer for each of the 8 high-confidence predicted topics."
+            ],
+            [
+              "Sat",
+              "LIGHT REVISION ONLY: 30 minutes — rapid review of mark scheme language cards and critical definitions. No new practice questions.",
+              "Prepare exam equipment: black/blue ink pen (essential), HB pencil (for graphs and mechanisms), ruler, Cambridge-approved calculator. Rest well.",
+              "—"
+            ],
+            [
+              "Sun",
+              "EXAM DAY — Apply the strategies. Decode every command word. Show all working. Count your marks. Execute with confidence.",
+              "—",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "SECTION 10: EXAM DAY STRATEGIES",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Before You Enter the Exam Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "Equipment: blue or black ink pen (required for all written answers). HB pencil (required for graphs, diagrams, and mechanism drawings). Eraser. Ruler (for graph drawing and reading). Cambridge-approved scientific calculator."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sleep: 8 hours minimum. Precise chemical recall and calculation fluency both deteriorate significantly with poor sleep."
+        },
+        {
+          "type": "paragraph",
+          "text": "Light breakfast — sustained cognitive energy for 75 minutes of intensive analytical writing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arrive 15 minutes early. Mental warm-up: mentally recite 5 key definitions (first IE, electronegativity, Ka, activation energy, empirical formula). Do NOT read new content — this raises anxiety without benefit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Write at the top of your answer booklet (before the exam starts): the three mole formulae, the calorimetry formula (q = mcΔT; ΔH = −q/n), and 'WHAT + WHY' — your reminder for every explain question."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Opening Protocol: The First 5 Minutes"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ STRUCTURED Q STRATEGY"
+            ],
+            [
+              "STEP 1 (2 minutes): READ ALL QUESTIONS FIRST. Read every sub-part of every question before writing a single word. Identify: (a) which topics are being tested; (b) which questions you are most confident in; (c) any sub-parts that clearly build on earlier sub-parts."
+            ],
+            [
+              "STEP 2: For each sub-part, annotate the margin with the command word and mark allocation. Write 'WHAT+WHY' next to every 'explain' sub-part. Write 'SHOW ALL STEPS' next to every 'calculate' sub-part."
+            ],
+            [
+              "STEP 3: Begin with the question you are most confident in — not necessarily question 1. Building early marks creates positive momentum and calmer thinking for harder questions."
+            ],
+            [
+              "STEP 4: Work through all questions. NEVER leave a sub-part blank — write at minimum the most basic relevant chemical fact. A blank = 0 marks. A partial attempt may earn 1 mark."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "In-Exam Discipline: The Non-Negotiable Rules"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situation in the Exam",
+              "The Correct Response"
+            ],
+            [
+              "You have written one long sentence for a 3-mark question",
+              "STOP. Count how many distinct chemical points you have made. If fewer than 3, add more specific points. One point restated three ways = 1 mark, not 3."
+            ],
+            [
+              "You cannot remember a specific definition",
+              "Write the most precise version you can recall. Include all components you remember. Never leave a definition blank — partial definitions earn partial marks."
+            ],
+            [
+              "Your calculation gives a negative value when you expect positive (or vice versa)",
+              "Do NOT adjust the sign to match expectations. Show your working. If the sign is genuinely wrong, trace back through your steps for a sign error. Write a sentence noting the sign: 'the negative sign indicates the reaction is exothermic'."
+            ],
+            [
+              "You make an error in part (a) and need it for part (b)",
+              "Continue using your wrong (a) answer in (b) — show this explicitly: 'Using the value from (a)...'. ECF marks are awarded for correct subsequent method even with a wrong starting value."
+            ],
+            [
+              "You run out of time on a question",
+              "Write the key phrase for each remaining mark — even a single sentence identifying the relevant principle. Never leave a sub-part completely blank in the last minutes. 1 mark per sub-part attempted is better than 0."
+            ],
+            [
+              "A mechanism question requires curly arrows",
+              "Use pencil. Draw the arrow starting FROM a bond or lone pair, pointing TO where the electrons move. Check: does each arrow start at electrons (bond or lone pair)?"
+            ],
+            [
+              "An 'explain' question has 4 marks and you have only written 2 points",
+              "You need 2 more distinct chemical points. Ask: WHAT happens? WHY does it happen? What is the CONSEQUENCE? What is the EXCEPTION? Each is a potential additional mark."
+            ],
+            [
+              "You have 10 minutes remaining and 15 marks left to write",
+              "Triage: calculate the mark-yield per minute. Write at least the command-word-matching key phrase for each remaining sub-part. Half an answer earns more than no answer."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The A* Structured Question Mindset"
+        },
+        {
+          "type": "paragraph",
+          "text": "The difference between a student who scores 48/60 and one who scores 56/60 is not knowledge — it is precision of expression. The student scoring 56/60 consistently does five things the student scoring 48/60 does not:"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "48/60 Student Behaviour",
+              "56/60 Student Behaviour"
+            ],
+            [
+              "Writes 'the melting point is high because of the strong bonds'",
+              "Writes 'the melting point is high because a large amount of energy is required to overcome the strong electrostatic forces of attraction between oppositely charged ions in the giant ionic lattice'"
+            ],
+            [
+              "Writes one long paragraph for a 4-mark explanation",
+              "Writes four distinct, numbered/separated sentences, each containing one marking point"
+            ],
+            [
+              "In calculations: writes numbers without units",
+              "Writes units at every step: 'n = m/Mr = 5.85 g / 58.5 g mol⁻¹ = 0.100 mol'"
+            ],
+            [
+              "In mechanism: draws curly arrows from atoms, not bonds/lone pairs",
+              "Always starts curly arrows from the bond or lone pair — checks this for every arrow before moving on"
+            ],
+            [
+              "Leaves 3 sub-parts blank in the last 10 minutes",
+              "Writes at least one chemically relevant sentence per remaining sub-part — earning partial marks on every question attempted"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "The marks for Paper 2 are already on the paper — your job is to extract them with precise language. Every sub-part has a mark scheme with specific marking points. Your answers do not need to use the exact same wording, but they must contain the same chemical content."
+            ],
+            [
+              "For every 'explain' question: check that your answer contains a 'because' or 'this is because'. If it does not, you have described without explaining. Add the reason immediately."
+            ],
+            [
+              "The data sheet is your friend — it contains bond energies, electrode potentials, NMR and IR tables. Refer to it for every relevant calculation. Do not rely on memory for specific numerical data when the sheet is provided."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appendix",
+      "title": "QUICK REFERENCE APPENDIX",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Essential Definitions — Mark Scheme Language"
+        },
+        {
+          "type": "paragraph",
+          "text": "These are the exact mark scheme formulations for the most frequently tested definitions in Paper 2. Learn them word-for-word."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Term",
+              "Full Mark Scheme Definition",
+              "Key Components"
+            ],
+            [
+              "First ionisation energy",
+              "The minimum energy required to remove one mole of electrons from one mole of gaseous atoms in their ground state (to form one mole of gaseous 1+ ions).",
+              "minimum energy; one mole; gaseous atoms; ground state"
+            ],
+            [
+              "Electronegativity",
+              "The power of an atom to attract electrons to itself in a covalent bond (Pauling definition).",
+              "power; atom; attract electrons; to itself; covalent bond"
+            ],
+            [
+              "Bond energy",
+              "The energy required to break one mole of a particular covalent bond in the gaseous state (averaged over similar molecules).",
+              "one mole; particular bond; gaseous state; energy to break"
+            ],
+            [
+              "Activation energy",
+              "The minimum energy required for a collision between reactant molecules to be effective (to result in the formation of products).",
+              "minimum energy; collision; effective; products"
+            ],
+            [
+              "Dynamic equilibrium",
+              "A state in which the rate of the forward reaction equals the rate of the reverse reaction, and the concentrations of reactants and products remain constant (in a closed system).",
+              "forward = reverse rate; concentrations constant; closed system"
+            ],
+            [
+              "Le Chatelier's principle",
+              "If a change is made to a system at dynamic equilibrium, the position of equilibrium shifts to oppose / minimise that change.",
+              "change; oppose/minimise; position of equilibrium"
+            ],
+            [
+              "Ka",
+              "The equilibrium constant for the dissociation of one mole of a weak acid in aqueous solution. Ka = [H⁺][A⁻]/[HA].",
+              "equilibrium constant; dissociation; weak acid; expression"
+            ],
+            [
+              "Buffer solution",
+              "A solution that resists changes in pH when small amounts of acid or alkali are added to it (contains a weak acid and its conjugate base, or a weak base and its conjugate acid).",
+              "resists pH change; small amounts of acid or alkali; weak acid + conjugate base"
+            ],
+            [
+              "Empirical formula",
+              "The simplest whole number ratio of atoms of each element present in a compound.",
+              "simplest; whole number ratio; each element"
+            ],
+            [
+              "Atom economy",
+              "Atom economy = (Mr of desired product / sum of Mr of all products) × 100%",
+              "desired product only in numerator; all products in denominator"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Master Reaction Conditions Table — Organic Chemistry"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Reaction",
+              "Reagents",
+              "Conditions",
+              "Product"
+            ],
+            [
+              "Alkane + halogen",
+              "Cl₂ or Br₂",
+              "UV light (ultraviolet radiation)",
+              "Halogenoalkane (mixture)"
+            ],
+            [
+              "Alkene + H₂",
+              "H₂, Pt or Ni catalyst",
+              "Heat",
+              "Alkane (hydrogenation)"
+            ],
+            [
+              "Alkene + halogen",
+              "Br₂ or Cl₂",
+              "Room temperature, no catalyst",
+              "Dihalogenoalkane"
+            ],
+            [
+              "Alkene + HBr",
+              "HBr(g)",
+              "Room temperature",
+              "Halogenoalkane (Markovnikov)"
+            ],
+            [
+              "Alkene + steam",
+              "H₂O(g)",
+              "H₃PO₄ catalyst, ~300°C, ~60 atm",
+              "Alcohol (hydration)"
+            ],
+            [
+              "Halogenoalkane → alcohol",
+              "NaOH(aq)",
+              "Heat (reflux)",
+              "Alcohol (substitution)"
+            ],
+            [
+              "Halogenoalkane → alkene",
+              "NaOH in ethanol",
+              "Heat",
+              "Alkene (elimination)"
+            ],
+            [
+              "Halogenoalkane → nitrile",
+              "KCN in ethanol",
+              "Heat",
+              "Nitrile (chain +1 C)"
+            ],
+            [
+              "Halogenoalkane → amine",
+              "Excess NH₃ in ethanol",
+              "Heat under pressure",
+              "Primary amine"
+            ],
+            [
+              "Primary alcohol → aldehyde",
+              "Acidified K₂Cr₂O₇ or KMnO₄",
+              "Distil off product (heat)",
+              "Aldehyde (orange→green)"
+            ],
+            [
+              "Primary alcohol → carboxylic acid",
+              "Acidified K₂Cr₂O₇ or KMnO₄",
+              "Reflux",
+              "Carboxylic acid"
+            ],
+            [
+              "Secondary alcohol → ketone",
+              "Acidified K₂Cr₂O₇ or KMnO₄",
+              "Heat",
+              "Ketone (orange→green)"
+            ],
+            [
+              "Alcohol → alkene",
+              "H₂SO₄ (conc) or Al₂O₃",
+              "Heat",
+              "Alkene (dehydration)"
+            ],
+            [
+              "Aldehyde/ketone + HCN",
+              "HCN, KCN catalyst",
+              "Heat",
+              "Hydroxynitrile"
+            ],
+            [
+              "Carboxylic acid + alcohol",
+              "Conc H₂SO₄ (catalyst)",
+              "Heat",
+              "Ester + H₂O"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Paper 2 Grade Boundary Targets"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Grade",
+              "A*",
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            [
+              "Typical mark range (Paper 2)",
+              "54–60",
+              "46–53",
+              "38–45",
+              "30–37",
+              "22–29",
+              "14–21"
+            ],
+            [
+              "% of paper",
+              "90–100%",
+              "77–88%",
+              "63–75%",
+              "50–62%",
+              "37–48%",
+              "23–35%"
+            ],
+            [
+              "Marks lost",
+              "0–6",
+              "7–14",
+              "15–22",
+              "23–30",
+              "31–38",
+              "39–46"
+            ],
+            [
+              "Key differentiator",
+              "Perfect mark scheme language; no unit errors; complete mechanisms",
+              "Near-complete explanations; minor terminology; mostly correct calculations",
+              "Correct recall; incomplete explanations; some calculation errors",
+              "Basic recall correct; vague explanations; frequent calculation errors",
+              "Patchy recall; explanation by description only; many calculation errors",
+              "Foundational gaps; mostly incomplete answers"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Cambridge A Level Chemistry (9701) — Paper 2 Master Revision Guide\nAligned to the Cambridge International AS & A Level Chemistry 9701 Syllabus for Examinations 2026–2030\nBased on past paper and examiner report analysis 2018–2025\nCambridge Teacher Edition | Syllabus 9701 | Series: A Level Chemistry Mastery Guides"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
