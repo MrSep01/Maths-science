@@ -46,6 +46,7 @@ const guides = [
     description: "Advanced support for synoptic questions, multi-stage calculations, mechanisms, synthesis and unfamiliar data.",
     chapters: ["Advanced command words", "Multipart question navigation", "Mechanisms and synthesis", "Data and novel contexts", "Worked answers across A Level topics"],
     accent: "resource-coral",
+    href: "/resources/paper-4",
   },
   {
     paper: "Paper 5",
@@ -100,6 +101,34 @@ export default function Resources() {
         <div><b>2018–2025</b><span>Past-paper analysis</span></div>
         <div><b>Web-first</b><span>Readable on every device</span></div>
         <div><b>Exam-focused</b><span>Strategies and worked examples</span></div>
+      </section>
+
+      <section className="topic-library-feature">
+        <div>
+          <p className="eyebrow"><span /> New chemistry topic library</p>
+          <h2>Study by topic.<br /><em>Track the specification.</em></h2>
+          <p>Browse IGCSE, AS and A2 Chemistry through a searchable syllabus map, with every learning outcome organised by topic and specification code.</p>
+          <Link className="button" href="/resources/chemistry-topics">Explore chemistry topics <span>→</span></Link>
+        </div>
+        <div className="topic-feature-levels">
+          <Link href="/resources/chemistry-topics/igcse"><span>01</span><div><b>IGCSE Chemistry</b><small>0620 · 2026–2028</small></div><i>→</i></Link>
+          <Link href="/resources/chemistry-topics/as"><span>02</span><div><b>AS Level Chemistry</b><small>9701 · 2028–2030</small></div><i>→</i></Link>
+          <Link href="/resources/chemistry-topics/a2"><span>03</span><div><b>A2 Chemistry</b><small>9701 · 2028–2030</small></div><i>→</i></Link>
+        </div>
+      </section>
+
+      <section className="worksheet-generator-feature">
+        <div className="worksheet-feature-visual" aria-hidden="true">
+          <div className="worksheet-mini-sheet"><small>CAMBRIDGE CHEMISTRY</small><b>Topic Practice</b><span>Specification → Paper → Questions</span><i /><i /><i /></div>
+          <div className="worksheet-mini-badge">30 marks</div>
+        </div>
+        <div>
+          <p className="eyebrow"><span /> New worksheet generator</p>
+          <h2>Choose the specification.<br /><em>Build focused practice.</em></h2>
+          <p>Create consistent, printable worksheets for IGCSE, AS and A2 Chemistry. Select individual outcomes, combine valid paper styles and generate a separate teacher mark scheme.</p>
+          <div className="worksheet-feature-pills"><span>IGCSE 0620</span><span>AS &amp; A2 9701</span><span>Print-ready</span></div>
+          <Link className="button" href="/resources/worksheet-generator">Open worksheet generator <span>→</span></Link>
+        </div>
       </section>
 
       <section className="resource-library" id="master-guides">

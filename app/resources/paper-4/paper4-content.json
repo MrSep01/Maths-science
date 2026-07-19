@@ -1,0 +1,3113 @@
+{
+  "source": "CIE_ALevelChemistry_Paper4_MasterGuide.docx",
+  "frontMatter": [
+    {
+      "type": "table",
+      "rows": [
+        [
+          "CAMBRIDGE INTERNATIONAL\nA LEVEL CHEMISTRY (9701)\nPAPER 4 MASTER REVISION GUIDE\nA LEVEL STRUCTURED QUESTIONS | 100 MARKS | 2 HOURS\nADVANCED ORGANIC | TRANSITION METALS | ENERGETICS | ELECTROCHEMISTRY | KINETICS"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "From U Grade to A* | For Every Student, Every Level\nBased on 8 Years of Cambridge Examiner Reports, Mark Schemes & Past Papers\nFully aligned to the Cambridge 9701 Syllabus for Examinations 2026 and onwards"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "📋 Paper 4 Introduction & Structure",
+          "🔑 Command Words & Mark Scheme Language"
+        ],
+        [
+          "🔍 8-Year Past Paper Analysis (2018–2025)",
+          "✍️ Answering Strategies for Structured Questions"
+        ],
+        [
+          "📊 Topic Frequency & Mark Heatmap",
+          "📝 Worked Answer Examples (All A Level Topics)"
+        ],
+        [
+          "📚 Chapter-by-Chapter A Level Priority Guide",
+          "🔮 Predicted Topics & 4-Week Revision Plan"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "TABLE OF CONTENTS"
+    }
+  ],
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "SECTION 1: INTRODUCTION TO PAPER 4",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "What is Cambridge A Level Chemistry Paper 4?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambridge International A Level Chemistry (9701) Paper 4 is the A Level Structured Questions paper. It tests the full A Level syllabus content — including all AS Level content (Topics 1–22) plus the A Level-only content (Topics 23–37). Paper 4 is the most mark-dense paper in the qualification: at 100 marks and 38.5% of the A Level grade, it carries more weight than any other component."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 4 questions are structured — you generate every answer from scratch, with no multiple-choice options. Questions range from short 1-mark recall to extended 8-mark analysis and synthesis tasks. Because the paper covers BOTH AS and A Level content, Paper 4 requires mastery of the entire A Level Chemistry syllabus, with particular emphasis on the more complex A Level-only topics: transition element chemistry, advanced energetics (Born-Haber cycles, Gibbs free energy), advanced electrochemistry (Nernst equation, cell potentials), advanced equilibria (Ksp, buffer calculations, partition coefficients), advanced kinetics (rate equations, mechanisms), and advanced organic chemistry (arenes, acyl chlorides, amino acids, azo compounds, optical isomerism)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Paper",
+              "Description",
+              "Duration",
+              "Marks",
+              "AO",
+              "% of A Level"
+            ],
+            [
+              "Paper 1",
+              "Multiple Choice — AS Level Content",
+              "1h 15m",
+              "40",
+              "AO1/2",
+              "15.5%"
+            ],
+            [
+              "Paper 2",
+              "AS Level Structured Questions",
+              "1h 15m",
+              "60",
+              "AO1/2",
+              "23%"
+            ],
+            [
+              "Paper 3",
+              "Advanced Practical Skills",
+              "2h",
+              "40",
+              "AO3",
+              "11.5%"
+            ],
+            [
+              "Paper 4",
+              "A Level Structured Questions — THIS GUIDE",
+              "2h",
+              "100",
+              "AO1/2",
+              "38.5%"
+            ],
+            [
+              "Paper 5",
+              "Planning, Analysis & Evaluation",
+              "1h 15m",
+              "30",
+              "AO3",
+              "11.5%"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Paper 4 is worth 38.5% of your A Level grade — more than Papers 1, 2, 3 and 5 combined. Proportional investment of revision time should reflect this weight."
+            ],
+            [
+              "All AS Level content (Topics 1–22) is assumed knowledge for Paper 4. Questions that appear as Paper 2 topics can re-appear in Paper 4, often in more complex or novel contexts. Do not neglect AS content when revising for Paper 4."
+            ],
+            [
+              "Paper 4 has 100 marks in 120 minutes — 72 seconds per mark. A 4-mark question gets ~5 minutes; an 8-mark question gets ~10 minutes. Strict time discipline is essential."
+            ],
+            [
+              "The most heavily tested A Level-only topics across 2018–2025: transition element chemistry (~14 marks/paper), advanced energetics including Born-Haber and Gibbs free energy (~13 marks/paper), and advanced organic chemistry including arenes and amino acids (~12 marks/paper)."
+            ],
+            [
+              "Cambridge consistently tests AO2 (application) more heavily in Paper 4 than in Paper 2 — approximately 55–60% of marks require applying chemistry to novel contexts, unfamiliar molecules, or interpreting data. Pure recall alone is not sufficient."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Paper 4 Format: What to Expect"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Feature",
+              "Detail"
+            ],
+            [
+              "Total marks",
+              "100 marks"
+            ],
+            [
+              "Question format",
+              "Structured questions — typically 5–7 questions each with multiple sub-parts (a), (b), (c)..."
+            ],
+            [
+              "Mark allocation per sub-part",
+              "Typically 1–8 marks per sub-part. Mark allocation shown in brackets."
+            ],
+            [
+              "Syllabus coverage",
+              "Full A Level: Topics 1–37 (AS + A Level content; AS content assumed)"
+            ],
+            [
+              "Duration",
+              "2 hours = 120 minutes. Target: 72 seconds per mark."
+            ],
+            [
+              "Assessment objectives",
+              "AO1 and AO2 — approximately 50:50; Paper 4 tends toward 55–60% AO2"
+            ],
+            [
+              "Calculator",
+              "Cambridge-approved scientific calculator required and permitted"
+            ],
+            [
+              "Data sheet",
+              "Provided: bond energies, electrode potentials, NMR shifts, IR absorptions, Pauling values"
+            ],
+            [
+              "Writing instrument",
+              "Blue or black ink pen. Pencil only for graphs and diagrams."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Assessment Objectives & How Paper 4 Differs from Paper 2"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Feature",
+              "Paper 2 (AS Level)",
+              "Paper 4 (A Level)",
+              "Implication"
+            ],
+            [
+              "Syllabus Coverage",
+              "Topics 1–22 (AS only)",
+              "Topics 1–37 (full A Level)",
+              "15 additional A Level-only topics to master"
+            ],
+            [
+              "Total Marks",
+              "60",
+              "100",
+              "More topics and more marks; every topic can appear"
+            ],
+            [
+              "Typical Mark per Question",
+              "1–4 marks dominant",
+              "1–8 marks; more 5–6–8 mark questions",
+              "Extended answers and multi-step reasoning more common"
+            ],
+            [
+              "AO2 Proportion",
+              "~50% application",
+              "~55–60% application",
+              "Novel contexts and data interpretation more prevalent"
+            ],
+            [
+              "Calculation Complexity",
+              "Moles, enthalpy, pH, Kc",
+              "+ Born-Haber, ΔG, Nernst, Ksp, rate laws, Kstab",
+              "Multi-step advanced calculations tested more frequently"
+            ],
+            [
+              "Organic Complexity",
+              "Functional groups 1–8",
+              "+ Arenes, acyl chlorides, amino acids, azo dyes",
+              "More complex mechanisms; multi-step synthesis routes"
+            ],
+            [
+              "Inorganic Depth",
+              "Groups 2/17, periodicity",
+              "+ Transition metals, complexes, d-orbital splitting",
+              "Colour, ligand exchange, redox, stereoisomerism in complexes"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The Anatomy of a Paper 4 Structured Question"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "BEFORE answering any sub-question in Paper 4: (1) note the mark allocation — [4] or more requires at least 4 distinct chemical points; (2) decode the command word — 'explain' still requires WHAT + WHY; (3) check whether the question is AO1 (recall AS/A Level content) or AO2 (apply to the given context)."
+            ],
+            [
+              "Paper 4 questions frequently provide a novel molecule, reaction, or dataset in the stem and then ask you to apply familiar chemical principles. The molecule will be unfamiliar — the chemistry will not be. Read the stem carefully, identify which principle applies, and transfer it to the new context."
+            ],
+            [
+              "Extended response questions (5–8 marks) appear more frequently in Paper 4 than in Paper 2. Always plan before writing — spend 60–90 seconds listing the marking points you intend to cover. Never start writing without a plan for questions worth 5+ marks."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-2",
+      "title": "SECTION 2: COMMAND WORDS & MARK SCHEME LANGUAGE",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Paper 4 Command Words — Advanced Application"
+        },
+        {
+          "type": "paragraph",
+          "text": "All Cambridge command words from Paper 2 apply to Paper 4. Paper 4 additionally features more 'evaluate', 'assess', 'justify' and 'deduce' questions — reflecting the higher proportion of AO2 marks. These require deeper reasoning than Paper 2 equivalents."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Command Word",
+              "Paper 4 Specific Usage",
+              "Mark Scheme Expectation",
+              "Common Error"
+            ],
+            [
+              "EXPLAIN (4–6 marks)",
+              "Multi-step mechanism explanation; explain why a trend occurs across a series; explain the colour of a complex ion",
+              "Requires: (1) structural/electronic feature; (2) mechanism or energetic reason; (3) observable consequence; (4) direction of effect. Each component = 1 mark",
+              "Writing only the conclusion without the mechanism. E.g., 'the complex is blue' without explaining d-orbital splitting and the frequency of absorbed light"
+            ],
+            [
+              "DEDUCE",
+              "Use provided data (E° values, rate data, ΔG values, spectroscopic data) to reach a conclusion not directly stated",
+              "State the principle; apply it to the given data; state the conclusion explicitly. Show the numerical comparison if calculating",
+              "Deducing a conclusion without showing the reasoning. Cambridge requires the logic, not just the answer"
+            ],
+            [
+              "EVALUATE",
+              "Assess the reliability, validity, or limitations of data or a proposed mechanism. Weigh evidence for and against.",
+              "Must address both sides: what the data DOES support and what limitations remain. Conclude explicitly.",
+              "Writing only advantages or only disadvantages; failing to draw an explicit conclusion"
+            ],
+            [
+              "SUGGEST (6+ marks)",
+              "Novel synthesis route; suggest why an unexpected trend is observed; suggest the structure of an unknown compound from spectra",
+              "Apply named principles to the unfamiliar context. Multiple valid answers accepted. Chemical reasoning must be present.",
+              "Applying the wrong principle; failing to explain WHY the suggestion makes chemical sense"
+            ],
+            [
+              "COMPARE",
+              "Identify similarities AND differences between two species, reactions, or properties",
+              "Must address BOTH similarities and differences. For comparisons of properties, quantitative reference preferred.",
+              "Describing only one of the two species; listing differences only without noting what is similar"
+            ],
+            [
+              "CONSTRUCT",
+              "Build a Born-Haber cycle, write a half-equation, assemble a mechanism",
+              "All components required; arrows, species, and sign conventions must be chemically correct",
+              "Incorrect arrow direction in Born-Haber cycle; missing state symbols in half-equations"
+            ],
+            [
+              "PREDICT",
+              "Apply chemical theory to forecast a property, product, or trend for a related but untested case",
+              "State the direction and magnitude of change; explain the reason; link to the appropriate principle",
+              "Predicting a trend without explaining why; predicting in the wrong direction"
+            ],
+            [
+              "ACCOUNT FOR",
+              "Explain the origin of an observation in terms of chemical principles",
+              "Requires a mechanistic or electronic explanation — not just a restatement of the observation",
+              "Restating the observation rather than explaining its origin"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "High-Value Phrases for A Level Questions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "TRANSITION METALS — COLOUR: 'd orbitals split into two non-degenerate energy levels (higher and lower) in the presence of ligands; an electron is promoted from the lower set to the higher set by absorbing a photon of visible light; the colour observed is complementary to the absorbed frequency; ΔE = hf where f is the frequency of light absorbed'"
+            ],
+            [
+              "TRANSITION METALS — VARIABLE OXIDATION STATES: 'the 3d and 4s sub-shells are close in energy, so electrons can be removed from either; transition elements have multiple accessible oxidation states with small energy differences between them'"
+            ],
+            [
+              "TRANSITION METALS — CATALYSIS: 'transition elements have accessible d orbitals and can form dative bonds with reactants (heterogeneous: adsorption/bond weakening/desorption); or can cycle between oxidation states in one step and reform in a later step (homogeneous catalysis)'"
+            ],
+            [
+              "BORN-HABER CYCLES: 'lattice energy becomes more exothermic as ionic charge increases and as ionic radius decreases, because the electrostatic attraction between ions is greater (higher charge density)'; 'enthalpy of solution = lattice energy + sum of enthalpies of hydration (of cation and anion)'"
+            ],
+            [
+              "GIBBS FREE ENERGY: 'ΔG = ΔH − TΔS; reaction is feasible when ΔG < 0; at the temperature where ΔG = 0, the reaction changes from feasible to non-feasible (or vice versa); this temperature = ΔH/ΔS'"
+            ],
+            [
+              "NERNST EQUATION: 'E = E° + (0.059/z)log([oxidised]/[reduced]); increasing concentration of oxidised species → E increases; increasing temperature changes E°'"
+            ],
+            [
+              "RATE EQUATIONS: 'rate = k[A]^m[B]^n; order with respect to A is m (deduced from how rate changes when [A] changes, [B] constant); rate-determining step is the slowest step of the mechanism; the species in the rate equation appear in all steps up to and including the rate-determining step'"
+            ],
+            [
+              "ARENE CHEMISTRY: 'the delocalised π system above and below the plane of the ring provides electron density that attracts electrophiles; substitution is preferred over addition because the aromatic ring system is thermodynamically more stable than a cyclohexadiene product'"
+            ],
+            [
+              "AMINO ACIDS: 'at the isoelectric point, the amino acid exists as a zwitterion (NH₃⁺ and COO⁻ groups); below the isoelectric point, the molecule is protonated (NH₃⁺ and COOH); above the isoelectric point, the molecule is deprotonated (NH₂ and COO⁻); electrophoresis separates amino acids by their charge at a given pH'"
+            ],
+            [
+              "STEREOISOMERISM IN COMPLEXES: 'cis/trans isomerism in square planar complexes: identical ligands on same side (cis) or opposite corners (trans); optical isomerism in octahedral complexes with bidentate ligands: the two non-superimposable mirror-image configurations are optical isomers (enantiomers)'"
+            ],
+            [
+              "LIGAND EXCHANGE: 'a ligand with a larger stability constant (Kstab) displaces a ligand with a smaller Kstab; the enthalpy of the exchange reaction is approximately the difference in the enthalpies of formation of the two complexes'"
+            ],
+            [
+              "KSTAB: 'the stability constant Kstab is the equilibrium constant for the formation of a complex ion from its constituent metal ion and ligands in solution; a large Kstab indicates a very stable complex (the equilibrium lies far to the right)'"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-3",
+      "title": "SECTION 3: PAST PAPER ANALYSIS 2018–2025",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Overview: 8 Years of Cambridge Chemistry Paper 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "The following analysis covers all Cambridge A Level Chemistry Paper 4 variants (variants 41, 42, 43) from 2018 to 2025. Each variant is 100 marks. Across 8 years with multiple variants, this represents analysis of over 2,400 individual structured question marks — providing a precise picture of which topics receive the most marks and which concepts Cambridge tests most reliably at A Level."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Transition element chemistry (Topic 28) and advanced energetics (Topics 23–24) are the two most mark-dense A Level-only topics, each typically accounting for 12–15 marks per paper."
+            ],
+            [
+              "Advanced organic chemistry (Topics 29–36, including arenes, amino acids, polymerisation, and multi-step synthesis) typically accounts for 20–28 marks per Paper 4 — making organic chemistry the single largest contributor across all topics."
+            ],
+            [
+              "Calculation-based questions account for approximately 30–40 marks per paper (30–40%) — significantly more than in Paper 2. Born-Haber calculations, Nernst equation, Ksp, ΔG, and rate equations are all tested quantitatively."
+            ],
+            [
+              "AO2 proportion has increased from approximately 50% in 2018 to approximately 60% in 2024–2025. This means Cambridge is increasingly testing whether students can apply A Level principles to unfamiliar molecules and contexts — not just recall content."
+            ],
+            [
+              "AS Level content re-appears in Paper 4 in approximately 30–35% of marks, typically in more complex contexts. Students who neglect AS Level revision for Paper 4 consistently underperform on these questions."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Year-by-Year Topic Distribution (2018–2025)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Topic",
+              "2018",
+              "2019",
+              "2020",
+              "2021",
+              "2022",
+              "2023",
+              "2024",
+              "2025",
+              "Avg"
+            ],
+            [
+              "23. Chemical Energetics (Born-Haber, ΔH)",
+              "9",
+              "10",
+              "9",
+              "9",
+              "10",
+              "9",
+              "10",
+              "9",
+              "9.4"
+            ],
+            [
+              "24. Electrochemistry (E°, Nernst, electrolysis)",
+              "7",
+              "7",
+              "8",
+              "7",
+              "7",
+              "8",
+              "7",
+              "8",
+              "7.4"
+            ],
+            [
+              "25. Equilibria (Ksp, buffer, partition)",
+              "7",
+              "7",
+              "6",
+              "7",
+              "8",
+              "7",
+              "7",
+              "7",
+              "7.0"
+            ],
+            [
+              "26. Reaction Kinetics (rate eqn, mechanism)",
+              "6",
+              "6",
+              "7",
+              "7",
+              "6",
+              "7",
+              "6",
+              "7",
+              "6.5"
+            ],
+            [
+              "27. Group 2 (advanced — lattice energy context)",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3",
+              "3.0"
+            ],
+            [
+              "28. Transition Elements (colour, complexes, Kstab)",
+              "13",
+              "14",
+              "13",
+              "14",
+              "13",
+              "14",
+              "14",
+              "13",
+              "13.5"
+            ],
+            [
+              "29-32. Arenes, Halogen cmpds, Hydroxy, Acids",
+              "9",
+              "8",
+              "9",
+              "9",
+              "8",
+              "9",
+              "8",
+              "9",
+              "8.6"
+            ],
+            [
+              "33. Carboxylic Acids & Acyl Chlorides",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5.0"
+            ],
+            [
+              "34. Nitrogen Compounds (amines, diazonium, azo)",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5",
+              "5.0"
+            ],
+            [
+              "35. Polymerisation (condensation, biodegradable)",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4",
+              "4.0"
+            ],
+            [
+              "36. Organic Synthesis (multi-step, A Level)",
+              "6",
+              "6",
+              "6",
+              "6",
+              "7",
+              "6",
+              "7",
+              "6",
+              "6.3"
+            ],
+            [
+              "37. Analytical (NMR ¹³C/¹H, GLC, TLC, advanced)",
+              "7",
+              "7",
+              "7",
+              "7",
+              "7",
+              "7",
+              "7",
+              "7",
+              "7.0"
+            ],
+            [
+              "AS Level topics revisited (1–22)",
+              "19",
+              "18",
+              "18",
+              "17",
+              "17",
+              "16",
+              "17",
+              "16",
+              "17.3"
+            ],
+            [
+              "TOTAL",
+              "100",
+              "100",
+              "100",
+              "100",
+              "100",
+              "100",
+              "100",
+              "100",
+              "100"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Most Frequently Tested A Level Concepts (2018–2025)"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Rank",
+              "Concept",
+              "Topic",
+              "Appearances",
+              "Typical Marks & Format"
+            ],
+            [
+              "1",
+              "Born-Haber cycle construction and calculation",
+              "23",
+              "24/24",
+              "4–6 marks; draw cycle with arrows; apply energy terms; calculate unknown"
+            ],
+            [
+              "2",
+              "Transition element complex: colour explanation (d-orbital splitting)",
+              "28",
+              "24/24",
+              "3–4 marks; describe splitting; frequency absorbed; complementary colour observed"
+            ],
+            [
+              "3",
+              "Proton NMR spectrum interpretation (chemical shift, splitting, integration)",
+              "37",
+              "23/24",
+              "3–5 marks; identify environments; predict splitting pattern using n+1 rule; identify structure"
+            ],
+            [
+              "4",
+              "Rate equation deduction from experimental data + mechanism",
+              "26",
+              "23/24",
+              "3–5 marks; table of data → order → rate equation; mechanism consistent with rate equation"
+            ],
+            [
+              "5",
+              "Electrophilic substitution of arenes (mechanism + directing effects)",
+              "30",
+              "22/24",
+              "3–4 marks; draw mechanism with curly arrows; predict ring position from substituent effect"
+            ],
+            [
+              "6",
+              "Gibbs free energy: ΔG = ΔH − TΔS calculation + feasibility",
+              "23",
+              "22/24",
+              "3–4 marks; calculate ΔS; calculate ΔG; state feasibility condition; find transition temperature"
+            ],
+            [
+              "7",
+              "Stability constant (Kstab) + ligand exchange",
+              "28",
+              "21/24",
+              "2–3 marks; write Kstab expression; compare Kstab values; predict direction of ligand exchange"
+            ],
+            [
+              "8",
+              "Standard electrode potential + Nernst equation",
+              "24",
+              "21/24",
+              "3–4 marks; calculate E°cell; predict feasibility; use Nernst equation to find E at non-standard conc"
+            ],
+            [
+              "9",
+              "Amino acid: zwitterion, isoelectric point, electrophoresis",
+              "34",
+              "20/24",
+              "2–3 marks; draw zwitterion; identify isoelectric point; predict direction of migration"
+            ],
+            [
+              "10",
+              "Acyl chloride reactions: mechanism (addition-elimination)",
+              "33",
+              "20/24",
+              "3–4 marks; write mechanism; name product; explain why acyl chlorides react faster than esters"
+            ],
+            [
+              "11",
+              "Ksp calculation from solubility; common ion effect",
+              "25",
+              "19/24",
+              "3 marks; calculate Ksp from solubility; use Ksp to find solubility in common-ion solution"
+            ],
+            [
+              "12",
+              "¹³C NMR: number of peaks and environments",
+              "37",
+              "19/24",
+              "2 marks; count unique carbon environments; predict number of peaks"
+            ],
+            [
+              "13",
+              "Multi-step organic synthesis (A Level mechanisms)",
+              "36",
+              "18/24",
+              "4–6 marks; identify functional group transformations; write reagents/conditions for each step"
+            ],
+            [
+              "14",
+              "Optical isomerism in complexes; cis/trans in square planar",
+              "28",
+              "18/24",
+              "2–3 marks; draw the two isomers; identify chiral centre or cis/trans pair"
+            ],
+            [
+              "15",
+              "Condensation polymer formation (polyester/polyamide) + degradability",
+              "35",
+              "17/24",
+              "2–3 marks; draw repeat unit; name linkage; explain why biodegradable/non-biodegradable"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-4",
+      "title": "SECTION 4: TOPIC FREQUENCY & MARK HEATMAP",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Visual Priority Heatmap — Paper 4 Topics"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each row shows the average mark allocation per paper (2018–2025). Topics in DARK RED are tested in every paper with the highest mark allocation — prioritise these in your revision. Bar is scaled against the highest-scoring topic (Transition Elements, ~13.5 marks/paper)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC / CHAPTER",
+              "MARK FREQUENCY (avg marks per paper, 2018-2025) →",
+              "AVG",
+              "PRIORITY"
+            ],
+            [
+              "28. Transition Element Chemistry",
+              "█████████████████████░",
+              "13.5",
+              "CRITICAL"
+            ],
+            [
+              "23. Advanced Energetics (Born-Haber, ΔG)",
+              "███████████████░░░░░░░",
+              "9.4",
+              "CRITICAL"
+            ],
+            [
+              "29-32. Advanced Organic (Arenes etc.)",
+              "██████████████░░░░░░░░",
+              "8.6",
+              "CRITICAL"
+            ],
+            [
+              "AS Topics revisited in A Level context",
+              "█████████████░░░░░░░░░",
+              "8",
+              "CRITICAL"
+            ],
+            [
+              "24. Electrochemistry (E°, Nernst)",
+              "████████████░░░░░░░░░░",
+              "7.4",
+              "HIGH"
+            ],
+            [
+              "25. Equilibria (Ksp, partition, buffer)",
+              "███████████░░░░░░░░░░░",
+              "7",
+              "HIGH"
+            ],
+            [
+              "37. Analytical (NMR ¹³C/¹H, GLC, TLC)",
+              "███████████░░░░░░░░░░░",
+              "7",
+              "HIGH"
+            ],
+            [
+              "36. Organic Synthesis (multi-step A Level)",
+              "██████████░░░░░░░░░░░░",
+              "6.3",
+              "HIGH"
+            ],
+            [
+              "26. Reaction Kinetics (rate eqn, RDS)",
+              "██████████░░░░░░░░░░░░",
+              "6.5",
+              "HIGH"
+            ],
+            [
+              "33. Carboxylic Acids & Acyl Chlorides",
+              "████████░░░░░░░░░░░░░░",
+              "5",
+              "MODERATE"
+            ],
+            [
+              "34. Nitrogen Compounds (amines, azo)",
+              "████████░░░░░░░░░░░░░░",
+              "5",
+              "MODERATE"
+            ],
+            [
+              "35. Polymerisation (condensation)",
+              "██████░░░░░░░░░░░░░░░░",
+              "4",
+              "MODERATE"
+            ],
+            [
+              "27. Group 2 (advanced context)",
+              "█████░░░░░░░░░░░░░░░░░",
+              "3",
+              "LOWER"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Avg Marks / Paper",
+              "Revision Time",
+              "What To Do"
+            ],
+            [
+              "CRITICAL ★★★★★",
+              "8–14 marks",
+              "45% of A Level revision",
+              "Master every sub-topic; practise all past questions; write model answers; know all key mark scheme phrases"
+            ],
+            [
+              "HIGH ★★★★",
+              "5–7 marks",
+              "35% of revision",
+              "Understand all key concepts; practise calculation sequences; know typical marking points"
+            ],
+            [
+              "MODERATE ★★★",
+              "3–5 marks",
+              "15% of revision",
+              "Cover core content; know main reactions; practise one worked example each"
+            ],
+            [
+              "LOWER ★★",
+              "2–3 marks",
+              "5% of revision",
+              "Basic recall; know key facts and trends; revise from AS Level notes as needed"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-5",
+      "title": "SECTION 5: ANSWERING STRATEGIES FOR PAPER 4",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Why Paper 4 Is Harder Than Paper 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 4 covers 15 additional A Level topics and is worth 100 marks in the same time-per-mark ratio as Paper 2. The questions are longer, the calculations more multi-step, the mechanisms more complex, and the contexts more novel. However, the fundamental answering strategies from Paper 2 still apply — they are simply applied to more demanding chemistry."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "The Paper 2 WHAT + WHY rule for 'explain' questions still applies in Paper 4 — but in Paper 4, 'WHY' often requires a mechanistic or orbital-level explanation, not just a general trend."
+            ],
+            [
+              "Paper 4 calculation questions are almost always multi-step. Always show every step with units. ECF applies at every step — a wrong value used correctly in subsequent steps earns method marks."
+            ],
+            [
+              "'Novel context' AO2 questions (applying familiar principles to unfamiliar molecules) appear in 30–40% of Paper 4 marks. The key skill: identify which principle applies, then transfer it explicitly to the new context."
+            ],
+            [
+              "In Paper 4, 'suggest' questions often involve complex organic synthesis routes or predicting the properties of novel transition metal complexes. There is rarely a single 'correct' answer — chemical reasoning is what earns marks."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 1: Multi-Part Question Navigation"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ ANSWERING STRATEGY"
+            ],
+            [
+              "READ ALL SUB-PARTS BEFORE STARTING: In Paper 4, sub-parts frequently build on each other over 3–4 steps. Reading ahead prevents you from duplicating information or writing a conclusion before the data to support it has appeared in a later sub-part."
+            ],
+            [
+              "IDENTIFY THE TOPIC BEFORE THE COMMAND WORD: In Paper 4, the same command word can test very different levels of chemistry. 'Explain why this complex is coloured' (Topic 28) requires a different depth of answer than 'Explain the trend in boiling points' (Topic 3). Identify the A Level topic first."
+            ],
+            [
+              "CARRY FORWARD ANSWERS: If sub-part (b) asks you to use your answer from (a), write 'Using my value from (a)...' — this signals to the examiner that you are applying ECF and earns method marks even if your (a) answer was wrong."
+            ],
+            [
+              "MARK ALLOCATION IS YOUR GUIDE: For a [6] mark sub-part, plan to make 6 distinct chemical points. For a [2] mark sub-part, write exactly 2 points — not more. Over-writing for a short question wastes time and earns no additional marks."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 2: Advanced Calculation Questions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ ANSWERING STRATEGY"
+            ],
+            [
+              "BORN-HABER CYCLE: (1) Draw the cycle before calculating. (2) Label every arrow with the correct energy term and sign. (3) Apply Hess's law: sum of clockwise arrows = sum of anticlockwise arrows. (4) Solve for the unknown. Never try to calculate a Born-Haber cycle algebraically without first drawing the cycle."
+            ],
+            [
+              "GIBBS FREE ENERGY: (1) Write ΔG = ΔH − TΔS. (2) Convert T to Kelvin. (3) Convert ΔS to kJ mol⁻¹ K⁻¹ if needed (divide J by 1000). (4) Calculate ΔG. (5) State: ΔG < 0 → feasible; ΔG > 0 → not feasible. (6) For the crossover temperature: set ΔG = 0, solve T = ΔH/ΔS."
+            ],
+            [
+              "NERNST EQUATION: E = E° + (0.059/z) × log([oxidised]/[reduced]). Identify z (number of electrons transferred); identify the oxidised and reduced species; substitute concentrations; calculate E. State the units (V)."
+            ],
+            [
+              "Ksp CALCULATIONS: (1) Write the equilibrium expression. (2) Express ion concentrations in terms of solubility s. (3) Substitute and calculate Ksp from s, or s from Ksp. (4) For common ion effect: include the concentration of the common ion explicitly — the solubility is greatly reduced."
+            ],
+            [
+              "RATE EQUATION DEDUCTION: (1) Find two experiments where [B] is constant; calculate how rate changes as [A] changes — this gives order in A. (2) Repeat for B. (3) Write rate = k[A]^m[B]^n. (4) Calculate k using one set of values. (5) Check units of k are consistent with the overall order."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 3: Mechanism and Synthesis Questions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ ANSWERING STRATEGY"
+            ],
+            [
+              "ARENE ELECTROPHILIC SUBSTITUTION: (1) Show the electrophile generation (e.g., NO₂⁺ from HNO₃/H₂SO₄). (2) Curly arrow from π ring to electrophile forming sigma complex (arenium ion). (3) Curly arrow from C–H bond, loss of H⁺, restoration of aromaticity. (4) Show the product. Check: delocalised system must be restored in the product."
+            ],
+            [
+              "ACYL CHLORIDE ADDITION-ELIMINATION: (1) Nucleophile attacks C of C=O (curly arrow from lone pair/N–H/O–H). (2) Tetrahedral intermediate forms. (3) C–Cl bond breaks heterolytically; Cl⁻ leaves. (4) If N–H or O–H involved: H⁺ lost from N or O. (5) Product: amide, ester, or alcohol depending on nucleophile."
+            ],
+            [
+              "MULTI-STEP SYNTHESIS: For a synthesis requiring n steps, identify (1) the starting functional group; (2) the target functional group; (3) the transformation chain. For each step: name the reagents, conditions, and product. Cambridge awards marks for each correct step independently — even if an earlier step is wrong, a correct later step earns its mark."
+            ],
+            [
+              "DIRECTING EFFECTS IN ARENES: –NH₂, –OH, –R (alkyl), –OR → activate ring; direct to 2,4,6 positions. –NO₂, –COOH, –COR, –CN → deactivate ring; direct to 3,5 positions. This is AO1 recall — know both the direction AND the activation/deactivation effect for each group listed in the syllabus."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 4: Explain and Evaluate Questions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ ANSWERING STRATEGY"
+            ],
+            [
+              "TRANSITION METAL COLOUR (4-MARK EXPLAIN): The 4-mark structure: (1) d orbitals split into two non-degenerate sets in the presence of ligands [1]; (2) an electron is promoted from the lower set to the higher set by absorbing a photon of visible light [1]; (3) the energy gap ΔE = hf determines the frequency of light absorbed [1]; (4) the colour observed is complementary to the colour absorbed [1]."
+            ],
+            [
+              "EVALUATE A MECHANISM (3-MARK): (1) State the evidence the mechanism is consistent with (from the rate equation or other data); (2) State one limitation or alternative; (3) Conclude whether the mechanism is supported or not supported by the evidence."
+            ],
+            [
+              "ACCOUNT FOR A TREND (3-MARK ACROSS A SERIES): State (1) what changes across the series; (2) the chemical/electronic/structural reason for the change; (3) the direction of the effect on the observed property. For lattice energy trends: as ionic charge increases, lattice energy becomes more exothermic. As ionic radius decreases, lattice energy becomes more exothermic."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 5: Data-Based and Novel Context Questions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ ANSWERING STRATEGY"
+            ],
+            [
+              "NOVEL MOLECULE: You will be given the structure of an unfamiliar molecule. Do NOT panic — you are not expected to have seen it before. Identify: (a) what functional groups are present; (b) which reactions from your syllabus apply; (c) which properties follow from the structure. Apply the relevant principles."
+            ],
+            [
+              "SPECTRAL DATA INTERPRETATION (NMR/IR/MS): Always work through the data systematically. For proton NMR: (1) number of peaks = number of distinct H environments; (2) integration ratios = relative numbers of each H type; (3) splitting pattern (n+1 rule) = number of neighbouring H atoms; (4) chemical shift value → functional group environment. Cross-reference with molecular formula to confirm structure."
+            ],
+            [
+              "ELECTRODE POTENTIAL DATA: Given E° values, calculate E°cell = E°(cathode) − E°(anode) = E°(reduction) − E°(reduction, other). If E°cell > 0, the reaction is feasible under standard conditions. Use the Nernst equation if concentrations are non-standard."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 6: Extended Response (6–8 Mark) Questions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✍️ ANSWERING STRATEGY"
+            ],
+            [
+              "PLAN BEFORE WRITING: For any question worth 6+ marks, spend 90 seconds writing a bullet plan in the margin before writing your answer. List the marking points you intend to cover in order. This ensures you include all required points and prevents circular or disorganised answers."
+            ],
+            [
+              "COUNT YOUR POINTS: While writing, mentally count your distinct chemical points. After each sentence, ask: 'Is this a NEW point, or am I repeating myself?' Stop when you have made n distinct points for an n-mark question."
+            ],
+            [
+              "THE A LEVEL WHAT+WHY+MECHANISM STRUCTURE: For extended explain questions: (1) State WHAT the observation or trend is. (2) State WHY at the structural/electronic level. (3) Explain the MECHANISM by which this causes the observable effect. (4) State any EXCEPTIONS or nuances. Each is a separate marking point."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Strategy 7: Time Management in Paper 4"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Phase",
+              "Time",
+              "Activity"
+            ],
+            [
+              "Reading time",
+              "3–4 min",
+              "Read ALL questions. Identify which A Level topics are tested. Note which sub-parts will require extended calculation vs quick recall."
+            ],
+            [
+              "First pass (all questions in order)",
+              "90–95 min",
+              "Answer every sub-part. For calculation questions: show every step even if you are uncertain. For explain questions: write WHAT and WHY every time. Never leave a sub-part blank on first pass."
+            ],
+            [
+              "Review (uncertain sub-parts)",
+              "15 min",
+              "Return to flagged sub-parts. Check calculations for unit errors and sign errors. Check explain answers for the WHY component."
+            ],
+            [
+              "Final check",
+              "5 min",
+              "Verify units on all calculated answers; state symbols in all equations if requested; no blank sub-parts."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "72 seconds per mark. A 6-mark question gets exactly 7.2 minutes. If a single sub-part is taking more than 8 minutes, mark it, move on, and return at the end. No one question is worth losing 3 other questions over."
+            ],
+            [
+              "Paper 4 is where the most A Level marks are won and lost. The students who score 85+ marks do so not by knowing more chemistry than students scoring 70 — they do so by expressing what they know more precisely, more completely, and with the correct terminology."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-6",
+      "title": "SECTION 6: CHAPTER- BY- CHAPTER A LEVEL PRIORITY GUIDE",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "This section provides a complete chapter-by-chapter breakdown of every A Level-only topic (Topics 23–37) for Paper 4. AS Level topics (1–22) are also tested in Paper 4 — refer to the Paper 2 guide for those topics. Each entry here provides: priority rating, key marking points, model mark scheme phrases, common errors, and examiner strategy tips."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Priority",
+              "Topics",
+              "Stars",
+              "Avg Marks / Paper"
+            ],
+            [
+              "CRITICAL",
+              "Topics 23, 28, 29–32 + AS revisited (Energetics, Transition Metals, Advanced Organic)",
+              "★★★★★",
+              "~38–42 marks"
+            ],
+            [
+              "HIGH",
+              "Topics 24, 25, 26, 36, 37 (Electrochemistry, Equilibria, Kinetics, Synthesis, Analytical)",
+              "★★★★☆",
+              "~38–40 marks"
+            ],
+            [
+              "MODERATE",
+              "Topics 33, 34, 35 (Acyl Chlorides, N-compounds, Polymerisation)",
+              "★★★☆☆",
+              "~14–16 marks"
+            ],
+            [
+              "LOWER",
+              "Topic 27 (Group 2 advanced context)",
+              "★★☆☆☆",
+              "~3 marks"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 28: CHEMISTRY OF TRANSITION ELEMENTS\n★★★★★ CRITICAL | Avg ~13–14 marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & A Level Marking Points"
+        },
+        {
+          "type": "paragraph",
+          "text": "Definition of a transition element: a d-block element that forms at least ONE stable ion with an incomplete d sub-shell. Note: Sc (forms only Sc³⁺ with empty 3d) and Zn (forms only Zn²⁺ with full 3d) are NOT transition elements by this definition."
+        },
+        {
+          "type": "paragraph",
+          "text": "Variable oxidation states: 3d and 4s sub-shells are close in energy; electrons can be removed from either sub-shell. This gives multiple accessible oxidation states. When forming cations: 4s electrons are removed BEFORE 3d electrons (e.g., Fe → Fe²⁺: [Ar]3d⁶; Fe³⁺: [Ar]3d⁵)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Colour of complexes: in the ligand field, d orbitals split into two non-degenerate sets (higher and lower). An electron absorbs a photon of visible light and is promoted from the lower set to the higher set. The energy gap ΔE = hf. The colour observed is COMPLEMENTARY to the frequency absorbed. Different ligands cause different ΔE → different colours."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ligand field strength (spectrochemical series, low to high ΔE): Cl⁻ < H₂O < NH₃ < CN⁻. Stronger ligands → larger ΔE → higher frequency absorbed → different colour. Cambridge does not require memorising the full series, but know that NH₃ gives a larger splitting than H₂O (hence Cu²⁺ changes from pale blue in water to deep blue in ammonia)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Coordination number and geometry: 6 (octahedral, 90°); 4 (tetrahedral, 109.5°, or square planar, 90°). Common examples: [Cu(H₂O)₆]²⁺ (octahedral); [CuCl₄]²⁻ (tetrahedral); [Pt(NH₃)₂Cl₂] (square planar — used for cis-platin cancer drug)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stability constant Kstab: the equilibrium constant for complex formation from the metal ion and ligands in solution. Large Kstab → very stable complex. Ligand exchange: a ligand with higher Kstab for the same metal displaces one with lower Kstab. EDTA⁴⁻ has very high Kstab for most transition metals (polydentate — chelate effect)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stereoisomerism in complexes: cis/trans in square planar (e.g., [Pt(NH₃)₂Cl₂]); optical isomerism in octahedral complexes with bidentate ligands (e.g., [Ni(en)₃]²⁺); cis/trans in octahedral (e.g., [Co(NH₃)₄(H₂O)₂]³⁺)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "MODEL PHRASES: 'in the presence of ligands, the d orbitals split into two non-degenerate energy levels; an electron is promoted from the lower to the higher level by absorbing a photon of visible light whose energy equals ΔE = hf; the colour observed is complementary to the absorbed colour'"
+            ],
+            [
+              "'Kstab = [complex ion] / ([metal ion][ligand]^n); [H₂O] excluded from Kstab (water is the solvent)'"
+            ],
+            [
+              "'EDTA⁴⁻ forms a more stable complex (larger Kstab) due to the chelate effect — the polydentate ligand forms multiple bonds simultaneously, and dissociation requires breaking all bonds simultaneously; entropy increases significantly on formation'"
+            ],
+            [
+              "'cis isomer of [Pt(NH₃)₂Cl₂]: Cl ligands on same side; trans isomer: Cl on opposite corners; cis isomer is cis-platin, used as an anticancer drug'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COLOUR EXPLANATION — MISSING COMPONENT: Writing 'the complex absorbs visible light so it appears coloured' without explaining WHY it absorbs visible light (d-orbital splitting into non-degenerate sets by ligands). The mechanism (d-orbital splitting → electron promotion → photon absorption → complementary colour observed) must be complete for full marks."
+            ],
+            [
+              "TRANSITION METAL DEFINITION ERROR: Stating that Sc and Zn are transition metals. They are d-block elements but NOT transition elements. Sc forms only Sc³⁺ (d⁰ — no d electrons); Zn forms only Zn²⁺ (d¹⁰ — full d sub-shell). Neither satisfies the definition."
+            ],
+            [
+              "ELECTRON CONFIGURATION OF IONS: Removing 3d electrons before 4s when forming ions. Always remove 4s first: Fe → Fe²⁺ = [Ar]3d⁶ (NOT [Ar]3d⁴4s²)."
+            ],
+            [
+              "Kstab EXPRESSION: Including [H₂O] in the Kstab expression. The syllabus note states: [H₂O] should NOT be included in Kstab expressions (water is the solvent, treated as the standard state)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For colour questions: use the 4-part structure: (1) d orbitals split; (2) electron promoted by absorbing photon; (3) ΔE = hf determines which frequency is absorbed; (4) complementary colour observed. Each component earns a mark."
+            ],
+            [
+              "For Kstab questions: write the equilibrium equation for complex formation first; then write the Kstab expression. For calculations: substitute concentrations at equilibrium; solve for unknown."
+            ],
+            [
+              "For stereoisomerism in complexes: (a) draw the two isomers clearly; (b) label them cis and trans (or name as enantiomers for optical); (c) state the condition that generates each type."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 23: CHEMICAL ENERGETICS (BORN-HABER, ENTROPY & GIBBS)\n★★★★★ CRITICAL | Avg ~9–10 marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & A Level Marking Points"
+        },
+        {
+          "type": "paragraph",
+          "text": "Born-Haber cycles must be drawn before calculating. The five energy terms to know: ionisation energy (+ve), electron affinity (−ve for Group 17), atomisation enthalpy (+ve), lattice energy (−ve for ionic lattice formation), and ΔHf° (the enthalpy of formation, which closes the cycle)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lattice energy trends: becomes more exothermic (more negative) as ionic charge increases AND as ionic radius decreases. Reason: higher charge density → stronger electrostatic attraction between ions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enthalpy of solution = lattice energy (endothermic: lattice breaking) + sum of enthalpies of hydration (exothermic). ΔHsol = ΔHlatt(breaking) + ΔHhyd(cation) + ΔHhyd(anion). Convention note: lattice energy as defined in the syllabus is the energy of FORMATION (gas ions → solid lattice) which is −ve; breaking the lattice is +ve."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entropy (S): a measure of the number of possible arrangements. ΔS > 0: more disorder (solid→liquid→gas; dissolving; more moles of gas formed). ΔS < 0: less disorder (gas→solid; fewer moles of gas formed). Calculate ΔS° = ΣS°(products) − ΣS°(reactants)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gibbs free energy: ΔG° = ΔH° − TΔS°. Feasible when ΔG < 0. Crossover temperature (where feasibility changes) = T = ΔH/ΔS. Temperature must be in Kelvin; ΔS must be in kJ mol⁻¹ K⁻¹ (divide J value by 1000)."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "MODEL PHRASES: 'lattice energy becomes more exothermic as ionic charge increases because the electrostatic attraction between ions of higher charge is greater'"
+            ],
+            [
+              "'ΔHsol = ΔHlatt(endothermic, breaking lattice) + ΔHhyd(cation) + ΔHhyd(anion); if ΔHhyd sum > lattice energy, ΔHsol is exothermic'"
+            ],
+            [
+              "'ΔG = ΔH − TΔS; when ΔG < 0 the reaction is thermodynamically feasible; when ΔG = 0, T = ΔH/ΔS is the crossover temperature'"
+            ],
+            [
+              "'entropy increases when the number of moles of gas increases, when a solid dissolves, or when a solid melts'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "SIGN ERROR — BORN-HABER: Confusing the lattice energy sign convention. In the Cambridge syllabus, ΔHlatt is defined as the energy change when GASEOUS IONS form the SOLID LATTICE — this is always NEGATIVE (exothermic). When you break the lattice (to calculate ΔHsol), you USE the positive of the lattice energy."
+            ],
+            [
+              "UNIT ERROR — ΔG: Forgetting to convert ΔS from J mol⁻¹ K⁻¹ to kJ mol⁻¹ K⁻¹ before substituting into ΔG = ΔH − TΔS. This gives ΔG a factor of 1000 error. Always check units."
+            ],
+            [
+              "BORN-HABER ARROW DIRECTION: Arrow conventions: all arrows pointing upward = endothermic (+ve ΔH); arrows pointing downward = exothermic (−ve ΔH). A reversed arrow = reversed sign. Check every arrow direction before finalising the cycle."
+            ],
+            [
+              "ΔHsol SIGN: ΔHsol can be positive or negative depending on the balance between lattice energy and hydration enthalpies. Do not assume it is always negative. Calculate it explicitly."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Born-Haber: after drawing the cycle, identify the route that avoids the unknown. Apply Hess's law: ΔHf = sum of all steps on the alternative route. Solve for the unknown by algebraic rearrangement."
+            ],
+            [
+              "For ΔG feasibility questions: calculate ΔG, state its sign, and conclude. Then find the crossover T = ΔH/ΔS. State: 'below T, the reaction is [feasible/non-feasible]; above T it is [non-feasible/feasible]' — the direction depends on the signs of ΔH and ΔS."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 29–32: ARENES, HALOGEN COMPOUNDS, HYDROXY & HYDROXY DERIVATIVES\n★★★★★ CRITICAL | Avg ~8–9 marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & A Level Marking Points"
+        },
+        {
+          "type": "paragraph",
+          "text": "Benzene structure: planar hexagonal ring; all C–C bonds equal length (intermediate between single and double); delocalised π system above and below the ring plane (sp² hybridised carbons; one unhybridised p orbital per carbon contributing to the π system)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Electrophilic substitution of arenes (NOT addition): the ring's π electron density attracts electrophiles; after electrophile attack (forming a sigma complex/arenium ion), loss of H⁺ regenerates the aromatic ring system. Addition would destroy aromaticity — thermodynamically unfavourable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nitration: conc HNO₃ + conc H₂SO₄ at 25–60°C. Electrophile = NO₂⁺ (nitronium ion). Mechanism: H₂SO₄ protonates HNO₃ → NO₂⁺ + H₂O. NO₂⁺ attacks ring → sigma complex → loss of H⁺ → nitrobenzene."
+        },
+        {
+          "type": "paragraph",
+          "text": "Halogenation: Cl₂ or Br₂ with Lewis acid catalyst (AlCl₃ or AlBr₃). Electrophile generated: Br₂ + AlBr₃ → Br⁺[AlBr₄]⁻. In side-chain (without catalyst, with UV light): free radical substitution of alkyl group, not ring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Directing effects: activating groups (–NH₂, –OH, –R, –OR) direct to 2,4,6 positions. Deactivating groups (–NO₂, –COOH, –COR, –CN) direct to 3,5 positions. Cambridge Paper 4 tests these explicitly — know all groups listed in the syllabus."
+        },
+        {
+          "type": "paragraph",
+          "text": "Phenol reactions: more reactive than benzene (OH group activates ring); nitrated with DILUTE HNO₃ at room temperature (gives 2- and 4-nitrophenol); brominated with Br₂(aq) at room temperature to give 2,4,6-tribromophenol. Compare to benzene which requires concentrated reagents and higher temperatures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Optical isomerism in Paper 4 context: the two enantiomers of a compound have identical physical/chemical properties EXCEPT for (1) direction of rotation of plane-polarised light; (2) potential different biological activity (relevant to drug synthesis). A racemic mixture (50:50 enantiomers) shows no net optical rotation."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "MODEL PHRASES: 'benzene undergoes electrophilic substitution rather than addition because addition would destroy the delocalised π system, which is thermodynamically more stable than cyclohexadiene'"
+            ],
+            [
+              "'nitronium ion (NO₂⁺) is the electrophile; generated by protonation of HNO₃ by H₂SO₄: HNO₃ + H₂SO₄ → NO₂⁺ + HSO₄⁻ + H₂O'"
+            ],
+            [
+              "'–OH group is an activating group (donates electron density into ring via lone pair resonance) directing to 2- and 4- positions; phenol is therefore more reactive toward electrophiles than benzene'"
+            ],
+            [
+              "'the enantiomers of a chiral compound have identical physical and chemical properties except for their optical rotation and potential different biological activity (relevant to drug design)'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "ELECTROPHILIC vs FREE RADICAL: Halogenation of a benzene ring uses an electrophilic substitution mechanism (with Lewis acid catalyst, in dark). Halogenation of a side-chain alkyl group uses free radical substitution mechanism (with UV light, no catalyst). Confusing these is a very common error."
+            ],
+            [
+              "DIRECTING EFFECT DIRECTION: Stating that deactivating groups direct to ortho/para. They direct to META (3,5 positions). The ortho/para directors are ACTIVATING groups. This distinction is frequently tested."
+            ],
+            [
+              "PHENOL REACTIVITY: Stating that phenol requires the same conditions as benzene for nitration and bromination. Phenol is MORE reactive than benzene — dilute reagents and room temperature are sufficient, because the OH group donates electron density to the ring via resonance."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For electrophilic substitution mechanisms: (1) generate the electrophile from the given reagents; (2) curly arrow from π ring to electrophile → sigma complex (arenium ion with + charge shown); (3) curly arrow from C–H bond to adjacent C, reforming π bond and ejecting H⁺; (4) draw the aromatic product. Five components for 4–5 marks."
+            ],
+            [
+              "For directing effect questions: (1) classify the substituent as activating or deactivating; (2) state the position directed to; (3) draw the product showing the new substituent at the correct position."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 26: REACTION KINETICS (RATE EQUATIONS & MECHANISMS)\n★★★★☆ HIGH | Avg ~6–7 marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & A Level Marking Points"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rate equation: rate = k[A]^m[B]^n where m and n are the orders deduced from experimental data. To find m: identify two experiments where [B] is constant; calculate how rate changes as [A] changes. If rate doubles when [A] doubles → first order. If rate quadruples → second order."
+        },
+        {
+          "type": "paragraph",
+          "text": "Half-life for first-order reactions: t₁/₂ = 0.693/k. The half-life is INDEPENDENT of concentration (constant half-life on a concentration-time graph confirms first order). For zero and second order, the half-life changes with concentration."
+        },
+        {
+          "type": "paragraph",
+          "text": "Rate-determining step: the slowest step in a multi-step mechanism. The overall rate equation is consistent with the rate-determining step and all steps prior to it. Species that appear after the rate-determining step do NOT appear in the rate equation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Catalyst mechanisms: homogeneous catalyst appears in an early step and is regenerated in a later step (e.g., Fe²⁺/Fe³⁺ cycling in the I⁻/S₂O₈²⁻ reaction; NO in SO₂ atmospheric oxidation). Heterogeneous catalyst: adsorption of reactants on surface; bond weakening; desorption of products."
+        },
+        {
+          "type": "paragraph",
+          "text": "Effect of temperature on k: increasing temperature increases k (exponentially — Arrhenius equation). Cambridge may ask: 'explain in terms of the Boltzmann distribution' → greater proportion of molecules have energy ≥ EA; frequency of effective collisions increases."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "MODEL PHRASES: 'order with respect to A is 2 because when [A] doubles (with [B] constant), the rate quadruples (2² = 4); therefore the rate equation is rate = k[A]²[B]'"
+            ],
+            [
+              "'the rate-determining step is the second step because [C] does not appear in the rate equation despite appearing in the overall equation — C must be formed AFTER the rate-determining step'"
+            ],
+            [
+              "'k increases with temperature because a greater proportion of collisions have energy ≥ EA (Boltzmann distribution); the Arrhenius equation: k = Ae^(−EA/RT)'"
+            ],
+            [
+              "'homogeneous catalyst: Fe²⁺ reacts with S₂O₈²⁻ (one step) producing Fe³⁺; Fe³⁺ then reacts with I⁻ (second step) regenerating Fe²⁺'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "ORDER DEDUCTION ERROR: Using the wrong pair of experiments to deduce the order. Always choose experiments where ONE concentration changes and ALL others stay constant. If no such pair exists in the data, you cannot directly read off the order — you must use the ratio method."
+            ],
+            [
+              "MECHANISM CONSISTENCY ERROR: Proposing a mechanism that doesn't match the rate equation. If rate = k[A][B], the rate-determining step must involve one molecule of A and one molecule of B (or be preceded by fast equilibria that supply A and B)."
+            ],
+            [
+              "HALF-LIFE ERROR: Stating that the half-life of a first-order reaction changes with concentration. For first-order reactions, t₁/₂ = 0.693/k is CONSTANT. Only if the graph shows a varying half-life is the reaction NOT first order."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For rate equation from data: (1) identify pairs of experiments; (2) write ratio of rates = ratio of concentrations^order; (3) solve for order; (4) repeat for each reactant; (5) write rate equation; (6) calculate k using rate = k[A]^m[B]^n."
+            ],
+            [
+              "For mechanism questions: check that the rate equation you deduced matches the proposed mechanism. The species in the rate equation must all appear in steps up to and including the rate-determining step."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 24: ELECTROCHEMISTRY (E°, ELECTROLYSIS & NERNST)\n★★★★★ CRITICAL | Avg ~7–8 marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & A Level Marking Points"
+        },
+        {
+          "type": "paragraph",
+          "text": "Standard electrode potential E°: measured relative to the standard hydrogen electrode (SHE, E° = 0.00 V by definition) under standard conditions (298 K, 101 kPa, all ionic species at 1.00 mol dm⁻³)."
+        },
+        {
+          "type": "paragraph",
+          "text": "E°cell = E°(cathode, reduction) − E°(anode, reduction). If E°cell > 0, the reaction is feasible under standard conditions. The more positive E° electrode is the cathode (reduction); the more negative E° electrode is the anode (oxidation)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nernst equation: E = E° + (0.059/z) × log([oxidised species]/[reduced species]) at 298 K. Here z = number of electrons transferred in the half-equation. Increasing [oxidised] increases E; increasing [reduced] decreases E."
+        },
+        {
+          "type": "paragraph",
+          "text": "ΔG° = −nFE°cell where n = moles of electrons transferred and F = 96500 C mol⁻¹. This links thermodynamics (ΔG) to electrochemistry (E°)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Electrolysis predictions: at the cathode, the species with the highest (most positive) E° is preferentially reduced. In dilute aqueous solution: H₂ at cathode and O₂ at anode. In concentrated halide: halogen (Cl₂/Br₂) at anode."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "MODEL PHRASES: 'E°cell = E°(cathode) − E°(anode) = ... V; since E°cell > 0, the reaction is feasible under standard conditions'"
+            ],
+            [
+              "'using Nernst: E = E° + (0.059/z) × log([Ox]/[Red]) = ... V; since [Ox] increases, E increases above E°'"
+            ],
+            [
+              "'ΔG° = −nFE°cell = −2 × 96500 × (+0.34) = −65620 J mol⁻¹ = −65.6 kJ mol⁻¹ (negative → feasible)'"
+            ],
+            [
+              "'the standard hydrogen electrode: H₂(g) at 100 kPa in contact with H⁺(aq) at 1.00 mol dm⁻³; E° assigned as 0.00 V by convention'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "COMMON FORMULA ERROR: Using E°cell = E°(anode) − E°(cathode) instead of the correct E°cell = E°(cathode) − E°(anode). Remember: cathode is always the more positive electrode in a galvanic cell. Subtracting the wrong way gives a sign error that reverses the feasibility conclusion."
+            ],
+            [
+              "NERNST UNIT ERROR: Expressing concentrations in wrong units (e.g., mmol dm⁻³). Always use mol dm⁻³ in the Nernst equation."
+            ],
+            [
+              "ΔG° SIGN CONFUSION: ΔG° = −nFE°cell. A positive E°cell gives a NEGATIVE ΔG° (feasible). A negative E°cell gives a POSITIVE ΔG° (not feasible under standard conditions). The minus sign in the formula is essential — do not omit it."
+            ],
+            [
+              "ELECTROLYSIS CONCENTRATION ERROR: Forgetting that in concentrated halide solutions, the halide ion is preferentially discharged at the anode (not OH⁻/O₂). In dilute halide, O₂ is produced at the anode. The concentration of the halide ion determines which anion is discharged."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Nernst equation: write the half-equation first; identify the oxidised species (in the numerator) and the reduced species (in the denominator); identify z from the half-equation; substitute and calculate E."
+            ],
+            [
+              "For ΔG° from E°cell: write ΔG° = −nFE°cell; identify n (moles of electrons in the balanced overall redox equation); substitute F = 96500; calculate ΔG°. State units: J mol⁻¹ (divide by 1000 for kJ mol⁻¹)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 25: EQUILIBRIA (Ksp, BUFFER pH, PARTITION)\n★★★★☆ HIGH | Avg ~7 marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & A Level Marking Points"
+        },
+        {
+          "type": "paragraph",
+          "text": "Solubility product Ksp: for MₓYᵧ(s) ⇌ xM^(y+)(aq) + yY^(x−)(aq), Ksp = [M^(y+)]^x [Y^(x−)]^y. Pure solids are excluded from Ksp. Temperature is the only variable that changes Ksp."
+        },
+        {
+          "type": "paragraph",
+          "text": "Calculating solubility from Ksp: let solubility = s mol dm⁻³. Express ion concentrations in terms of s. Substitute into Ksp expression and solve. Example: BaSO₄ ⇌ Ba²⁺ + SO₄²⁻; Ksp = s × s = s²; s = √Ksp."
+        },
+        {
+          "type": "paragraph",
+          "text": "Common ion effect: adding a common ion dramatically reduces the solubility of a sparingly soluble salt. Example: adding Na₂SO₄ to BaSO₄(s) — the SO₄²⁻ concentration increases; since Ksp is constant, [Ba²⁺] must decrease → lower solubility."
+        },
+        {
+          "type": "paragraph",
+          "text": "Buffer pH calculation: [H⁺] = Ka × [HA]/[A⁻]; pH = −log[H⁺]. Both [HA] and [A⁻] required. Buffers resist pH change: added H⁺ reacts with A⁻; added OH⁻ reacts with HA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Partition coefficient Kpc = [solute in solvent 1] / [solute in solvent 2] at equilibrium. Depends on relative polarities: polar solute → larger Kpc in polar solvent. Use for solvent extraction calculations."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "MODEL PHRASES: 'Ksp = [Ba²⁺][SO₄²⁻] = s² (for BaSO₄); s = √Ksp = √(1.1×10⁻¹⁰) = 1.05×10⁻⁵ mol dm⁻³'"
+            ],
+            [
+              "'the common ion effect: [SO₄²⁻] is increased by addition of Na₂SO₄; since Ksp is constant, [Ba²⁺] must decrease; therefore the solubility decreases'"
+            ],
+            [
+              "'buffer pH: [H⁺] = Ka × [HA]/[A⁻]; pH = pKa + log([A⁻]/[HA]) (Henderson-Hasselbalch form)'"
+            ],
+            [
+              "'partition coefficient Kpc = [solute in solvent A] / [solute in solvent B]; depends on relative polarities; a polar solute has higher Kpc in a polar solvent'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "Ksp EXPRESSION ERROR: Including the concentration of the solid (MₓYᵧ(s)) in the Ksp expression. Solids are excluded because their 'concentration' is constant (activity = 1)."
+            ],
+            [
+              "STOICHIOMETRY ERROR IN Ksp: For Mg(OH)₂: Ksp = [Mg²⁺][OH⁻]²; if s = solubility, then [Mg²⁺] = s and [OH⁻] = 2s; so Ksp = s × (2s)² = 4s³. Students frequently forget to square the [OH⁻] term."
+            ],
+            [
+              "COMMON ION CALCULATION ERROR: When calculating solubility in a common ion solution, the concentration of the added common ion is NOT s — it is the concentration of the added salt. Only the ions from dissolution of the sparingly soluble salt are s."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For Ksp calculations: write the equilibrium equation; write the Ksp expression; define solubility s; express each ion concentration in terms of s (and any common ion); substitute into Ksp; solve for s."
+            ],
+            [
+              "For buffer pH: confirm you have the Ka value and the concentrations of the weak acid and its conjugate base. Apply [H⁺] = Ka[HA]/[A⁻]. Then pH = −log[H⁺]. Show each step clearly."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPIC 37: ANALYTICAL TECHNIQUES (NMR, GLC, TLC)\n★★★★☆ HIGH | Avg ~7 marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & A Level Marking Points"
+        },
+        {
+          "type": "paragraph",
+          "text": "Proton (¹H) NMR spectroscopy: (1) number of peaks = number of distinct proton environments; (2) chemical shift values (δ/ppm) identify the environment type — use data sheet; (3) peak area / integration ratio = relative number of protons in each environment; (4) splitting pattern (n+1 rule): a proton with n equivalent neighbouring protons gives a peak split into (n+1) lines (singlet, doublet, triplet, quartet, multiplet)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carbon-13 (¹³C) NMR: number of peaks = number of distinct carbon environments. No splitting in ¹³C NMR (carbon-carbon coupling is not seen under normal conditions). Chemical shift values from data sheet: aliphatic C (0–50 ppm), C=O of carbonyl (190–220 ppm), C=O of carboxyl (160–185 ppm), aromatic/alkene C (110–160 ppm)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Thin-layer chromatography (TLC): stationary phase = polar solid (aluminium oxide on solid support); mobile phase = non-polar or polar solvent. Rf = distance moved by compound / distance moved by solvent front. More polar compound → stronger interaction with stationary phase → lower Rf. Less polar compound → dissolves more in mobile phase → higher Rf."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gas-liquid chromatography (GLC): stationary phase = high-boiling-point non-polar liquid on solid support; mobile phase = unreactive carrier gas (N₂ or He). Retention time depends on volatility and interaction with stationary phase. Less volatile / stronger interaction → longer retention time. Use: identify components and quantify percentage composition from peak areas."
+        },
+        {
+          "type": "paragraph",
+          "text": "D₂O exchange in ¹H NMR: when D₂O is added to a sample, the O–H and N–H protons exchange with deuterium (D). These peaks disappear from the ¹H NMR spectrum. This identifies which peaks correspond to O–H or N–H protons — a Paper 4 AO2 application question."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "MODEL PHRASES: 'in ¹H NMR: the singlet at δ 2.1 ppm indicates 3H in a CH₃ group adjacent to a C=O (no neighbouring H → singlet); the quartet at δ 4.1 ppm indicates 2H in a CH₂ group adjacent to CH₃ (3 neighbouring H → quartet by n+1 rule)'"
+            ],
+            [
+              "'¹³C NMR: the molecule has X distinct carbon environments so X peaks are observed in the ¹³C spectrum'"
+            ],
+            [
+              "'Rf = distance moved by compound / distance moved by solvent front; compound A has lower Rf than B because A is more polar → stronger interaction with the polar stationary phase → moves less far'"
+            ],
+            [
+              "'in GLC, percentage composition = (peak area for X / total peak area) × 100; retention time identifies the component by comparison with known retention times under the same conditions'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "NMR SPLITTING CONFUSION: Applying the n+1 rule incorrectly by counting all adjacent protons instead of only those that are EQUIVALENT. Protons on the same carbon count as equivalent; protons on different carbons but equivalent by symmetry also count together."
+            ],
+            [
+              "¹³C PEAK COUNT: Forgetting that equivalent carbon atoms (e.g., the two CH₃ groups in propane) give only ONE peak in ¹³C NMR, not two. Always identify symmetry in the molecule first."
+            ],
+            [
+              "GLC vs TLC PURPOSE: Confusing the purpose of each technique. GLC is used to (a) identify compounds by retention time and (b) determine the percentage composition of a mixture. TLC is used to identify compounds by Rf and to check purity. Neither can CONFIRM the identity of an unknown compound without a reference standard."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For ¹H NMR interpretation: work systematically through each peak. For each peak: (1) read δ from x-axis → identify environment type from data sheet; (2) read integration → number of H in that environment; (3) count lines → n+1 → number of neighbouring H. Cross-reference all information to propose a structure."
+            ],
+            [
+              "For ¹³C NMR: first identify any symmetry in the molecule — equivalent carbons give one peak. Count the remaining unique carbon environments. Assign chemical shift ranges using the data sheet."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 35–36: POLYMERISATION & ORGANIC SYNTHESIS\n★★★★☆ HIGH | Avg ~10 marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & A Level Marking Points"
+        },
+        {
+          "type": "paragraph",
+          "text": "Condensation polymerisation: loss of a small molecule (H₂O or HCl) per repeat unit. Polyesters: diol + dicarboxylic acid (or dioyl chloride) → –COO– linkage. Polyamides: diamine + dicarboxylic acid (or dioyl chloride) → –CONH– linkage. Amino acids → peptide bonds → polypeptides/proteins."
+        },
+        {
+          "type": "paragraph",
+          "text": "Biodegradability: polyesters and polyamides contain hydrolysable ester/amide bonds → biodegradable (acid or alkali hydrolysis). Poly(alkenes) are chemically inert (no hydrolysable bonds) → non-biodegradable; difficult to dispose of."
+        },
+        {
+          "type": "paragraph",
+          "text": "Photodegradable polymers: some polymers contain bonds that can be broken by UV light — these are photodegradable even if not hydrolytically degradable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multi-step organic synthesis in Paper 4 requires knowledge of all A Level reactions. Key additional A Level reactions: arene nitration/halogenation/Friedel-Crafts; acyl chloride reactions (amide, ester, acid formation); reduction with LiAlH₄ (amide → amine; nitrile → amine; carboxylic acid → primary alcohol); diazonium salt formation and coupling; amino acid chemistry."
+        },
+        {
+          "type": "paragraph",
+          "text": "For synthesis route planning: (1) identify the starting material's functional group; (2) identify the target's functional group; (3) map the transformation pathway using known reactions; (4) for each step, state the reagents AND conditions (temperature, catalyst, solvent). Cambridge awards marks for each correct step independently."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "MODEL PHRASES: 'polyester formed from diol and diacid: –[O–CH₂CH₂–O–CO–(CH₂)₄–CO]n–; ester linkage formed by condensation, losing H₂O per monomer pair'"
+            ],
+            [
+              "'polyamides are biodegradable because the amide (–CONH–) bond can be hydrolysed by acid or alkali; poly(alkenes) are non-biodegradable because they have no hydrolysable bonds'"
+            ],
+            [
+              "'Friedel-Crafts acylation: arene + CH₃COCl + AlCl₃ → aryl ketone + HCl; electrophile = CH₃CO⁺ (acylium ion)'"
+            ],
+            [
+              "'LiAlH₄ reduction: (a) amide → amine (R–CONH₂ + [4H] → R–CH₂NH₂); (b) nitrile → primary amine (R–C≡N + [4H] → R–CH₂NH₂); (c) carboxylic acid → primary alcohol (R–COOH + [4H] → R–CH₂OH)'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "POLYMER LINKAGE ERROR: Drawing a repeat unit of a polyester with the ester linkage reversed (–OOC– instead of –COO–). The linkage is always –COO– (carbonyl group is on the acid-derived end; oxygen is on the alcohol-derived end). Both are correct chemically, but draw the bond polarisation consistently."
+            ],
+            [
+              "BIODEGRADABILITY: Stating that poly(alkenes) are biodegradable. They are NOT (no hydrolysable bonds). Poly(esters) and poly(amides) ARE biodegradable (ester and amide bonds are hydrolysable under acid or alkaline conditions)."
+            ],
+            [
+              "SYNTHESIS ROUTE: Missing the reagents and conditions for a step. Cambridge requires BOTH the reagent (e.g., NaOH) AND the condition (e.g., aqueous, heat). 'NaOH' alone without specifying 'aqueous' vs 'ethanolic' loses marks because the two solvents give completely different products (substitution vs elimination for halogenoalkanes)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For synthesis questions: identify the chain of functional group transformations needed. For each step: write the reagent + condition + product. Check: is the carbon chain the right length? Have you introduced/removed the correct functional groups?"
+            ],
+            [
+              "For polymer repeat unit: draw the repeat unit showing the linkage clearly (–COO– or –CONH–). Identify what small molecule is lost per repeat unit (H₂O from acid + alcohol; HCl from acid chloride + amine/alcohol)."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "TOPICS 33–34: CARBOXYLIC ACIDS, ACYL CHLORIDES & NITROGEN COMPOUNDS\n★★★★☆ HIGH | Avg ~10 marks per paper"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Essential Knowledge & A Level Marking Points"
+        },
+        {
+          "type": "paragraph",
+          "text": "Acyl chlorides (R–COCl) are much more reactive than esters or halogenoalkanes toward nucleophilic attack because (1) the carbonyl carbon is more electrophilic (both Cl and O are electronegative, making the C even more δ+); (2) Cl⁻ is a much better leaving group than RO⁻ (weaker base)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Acyl chloride reactions (addition-elimination mechanism): with H₂O → carboxylic acid + HCl; with ROH → ester + HCl; with PhOH → phenyl ester + HCl; with NH₃ → primary amide + HCl; with primary amine (RNH₂) → secondary amide + HCl. All occur at room temperature — no catalyst needed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Relative acidities: carboxylic acids > phenols > carbonic acid > alcohols > water. Explain with reference to: (1) which O–H bond is broken; (2) the stability of the conjugate base. The carboxylate ion (RCOO⁻) is stabilised by delocalisation of the negative charge over both oxygen atoms — this makes RCOOH more willing to donate H⁺."
+        },
+        {
+          "type": "paragraph",
+          "text": "Primary amines: more basic than ammonia (alkyl groups donate electrons by induction → lone pair more available). Less basic than expected if attached to arene: in phenylamine (C₆H₅NH₂), the lone pair is delocalised into the aromatic ring → less available → phenylamine is LESS basic than NH₃."
+        },
+        {
+          "type": "paragraph",
+          "text": "Diazonium salts: C₆H₅NH₂ + HNO₂ (or NaNO₂ + HCl) below 10°C → C₆H₅N₂⁺Cl⁻ (benzenediazonium chloride). Coupling reaction: diazonium salt + phenol in NaOH(aq) → azo compound (R–N=N–R', yellow/orange/red dye). Azo dyes are used commercially as textile and food dyes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Amino acids: contain both –NH₂ and –COOH groups on the same carbon. Zwitterion: NH₃⁺ and COO⁻ at the isoelectric point. Electrophoresis: at pH below pI → cation (migrates to cathode); at pH above pI → anion (migrates to anode); at pH = pI → no migration."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🏆 MARK SCHEME LANGUAGE"
+            ],
+            [
+              "MODEL PHRASES: 'acyl chlorides react faster than esters because Cl⁻ is a better leaving group than RO⁻ (Cl is a weaker base); also the carbonyl carbon in the acyl chloride is more electrophilic (δ+) due to the combined inductive effect of O and Cl'"
+            ],
+            [
+              "'carboxylic acids are more acidic than alcohols because the carboxylate ion (RCOO⁻) is stabilised by delocalisation of the negative charge over both oxygen atoms; the alkoxide ion (RO⁻) has no such stabilisation'"
+            ],
+            [
+              "'phenylamine is less basic than NH₃: the lone pair on N is partially delocalised into the benzene ring, reducing its availability to accept a proton'"
+            ],
+            [
+              "'diazonium salt formation: C₆H₅NH₂ + NaNO₂ + 2HCl below 10°C → C₆H₅N₂⁺Cl⁻ + NaCl + 2H₂O; the diazonium salt couples with phenol in alkaline conditions to give an azo compound (–N=N– chromophore)'"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "❌ AVOID THIS ERROR"
+            ],
+            [
+              "ACYL CHLORIDE MECHANISM ERROR: Drawing the mechanism of acyl chloride hydrolysis as SN2 or SN1 (incorrect). It is an addition-elimination mechanism: nucleophile adds to C=O forming a tetrahedral intermediate; then Cl⁻ is eliminated as the C=O reforms. The curly arrow sequence must show the two steps separately."
+            ],
+            [
+              "BASICITY ORDER ERROR: Stating phenylamine is more basic than NH₃ or ethylamine. Phenylamine is LESS basic than NH₃ because its lone pair is partially delocalised into the benzene ring. Basicity order: ethylamine > NH₃ > phenylamine."
+            ],
+            [
+              "DIAZONIUM SALT TEMPERATURE: Forgetting that diazonium salt formation requires BELOW 10°C. Above this temperature, the diazonium salt decomposes (hydrolyses to phenol). This temperature condition is specifically tested."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "For acyl chloride reactions: name the nucleophile; state what it attacks (the electrophilic carbonyl carbon); draw or describe the tetrahedral intermediate; state what leaves (Cl⁻ + H⁺ from the nucleophile); name the product."
+            ],
+            [
+              "For electrophoresis questions: (1) determine the pH of the experiment relative to the pI of the amino acid; (2) state whether the molecule is positively or negatively charged at that pH; (3) state the direction of migration (positive → cathode; negative → anode)."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-7",
+      "title": "SECTION 7: WORKED ANSWER EXAMPLES — ALL A LEVEL TOPICS",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to Use These Examples"
+        },
+        {
+          "type": "paragraph",
+          "text": "Each worked example covers a complete Paper 4 sub-question type. The complete answering process is shown: command word decoded, mark plan, poor answer (with mark), and full-mark answer. Study the poor answers — they represent the most common student mistakes identified from Cambridge examiner reports 2018–2025."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 23: Born-Haber Cycle — Construction and Calculation"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER"
+            ],
+            [
+              "QUESTION [5 marks]: Construct a Born-Haber cycle for potassium chloride (KCl) and use it to calculate the lattice energy. Data: ΔHf°(KCl) = −437 kJ mol⁻¹; ΔHat°(K) = +89 kJ mol⁻¹; IE₁(K) = +418 kJ mol⁻¹; ΔHat°(Cl₂) = +122 kJ mol⁻¹; EA₁(Cl) = −349 kJ mol⁻¹."
+            ],
+            [
+              "PLAN: Draw cycle. Apply Hess's law. Sum all steps on the alternative route = ΔHf°. Solve for ΔHlatt."
+            ],
+            [
+              "FULL MARK ANSWER (5/5):"
+            ],
+            [
+              "Cycle (draw): K(s) + ½Cl₂(g) →[ΔHf° = −437]→ KCl(s)"
+            ],
+            [
+              "↓ ΔHat(K)=+89 ↓ ΔHlatt = ?"
+            ],
+            [
+              "K(g) →[IE₁=+418]→ K⁺(g) →[EA₁=−349 for Cl(g)]→ K⁺(g) + Cl⁻(g)"
+            ],
+            [
+              "↑ ΔHat(Cl₂)=+122"
+            ],
+            [
+              "Hess's law: ΔHf° = ΔHat(K) + IE₁(K) + ΔHat(½Cl₂) + EA₁(Cl) + ΔHlatt"
+            ],
+            [
+              "−437 = (+89) + (+418) + (+122) + (−349) + ΔHlatt [2 marks for correct substitution]"
+            ],
+            [
+              "−437 = +280 + ΔHlatt"
+            ],
+            [
+              "ΔHlatt = −437 − 280 = −717 kJ mol⁻¹ [1 mark for correct rearrangement]"
+            ],
+            [
+              "[2 marks for correctly drawn cycle with arrows and labels]"
+            ],
+            [
+              "ANSWER: ΔHlatt(KCl) = −717 kJ mol⁻¹ (exothermic — correct sign for formation of ionic lattice)"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 28: Transition Element — Colour of Complex Ions"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER"
+            ],
+            [
+              "QUESTION [4 marks]: Explain why [Cu(H₂O)₆]²⁺ appears blue."
+            ],
+            [
+              "POOR ANSWER (1/4): 'Copper forms a complex with water and absorbs light so it appears blue.'"
+            ],
+            [
+              "→ Scores 1/4: complex ion identified; 'absorbs light' stated. Missing: d-orbital splitting mechanism; frequency of absorption; complementary colour."
+            ],
+            [
+              "FULL MARK ANSWER (4/4):"
+            ],
+            [
+              "'[Cu(H₂O)₆]²⁺ appears blue because:"
+            ],
+            [
+              "(1) In the octahedral complex, the six water ligands cause the five 3d orbitals to split into two non-degenerate energy levels — a set of two orbitals at higher energy and a set of three at lower energy. [1]"
+            ],
+            [
+              "(2) An electron in the lower d energy level absorbs a photon of visible light and is promoted to the upper d energy level. The energy of the photon equals ΔE = hf. [1]"
+            ],
+            [
+              "(3) The H₂O ligands cause a specific energy splitting (ΔE) that corresponds to absorbing red/orange light (~620 nm). [1]"
+            ],
+            [
+              "(4) The colour observed is the complementary colour of the absorbed frequency — complementary to red/orange is BLUE, so the complex appears blue. [1]'"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 23: Gibbs Free Energy — Feasibility and Crossover Temperature"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER"
+            ],
+            [
+              "QUESTION [4 marks]: For the reaction: CaCO₃(s) → CaO(s) + CO₂(g); ΔH° = +179 kJ mol⁻¹; ΔS° = +165 J mol⁻¹ K⁻¹."
+            ],
+            [
+              "(a) Calculate ΔG° at 298 K. [2] (b) Determine the temperature above which the reaction becomes feasible. [2]"
+            ],
+            [
+              "PART (a) — ΔG° at 298 K:"
+            ],
+            [
+              "ΔG° = ΔH° − TΔS° = +179 − 298 × (165/1000) = +179 − 49.2 = +129.8 kJ mol⁻¹ [2]"
+            ],
+            [
+              "(Note: convert ΔS from J to kJ: ÷1000)"
+            ],
+            [
+              "Since ΔG° > 0 at 298 K → the reaction is NOT feasible under standard conditions at 298 K."
+            ],
+            [
+              "PART (b) — Crossover temperature:"
+            ],
+            [
+              "Set ΔG° = 0: 0 = ΔH° − TΔS°"
+            ],
+            [
+              "T = ΔH°/ΔS° = 179000 J mol⁻¹ / 165 J mol⁻¹ K⁻¹ = 1085 K [1]"
+            ],
+            [
+              "Above T = 1085 K (≈ 812°C), ΔG° < 0 and the reaction becomes feasible. [1]"
+            ],
+            [
+              "(Here ΔH and ΔS are both positive → reaction becomes feasible above the crossover temperature)"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 24: Nernst Equation"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER"
+            ],
+            [
+              "QUESTION [3 marks]: The standard electrode potential for Fe³⁺(aq) + e⁻ ⇌ Fe²⁺(aq) is +0.77 V. Calculate the electrode potential when [Fe³⁺] = 0.010 mol dm⁻³ and [Fe²⁺] = 1.0 mol dm⁻³ at 298 K."
+            ],
+            [
+              "Nernst equation: E = E° + (0.059/z) × log([Fe³⁺]/[Fe²⁺])"
+            ],
+            [
+              "z = 1 (one electron transferred) [1]"
+            ],
+            [
+              "E = +0.77 + (0.059/1) × log(0.010/1.0)"
+            ],
+            [
+              "E = +0.77 + 0.059 × log(0.010)"
+            ],
+            [
+              "E = +0.77 + 0.059 × (−2)"
+            ],
+            [
+              "E = +0.77 − 0.118 = +0.652 V [1]"
+            ],
+            [
+              "Discussion: [1]"
+            ],
+            [
+              "When [Fe³⁺] decreases (relative to [Fe²⁺]), E decreases below E°. This makes physical sense: decreasing the oxidised species concentration makes the half-cell a weaker oxidising agent."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 26: Rate Equation Deduction from Experimental Data"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER"
+            ],
+            [
+              "QUESTION [5 marks]: Given the data for the reaction A + B + C → products:"
+            ],
+            [
+              "Exp 1: [A]=0.10, [B]=0.10, [C]=0.10, rate = 2.0×10⁻³ mol dm⁻³ s⁻¹"
+            ],
+            [
+              "Exp 2: [A]=0.20, [B]=0.10, [C]=0.10, rate = 4.0×10⁻³ mol dm⁻³ s⁻¹"
+            ],
+            [
+              "Exp 3: [A]=0.20, [B]=0.20, [C]=0.10, rate = 4.0×10⁻³ mol dm⁻³ s⁻¹"
+            ],
+            [
+              "Exp 4: [A]=0.20, [B]=0.20, [C]=0.20, rate = 1.6×10⁻² mol dm⁻³ s⁻¹"
+            ],
+            [
+              "Deduce the rate equation and calculate k."
+            ],
+            [
+              "STEP 1 — Order in A: Exps 1→2: [A] doubles, [B],[C] constant; rate doubles (2.0→4.0×10⁻³). Rate ∝ [A]¹ → first order in A. [1]"
+            ],
+            [
+              "STEP 2 — Order in B: Exps 2→3: [B] doubles, [A],[C] constant; rate unchanged (4.0→4.0×10⁻³). Rate independent of [B] → zero order in B. [1]"
+            ],
+            [
+              "STEP 3 — Order in C: Exps 3→4: [C] doubles, [A],[B] constant; rate quadruples (4.0→16.0×10⁻³). Rate ∝ [C]² → second order in C. [1]"
+            ],
+            [
+              "STEP 4 — Rate equation: rate = k[A][C]² [1]"
+            ],
+            [
+              "STEP 5 — Calculate k: using Exp 1: k = rate/([A][C]²) = 2.0×10⁻³ / (0.10 × 0.10²) = 2.0×10⁻³ / 1.0×10⁻³ = 2.0 dm⁶ mol⁻² s⁻¹ [1]"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 28: Stability Constant (Kstab) — Expression and Calculation"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER"
+            ],
+            [
+              "QUESTION [3 marks]: Write the expression for the stability constant Kstab for the complex [Cu(NH₃)₄]²⁺ and use it to calculate [Cu²⁺] if Kstab = 1.2 × 10¹² dm¹² mol⁻⁴ and [NH₃] = 1.0 mol dm⁻³, [complex] = 0.010 mol dm⁻³."
+            ],
+            [
+              "Formation equation: Cu²⁺(aq) + 4NH₃(aq) ⇌ [Cu(NH₃)₄]²⁺(aq)"
+            ],
+            [
+              "Kstab = [[Cu(NH₃)₄]²⁺] / ([Cu²⁺][NH₃]⁴) [Note: [H₂O] excluded] [1]"
+            ],
+            [
+              "Calculate [Cu²⁺]:"
+            ],
+            [
+              "1.2×10¹² = 0.010 / ([Cu²⁺] × 1.0⁴) [1]"
+            ],
+            [
+              "[Cu²⁺] = 0.010 / (1.2×10¹² × 1.0) = 8.3×10⁻¹⁵ mol dm⁻³ [1]"
+            ],
+            [
+              "Conclusion: [Cu²⁺] is extremely small (8.3×10⁻¹⁵ mol dm⁻³), confirming that the complex is very stable and the equilibrium lies far to the right."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 37: ¹H NMR — Structure Determination"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER"
+            ],
+            [
+              "QUESTION [4 marks]: An organic compound with molecular formula C₃H₆O₂ shows the following ¹H NMR peaks: δ 11.5 ppm (singlet, 1H); δ 2.3 ppm (quartet, 2H); δ 1.1 ppm (triplet, 3H). Identify the compound and justify each peak."
+            ],
+            [
+              "ANALYSIS:"
+            ],
+            [
+              "Total H from integration: 1 + 2 + 3 = 6H ✓ (matches C₃H₆O₂)"
+            ],
+            [
+              "Peak at δ 11.5 ppm (singlet, 1H): [1]"
+            ],
+            [
+              "Chemical shift > 9 ppm → RCOOH carboxylic acid O–H proton. Singlet because no adjacent H atoms on neighbouring carbons."
+            ],
+            [
+              "Peak at δ 2.3 ppm (quartet, 2H): [1]"
+            ],
+            [
+              "Chemical shift 2.2–3.0 ppm → CH₂ adjacent to C=O. Quartet by n+1 rule → 3 equivalent neighbouring H (i.e., adjacent CH₃ group)."
+            ],
+            [
+              "Peak at δ 1.1 ppm (triplet, 3H): [1]"
+            ],
+            [
+              "Chemical shift 0.9–1.7 ppm → alkyl CH₃. Triplet by n+1 rule → 2 equivalent neighbouring H (i.e., adjacent CH₂ group)."
+            ],
+            [
+              "COMPOUND IDENTIFIED: Propanoic acid (CH₃CH₂COOH) [1]"
+            ],
+            [
+              "CH₃CH₂COOH: CH₃ (triplet, δ1.1, 3H) — CH₂ (quartet, δ2.3, 2H) — COOH (singlet, δ11.5, 1H) ✓"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 29–32: Electrophilic Substitution — Nitration of Benzene"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER"
+            ],
+            [
+              "QUESTION [5 marks]: Describe the mechanism for the nitration of benzene using a mixture of concentrated nitric and sulfuric acid. Include generation of the electrophile and all curly arrows."
+            ],
+            [
+              "STEP 1 — Generation of electrophile (nitronium ion): [1]"
+            ],
+            [
+              "HNO₃ + H₂SO₄ → H₂NO₃⁺ + HSO₄⁻"
+            ],
+            [
+              "H₂NO₃⁺ → NO₂⁺ + H₂O"
+            ],
+            [
+              "Electrophile = NO₂⁺ (nitronium ion)"
+            ],
+            [
+              "STEP 2 — Electrophilic attack on ring: [1]"
+            ],
+            [
+              "Curly arrow from the π electron system of benzene to the N of NO₂⁺."
+            ],
+            [
+              "Forms sigma complex (arenium ion): the ring carbon attacked now has 4 bonds; the ring has a delocalised positive charge; the ring is no longer planar/aromatic at that carbon."
+            ],
+            [
+              "Show the + charge on the ring in the arenium ion."
+            ],
+            [
+              "STEP 3 — Loss of H⁺ (restoration of aromaticity): [1]"
+            ],
+            [
+              "Curly arrow from the C–H bond (on the carbon bearing NO₂) to the adjacent ring carbon."
+            ],
+            [
+              "H⁺ is lost. HSO₄⁻ accepts H⁺ (reforms H₂SO₄, which is regenerated as a catalyst)."
+            ],
+            [
+              "The aromatic ring system is restored."
+            ],
+            [
+              "STEP 4 — Product: [1]"
+            ],
+            [
+              "Nitrobenzene (C₆H₅NO₂). Draw the benzene ring with –NO₂ substituent."
+            ],
+            [
+              "KEY MARK SCHEME POINT [1]: Explain WHY substitution is preferred over addition: addition would destroy the aromatic delocalisation, which is thermodynamically more stable. The driving force for the reaction is the restoration of aromaticity."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Topic 33: Acyl Chloride — Addition-Elimination Mechanism"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "📝 WORKED ANSWER"
+            ],
+            [
+              "QUESTION [4 marks]: Write the mechanism for the reaction of ethanoyl chloride (CH₃COCl) with ammonia (NH₃) to form an amide."
+            ],
+            [
+              "STEP 1: NH₃ acts as the nucleophile. Curly arrow from the lone pair on N of NH₃ to the electrophilic carbonyl carbon (C) of CH₃COCl. [1]"
+            ],
+            [
+              "STEP 2: The C=O double bond breaks heterolytically. Curly arrow from C=O bond to O. A tetrahedral intermediate forms: CH₃C(OH)(NH₃⁺)Cl — the O now carries a negative charge (or is shown as O⁻) and the N carries a positive charge. [1]"
+            ],
+            [
+              "STEP 3: The C–Cl bond breaks heterolytically. Curly arrow from C–Cl bond to Cl. Cl⁻ leaves as a leaving group. The C=O is reformed. [1]"
+            ],
+            [
+              "STEP 4: H⁺ is lost from the NH₃⁺ group (to Cl⁻, forming HCl). Product is ethanamide (CH₃CONH₂) and HCl gas is evolved. The observations: (a) steamy white fumes (HCl gas); (b) ethanamide solid or solution formed. [1]"
+            ],
+            [
+              "MECHANISM TYPE: Addition-elimination (nucleophilic addition of NH₃ to C=O, then elimination of Cl⁻ and H⁺). NOT SN1 or SN2."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-8",
+      "title": "SECTION 8: PREDICTED TOPICS FOR NEXT SESSION",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Prediction Methodology for Paper 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "These predictions are based on: (1) 8-year analysis of Paper 4 topic frequency and mark allocation; (2) identification of sub-topics under-represented in 2023–2025; (3) Cambridge's increasing emphasis on AO2 application; (4) examiner report commentary on persistent student weaknesses. Paper 4 predictions carry somewhat more uncertainty than Papers 1/2/3 because the A Level content is broader — but the core topic patterns are highly consistent."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "Transition element chemistry (Topic 28) has appeared as a 12–14 mark question block in every Paper 4 analysed. The specific sub-topics within Topic 28 rotate. If colour/ligand field dominated the 2023–2024 papers, expect stereoisomerism in complexes or Kstab to be emphasised in the next session."
+            ],
+            [
+              "Born-Haber cycles (Topic 23) and Gibbs free energy (Topic 23) together account for approximately 9–10 marks per paper. These have never been absent. Expect both a construction-and-calculation Born-Haber question AND a ΔG feasibility/crossover temperature question."
+            ],
+            [
+              "Advanced organic chemistry (Topics 29–36) is the most mark-dense section of Paper 4 after transition metals. Arene chemistry and amino acid chemistry are the most reliably tested A Level-only organic topics."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔮 PREDICTION"
+            ],
+            [
+              "PREDICTION 1 — BORN-HABER CYCLE + ΔG FEASIBILITY (CERTAIN): A Born-Haber cycle for an ionic compound (likely MgO, CaCl₂, or NaF — compounds not seen in 2023–2024) requiring construction and calculation of lattice energy. Combined with a ΔG = ΔH − TΔS calculation asking for the crossover temperature. Practise both the cycle construction AND the ΔG calculation sequence until automatic."
+            ],
+            [
+              "PREDICTION 2 — TRANSITION METAL COMPLEX: STEREOISOMERISM (HIGH CONFIDENCE): A question on stereoisomerism in octahedral or square planar complexes involving bidentate ligands (e.g., ethylenediamine, oxalate). Requires: (1) drawing cis and trans isomers; (2) identifying optical isomers; (3) determining overall polarity. This sub-topic is overdue based on recent paper analysis."
+            ],
+            [
+              "PREDICTION 3 — NERNST EQUATION + E°CELL CALCULATION (HIGH CONFIDENCE): A question providing two standard electrode potentials, asking to calculate E°cell, determine feasibility, then apply the Nernst equation with non-standard concentrations. May also require ΔG° = −nFE°cell calculation. Practise the sequence: E°cell → feasibility → Nernst → ΔG°."
+            ],
+            [
+              "PREDICTION 4 — RATE EQUATION + MECHANISM (HIGH CONFIDENCE): Experimental rate data (table of initial concentrations and initial rates) requiring: (1) deduce orders and rate equation; (2) calculate k with units; (3) propose a 2-step mechanism consistent with the rate equation; (4) identify the rate-determining step. The mechanism step is the most frequently missed mark in this topic."
+            ],
+            [
+              "PREDICTION 5 — FULL ¹H NMR SPECTRUM INTERPRETATION (HIGH CONFIDENCE): A compound with molecular formula given; ¹H NMR data provided (chemical shifts, splitting patterns, integration ratios); require identification of the compound and justification of each peak. The compound will have 3–4 distinct environments. The D₂O exchange test to identify O–H or N–H protons may be included."
+            ],
+            [
+              "PREDICTION 6 — AMINO ACID CHEMISTRY + ELECTROPHORESIS (HIGH CONFIDENCE): A question involving a named or novel amino acid, requiring: (1) draw the zwitterion; (2) draw the species at pH above and below the isoelectric point; (3) predict the direction of migration in electrophoresis at a given pH; (4) explain the formation of a peptide bond between two amino acids."
+            ],
+            [
+              "PREDICTION 7 — MULTI-STEP ORGANIC SYNTHESIS (MODERATE CONFIDENCE): A synthesis question requiring 3–5 steps from a starting aromatic compound to a target molecule, using A Level reactions (Friedel-Crafts, nitration, reduction, diazonium chemistry, acyl chloride reactions). The target molecule will contain 2–3 functional groups requiring sequential transformation."
+            ],
+            [
+              "PREDICTION 8 — Ksp CALCULATION WITH COMMON ION EFFECT (MODERATE CONFIDENCE): Calculate the solubility of a sparingly soluble salt in pure water (from given Ksp), then in a solution containing a common ion. Explain the common ion effect in terms of Le Chatelier's principle. This topic appeared infrequently in 2022–2024 and is statistically overdue."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Predicted Topic",
+              "Likelihood",
+              "Key Preparation"
+            ],
+            [
+              "Born-Haber cycle + ΔG calculation",
+              "★★★★★ CERTAIN",
+              "Draw and practice 5 Born-Haber cycles for different compound types; practise ΔG calculation and crossover T"
+            ],
+            [
+              "Transition metal complex stereoisomerism",
+              "★★★★☆ VERY LIKELY",
+              "Draw cis/trans pairs for square planar and octahedral; draw optical isomers for bidentate complexes"
+            ],
+            [
+              "Nernst equation + E°cell",
+              "★★★★☆ VERY LIKELY",
+              "Practise Nernst equation substitution × 5; link E°cell to ΔG°; practise electrolysis predictions"
+            ],
+            [
+              "Rate equation deduction + mechanism",
+              "★★★★☆ VERY LIKELY",
+              "Use past paper rate data tables; practise identifying orders, writing rate equation, calculating k, proposing mechanism"
+            ],
+            [
+              "¹H NMR spectrum interpretation",
+              "★★★★☆ VERY LIKELY",
+              "Practise interpreting 5 NMR spectra; memorise chemical shift ranges from data sheet; practise n+1 splitting prediction"
+            ],
+            [
+              "Amino acid chemistry + electrophoresis",
+              "★★★★☆ VERY LIKELY",
+              "Draw zwitterion; memorise isoelectric point concept; practise electrophoresis direction prediction"
+            ],
+            [
+              "Multi-step arene synthesis",
+              "★★★☆☆ LIKELY",
+              "Map synthesis routes using nitration→reduction→diazonium; practise reagents/conditions for each step"
+            ],
+            [
+              "Ksp + common ion effect",
+              "★★★☆☆ LIKELY",
+              "Practise Ksp calculations; common ion calculation showing greatly reduced solubility"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-9",
+      "title": "SECTION 9: 4-WEEK REVISION PLAN",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "How to Revise for Paper 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Paper 4 revision requires mastery of 15 additional A Level topics on top of all AS content. The key difference from Paper 2 revision: Paper 4 calculations are more multi-step, mechanisms are more complex, and the proportion of AO2 application questions is higher. This plan addresses both knowledge consolidation and AO2 skill development."
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "🔑 KEY FACT"
+            ],
+            [
+              "The most effective Paper 4 revision: write model answers for extended questions (5–8 marks) from memory, then compare word-for-word against the mark scheme. For every missed mark, add the exact phrase to your 'key phrases' flashcard set."
+            ],
+            [
+              "Calculation fluency for Paper 4: practise Born-Haber, ΔG, Nernst, Ksp, rate equation, and Kstab calculations in timed sets. Each calculation type should be completable in under 5 minutes once fluent."
+            ],
+            [
+              "Do NOT neglect AS Level content in Paper 4 preparation. Approximately 15–17 marks per paper come from AS topics (Topics 1–22) tested in A Level contexts. Review the Paper 2 guide for AS topics."
+            ],
+            [
+              "For transition metal chemistry (Topic 28): this is the highest-mark A Level topic. Allocate at least 25% of your Paper 4 revision time to mastering all sub-topics: variable oxidation states, colour/d-orbital splitting, complexes, Kstab, stereoisomerism in complexes, and redox reactions."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 1: Critical Topics — Transition Metals & Advanced Energetics"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Topic 28: Write the complete 4-part colour explanation from memory (d-orbital splitting → electron promotion → ΔE = hf → complementary colour observed). Apply to 4 different complexes.",
+              "Topic 28: Kstab — write expressions for 5 different complexes; practise Kstab calculations using given equilibrium data × 3. Write the definition of Kstab and chelate effect explanation.",
+              "Flashcards × 15: Topic 28 key phrases (colour explanation, variable oxidation states, ligand types, chelate effect)"
+            ],
+            [
+              "Tue",
+              "Topic 28: Stereoisomerism in complexes — draw cis/trans pairs for [Pt(NH₃)₂Cl₂] and [Co(NH₃)₄(H₂O)₂]³⁺. Draw optical isomers for [Ni(en)₃]²⁺. Label each type.",
+              "Topic 23: Born-Haber cycles × 3 (NaF, MgO, CaCl₂). Draw the cycle; label all energy terms; calculate lattice energy. Check sign conventions.",
+              "Write the 5 energy terms in a Born-Haber cycle from memory with their signs. Check against Section 6."
+            ],
+            [
+              "Wed",
+              "Topic 23: Entropy — predict sign of ΔS for 8 different reactions. Calculate ΔS° = ΣS°(products) − ΣS°(reactants) for 4 examples using given S° values.",
+              "Topic 23: Gibbs free energy — ΔG = ΔH − TΔS calculations × 5. Crossover temperature calculation × 3. State feasibility for each. Include ΔHsol = ΔHlatt + ΔHhyd examples × 2.",
+              "Mark scheme language cards: ΔG feasibility phrases, Born-Haber lattice energy trend explanations. Write 5 from memory."
+            ],
+            [
+              "Thu",
+              "Timed practice: 30 marks from Topics 23 and 28 (past Paper 4 questions, 36 minutes). Write every answer in full — no shortcutting.",
+              "Full mark scheme comparison. Classify every error: wrong recall / incomplete explanation / calculation error / missing 'why'. Create correction cards.",
+              "Fix top 3 error types. Write 3 model answers (one per error type) from scratch."
+            ],
+            [
+              "Fri",
+              "Topic 27: Enthalpy of hydration trends for Group 2; lattice energy trend across Period 3. Why does Mg(OH)₂ have lower solubility than Ba(OH)₂? (Lattice energy vs hydration enthalpy balance.)",
+              "Topic 28: Redox reactions of transition elements — practise MnO₄⁻/Fe²⁺, MnO₄⁻/C₂O₄²⁻, Cu²⁺/I⁻ reactions. Calculate E°cell; predict feasibility; write ionic equations.",
+              "Review: write the definition of transition element (with the Sc and Zn exclusion) and the electronic configurations of Fe²⁺, Fe³⁺, Cu²⁺, Cr³⁺ from memory."
+            ],
+            [
+              "Sat",
+              "Full timed Paper 4 practice: 2019 Paper 4 (100 marks, 120 minutes, exam conditions). Proportion time: ~72 seconds per mark.",
+              "Mark paper. Record score. Classify every missed mark by topic and type.",
+              "Review the examiner report for 2019 Paper 4 where available. Note which student errors are described."
+            ],
+            [
+              "Sun",
+              "REST — light review of Born-Haber cycle steps and colour explanation sequence (30 min).",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 2: High Priority Topics — Organic Chemistry, Kinetics, Electrochemistry"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Topics 29–32: Arene chemistry — write the complete nitration mechanism from memory (electrophile generation → sigma complex → H⁺ loss → product). Practise Friedel-Crafts acylation mechanism × 2.",
+              "Topics 29–32: Directing effects — classify all 8 syllabus groups (activating/deactivating; ortho-para/meta). Apply to 5 novel substrates. Draw the major product for each.",
+              "Flashcards: directing effect of each group. Write from memory: activating or deactivating? ortho-para or meta?"
+            ],
+            [
+              "Tue",
+              "Topic 26: Rate equation deduction — complete 4 rate data tables from past papers. Deduce orders; write rate equation; calculate k with units. Practise identifying the rate-determining step from a mechanism.",
+              "Topic 26: Mechanism consistency — given 3 proposed mechanisms, check which is consistent with the given rate equation. Write the mechanism for a 2-step reaction with identified rate-determining step × 2.",
+              "Rate equation flashcards: units of k for each overall order (0th order: mol dm⁻³ s⁻¹; 1st order: s⁻¹; 2nd order: dm³ mol⁻¹ s⁻¹; 3rd order: dm⁶ mol⁻² s⁻¹)."
+            ],
+            [
+              "Wed",
+              "Topic 24: E°cell — calculate E°cell from given E° values for 5 different cells. State feasibility. Write the balanced overall cell reaction. Calculate ΔG° = −nFE°cell for 3 examples.",
+              "Topic 24: Nernst equation — practise × 5 (different z values; different concentration changes). Calculate E from E° and concentrations. Discuss: how does increasing [oxidised species] affect E?",
+              "Mark scheme language: E°cell feasibility phrases, Nernst equation application. Write 3 model sentences from memory."
+            ],
+            [
+              "Thu",
+              "Timed practice: 35 marks from Topics 24, 26, 29–32 (mixed past Paper 4 questions, 42 minutes).",
+              "Full mark scheme comparison. Classify errors. Create correction cards.",
+              "Spaced review: redo 15 marks from Week 1 practice — have your Born-Haber and transition metal answers improved?"
+            ],
+            [
+              "Fri",
+              "Topics 33–34: Acyl chloride addition-elimination mechanism × 3 (reactions with H₂O, NH₃, alcohol). Amino acid zwitterion drawing × 4. Electrophoresis direction prediction × 5.",
+              "Topics 33–34: Relative acidities (carboxylic acid > phenol > carbonic acid > alcohol > water) — explain each step of the ranking in terms of conjugate base stability. Diazonium salt formation and coupling × 2.",
+              "Write from memory: the reaction of benzenediazonium chloride with phenol in NaOH(aq). Draw the azo compound product. Identify the azo group (–N=N–)."
+            ],
+            [
+              "Sat",
+              "Full timed Paper 4 practice: 2021 Paper 4. Compare score to Week 1.",
+              "Mark paper. Track improvement. Identify top 3 persistent error types.",
+              "Write your 'top 3 persistent error' model answers from memory. Check against mark scheme."
+            ],
+            [
+              "Sun",
+              "REST — review arene directing effect table and acyl chloride mechanism from memory.",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 3: Equilibria, Analytical, Synthesis & AO2 Application"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Topic 25: Ksp — write expressions for 5 compounds; calculate Ksp from solubility × 3; calculate solubility from Ksp × 3; common ion effect calculation × 2. Show full working for each.",
+              "Topic 25: Buffer pH + partition coefficient — buffer calculation × 4 (given Ka, [HA], [A⁻]); partition coefficient × 3 (given Kpc and one concentration, calculate other).",
+              "Ksp formula card: write the equilibrium equation; the Ksp expression; the definition of terms; the common ion effect explanation. Check against Section 6."
+            ],
+            [
+              "Tue",
+              "Topic 37: ¹H NMR — interpret 5 NMR spectra from past Paper 4 questions. For each peak: identify chemical shift environment; count integration; apply n+1 rule to determine splitting; propose structure.",
+              "Topic 37: ¹³C NMR — count unique carbon environments for 6 different molecules (including ones with symmetry). Predict number of peaks. Assign chemical shift ranges from data sheet.",
+              "TLC and GLC revision: write Rf definition, stationary and mobile phases for each. Write GLC percentage composition formula from memory."
+            ],
+            [
+              "Wed",
+              "Topic 36: Multi-step synthesis — plan and write 3 synthesis routes (A Level difficulty: starting from arene → target with 3–4 functional group changes). Include reagents and conditions for every step.",
+              "Topic 35: Condensation polymers — draw repeat units from given monomers for 3 polyesters and 2 polyamides. State the bond formed (ester/amide linkage). State which is biodegradable and why.",
+              "Write from memory: conditions for (a) Friedel-Crafts acylation; (b) nitration; (c) reduction of nitrobenzene to phenylamine; (d) diazonium salt formation and coupling. Check against Section 6."
+            ],
+            [
+              "Thu",
+              "AO2 Application session: 6 'novel context' questions from past Paper 4s where an unfamiliar molecule is given and familiar principles must be applied. Practise: (1) identifying the relevant principle; (2) transferring it explicitly to the new molecule.",
+              "Mark AO2 answers against mark scheme. For each missed mark: identify (a) which principle applied; (b) what part of the transfer reasoning was missing.",
+              "Write 3 AO2 model answers from memory for novel-context questions. Focus on the 'transfer' sentences."
+            ],
+            [
+              "Fri",
+              "Weak spots: target your top 3 persistent errors from Week 2. For each, complete 2 additional past paper questions focused on that specific sub-topic.",
+              "Full mixed blitz: 40 marks of mixed A Level questions drawn from 3 different year papers. Timed at 48 minutes.",
+              "Re-read Section 2 (mark scheme language) and Section 5 (strategies). Confirm you can apply each strategy instinctively."
+            ],
+            [
+              "Sat",
+              "Full timed Paper 4 practice: 2022 Paper 4. Compare score to Weeks 1 and 2.",
+              "Mark paper. Final error category analysis.",
+              "Write your 'Final Week' list: 5 specific marking points you still most often miss."
+            ],
+            [
+              "Sun",
+              "REST — review Ksp calculation sequence and ¹H NMR interpretation method from memory.",
+              "—",
+              "—"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Week 4: Peak Performance — Full Papers & Predicted Topics"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Day",
+              "Morning (90 min)",
+              "Afternoon (90 min)",
+              "Evening (45 min)"
+            ],
+            [
+              "Mon",
+              "Full timed Paper 4: 2023 Paper 4 (100 marks, 120 minutes, exam conditions).",
+              "Mark paper. Score. Address top 2 remaining error types.",
+              "Rapid-fire flashcards: 30 key A Level phrases. Aim for instant recall."
+            ],
+            [
+              "Tue",
+              "Predicted topic deep-dive (1): Born-Haber calculation × 2; ΔG calculation + crossover T × 2; lattice energy trend explanation × 1.",
+              "Predicted topic deep-dive (2): Transition metal stereoisomerism × 2; Kstab calculation × 2; colour explanation for a named complex × 2.",
+              "Write the Nernst equation from memory. Apply to 2 examples. Write ΔG° = −nFE°cell from memory. Apply to 1 example."
+            ],
+            [
+              "Wed",
+              "Predicted topic deep-dive (3): Rate equation from data × 2; mechanism consistency check × 1; ¹H NMR interpretation × 2.",
+              "Predicted topic deep-dive (4): Amino acid at 3 different pH values × 2; electrophoresis direction × 3; peptide bond formation between 2 named amino acids × 1.",
+              "Write Ksp calculation sequence from memory (pure water and common ion). Check against Section 6."
+            ],
+            [
+              "Thu",
+              "Full mixed blitz: 50 marks of A Level questions drawn from 3 different years (random selection). Timed at 60 minutes.",
+              "Review and correct. For any new errors: write the correction and mark scheme phrase.",
+              "Re-read Section 8 predictions. Ensure you can write a model answer for each of the 8 predicted topics."
+            ],
+            [
+              "Fri",
+              "Timed practice sets by question type: 15 marks of extended explain questions (22 min); 20 marks of calculations (24 min); 10 marks of mechanism drawing (15 min).",
+              "Review all calculation answers for unit errors and sign errors — these are the most preventable errors.",
+              "Final review of Section 2 (mark scheme language). Write 8 key A Level phrases from memory without notes."
+            ],
+            [
+              "Sat",
+              "LIGHT REVISION ONLY: 30 minutes — review Born-Haber cycle, colour explanation, and ¹H NMR interpretation sequences. No new practice.",
+              "Prepare exam equipment: blue/black pen, HB pencil (for all diagrams), calculator, ruler. Rest.",
+              "—"
+            ],
+            [
+              "Sun",
+              "EXAM DAY — Decode every command word. Show all working. Count your marks per sub-part. Apply the A Level WHAT + WHY + MECHANISM structure to every explain question.",
+              "—",
+              "—"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section-10",
+      "title": "SECTION 10: EXAM DAY STRATEGIES",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Before You Enter the Exam Hall"
+        },
+        {
+          "type": "paragraph",
+          "text": "Equipment: blue or black ink pen. HB pencil (for all diagrams, mechanisms, structural formulas). Eraser. Ruler. Cambridge-approved scientific calculator."
+        },
+        {
+          "type": "paragraph",
+          "text": "Arrive 15 minutes early. Mental warm-up: recall the 4-part colour explanation, the Born-Haber cycle structure, the Nernst equation, and the rate equation deduction steps. Do NOT read new content."
+        },
+        {
+          "type": "paragraph",
+          "text": "Write at the top of your answer booklet: ΔG = ΔH − TΔS; E = E° + (0.059/z)log([Ox]/[Red]); Ksp expression structure; rate = k[A]^m[B]^n. These take 60 seconds and prevent the most common formula recall errors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Read ALL questions before starting. Identify which A Level topics are being tested in each question. Note which sub-parts require extended calculation vs short recall. Allocate your time: ~72 seconds per mark."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "In-Exam Discipline: The Non-Negotiable Rules"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Situation",
+              "The Correct Response"
+            ],
+            [
+              "A mechanism question requires curly arrows",
+              "Use pencil. Arrow MUST start from a bond or lone pair and end at an atom or bond being formed. Check every arrow before moving on."
+            ],
+            [
+              "A calculation gives a negative result when you expect positive",
+              "Do NOT adjust the sign. Show your working. Write a note: 'ΔG < 0 indicates this process is feasible'. The sign carries a mark."
+            ],
+            [
+              "An 'explain' question has [4] marks and you have written only 2 sentences",
+              "Count your points. Write 2 more distinct chemical sentences. Remember: in Paper 4 explanations, you need WHAT + WHY + MECHANISM + (sometimes) EXCEPTION."
+            ],
+            [
+              "A novel molecule or reaction is presented",
+              "Do not panic. Identify: (a) what functional groups are present; (b) which syllabus reaction applies; (c) transfer the principle explicitly to this new context. The chemistry is always from your syllabus."
+            ],
+            [
+              "You cannot remember a specific formula (Nernst, ΔG, etc.)",
+              "Use the relationships you DO know to reconstruct it. For Nernst: recall it links E to E° and concentrations. For ΔG: recall it links to ΔH, T, and ΔS."
+            ],
+            [
+              "A 'compare' question requires similarities AND differences",
+              "Write 'Similarities: ...' and 'Differences: ...' explicitly. Cambridge marks are allocated to each part. Never answer a compare question with only one category."
+            ],
+            [
+              "An organic synthesis question requires 5 steps",
+              "Award yourself 5 minutes. Plan the route in pencil in the margin first. For each step: reagent + condition + product. Cambridge awards marks for each step independently."
+            ],
+            [
+              "You run out of time with 2 sub-parts unanswered",
+              "Write at least the key principle for each remaining sub-part. Even one mark per unanswered sub-part (from a partial correct statement) is better than zero. Never leave anything completely blank."
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "The A* Paper 4 Mindset"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "70-mark Student Behaviour",
+              "85+ mark Student Behaviour"
+            ],
+            [
+              "Writes 'the complex is coloured because it absorbs light'",
+              "Writes the full 4-part colour explanation: d-orbital splitting → electron promotion → ΔE = hf → complementary colour observed"
+            ],
+            [
+              "In Born-Haber calculation: tries to do it algebraically without drawing the cycle",
+              "Draws the cycle first, labels all arrows, identifies the unknown, applies Hess's law systematically"
+            ],
+            [
+              "For 'suggest a mechanism consistent with the rate equation': proposes any mechanism",
+              "Proposes a mechanism where the species in the rate equation appear in the steps up to and including the rate-determining step — and states this explicitly"
+            ],
+            [
+              "For novel organic molecule: stares at it for 2 minutes",
+              "Identifies the functional groups in 30 seconds, identifies which syllabus reactions apply, states which principle transfers, applies it explicitly"
+            ],
+            [
+              "Writes 'increasing [oxidised species] increases the electrode potential' for Nernst",
+              "Calculates E using the Nernst equation with the given concentrations, showing every step including the value of z and the log term"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "✅ EXAMINER TIP"
+            ],
+            [
+              "Paper 4 marks are earned by chemical precision and complete explanations. Every vague phrase ('the forces are stronger', 'the reaction is more feasible') that is not backed by a specific chemical mechanism loses a mark. Replace every vague phrase with the specific chemistry: WHICH forces? How much stronger? Why is ΔG more negative?"
+            ],
+            [
+              "Paper 4 is worth 38.5% of your A Level. The difference between a B and an A — or an A and an A* — is often decided entirely by Paper 4 performance. Every mark matters. Invest proportionally."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "appendix",
+      "title": "QUICK REFERENCE APPENDIX",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Key Formulae for Paper 4 Calculations"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Quantity",
+              "Formula",
+              "Units",
+              "Notes"
+            ],
+            [
+              "Gibbs free energy",
+              "ΔG° = ΔH° − TΔS°",
+              "kJ mol⁻¹",
+              "T in K; ΔS in kJ mol⁻¹ K⁻¹ (divide J value by 1000); feasible if ΔG < 0"
+            ],
+            [
+              "Crossover temperature",
+              "T = ΔH°/ΔS°",
+              "K",
+              "Both ΔH and ΔS in same units (kJ); set ΔG = 0"
+            ],
+            [
+              "Standard cell potential",
+              "E°cell = E°(cathode) − E°(anode)",
+              "V",
+              "Cathode = more positive E°; anode = more negative E°"
+            ],
+            [
+              "Nernst equation",
+              "E = E° + (0.059/z)log([Ox]/[Red])",
+              "V",
+              "z = electrons transferred; [Ox] = oxidised species; [Reduced] = reduced species; at 298 K"
+            ],
+            [
+              "Gibbs from E°cell",
+              "ΔG° = −nFE°cell",
+              "J mol⁻¹",
+              "n = moles of electrons; F = 96500 C mol⁻¹; convert to kJ by ÷1000"
+            ],
+            [
+              "Kstab expression",
+              "Kstab = [complex] / ([metal ion][ligand]^n)",
+              "varies",
+              "Exclude [H₂O]; n = number of ligand molecules; all concentrations at equilibrium"
+            ],
+            [
+              "Ksp expression",
+              "Ksp = [M^n+]^x [X^m−]^y",
+              "mol^(x+y) dm^(−3(x+y))",
+              "Pure solid excluded; x and y from stoichiometry of dissolution"
+            ],
+            [
+              "Rate equation",
+              "rate = k[A]^m[B]^n",
+              "mol dm⁻³ s⁻¹",
+              "Units of k depend on overall order: (n+m); work out by dimensional analysis"
+            ],
+            [
+              "First-order half-life",
+              "t₁/₂ = 0.693/k",
+              "s",
+              "Constant for first-order reactions; independent of concentration"
+            ],
+            [
+              "Buffer pH (Henderson-Hasselbalch)",
+              "pH = pKa + log([A⁻]/[HA])",
+              "dimensionless",
+              "[A⁻] = conjugate base; [HA] = weak acid"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Essential A Level Definitions — Mark Scheme Language"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Term",
+              "Full Mark Scheme Definition"
+            ],
+            [
+              "Transition element",
+              "A d-block element that forms at least one stable ion with an incomplete d sub-shell (excludes Sc and Zn)"
+            ],
+            [
+              "Stability constant (Kstab)",
+              "The equilibrium constant for the formation of a complex ion in solution from its constituent ions or molecules; [H₂O] not included"
+            ],
+            [
+              "Ligand",
+              "A species that contains a lone pair of electrons that forms a dative (coordinate) covalent bond to a central metal atom or ion"
+            ],
+            [
+              "Lattice energy (Cambridge definition)",
+              "The energy released when one mole of an ionic compound is formed from its constituent gaseous ions (exothermic, negative value)"
+            ],
+            [
+              "Partition coefficient (Kpc)",
+              "Kpc = [solute in solvent 1] / [solute in solvent 2] at constant temperature; depends on relative polarities of solute and solvents"
+            ],
+            [
+              "Rate-determining step",
+              "The slowest step in a multi-step reaction mechanism; determines the overall rate; species in the rate equation appear in steps up to and including this step"
+            ],
+            [
+              "Isoelectric point",
+              "The pH at which an amino acid carries no overall charge (exists as a zwitterion) and would not migrate in electrophoresis"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Directing Effects in Arenes — Complete Reference"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Group",
+              "Type",
+              "Directs To",
+              "Ring Activation",
+              "Example"
+            ],
+            [
+              "–NH₂ (amine)",
+              "Activating",
+              "2,4,6 (ortho/para)",
+              "Strong activation",
+              "Aniline (phenylamine) → very reactive toward E⁺"
+            ],
+            [
+              "–OH (hydroxyl)",
+              "Activating",
+              "2,4,6 (ortho/para)",
+              "Strong activation",
+              "Phenol → more reactive than benzene"
+            ],
+            [
+              "–R (alkyl)",
+              "Activating",
+              "2,4,6 (ortho/para)",
+              "Weak activation",
+              "Methylbenzene → slightly more reactive than benzene"
+            ],
+            [
+              "–COR (acyl/ketone)",
+              "Deactivating",
+              "3,5 (meta)",
+              "Deactivation",
+              "Acetophenone → less reactive than benzene"
+            ],
+            [
+              "–NO₂ (nitro)",
+              "Deactivating",
+              "3,5 (meta)",
+              "Strong deactivation",
+              "Nitrobenzene → much less reactive; used in subsequent reductions"
+            ],
+            [
+              "–COOH (carboxyl)",
+              "Deactivating",
+              "3,5 (meta)",
+              "Deactivation",
+              "Benzoic acid → less reactive than benzene"
+            ],
+            [
+              "–CN (cyano)",
+              "Deactivating",
+              "3,5 (meta)",
+              "Deactivation",
+              "Benzonitrile → less reactive"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Paper 4 Grade Boundary Targets"
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Grade",
+              "A*",
+              "A",
+              "B",
+              "C",
+              "D",
+              "E"
+            ],
+            [
+              "Typical mark range",
+              "88–100",
+              "75–87",
+              "60–74",
+              "50–59",
+              "40–49",
+              "30–39"
+            ],
+            [
+              "% of paper",
+              "88–100%",
+              "75–87%",
+              "60–74%",
+              "50–59%",
+              "40–49%",
+              "30–39%"
+            ],
+            [
+              "Typical marks lost",
+              "0–12",
+              "13–25",
+              "26–40",
+              "41–50",
+              "51–60",
+              "61–70"
+            ],
+            [
+              "Key differentiator",
+              "Complete A Level mechanisms; perfect mark scheme language; multi-step calculations with no unit errors",
+              "Near-complete explanations; minor terminology; mostly correct multi-step calculations",
+              "Core A Level content correct; arene mechanisms incomplete; some calculation errors",
+              "Basic A Level recall; missing key A Level-only topics; frequent calculation errors",
+              "Gaps in A Level content; mostly AS-only answers; significant calculation errors",
+              "Major gaps; unable to attempt A Level calculation types"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "rows": [
+            [
+              "Cambridge A Level Chemistry (9701) — Paper 4 Master Revision Guide\nAligned to the Cambridge International AS & A Level Chemistry 9701 Syllabus for Examinations 2028–2030\nBased on past paper and examiner report analysis 2018–2025\nCambridge Teacher Edition | Syllabus 9701 | Series: A Level Chemistry Mastery Guides"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

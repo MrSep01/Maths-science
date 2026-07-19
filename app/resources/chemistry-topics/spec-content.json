@@ -1,0 +1,3856 @@
+{
+  "igcse": {
+    "qualification": "Cambridge IGCSE Chemistry",
+    "syllabus": "0620",
+    "years": "2026–2028",
+    "topics": [
+      {
+        "number": 1,
+        "title": "States of matter",
+        "level": "IGCSE",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "1.1",
+            "title": "Solids, liquids and gases",
+            "core": [
+              {
+                "number": "1",
+                "text": "State the distinguishing properties of solids, liquids and gases"
+              },
+              {
+                "number": "2",
+                "text": "Describe the structures of solids, liquids and gases in terms of particle separation, arrangement and motion"
+              },
+              {
+                "number": "3",
+                "text": "Describe changes of state in terms of melting, boiling, evaporating, freezing and condensing"
+              },
+              {
+                "number": "4",
+                "text": "Describe the effects of temperature and pressure on the volume of a gas"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "5",
+                "text": "Explain changes of state in terms of kinetic particle theory, including the interpretation of heating and cooling curves"
+              },
+              {
+                "number": "6",
+                "text": "Explain, in terms of kinetic particle theory, the effects of temperature and pressure on the volume of a gas"
+              }
+            ]
+          },
+          {
+            "code": "1.2",
+            "title": "Diffusion",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe and explain diffusion in terms of kinetic particle theory"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "2",
+                "text": "Describe and explain the effect of relative molecular mass on the rate of diffusion of gases"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Atoms, elements and compounds",
+        "level": "IGCSE",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "2.1",
+            "title": "Elements, compounds and mixtures",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the differences between elements, compounds and mixtures"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "2.2",
+            "title": "Atomic structure and the Periodic Table",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the structure of the atom as a central nucleus containing neutrons and protons surrounded by electrons in shells"
+              },
+              {
+                "number": "2",
+                "text": "State the relative charges and relative masses of a proton, a neutron and an electron"
+              },
+              {
+                "number": "3",
+                "text": "Define proton number/atomic number as the number of protons in the nucleus of an atom"
+              },
+              {
+                "number": "4",
+                "text": "Define mass number/nucleon number as the total number of protons and neutrons in the nucleus of an atom"
+              },
+              {
+                "number": "5",
+                "text": "Determine the electronic configuration of elements and their ions with proton number 1 to 20, e.g. 2,8,3"
+              },
+              {
+                "number": "6",
+                "text": "State that: (a) Group VIII noble gases have a full outer electron shell (b) the number of outer shell electrons is equal to the group number in Groups I to VII (c) the number of occupied electron shells is equal to the period number"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "2.3",
+            "title": "Isotopes",
+            "core": [
+              {
+                "number": "1",
+                "text": "Define isotopes as different atoms of the same element that have the same number of protons but different numbers of neutrons"
+              },
+              {
+                "number": "2",
+                "text": "Interpret and use symbols for atoms, e.g. 6 12C, and ions, e.g. 17 35Cl –"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "3",
+                "text": "State that isotopes of the same element have the same chemical properties because they have the same number of electrons and therefore the same electronic configuration"
+              },
+              {
+                "number": "4",
+                "text": "Calculate the relative atomic mass of an element from the relative masses and abundances of its isotopes"
+              }
+            ]
+          },
+          {
+            "code": "2.4",
+            "title": "Ions and ionic bonds",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the formation of positive ions, known as cations, and negative ions, known as anions"
+              },
+              {
+                "number": "2",
+                "text": "State that an ionic bond is a strong electrostatic attraction between oppositely charged ions"
+              },
+              {
+                "number": "3",
+                "text": "Describe the formation of ionic bonds between elements from Group I and Group VII, including the use of dot-and-cross diagrams"
+              },
+              {
+                "number": "4",
+                "text": "Describe the properties of ionic compounds: (a) high melting points and boiling points (b) good electrical conductivity when aqueous or molten and poor when solid"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "5",
+                "text": "Describe the giant lattice structure of ionic compounds as a regular arrangement of alternating positive and negative ions"
+              },
+              {
+                "number": "6",
+                "text": "Describe the formation of ionic bonds between ions of metallic and non-metallic elements, including the use of dot-and-cross diagrams"
+              },
+              {
+                "number": "7",
+                "text": "Explain in terms of structure and bonding the properties of ionic compounds: (a) high melting points and boiling points (b) good electrical conductivity when aqueous or molten and poor when solid"
+              }
+            ]
+          },
+          {
+            "code": "2.5",
+            "title": "Simple molecules and covalent bonds",
+            "core": [
+              {
+                "number": "1",
+                "text": "State that a covalent bond is formed when a pair of electrons is shared between two atoms leading to noble gas electronic configurations"
+              },
+              {
+                "number": "2",
+                "text": "Describe the formation of covalent bonds in simple molecules, including H2, Cl 2, H2O, CH4, NH3 and HCl. Use dot-and-cross diagrams to show the electronic configurations in these and similar molecules"
+              },
+              {
+                "number": "3",
+                "text": "Describe in terms of structure and bonding the properties of simple molecular compounds: (a) low melting points and boiling points (b) poor electrical conductivity"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "4",
+                "text": "Describe the formation of covalent bonds in simple molecules, including CH3OH, C2H4, O2, CO2 and N2. Use dot-and-cross diagrams to show the electronic configurations in these and similar molecules"
+              },
+              {
+                "number": "5",
+                "text": "Explain in terms of structure and bonding the properties of simple molecular compounds: (a) low melting points and boiling points in terms of weak intermolecular forces (specific types of intermolecular forces are not required) (b) poor electrical conductivity"
+              }
+            ]
+          },
+          {
+            "code": "2.6",
+            "title": "Giant covalent structures",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the giant covalent structures of graphite and diamond"
+              },
+              {
+                "number": "2",
+                "text": "Relate the structures and bonding of graphite and diamond to their uses, limited to: (a) graphite as a lubricant and as an electrode (b) diamond in cutting tools"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "3",
+                "text": "Describe the giant covalent structure of silicon(IV) oxide, SiO2"
+              },
+              {
+                "number": "4",
+                "text": "Describe the similarity in properties between diamond and silicon(IV) oxide, related to their structures"
+              }
+            ]
+          },
+          {
+            "code": "2.7",
+            "title": "Metallic bonding",
+            "core": [],
+            "supplement": [
+              {
+                "number": "1",
+                "text": "Describe metallic bonding as the electrostatic attraction between the positive ions in a giant metallic lattice and a ‘sea’ of delocalised electrons"
+              },
+              {
+                "number": "2",
+                "text": "Explain in terms of structure and bonding the properties of metals: (a) good electrical conductivity (b) malleability and ductility"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Stoichiometry",
+        "level": "IGCSE",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "3.1",
+            "title": "Formulae",
+            "core": [
+              {
+                "number": "1",
+                "text": "State the formulae of the elements and compounds named in the subject content"
+              },
+              {
+                "number": "2",
+                "text": "Define the molecular formula of a compound as the number and type of different atoms in one molecule"
+              },
+              {
+                "number": "3",
+                "text": "Deduce the formula of a simple compound from the relative numbers of atoms present in a model or a diagrammatic representation"
+              },
+              {
+                "number": "4",
+                "text": "Construct word equations and symbol equations to show how reactants form products, including state symbols"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "5",
+                "text": "Define the empirical formula of a compound as the simplest whole number ratio of the different atoms or ions in a compound"
+              },
+              {
+                "number": "6",
+                "text": "Deduce the formula of an ionic compound from the relative numbers of the ions present in a model or a diagrammatic representation or from the charges on the ions"
+              },
+              {
+                "number": "7",
+                "text": "Construct symbol equations with state symbols, including ionic equations"
+              },
+              {
+                "number": "8",
+                "text": "Deduce the symbol equation with state symbols for a chemical reaction, given relevant information"
+              }
+            ]
+          },
+          {
+            "code": "3.2",
+            "title": "Relative masses of atoms and molecules",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe relative atomic mass, Ar, as the average mass of the isotopes of an element compared to 1/12th of the mass of an atom of 12C"
+              },
+              {
+                "number": "2",
+                "text": "Define relative molecular mass, Mr, as the sum of the relative atomic masses. Relative formula mass, Mr, will be used for ionic compounds"
+              },
+              {
+                "number": "3",
+                "text": "Calculate reacting masses in simple proportions. Calculations will not involve the mole concept"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "3.3",
+            "title": "The mole and the Avogadro constant",
+            "core": [
+              {
+                "number": "1",
+                "text": "State that concentration can be measured in g/dm3 or mol/dm3"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "2",
+                "text": "State that the mole, mol, is the unit of amount of substance and that one mole contains 6.02 × 1023 particles, e.g. atoms, ions, molecules; this number is the Avogadro constant"
+              },
+              {
+                "number": "3",
+                "text": "Use the relationship amount of substance (mol) = mass (g) molar mass (g/mol) to calculate: (a) amount of substance (b) mass (c) molar mass (d) relative atomic mass or relative molecular/formula mass (e) number of particles, using the value of the Avogadro constant"
+              },
+              {
+                "number": "4",
+                "text": "Use the molar gas volume, taken as 24 dm3 at room temperature and pressure, r.t.p., in calculations involving gases"
+              },
+              {
+                "number": "5",
+                "text": "Calculate stoichiometric reacting masses, limiting reactants, volumes of gases at r.t.p., volumes of solutions and concentrations of solutions expressed in g/dm3 and mol/dm3, including conversion between cm3 and dm3"
+              },
+              {
+                "number": "6",
+                "text": "Use experimental data from a titration to calculate the moles of solute, or the concentration or volume of a solution"
+              },
+              {
+                "number": "7",
+                "text": "Calculate empirical formulae and molecular formulae, given appropriate data"
+              },
+              {
+                "number": "8",
+                "text": "Calculate percentage yield, percentage composition by mass and percentage purity, given appropriate data"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "Electrochemistry",
+        "level": "IGCSE",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "4.1",
+            "title": "Electrolysis",
+            "core": [
+              {
+                "number": "1",
+                "text": "Define electrolysis as the decomposition of an ionic compound, when molten or in aqueous solution, by the passage of an electric current"
+              },
+              {
+                "number": "2",
+                "text": "Identify in simple electrolytic cells: (a) the anode as the positive electrode (b) the cathode as the negative electrode (c) the electrolyte as the molten or aqueous substance that undergoes electrolysis"
+              },
+              {
+                "number": "3",
+                "text": "Identify the products formed at the electrodes and describe the observations made during the electrolysis of: (a) molten lead(II) bromide (b) concentrated aqueous sodium chloride (c) dilute sulfuric acid using inert electrodes made of platinum or carbon/graphite"
+              },
+              {
+                "number": "4",
+                "text": "State that metals or hydrogen are formed at the cathode and that non-metals (other than hydrogen) are formed at the anode"
+              },
+              {
+                "number": "5",
+                "text": "Predict the identity of the products at each electrode for the electrolysis of a binary compound in the molten state"
+              },
+              {
+                "number": "6",
+                "text": "State that metal objects are electroplated to improve their appearance and resistance to corrosion"
+              },
+              {
+                "number": "7",
+                "text": "Describe how metals are electroplated"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "8",
+                "text": "Describe the transfer of charge during electrolysis to include: (a) the movement of electrons in the external circuit (b) the loss or gain of electrons at the electrodes (c) the movement of ions in the electrolyte"
+              },
+              {
+                "number": "9",
+                "text": "Identify the products formed at the electrodes and describe the observations made during the electrolysis of aqueous copper(II) sulfate using inert carbon/graphite electrodes and when using copper electrodes"
+              },
+              {
+                "number": "10",
+                "text": "Predict the identity of the products at each electrode for the electrolysis of a halide compound in dilute or concentrated aqueous solution"
+              },
+              {
+                "number": "11",
+                "text": "Construct ionic half-equations for reactions at the anode (to show oxidation) and at the cathode (to show reduction)"
+              }
+            ]
+          },
+          {
+            "code": "4.2",
+            "title": "Hydrogen–oxygen fuel cells",
+            "core": [
+              {
+                "number": "1",
+                "text": "State that a hydrogen–oxygen fuel cell uses hydrogen and oxygen to produce electricity with water as the only chemical product"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "2",
+                "text": "Describe the advantages and disadvantages of using hydrogen–oxygen fuel cells in comparison with gasoline/petrol engines in vehicles"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Chemical energetics",
+        "level": "IGCSE",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "5.1",
+            "title": "Exothermic and endothermic reactions",
+            "core": [
+              {
+                "number": "1",
+                "text": "State that an exothermic reaction transfers thermal energy to the surroundings leading to an increase in the temperature of the surroundings"
+              },
+              {
+                "number": "2",
+                "text": "State that an endothermic reaction takes in thermal energy from the surroundings leading to a decrease in the temperature of the surroundings"
+              },
+              {
+                "number": "3",
+                "text": "Interpret reaction pathway diagrams showing exothermic and endothermic reactions"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "4",
+                "text": "State that the transfer of thermal energy during a reaction is called the enthalpy change, ∆H, of the reaction. ∆H is negative for exothermic reactions and positive for endothermic reactions"
+              },
+              {
+                "number": "5",
+                "text": "Define activation energy, Ea, as the minimum energy that colliding particles must have to react"
+              },
+              {
+                "number": "6",
+                "text": "Draw and label reaction pathway diagrams for exothermic and endothermic reactions using information provided, to include: (a) reactants (b) products (c) enthalpy change of the reaction, ∆H (d) activation energy, Ea"
+              },
+              {
+                "number": "7",
+                "text": "State that bond breaking is an endothermic process and bond making is an exothermic process and explain the enthalpy change of a reaction in terms of bond breaking and bond making"
+              },
+              {
+                "number": "8",
+                "text": "Calculate the enthalpy change of a reaction using bond energies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Chemical reactions",
+        "level": "IGCSE",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "6.1",
+            "title": "Physical and chemical changes",
+            "core": [
+              {
+                "number": "1",
+                "text": "Identify physical and chemical changes, and describe the differences between them"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "6.2",
+            "title": "Rate of reaction",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the effect on the rate of reaction of: (a) changing the concentration of solutions (b) changing the pressure of gases (c) changing the surface area of solids (d) changing the temperature (e) adding or removing a catalyst, including enzymes"
+              },
+              {
+                "number": "2",
+                "text": "State that a catalyst increases the rate of a reaction and is unchanged at the end of a reaction"
+              },
+              {
+                "number": "3",
+                "text": "Describe practical methods for investigating the rate of a reaction including change in mass of a reactant or a product and the formation of a gas"
+              },
+              {
+                "number": "4",
+                "text": "Interpret data, including graphs, from rate of reaction experiments"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "5",
+                "text": "Describe collision theory in terms of: (a) number of particles per unit volume (b) frequency of collisions between particles (c) kinetic energy of particles (d) activation energy, Ea"
+              },
+              {
+                "number": "6",
+                "text": "Describe and explain the effect on the rate of reaction of: (a) changing the concentration of solutions (b) changing the pressure of gases (c) changing the surface area of solids (d) changing the temperature (e) adding or removing a catalyst, including enzymes using collision theory"
+              },
+              {
+                "number": "7",
+                "text": "State that a catalyst decreases the activation energy, Ea, of a reaction"
+              },
+              {
+                "number": "8",
+                "text": "Evaluate practical methods for investigating the rate of a reaction including change in mass of a reactant or a product and the formation of a gas"
+              }
+            ]
+          },
+          {
+            "code": "6.3",
+            "title": "Reversible reactions and equilibrium",
+            "core": [
+              {
+                "number": "1",
+                "text": "State that some chemical reactions are reversible as shown by the symbol ⇌"
+              },
+              {
+                "number": "2",
+                "text": "Describe how changing the conditions can change the direction of a reversible reaction for: (a) the effect of heat on hydrated compounds (b) the addition of water to anhydrous compounds limited to copper(II) sulfate and cobalt(II) chloride"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "3",
+                "text": "State that a reversible reaction in a closed system is at equilibrium when: (a) the rate of the forward reaction is equal to the rate of the reverse reaction (b) the concentrations of reactants and products are no longer changing"
+              },
+              {
+                "number": "4",
+                "text": "Predict and explain, for a reversible reaction, how the position of equilibrium is affected by: (a) changing temperature (b) changing pressure (c) changing concentration (d) using a catalyst using information provided"
+              },
+              {
+                "number": "5",
+                "text": "State the symbol equation for the production of ammonia in the Haber process, N2(g) + 3H2(g) ⇌ 2NH3(g)"
+              },
+              {
+                "number": "6",
+                "text": "State the sources of the hydrogen (methane) and nitrogen (air) in the Haber process"
+              },
+              {
+                "number": "7",
+                "text": "State the typical conditions in the Haber process as 450 °C, 20 000 kPa/200 atm and an iron catalyst"
+              },
+              {
+                "number": "8",
+                "text": "State the symbol equation for the conversion of sulfur dioxide to sulfur trioxide in the Contact process, 2SO2(g) + O2(g) ⇌ 2SO3(g)"
+              },
+              {
+                "number": "9",
+                "text": "State the sources of the sulfur dioxide (burning sulfur or roasting sulfide ores) and oxygen (air) in the Contact process"
+              },
+              {
+                "number": "10",
+                "text": "State the typical conditions for the conversion of sulfur dioxide to sulfur trioxide in the Contact process as 450 °C, 200 kPa/2 atm and a vanadium(V) oxide catalyst"
+              },
+              {
+                "number": "11",
+                "text": "Explain, in terms of rate of reaction and position of equilibrium, why the typical conditions stated are used in the Haber process and in the Contact process, including safety considerations and economics"
+              }
+            ]
+          },
+          {
+            "code": "6.4",
+            "title": "Redox",
+            "core": [
+              {
+                "number": "1",
+                "text": "Use a Roman numeral to indicate the oxidation number of an element in a compound"
+              },
+              {
+                "number": "2",
+                "text": "Define redox reactions as involving simultaneous oxidation and reduction"
+              },
+              {
+                "number": "3",
+                "text": "Define oxidation as gain of oxygen and reduction as loss of oxygen"
+              },
+              {
+                "number": "4",
+                "text": "Identify redox reactions as reactions involving gain and loss of oxygen"
+              },
+              {
+                "number": "5",
+                "text": "Identify oxidation and reduction in redox reactions"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "6",
+                "text": "Define oxidation in terms of: (a) loss of electrons (b) an increase in oxidation number"
+              },
+              {
+                "number": "7",
+                "text": "Define reduction in terms of: (a) gain of electrons (b) a decrease in oxidation number"
+              },
+              {
+                "number": "8",
+                "text": "Identify redox reactions as reactions involving gain and loss of electrons"
+              },
+              {
+                "number": "9",
+                "text": "Identify redox reactions by changes in oxidation number using: (a) the oxidation number of elements in their uncombined state is zero (b) the oxidation number of a monatomic ion is the same as the charge on the ion (c) the sum of the oxidation numbers in a compound is zero (d) the sum of the oxidation numbers in an ion is equal to the charge on the ion"
+              },
+              {
+                "number": "10",
+                "text": "Identify redox reactions by the colour changes involved when using acidified aqueous potassium manganate(VII) or aqueous potassium iodide"
+              },
+              {
+                "number": "11",
+                "text": "Define an oxidising agent as a substance that oxidises another substance and is itself reduced"
+              },
+              {
+                "number": "12",
+                "text": "Define a reducing agent as a substance that reduces another substance and is itself oxidised"
+              },
+              {
+                "number": "13",
+                "text": "Identify oxidising agents and reducing agents in redox reactions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Acids, bases and salts",
+        "level": "IGCSE",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "7.1",
+            "title": "The characteristic properties of acids and bases",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the characteristic properties of acids in terms of their reactions with: (a) metals (b) bases (c) carbonates"
+              },
+              {
+                "number": "2",
+                "text": "Describe acids in terms of their effect on: (a) litmus (b) thymolphthalein (c) methyl orange"
+              },
+              {
+                "number": "3",
+                "text": "State that bases are oxides or hydroxides of metals and that alkalis are soluble bases"
+              },
+              {
+                "number": "4",
+                "text": "Describe the characteristic properties of bases in terms of their reactions with: (a) acids (b) ammonium salts"
+              },
+              {
+                "number": "5",
+                "text": "Describe alkalis in terms of their effect on: (a) litmus (b) thymolphthalein (c) methyl orange"
+              },
+              {
+                "number": "6",
+                "text": "State that aqueous solutions of acids contain H+ ions and aqueous solutions of alkalis contain OH– ions"
+              },
+              {
+                "number": "7",
+                "text": "Describe how to compare hydrogen ion concentration, neutrality, relative acidity and relative alkalinity in terms of colour and pH using universal indicator paper"
+              },
+              {
+                "number": "8",
+                "text": "Describe the neutralisation reaction between an acid and an alkali to produce water, H+ (aq) + OH– (aq) → H2O (l )"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "9",
+                "text": "Define acids as proton donors and bases as proton acceptors"
+              },
+              {
+                "number": "10",
+                "text": "Define a strong acid as an acid that is completely dissociated in aqueous solution and a weak acid as an acid that is partially dissociated in aqueous solution"
+              },
+              {
+                "number": "11",
+                "text": "State that hydrochloric acid is a strong acid, as shown by the symbol equation, HCl (aq) → H+(aq) + Cl –(aq)"
+              },
+              {
+                "number": "12",
+                "text": "State that ethanoic acid is a weak acid, as shown by the symbol equation, CH3COOH(aq) ⇌ H+(aq) + CH3COO–(aq)"
+              }
+            ]
+          },
+          {
+            "code": "7.2",
+            "title": "Oxides",
+            "core": [
+              {
+                "number": "1",
+                "text": "Classify oxides as acidic, including SO2 and CO2, or basic, including CuO and CaO, related to metallic and non-metallic character"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "2",
+                "text": "Describe amphoteric oxides as oxides that react with acids and with bases to produce a salt and water"
+              },
+              {
+                "number": "3",
+                "text": "Classify Al 2O3 and ZnO as amphoteric oxides"
+              }
+            ]
+          },
+          {
+            "code": "7.3",
+            "title": "Preparation of salts",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the preparation, separation and purification of soluble salts by reaction of an acid with: (a) an alkali by titration (b) excess metal (c) excess insoluble base (d) excess insoluble carbonate"
+              },
+              {
+                "number": "2",
+                "text": "Describe the general solubility rules for salts: (a) sodium, potassium and ammonium salts are soluble (b) nitrates are soluble (c) chlorides are soluble, except lead and silver (d) sulfates are soluble, except barium, calcium and lead (e) carbonates are insoluble, except sodium, potassium and ammonium (f) hydroxides are insoluble, except sodium, potassium, ammonium and calcium (partially)"
+              },
+              {
+                "number": "3",
+                "text": "Define a hydrated substance as a substance that is chemically combined with water and an anhydrous substance as a substance containing no water"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "4",
+                "text": "Describe the preparation of insoluble salts by precipitation"
+              },
+              {
+                "number": "5",
+                "text": "Define the term water of crystallisation as the water molecules present in hydrated crystals, including CuSO4•5H2O and CoCl 2•6H2O"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "title": "The Periodic Table",
+        "level": "IGCSE",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "8.1",
+            "title": "Arrangement of elements",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the Periodic Table as an arrangement of elements in periods and groups and in order of increasing proton number/atomic number"
+              },
+              {
+                "number": "2",
+                "text": "Describe the change from metallic to non‑metallic character across a period"
+              },
+              {
+                "number": "3",
+                "text": "Describe the relationship between group number and the charge of the ions formed from elements in that group"
+              },
+              {
+                "number": "4",
+                "text": "Explain similarities in the chemical properties of elements in the same group of the Periodic Table in terms of their electronic configuration"
+              },
+              {
+                "number": "5",
+                "text": "Explain how the position of an element in the Periodic Table can be used to predict its properties"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "6",
+                "text": "Identify trends in groups, given information about the elements"
+              }
+            ]
+          },
+          {
+            "code": "8.2",
+            "title": "Group I properties",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the Group I alkali metals, lithium, sodium and potassium, as relatively soft metals with general trends down the group, limited to: (a) decreasing melting point (b) increasing density (c) increasing reactivity"
+              },
+              {
+                "number": "2",
+                "text": "Predict the properties of other elements in Group I, given information about the elements"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "8.3",
+            "title": "Group VII properties",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the Group VII halogens, chlorine, bromine and iodine, as diatomic non-metals with general trends down the group, limited to: (a) increasing density (b) decreasing reactivity"
+              },
+              {
+                "number": "2",
+                "text": "State the appearance of the halogens at r.t.p. as: (a) chlorine, a pale yellow-green gas (b) bromine, a red-brown liquid (c) iodine, a grey-black solid"
+              },
+              {
+                "number": "3",
+                "text": "Describe and explain the displacement reactions of halogens with other halide ions"
+              },
+              {
+                "number": "4",
+                "text": "Predict the properties of other elements in Group VII, given information about the elements"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "8.4",
+            "title": "Transition elements",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the transition elements as metals that: (a) have high densities (b) have high melting points (c) form coloured compounds (d) often act as catalysts as elements and in compounds"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "2",
+                "text": "Describe transition elements as having ions with variable oxidation numbers, including iron(II) and iron(III)"
+              }
+            ]
+          },
+          {
+            "code": "8.5",
+            "title": "Noble gases",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the Group VIII noble gases as unreactive, monatomic gases and explain this in terms of electronic configuration"
+              }
+            ],
+            "supplement": []
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "title": "Metals",
+        "level": "IGCSE",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "9.1",
+            "title": "Properties of metals",
+            "core": [
+              {
+                "number": "1",
+                "text": "Compare the general physical properties of metals and non-metals, including: (a) thermal conductivity (b) electrical conductivity (c) malleability and ductility (d) melting points and boiling points"
+              },
+              {
+                "number": "2",
+                "text": "Describe the general chemical properties of metals, limited to their reactions with: (a) dilute acids (b) cold water and steam (c) oxygen"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "9.2",
+            "title": "Uses of metals",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the uses of metals in terms of their physical properties, including: (a) aluminium in the manufacture of aircraft because of its low density (b) aluminium in the manufacture of overhead electrical cables because of its low density and good electrical conductivity (c) aluminium in food containers because of its resistance to corrosion (d) copper in electrical wiring because of its good electrical conductivity and ductility"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "9.3",
+            "title": "Alloys and their properties",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe an alloy as a mixture of a metal with other elements, including: (a) brass as a mixture of copper and zinc (b) stainless steel as a mixture of iron and other elements such as chromium, nickel and carbon"
+              },
+              {
+                "number": "2",
+                "text": "State that alloys can be harder and stronger than the pure metals and are more useful"
+              },
+              {
+                "number": "3",
+                "text": "Describe the uses of alloys in terms of their physical properties, including stainless steel in cutlery because of its hardness and resistance to rusting"
+              },
+              {
+                "number": "4",
+                "text": "Identify representations of alloys from diagrams of structure"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "5",
+                "text": "Explain in terms of structure how alloys can be harder and stronger than the pure metals because the different sized atoms in alloys mean the layers can no longer slide over each other"
+              }
+            ]
+          },
+          {
+            "code": "9.4",
+            "title": "Reactivity series",
+            "core": [
+              {
+                "number": "1",
+                "text": "State the order of the reactivity series as: potassium, sodium, calcium, magnesium, aluminium, carbon, zinc, iron, hydrogen, copper, silver, gold"
+              },
+              {
+                "number": "2",
+                "text": "Describe the reactions, if any, of: (a) potassium, sodium and calcium with cold water (b) magnesium with steam (c) magnesium, zinc, iron, copper, silver and gold with dilute hydrochloric acid and explain these reactions in terms of the position of the metals in the reactivity series"
+              },
+              {
+                "number": "3",
+                "text": "Deduce an order of reactivity from a given set of experimental results"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "4",
+                "text": "Describe the relative reactivities of metals in terms of their tendency to form positive ions, by displacement reactions, if any, with the aqueous ions of magnesium, zinc, iron, copper and silver"
+              },
+              {
+                "number": "5",
+                "text": "Explain the apparent unreactivity of aluminium in terms of its oxide layer"
+              }
+            ]
+          },
+          {
+            "code": "9.5",
+            "title": "Corrosion of metals",
+            "core": [
+              {
+                "number": "1",
+                "text": "State the conditions required for the rusting of iron and steel to form hydrated iron(III) oxide"
+              },
+              {
+                "number": "2",
+                "text": "State some common barrier methods, including painting, greasing and coating with plastic"
+              },
+              {
+                "number": "3",
+                "text": "Describe how barrier methods prevent rusting by excluding oxygen or water"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "4",
+                "text": "Describe the use of zinc in galvanising as an example of a barrier method and sacrificial protection"
+              },
+              {
+                "number": "5",
+                "text": "Explain sacrificial protection in terms of the reactivity series and in terms of electron loss"
+              }
+            ]
+          },
+          {
+            "code": "9.6",
+            "title": "Extraction of metals",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the ease in obtaining metals from their ores, related to the position of the metal in the reactivity series"
+              },
+              {
+                "number": "2",
+                "text": "Describe the extraction of iron from hematite in the blast furnace, limited to: (a) the burning of carbon (coke) to provide heat and produce carbon dioxide (b) the reduction of carbon dioxide to carbon monoxide (c) the reduction of iron(III) oxide by carbon monoxide (d) the thermal decomposition of calcium carbonate/limestone to produce calcium oxide (e) the formation of slag Symbol equations are not required"
+              },
+              {
+                "number": "3",
+                "text": "State that the main ore of aluminium is bauxite and that aluminium is extracted by electrolysis"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "4",
+                "text": "State the symbol equations for the extraction of iron from hematite (a) C + O2 → CO2 (b) C + CO2 → 2CO (c) Fe2O3 + 3CO → 2Fe + 3CO2 (d) CaCO3 → CaO + CO2 (e) CaO + SiO2 → CaSiO3"
+              },
+              {
+                "number": "5",
+                "text": "Describe the extraction of aluminium from purified bauxite/aluminium oxide, including: (a) the role of cryolite (b) why the carbon anodes need to be regularly replaced (c) the reactions at the electrodes, including ionic half-equations Details of the purification of bauxite are not required"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "title": "Chemistry of the environment",
+        "level": "IGCSE",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "10.1",
+            "title": "Water",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe chemical tests for the presence of water using anhydrous cobalt(II) chloride and anhydrous copper(II) sulfate"
+              },
+              {
+                "number": "2",
+                "text": "Describe how to test for the purity of water using melting point and boiling point"
+              },
+              {
+                "number": "3",
+                "text": "Explain that distilled water is used in practical chemistry rather than tap water because it contains fewer chemical impurities"
+              },
+              {
+                "number": "4",
+                "text": "State that water from natural sources may contain substances, including: (a) dissolved oxygen (b) metal compounds (c) plastics (d) sewage (e) harmful microbes (f) nitrates from fertilisers (g) phosphates from fertilisers and detergents"
+              },
+              {
+                "number": "5",
+                "text": "State that some of these substances are beneficial, including: (a) dissolved oxygen for aquatic life (b) some metal compounds provide essential minerals for life"
+              },
+              {
+                "number": "6",
+                "text": "State that some of these substances are potentially harmful, including: (a) some metal compounds are toxic (b) some plastics harm aquatic life (c) sewage contains harmful microbes which cause disease (d) nitrates and phosphates lead to deoxygenation of water and damage to aquatic life Details of the eutrophication process are not required"
+              },
+              {
+                "number": "7",
+                "text": "Describe the treatment of the domestic water supply in terms of: (a) sedimentation and filtration to remove solids (b) use of carbon to remove tastes and odours (c) chlorination to kill microbes"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "10.2",
+            "title": "Fertilisers",
+            "core": [
+              {
+                "number": "1",
+                "text": "State that ammonium salts and nitrates are used as fertilisers"
+              },
+              {
+                "number": "2",
+                "text": "Describe the use of NPK fertilisers to provide the elements nitrogen, phosphorus and potassium for improved plant growth"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "10.3",
+            "title": "Air quality and climate",
+            "core": [
+              {
+                "number": "1",
+                "text": "State the composition of clean, dry air as approximately 78% nitrogen, N2, 21% oxygen, O2 and the remainder as a mixture of noble gases and carbon dioxide, CO2"
+              },
+              {
+                "number": "2",
+                "text": "State the source of each of these air pollutants, limited to: (a) carbon dioxide from the complete combustion of carbon-containing fuels (b) carbon monoxide and particulates from the incomplete combustion of carbon- containing fuels (c) methane from the decomposition of vegetation and waste gases from digestion in animals (d) oxides of nitrogen from car engines (e) sulfur dioxide from the combustion of fossil fuels which contain sulfur compounds"
+              },
+              {
+                "number": "3",
+                "text": "State the adverse effect of these air pollutants, limited to: (a) carbon dioxide: higher levels of carbon dioxide leading to increased global warming, which leads to climate change (b) carbon monoxide: toxic gas (c) particulates: increased risk of respiratory problems and cancer (d) methane: higher levels of methane leading to increased global warming, which leads to climate change (e) oxides of nitrogen: acid rain, photochemical smog and respiratory problems (f) sulfur dioxide: acid rain"
+              },
+              {
+                "number": "4",
+                "text": "State and explain strategies to reduce the effects of these environmental issues, limited to: (a) climate change: planting trees, reduction in livestock farming, decreasing use of fossil fuels, increasing use of hydrogen and renewable energy, e.g. wind, solar (b) acid rain: use of catalytic converters in vehicles, reducing emissions of sulfur dioxide by using low-sulfur fuels and flue gas desulfurisation with calcium oxide"
+              },
+              {
+                "number": "5",
+                "text": "Describe photosynthesis as the reaction between carbon dioxide and water to produce glucose and oxygen in the presence of chlorophyll and using energy from light"
+              },
+              {
+                "number": "6",
+                "text": "State the word equation for photosynthesis, carbon dioxide + water → glucose + oxygen"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "7",
+                "text": "Describe how the greenhouse gases carbon dioxide and methane cause global warming, limited to: (a) the absorption, reflection and emission of thermal energy (b) reducing thermal energy loss to space"
+              },
+              {
+                "number": "8",
+                "text": "Explain how oxides of nitrogen form in car engines and describe their removal by catalytic converters, e.g. 2CO + 2NO → 2CO2 + N2"
+              },
+              {
+                "number": "9",
+                "text": "State the symbol equation for photosynthesis, 6CO2 + 6H2O → C6H12O6 + 6O2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "title": "Organic chemistry",
+        "level": "IGCSE",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "11.1",
+            "title": "Formulae, functional groups and terminology",
+            "core": [
+              {
+                "number": "1",
+                "text": "Draw and interpret the displayed formula of a molecule to show all the atoms and all the bonds"
+              },
+              {
+                "number": "2",
+                "text": "Write and interpret general formulae of compounds in the same homologous series, limited to: (a) alkanes, CnH2n+2 (b) alkenes, CnH2n (c) alcohols, CnH2n+1OH (d) carboxylic acids, CnH2n+1COOH"
+              },
+              {
+                "number": "3",
+                "text": "Identify a functional group as an atom or group of atoms that determine the chemical properties of a homologous series"
+              },
+              {
+                "number": "4",
+                "text": "State that a homologous series is a family of similar compounds with similar chemical properties due to the presence of the same functional group"
+              },
+              {
+                "number": "5",
+                "text": "State that a saturated compound has molecules in which all carbon–carbon bonds are single bonds"
+              },
+              {
+                "number": "6",
+                "text": "State that an unsaturated compound has molecules in which one or more carbon– carbon bonds are not single bonds"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "7",
+                "text": "State that a structural formula is an unambiguous description of the way the atoms in a molecule are arranged, including CH2=CH2, CH3CH2OH, CH3COOCH3"
+              },
+              {
+                "number": "8",
+                "text": "Define structural isomers as compounds with the same molecular formula, but different structural formulae, including C4H10 as CH3CH2CH2CH3 and CH3CH(CH3)CH3 and C4H8 as CH3CH2CH=CH2 and CH3CH=CHCH3"
+              },
+              {
+                "number": "9",
+                "text": "Describe the general characteristics of a homologous series as: (a) having the same functional group (b) having the same general formula (c) differing from one member to the next by a –CH2– unit (d) displaying a trend in physical properties (e) sharing similar chemical properties"
+              }
+            ]
+          },
+          {
+            "code": "11.2",
+            "title": "Naming organic compounds",
+            "core": [
+              {
+                "number": "1",
+                "text": "Name and draw the displayed formulae of: (a) methane and ethane (b) ethene (c) ethanol (d) ethanoic acid (e) the products of the reactions stated in sections 11.4–11.7"
+              },
+              {
+                "number": "2",
+                "text": "State the type of compound present, given a chemical name ending in -ane, -ene, -ol, or -oic acid or from a molecular formula or displayed formula"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "3",
+                "text": "Name and draw the structural and displayed formulae of unbranched: (a) alkanes (b) alkenes, including but-1-ene and but-2-ene (c) alcohols, including propan‑1‑ol, propan‑2‑ol, butan‑1‑ol and butan‑2‑ol (d) carboxylic acids containing up to four carbon atoms per molecule"
+              },
+              {
+                "number": "4",
+                "text": "Name and draw the displayed formulae of the unbranched esters which can be made from unbranched alcohols and carboxylic acids, each containing up to four carbon atoms"
+              }
+            ]
+          },
+          {
+            "code": "11.3",
+            "title": "Fuels",
+            "core": [
+              {
+                "number": "1",
+                "text": "Name the fossil fuels: coal, natural gas and petroleum"
+              },
+              {
+                "number": "2",
+                "text": "Name methane as the main constituent of natural gas"
+              },
+              {
+                "number": "3",
+                "text": "State that hydrocarbons are compounds that contain hydrogen and carbon only"
+              },
+              {
+                "number": "4",
+                "text": "State that petroleum is a mixture of hydrocarbons"
+              },
+              {
+                "number": "5",
+                "text": "Describe the separation of petroleum into useful fractions by fractional distillation"
+              },
+              {
+                "number": "6",
+                "text": "Describe how the properties of fractions obtained from petroleum change from the bottom to the top of the fractionating column, limited to: (a) decreasing chain length (b) higher volatility (c) lower boiling points (d) lower viscosity"
+              },
+              {
+                "number": "7",
+                "text": "Name the uses of the fractions as: (a) refinery gas fraction for gas used in heating and cooking (b) gasoline/petrol fraction for fuel used in cars (c) naphtha fraction as a chemical feedstock (d) kerosene/paraffin fraction for jet fuel (e) diesel oil/gas oil fraction for fuel used in diesel engines (f) fuel oil fraction for fuel used in ships and home heating systems (g) lubricating oil fraction for lubricants, waxes and polishes (h) bitumen fraction for making roads"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "11.4",
+            "title": "Alkanes",
+            "core": [
+              {
+                "number": "1",
+                "text": "State that the bonding in alkanes is single covalent and that alkanes are saturated hydrocarbons"
+              },
+              {
+                "number": "2",
+                "text": "Describe the properties of alkanes as being generally unreactive, except in terms of combustion and substitution by chlorine"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "3",
+                "text": "State that in a substitution reaction one atom or group of atoms is replaced by another atom or group of atoms"
+              },
+              {
+                "number": "4",
+                "text": "Describe the substitution reaction of alkanes with chlorine as a photochemical reaction, with ultraviolet light providing the activation energy, Ea, and draw the structural or displayed formulae of the products, limited to monosubstitution"
+              }
+            ]
+          },
+          {
+            "code": "11.5",
+            "title": "Alkenes",
+            "core": [
+              {
+                "number": "1",
+                "text": "State that the bonding in alkenes includes a double carbon–carbon covalent bond and that alkenes are unsaturated hydrocarbons"
+              },
+              {
+                "number": "2",
+                "text": "Describe the manufacture of alkenes and hydrogen by the cracking of larger alkane molecules using a high temperature and a catalyst"
+              },
+              {
+                "number": "3",
+                "text": "Describe the reasons for the cracking of larger alkane molecules"
+              },
+              {
+                "number": "4",
+                "text": "Describe the test to distinguish between saturated and unsaturated hydrocarbons by their reaction with aqueous bromine"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "5",
+                "text": "State that in an addition reaction only one product is formed"
+              },
+              {
+                "number": "6",
+                "text": "Describe the properties of alkenes in terms of addition reactions with: (a) bromine or aqueous bromine (b) hydrogen in the presence of a nickel catalyst (c) steam in the presence of an acid catalyst and draw the structural or displayed formulae of the products"
+              }
+            ]
+          },
+          {
+            "code": "11.6",
+            "title": "Alcohols",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the manufacture of ethanol by: (a) fermentation of aqueous glucose at 25–"
+              },
+              {
+                "number": "35",
+                "text": "°C in the presence of yeast and in the absence of oxygen (b) catalytic addition of steam to ethene at 300 °C and 6000 kPa/60 atm in the presence of an acid catalyst"
+              },
+              {
+                "number": "2",
+                "text": "Describe the combustion of ethanol"
+              },
+              {
+                "number": "3",
+                "text": "State the uses of ethanol as: (a) a solvent (b) a fuel"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "4",
+                "text": "Describe the advantages and disadvantages of the manufacture of ethanol by: (a) fermentation (b) catalytic addition of steam to ethene"
+              }
+            ]
+          },
+          {
+            "code": "11.7",
+            "title": "Carboxylic acids",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe the reaction of ethanoic acid with: (a) metals (b) bases (c) carbonates including names and formulae of the salts produced"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "2",
+                "text": "Describe the formation of ethanoic acid by the oxidation of ethanol: (a) with acidified aqueous potassium manganate(VII) (b) by bacterial oxidation during vinegar production"
+              },
+              {
+                "number": "3",
+                "text": "Describe the reaction of a carboxylic acid with an alcohol using an acid catalyst to form an ester"
+              }
+            ]
+          },
+          {
+            "code": "11.8",
+            "title": "Polymers",
+            "core": [
+              {
+                "number": "1",
+                "text": "Define polymers as large molecules built up from many smaller molecules called monomers"
+              },
+              {
+                "number": "2",
+                "text": "Describe the formation of poly(ethene) as an example of addition polymerisation using ethene monomers"
+              },
+              {
+                "number": "3",
+                "text": "State that plastics are made from polymers"
+              },
+              {
+                "number": "4",
+                "text": "Describe how the properties of plastics have implications for their disposal"
+              },
+              {
+                "number": "5",
+                "text": "Describe the environmental challenges caused by plastics, limited to: (a) disposal in landfill sites (b) accumulation in oceans (c) formation of toxic gases from burning"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "6",
+                "text": "Identify the repeat units and/or linkages in addition polymers and in condensation polymers"
+              },
+              {
+                "number": "7",
+                "text": "Deduce the structure or repeat unit of an addition polymer from a given alkene and vice versa"
+              },
+              {
+                "number": "8",
+                "text": "Deduce the structure or repeat unit of a condensation polymer from given monomers and vice versa, limited to: (a) polyamides from a dicarboxylic acid and a diamine (b) polyesters from a dicarboxylic acid and a diol"
+              },
+              {
+                "number": "9",
+                "text": "Describe the differences between addition and condensation polymerisation"
+              },
+              {
+                "number": "10",
+                "text": "Describe and draw the structure of: (a) nylon, a polyamide C O C O C C O O N H N H N H N H (b) PET, a polyester C O C O C C O O O O O O The full name for PET, polyethylene terephthalate, is not required"
+              },
+              {
+                "number": "11",
+                "text": "State that PET can be converted back into monomers and re-polymerised"
+              },
+              {
+                "number": "12",
+                "text": "Describe proteins as natural polyamides and that they are formed from amino acid monomers with the general structure: H O H O H N H C C R where R represents different types of side- chain"
+              },
+              {
+                "number": "13",
+                "text": "Describe and draw the structure of proteins as: N H C O N H C O N H C O"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "title": "Experimental techniques and chemical analysis",
+        "level": "IGCSE",
+        "category": "Practical & analysis",
+        "subtopics": [
+          {
+            "code": "12.1",
+            "title": "Experimental design",
+            "core": [
+              {
+                "number": "1",
+                "text": "Name appropriate apparatus for the measurement of time, temperature, mass and volume, including: (a) stop-watches (b) thermometers (c) balances (d) burettes (e) volumetric pipettes (f) measuring cylinders (g) gas syringes"
+              },
+              {
+                "number": "2",
+                "text": "Suggest advantages and disadvantages of experimental methods and apparatus"
+              },
+              {
+                "number": "3",
+                "text": "Describe a: (a) solvent as a substance that dissolves a solute (b) solute as a substance that is dissolved in a solvent (c) solution as a mixture of one or more solutes dissolved in a solvent (d) saturated solution as a solution containing the maximum concentration of a solute dissolved in the solvent at a specified temperature (e) residue as a substance that remains after evaporation, distillation, filtration or any similar process (f) filtrate as a liquid or solution that has passed through a filter"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "12.2",
+            "title": "Acid–base titrations",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe an acid–base titration to include the use of a: (a) burette (b) volumetric pipette (c) suitable indicator"
+              },
+              {
+                "number": "2",
+                "text": "Describe how to identify the end-point of a titration using an indicator"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "12.3",
+            "title": "Chromatography",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe how paper chromatography is used to separate mixtures of soluble coloured substances, using a suitable solvent"
+              },
+              {
+                "number": "2",
+                "text": "Interpret simple chromatograms to identify: (a) unknown substances by comparison with known substances (b) pure and impure substances"
+              }
+            ],
+            "supplement": [
+              {
+                "number": "3",
+                "text": "Describe how paper chromatography is used to separate mixtures of soluble colourless substances, using a suitable solvent and a locating agent Knowledge of specific locating agents is not required"
+              },
+              {
+                "number": "4",
+                "text": "State and use the equation for Rf: Rf = distance travelled by substance distance travelled by solvent"
+              }
+            ]
+          },
+          {
+            "code": "12.4",
+            "title": "Separation and purification",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe and explain methods of separation and purification using: (a) a suitable solvent (b) filtration (c) crystallisation (d) simple distillation (e) fractional distillation"
+              },
+              {
+                "number": "2",
+                "text": "Suggest suitable separation and purification techniques, given information about the substances involved"
+              },
+              {
+                "number": "3",
+                "text": "Identify substances and assess their purity using melting point and boiling point information"
+              }
+            ],
+            "supplement": []
+          },
+          {
+            "code": "12.5",
+            "title": "Identification of ions and gases",
+            "core": [
+              {
+                "number": "1",
+                "text": "Describe tests to identify the anions: (a) carbonate, CO3 2–, by reaction with dilute acid and then testing for carbon dioxide gas (b) chloride, Cl –, bromide, Br –, and iodide, I –, by acidifying with dilute nitric acid then adding aqueous silver nitrate (c) nitrate, NO3 –, reduction with aluminium foil and aqueous sodium hydroxide and then testing for ammonia gas (d) sulfate, SO4 2–, by acidifying with dilute nitric acid and then adding aqueous barium nitrate (e) sulfite, SO3 2–, by reaction with acidified aqueous potassium manganate(VII)"
+              },
+              {
+                "number": "2",
+                "text": "Describe tests using aqueous sodium hydroxide and aqueous ammonia to identify the aqueous cations: (a) aluminium, Al 3+ (b) ammonium, NH4 + (c) calcium, Ca2+ (d) chromium(III), Cr3+ (e) copper(II), Cu2+ (f) iron(II), Fe2+ (g) iron(III), Fe3+ (h) zinc, Zn2+"
+              },
+              {
+                "number": "3",
+                "text": "Describe tests to identify the gases: (a) ammonia, NH3, using damp red litmus paper (b) carbon dioxide, CO2, using limewater (c) chlorine, Cl 2, using damp litmus paper (d) hydrogen, H2, using a lighted splint (e) oxygen, O2, using a glowing splint (f) sulfur dioxide, SO2, using acidified aqueous potassium manganate(VII)"
+              },
+              {
+                "number": "4",
+                "text": "Describe the use of a flame test to identify the cations: (a) lithium, Li+ (b) sodium, Na+ (c) potassium, K+ (d) calcium, Ca2+ (e) barium, Ba2+ (f) copper(II), Cu2+"
+              }
+            ],
+            "supplement": []
+          }
+        ]
+      }
+    ]
+  },
+  "as": {
+    "qualification": "Cambridge International AS Level Chemistry",
+    "syllabus": "9701",
+    "years": "2028–2030",
+    "topics": [
+      {
+        "number": 1,
+        "title": "Atomic structure",
+        "level": "AS Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "1.1",
+            "title": "Particles in the atom and atomic radius",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "understand that atoms are mostly empty space surrounding a very small, dense nucleus that contains protons and neutrons; electrons are found in shells in the empty space around the nucleus"
+              },
+              {
+                "number": "2",
+                "text": "identify and describe protons, neutrons and electrons in terms of their relative charges and relative masses"
+              },
+              {
+                "number": "3",
+                "text": "understand the terms atomic and proton number, mass and nucleon number"
+              },
+              {
+                "number": "4",
+                "text": "describe the distribution of mass and charge within an atom"
+              },
+              {
+                "number": "5",
+                "text": "describe the behaviour of beams of protons, neutrons and electrons moving at the same velocity in an electric field"
+              },
+              {
+                "number": "6",
+                "text": "determine the numbers of protons, neutrons and electrons present in both atoms and ions given atomic or proton number, mass or nucleon number and charge"
+              },
+              {
+                "number": "7",
+                "text": "state and explain qualitatively the variations in atomic radius and ionic radius across a period and down a group"
+              }
+            ]
+          },
+          {
+            "code": "1.2",
+            "title": "Isotopes",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define the term isotope in terms of numbers of protons and neutrons"
+              },
+              {
+                "number": "2",
+                "text": "understand the notation x y A for isotopes, where x is the mass or nucleon number and y is the atomic or proton number"
+              },
+              {
+                "number": "3",
+                "text": "state that and explain why isotopes of the same element have the same chemical properties"
+              },
+              {
+                "number": "4",
+                "text": "state that and explain why isotopes of the same element have different physical properties, limited to mass and density"
+              }
+            ]
+          },
+          {
+            "code": "1.3",
+            "title": "Electrons, energy levels and atomic orbitals",
+            "note": "In 1.3 each atom or ion described will be in the ground state. Only the elements hydrogen to krypton will be assessed.",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "understand the terms: • shells, sub-shells and orbitals • principal quantum number (n) • ground state, limited to electronic configuration"
+              },
+              {
+                "number": "2",
+                "text": "describe the number of orbitals making up s, p and d sub-shells, and the number of electrons that can fill s, p and d sub-shells"
+              },
+              {
+                "number": "3",
+                "text": "describe the order of increasing energy of the sub-shells within the first three shells and the 4s and 4p sub-shells"
+              },
+              {
+                "number": "4",
+                "text": "describe the electronic configurations to include the number of electrons in each shell, sub-shell and orbital"
+              },
+              {
+                "number": "5",
+                "text": "explain the electronic configurations in terms of energy of the electrons and inter-electron repulsion"
+              },
+              {
+                "number": "6",
+                "text": "determine the electronic configuration of atoms and ions given the atomic or proton number and charge, using either of the following conventions: e.g. for Fe: 1s22s22p63s23p63d64s2 (full electronic configuration) or [Ar] 3d64s2 (shorthand electronic configuration)"
+              },
+              {
+                "number": "7",
+                "text": "understand and use the electrons in boxes notation e.g. for Fe: [Ar]"
+              },
+              {
+                "number": "8",
+                "text": "describe and sketch the shapes of s and p orbitals"
+              },
+              {
+                "number": "9",
+                "text": "describe a free radical as a species with one or more unpaired electrons"
+              }
+            ]
+          },
+          {
+            "code": "1.4",
+            "title": "Ionisation energy",
+            "note": "In 1.4 each atom or ion described will be in the ground state. Only the elements hydrogen to krypton will be assessed.",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define and use the term first ionisation energy, IE"
+              },
+              {
+                "number": "2",
+                "text": "construct equations to represent first, second and subsequent ionisation energies"
+              },
+              {
+                "number": "3",
+                "text": "identify and explain the trends in ionisation energies across a period and down a group of the Periodic Table"
+              },
+              {
+                "number": "4",
+                "text": "identify and explain the variation in successive ionisation energies of an element"
+              },
+              {
+                "number": "5",
+                "text": "understand that ionisation energies are due to the attraction between the nucleus and the outer electron"
+              },
+              {
+                "number": "6",
+                "text": "explain the factors influencing the ionisation energies of elements in terms of nuclear charge, atomic/ionic radius, shielding by inner shells and sub-shells and spin-pair repulsion"
+              },
+              {
+                "number": "7",
+                "text": "deduce the electronic configurations of elements using successive ionisation energy data"
+              },
+              {
+                "number": "8",
+                "text": "deduce the position of an element in the Periodic Table using successive ionisation energy data"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Atoms, molecules and stoichiometry",
+        "level": "AS Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "2.1",
+            "title": "Relative masses of atoms and molecules",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define the unified atomic mass unit as one twelfth of the mass of a carbon-12 atom"
+              },
+              {
+                "number": "2",
+                "text": "define relative atomic mass, Ar, relative isotopic mass, relative molecular mass and relative formula mass, both referred to as Mr, in terms of the unified atomic mass unit"
+              }
+            ]
+          },
+          {
+            "code": "2.2",
+            "title": "The mole and the Avogadro constant",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define and use the term mole in terms of the Avogadro constant"
+              }
+            ]
+          },
+          {
+            "code": "2.3",
+            "title": "Formulas",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "write formulas of ionic compounds from ionic charges and oxidation numbers (shown by a Roman numeral), including: (a) the prediction of ionic charge from the position of an element in the Periodic Table (b) recall of the names and formulas for the following ions: NO3 –, CO3 2–, SO4 2–, OH–, NH4 +, Zn2+, Ag+, HCO3 –, PO4 3–"
+              },
+              {
+                "number": "2",
+                "text": "(a) write and construct equations (which should be balanced), including ionic equations (which should not include spectator ions) (b) use appropriate state symbols in equations"
+              },
+              {
+                "number": "3",
+                "text": "define and use the terms empirical and molecular formula"
+              },
+              {
+                "number": "4",
+                "text": "understand and use the terms anhydrous, hydrated and water of crystallisation"
+              },
+              {
+                "number": "5",
+                "text": "calculate empirical and molecular formulas, using given data"
+              }
+            ]
+          },
+          {
+            "code": "2.4",
+            "title": "Reacting masses and volumes (of solutions and gases)",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "perform calculations including use of the mole concept, involving: (a) reacting masses (from formulas and equations) including percentage yield calculations (b) volumes of gases (e.g. in the burning of hydrocarbons) (c) volumes and concentrations of solutions (d) limiting reagent and excess reagent (When performing calculations, candidates’ answers should reflect the number of significant figures given or asked for in the question. When rounding up or down, candidates should ensure that significant figures are neither lost unnecessarily nor used beyond what is justified (see also Mathematical requirements section).) (e) deduce stoichiometric relationships from calculations such as those in 2.4.1(a)–(d)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Chemical bonding",
+        "level": "AS Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "3.1",
+            "title": "Electronegativity and bonding",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define electronegativity as the power of an atom to attract electrons to itself"
+              },
+              {
+                "number": "2",
+                "text": "explain the factors influencing the electronegativities of the elements in terms of nuclear charge, atomic radius and shielding by inner shells and sub-shells"
+              },
+              {
+                "number": "3",
+                "text": "state and explain the trends in electronegativity across a period and down a group of the Periodic Table"
+              },
+              {
+                "number": "4",
+                "text": "use the differences in Pauling electronegativity values to predict the formation of ionic and covalent bonds (the presence of covalent character in some ionic compounds will not be assessed) (Pauling electronegativity values will be given where necessary)"
+              }
+            ]
+          },
+          {
+            "code": "3.2",
+            "title": "Ionic bonding",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define ionic bonding as the electrostatic attraction between oppositely charged ions (positively charged cations and negatively charged anions)"
+              },
+              {
+                "number": "2",
+                "text": "describe ionic bonding, including the examples of sodium chloride, magnesium oxide and calcium fluoride"
+              }
+            ]
+          },
+          {
+            "code": "3.3",
+            "title": "Metallic bonding",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define metallic bonding as the electrostatic attraction between positive metal ions and delocalised electrons"
+              }
+            ]
+          },
+          {
+            "code": "3.4",
+            "title": "Covalent bonding and coordinate (dative covalent) bonding",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define covalent bonding as the electrostatic attraction between the nuclei of two atoms and a shared pair of electrons (a) describe covalent bonding in molecules including: • hydrogen, H2 • oxygen, O2 • nitrogen, N2 • chlorine, Cl 2 • hydrogen chloride, HCl • carbon dioxide, CO2 • ammonia, NH3 • methane, CH4 • ethane, C2H6 • ethene, C2H4 (b) understand that elements in period 3 can expand their octet including in the compounds sulfur dioxide, SO2, phosphorus pentachloride, PCl 5 , and sulfur hexafluoride, SF6 (c) describe coordinate (dative covalent) bonding, including in the reaction between ammonia and hydrogen chloride gases to form the ammonium ion, NH4 + , and in the Al 2Cl 6 molecule"
+              },
+              {
+                "number": "2",
+                "text": "(a) describe covalent bonds in terms of orbital overlap giving σ and π bonds: • σ bonds are formed by direct overlap of orbitals between the bonding atoms • π bonds are formed by the sideways overlap of adjacent p orbitals above and below the σ bond (b) describe how the σ and π bonds form in molecules including H₂, C₂H₆, C₂H₄, HCN and N₂ (c) use the concept of hybridisation to describe sp, sp² and sp³ orbitals"
+              },
+              {
+                "number": "3",
+                "text": "(a) define the terms: • bond energy as the energy required to break one mole of a particular covalent bond in the gaseous state • bond length as the internuclear distance of two covalently bonded atoms (b) use bond energy values and the concept of bond length to compare the reactivity of covalent molecules"
+              }
+            ]
+          },
+          {
+            "code": "3.5",
+            "title": "Shapes of molecules",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "state and explain the shapes of, and bond angles in, molecules by using VSEPR theory, including as simple examples: • BF3 (trigonal planar, 120°) • CO2 (linear, 180°) • CH4 (tetrahedral, 109.5°) • NH3 (pyramidal, 107°) • H2O (non-linear, 104.5°) • SF6 (octahedral, 90°) • PF5 (trigonal bipyramidal, 120° and 90°)"
+              },
+              {
+                "number": "2",
+                "text": "predict the shapes of, and bond angles in, molecules and ions analogous to those specified in 3.5.1"
+              }
+            ]
+          },
+          {
+            "code": "3.6",
+            "title": "Intermolecular forces, electronegativity and bond properties",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "(a) describe hydrogen bonding, limited to molecules containing N–H and O–H groups, including ammonia and water as simple examples (b) use the concept of hydrogen bonding to explain the anomalous properties of H₂O (ice and water): • its relatively high melting and boiling points • its relatively high surface tension • the density of solid ice compared with liquid water"
+              },
+              {
+                "number": "2",
+                "text": "use the concept of electronegativity to explain bond polarity and dipole moments of molecules"
+              },
+              {
+                "number": "3",
+                "text": "(a) describe van der Waals’ forces as the intermolecular forces between molecular entities other than those due to bond formation, and use the term van der Waals’ forces as a generic term to describe all intermolecular forces (b) describe the types of van der Waals’ forces: • instantaneous dipole–induced dipole (id-id) forces, also called London dispersion forces • permanent dipole–permanent dipole (pd-pd) forces, including hydrogen bonding (c) describe hydrogen bonding and understand that hydrogen bonding is a special case of permanent dipole–permanent dipole forces between molecules where hydrogen is bonded to a highly electronegative atom"
+              },
+              {
+                "number": "4",
+                "text": "state that, in general, ionic, covalent and metallic bonding are stronger than intermolecular forces"
+              }
+            ]
+          },
+          {
+            "code": "3.7",
+            "title": "Dot-and-cross diagrams",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "use dot-and-cross diagrams to illustrate ionic, covalent and coordinate bonding including the representation of any compounds stated in 3.4 and 3.5 (dot-and-cross diagrams may include species with atoms which have an expanded octet or species with an odd number of electrons)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "title": "States of matter",
+        "level": "AS Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "4.1",
+            "title": "The gaseous state: ideal and real gases and pV = nRT",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "explain the origin of pressure in a gas in terms of collisions between gas molecules and the wall of the container"
+              },
+              {
+                "number": "2",
+                "text": "understand that ideal gases have zero particle volume and no intermolecular forces of attraction"
+              },
+              {
+                "number": "3",
+                "text": "state and use the ideal gas equation pV = nRT in calculations, including in the determination of Mr"
+              }
+            ]
+          },
+          {
+            "code": "4.2",
+            "title": "Bonding and structure",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe, in simple terms, the lattice structure of a crystalline solid which is: (a) giant ionic, including sodium chloride and magnesium oxide (b) simple molecular, including iodine, buckminsterfullerene C60 and ice (c) giant molecular, including silicon(IV) oxide, graphite and diamond (d) giant metallic, including copper"
+              },
+              {
+                "number": "2",
+                "text": "describe, interpret and predict the effect of different types of structure and bonding on the physical properties of substances, including melting point, boiling point, electrical conductivity and solubility"
+              },
+              {
+                "number": "3",
+                "text": "deduce the type of structure and bonding present in a substance from given information"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "title": "Chemical energetics",
+        "level": "AS Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "5.1",
+            "title": "Enthalpy change, ΔH",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "understand that chemical reactions are accompanied by enthalpy changes and these changes can be exothermic (ΔH is negative) or endothermic (ΔH is positive)"
+              },
+              {
+                "number": "2",
+                "text": "construct and interpret a reaction pathway diagram, in terms of the enthalpy change of the reaction and of the activation energy"
+              },
+              {
+                "number": "3",
+                "text": "define and use the terms: (a) standard conditions (this syllabus assumes that these are 298 K and 101 kPa) shown by ⦵ (b) enthalpy change with particular reference to: reaction, ΔHr , formation, ΔHf , combustion, ΔHc , neutralisation, ΔHneut"
+              },
+              {
+                "number": "4",
+                "text": "understand that energy transfers occur during chemical reactions because of the breaking and making of chemical bonds"
+              },
+              {
+                "number": "5",
+                "text": "use bond energies (ΔH positive, i.e. bond breaking) to calculate enthalpy change of reaction, ΔHr"
+              },
+              {
+                "number": "6",
+                "text": "understand that some bond energies are exact and some bond energies are averages"
+              },
+              {
+                "number": "7",
+                "text": "calculate enthalpy changes from appropriate experimental results, including the use of the relationships q = mcΔT and ΔH = –mcΔT/n"
+              }
+            ]
+          },
+          {
+            "code": "5.2",
+            "title": "Hess’s law",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "apply Hess’s law to construct simple energy cycles"
+              },
+              {
+                "number": "2",
+                "text": "carry out calculations using cycles and relevant energy terms, including: (a) determining enthalpy changes that cannot be found by direct experiment (b) use of bond energy data"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "title": "Electrochemistry",
+        "level": "AS Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "6.1",
+            "title": "Redox processes: electron transfer and changes in oxidation number (oxidation state)",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "calculate oxidation numbers of elements in compounds and ions"
+              },
+              {
+                "number": "2",
+                "text": "use changes in oxidation numbers to help balance chemical equations"
+              },
+              {
+                "number": "3",
+                "text": "explain and use the terms redox, oxidation, reduction and disproportionation in terms of electron transfer and changes in oxidation number"
+              },
+              {
+                "number": "4",
+                "text": "explain and use the terms oxidising agent and reducing agent"
+              },
+              {
+                "number": "5",
+                "text": "use a Roman numeral to indicate the magnitude of the oxidation number of an element"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "title": "Equilibria",
+        "level": "AS Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "7.1",
+            "title": "Chemical equilibria: reversible reactions, dynamic equilibrium",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "(a) understand what is meant by a reversible reaction (b) understand what is meant by dynamic equilibrium in terms of the rate of forward and reverse reactions being equal and the concentration of reactants and products remaining constant (c) understand the need for a closed system in order to establish dynamic equilibrium"
+              },
+              {
+                "number": "2",
+                "text": "define Le Chatelier’s principle as: if a change is made to a system at dynamic equilibrium, the position of equilibrium moves to minimise this change"
+              },
+              {
+                "number": "3",
+                "text": "use Le Chatelier’s principle to deduce qualitatively (from appropriate information) the effects of changes in temperature, concentration, pressure or presence of a catalyst on a system at equilibrium"
+              },
+              {
+                "number": "4",
+                "text": "deduce expressions for equilibrium constants in terms of concentrations, Kc"
+              },
+              {
+                "number": "5",
+                "text": "use the terms mole fraction and partial pressure"
+              },
+              {
+                "number": "6",
+                "text": "deduce expressions for equilibrium constants in terms of partial pressures, Kp (use of the relationship between Kp and Kc is not required)"
+              },
+              {
+                "number": "7",
+                "text": "use the Kc and Kp expressions to carry out calculations (such calculations will not require the solving of quadratic equations)"
+              },
+              {
+                "number": "8",
+                "text": "calculate the quantities present at equilibrium, given appropriate data"
+              },
+              {
+                "number": "9",
+                "text": "state whether changes in temperature, concentration or pressure or the presence of a catalyst affect the value of the equilibrium constant for a reaction"
+              },
+              {
+                "number": "10",
+                "text": "describe and explain the conditions used in the Haber process and the Contact process, as examples of the importance of an understanding of dynamic equilibrium in the chemical industry and the application of Le Chatelier’s principle"
+              }
+            ]
+          },
+          {
+            "code": "7.2",
+            "title": "Brønsted–Lowry theory of acids and bases",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "state the names and formulas of the common acids, limited to hydrochloric acid, HCl, sulfuric acid, H2SO4, nitric acid, HNO3 and ethanoic acid, CH3COOH"
+              },
+              {
+                "number": "2",
+                "text": "state the names and formulas of the common alkalis, limited to sodium hydroxide, NaOH, potassium hydroxide, KOH and ammonia, NH3"
+              },
+              {
+                "number": "3",
+                "text": "describe the Brønsted–Lowry theory of acids and bases"
+              },
+              {
+                "number": "4",
+                "text": "describe strong acids and strong bases as fully dissociated in aqueous solution and weak acids and weak bases as partially dissociated in aqueous solution"
+              },
+              {
+                "number": "5",
+                "text": "appreciate that, under standard conditions, water has pH of 7, acid solutions pH of below 7 and alkaline solutions pH of above 7"
+              },
+              {
+                "number": "6",
+                "text": "explain qualitatively the differences in behaviour between strong and weak acids including the reaction with a reactive metal and difference in pH values by use of a pH meter, universal indicator or conductivity"
+              },
+              {
+                "number": "7",
+                "text": "understand that neutralisation reactions occur when H+(aq) and OH–(aq) form H2O(l)"
+              },
+              {
+                "number": "8",
+                "text": "understand that salts are formed in neutralisation reactions"
+              },
+              {
+                "number": "9",
+                "text": "sketch the pH titration curves of titrations using combinations of strong and weak acids with strong and weak alkalis"
+              },
+              {
+                "number": "10",
+                "text": "select suitable indicators for acid-alkali titrations, given appropriate data (pKa values will not be used)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "title": "Reaction kinetics",
+        "level": "AS Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "8.1",
+            "title": "Rate of reaction",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "explain and use the terms: rate of reaction, frequency of collisions, effective collisions and non-effective collisions"
+              },
+              {
+                "number": "2",
+                "text": "explain qualitatively, in terms of frequency of effective collisions, the effect of concentration and pressure changes on the rate of a reaction"
+              },
+              {
+                "number": "3",
+                "text": "use experimental data to calculate the rate of a reaction"
+              }
+            ]
+          },
+          {
+            "code": "8.2",
+            "title": "Effect of temperature on reaction rates and the concept of activation energy",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define activation energy, EA, as the minimum energy required for a collision to be effective"
+              },
+              {
+                "number": "2",
+                "text": "sketch and use the Boltzmann distribution to explain the significance of activation energy"
+              },
+              {
+                "number": "3",
+                "text": "explain qualitatively, in terms both of the Boltzmann distribution and of frequency of effective collisions, the effect of temperature change on the rate of a reaction"
+              }
+            ]
+          },
+          {
+            "code": "8.3",
+            "title": "Homogeneous and heterogeneous catalysts",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "explain and use the terms catalyst and catalysis: (a) to explain that, in the presence of a catalyst, a reaction has a different mechanism, i.e. one of lower activation energy (b) to explain this catalytic effect in terms of the Boltzmann distribution (c) to construct and interpret a reaction pathway diagram for a reaction in the presence and absence of an effective catalyst"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "title": "The Periodic Table: chemical periodicity",
+        "level": "AS Level",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "9.1",
+            "title": "Periodicity of physical properties of the elements in Period 3",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe qualitatively (and indicate the periodicity in) the variations in atomic radius, ionic radius, melting point and electrical conductivity of the elements"
+              },
+              {
+                "number": "2",
+                "text": "explain the variation in melting point and electrical conductivity in terms of the structure and bonding of the elements"
+              }
+            ]
+          },
+          {
+            "code": "9.2",
+            "title": "Periodicity of chemical properties of the elements in Period 3",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe, and write equations for, the reactions of the elements with oxygen (to give Na2O, MgO, Al 2O3, P4O10, SO2), chlorine (to give NaCl, MgCl 2, Al Cl 3, SiCl 4, PCl 5) and water (Na and Mg only)"
+              },
+              {
+                "number": "2",
+                "text": "state and explain the variation in the oxidation number of the oxides (Na2O, MgO, Al 2O3, P4O10, SO2 and SO3 only) and chlorides (NaCl, MgCl 2, Al Cl 3, SiCl4, PCl 5 only) in terms of their outer shell (valence) electrons"
+              },
+              {
+                "number": "3",
+                "text": "describe, and write equations for, the reactions, if any, of the oxides Na2O, MgO, Al 2O3, SiO2, P4O10, SO2 and SO3 with water, including the likely pHs of the solutions obtained"
+              },
+              {
+                "number": "4",
+                "text": "describe, explain, and write equations for, the acid/base behaviour of the oxides Na2O, MgO, Al 2O3, P4O10, SO2 and SO3 and the hydroxides NaOH, Mg(OH)2 and Al (OH)3 including, where relevant, amphoteric behaviour in reactions with acids and bases (sodium hydroxide only)"
+              },
+              {
+                "number": "5",
+                "text": "describe, explain, and write equations for, the reactions of the chlorides NaCl, MgCl 2, Al Cl 3, SiCl 4, PCl 5 with water including the likely pHs of the solutions obtained"
+              },
+              {
+                "number": "6",
+                "text": "explain the variations and trends in 9.2.2, 9.2.3, 9.2.4 and 9.2.5 in terms of bonding and electronegativity"
+              },
+              {
+                "number": "7",
+                "text": "suggest the types of chemical bonding present in the chlorides and oxides from observations of their chemical and physical properties"
+              }
+            ]
+          },
+          {
+            "code": "9.3",
+            "title": "Chemical periodicity of other elements",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "predict the characteristic properties of an element in a given group by using knowledge of chemical periodicity"
+              },
+              {
+                "number": "2",
+                "text": "deduce the nature, possible position in the Periodic Table and identity of unknown elements from given information about physical and chemical properties"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "title": "Group 2",
+        "level": "AS Level",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "10.1",
+            "title": "Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe, and write equations for, the reactions of the elements with oxygen, water and dilute hydrochloric and sulfuric acids"
+              },
+              {
+                "number": "2",
+                "text": "describe, and write equations for, the reactions of the oxides, hydroxides and carbonates with water and dilute hydrochloric and sulfuric acids"
+              },
+              {
+                "number": "3",
+                "text": "describe, and write equations for, the thermal decomposition of the nitrates and carbonates, to include the trend in thermal stabilities"
+              },
+              {
+                "number": "4",
+                "text": "describe, and make predictions from, the trends in physical and chemical properties of the elements involved in the reactions in 10.1.1 and the compounds involved in 10.1.2, 10.1.3 and 10.1.5"
+              },
+              {
+                "number": "5",
+                "text": "state the variation in the solubilities of the hydroxides and sulfates"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "title": "Group 17",
+        "level": "AS Level",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "11.1",
+            "title": "Physical properties of the Group 17 elements",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe the colours and the trend in volatility of chlorine, bromine and iodine"
+              },
+              {
+                "number": "2",
+                "text": "describe and explain the trend in the bond strength of the halogen molecules"
+              },
+              {
+                "number": "3",
+                "text": "interpret the volatility of the elements in terms of instantaneous dipole–induced dipole forces"
+              }
+            ]
+          },
+          {
+            "code": "11.2",
+            "title": "The chemical properties of the halogen elements and the hydrogen halides",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe the relative reactivity of the elements as oxidising agents"
+              },
+              {
+                "number": "2",
+                "text": "describe the reactions of the elements with hydrogen and explain their relative reactivity in these reactions"
+              },
+              {
+                "number": "3",
+                "text": "describe the relative thermal stabilities of the hydrogen halides and explain these in terms of bond strengths"
+              }
+            ]
+          },
+          {
+            "code": "11.3",
+            "title": "Some reactions of the halide ions",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe the relative reactivity of halide ions as reducing agents"
+              },
+              {
+                "number": "2",
+                "text": "describe and explain the reactions of halide ions with: (a) aqueous silver ions followed by aqueous ammonia (the formation and formula of the [Ag(NH3)2]+ complex is not required) (b) concentrated sulfuric acid, to include balanced chemical equations"
+              }
+            ]
+          },
+          {
+            "code": "11.4",
+            "title": "The reactions of chlorine",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe and interpret, in terms of changes in oxidation number, the reaction of chlorine with cold and with hot aqueous sodium hydroxide and recognise these as disproportionation reactions"
+              },
+              {
+                "number": "2",
+                "text": "explain, including by use of an equation, the use of chlorine in water purification to include the production of the active species HOCl and Cl O – which kill bacteria"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "title": "Nitrogen and sulfur",
+        "level": "AS Level",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "12.1",
+            "title": "Nitrogen and sulfur",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "explain the lack of reactivity of nitrogen, with reference to triple bond strength and lack of polarity"
+              },
+              {
+                "number": "2",
+                "text": "describe and explain: (a) the basicity of ammonia, using the Brønsted–Lowry theory (b) the structure of the ammonium ion and its formation by an acid–base reaction (c) the displacement of ammonia from ammonium salts by an acid–base reaction"
+              },
+              {
+                "number": "3",
+                "text": "state and explain the natural and man-made occurrences of oxides of nitrogen and their catalytic removal from the exhaust gases of internal combustion engines"
+              },
+              {
+                "number": "4",
+                "text": "understand that atmospheric oxides of nitrogen (NO and NO2) can react with unburned hydrocarbons to form peroxyacetyl nitrate, PAN, which is a component of photochemical smog"
+              },
+              {
+                "number": "5",
+                "text": "describe the role of NO and NO2 in the formation of acid rain both directly and in their catalytic role in the oxidation of atmospheric sulfur dioxide"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "title": "An introduction to AS Level organic chemistry",
+        "level": "AS Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "13.1",
+            "title": "Formulas, functional groups and the naming of organic compounds",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define the term hydrocarbon as a compound made up of C and H atoms only"
+              },
+              {
+                "number": "2",
+                "text": "understand that alkanes are simple hydrocarbons with no functional group"
+              },
+              {
+                "number": "3",
+                "text": "understand that the compounds in the table on pages 29 and 30 contain a functional group which dictates their physical and chemical properties"
+              },
+              {
+                "number": "4",
+                "text": "interpret and use the general, structural, displayed and skeletal formulas of the classes of compound stated in the table on pages 29 and 30"
+              },
+              {
+                "number": "5",
+                "text": "understand and use systematic nomenclature of simple aliphatic organic molecules with functional groups detailed in the table on pages 29 and 30, up to six carbon atoms (six plus six for esters, straight chains only for esters and nitriles)"
+              },
+              {
+                "number": "6",
+                "text": "deduce the molecular and/or empirical formula of a compound, given its structural, displayed or skeletal formula"
+              }
+            ]
+          },
+          {
+            "code": "13.2",
+            "title": "Characteristic organic reactions",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "interpret and use the following terminology associated with types of organic compounds and reactions: (a) homologous series (b) saturated and unsaturated (c) homolytic and heterolytic fission (d) free radical, initiation, propagation, termination (e) nucleophile, electrophile, nucleophilic, electrophilic (f) addition, substitution, elimination, hydrolysis, condensation (g) oxidation and reduction (in equations for organic redox reactions, the symbol [O] can be used to represent one atom of oxygen from an oxidising agent and the symbol [H] to represent one atom of hydrogen from a reducing agent)"
+              },
+              {
+                "number": "2",
+                "text": "understand and use the following terminology associated with types of organic mechanisms: (a) free-radical substitution (b) electrophilic addition (c) nucleophilic substitution (d) nucleophilic addition (in organic reaction mechanisms, the use of curly arrows to represent movement of electron pairs is expected; the arrow should begin at a bond or a lone pair of electrons)"
+              }
+            ]
+          },
+          {
+            "code": "13.3",
+            "title": "Shapes of organic molecules; σ and π bonds",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe organic molecules as either straight-chained, branched or cyclic"
+              },
+              {
+                "number": "2",
+                "text": "describe and explain the shape of, and bond angles in, molecules containing sp, sp2 and sp3 hybridised atoms"
+              },
+              {
+                "number": "3",
+                "text": "describe the arrangement of σ and π bonds in molecules containing sp, sp2 and sp3 hybridised atoms"
+              },
+              {
+                "number": "4",
+                "text": "understand and use the term planar when describing the arrangement of atoms in organic molecules, for example ethene"
+              }
+            ]
+          },
+          {
+            "code": "13.4",
+            "title": "Isomerism: structural isomerism and stereoisomerism",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe structural isomerism and its division into chain, positional and functional group isomerism"
+              },
+              {
+                "number": "2",
+                "text": "describe stereoisomerism and its division into geometrical (cis/trans) and optical isomerism (use of E/Z nomenclature is acceptable but is not required)"
+              },
+              {
+                "number": "3",
+                "text": "describe geometrical (cis/trans) isomerism in alkenes, and explain its origin in terms of restricted rotation due to the presence of π bonds"
+              },
+              {
+                "number": "4",
+                "text": "explain what is meant by a chiral centre and that such a centre gives rise to two optical isomers (enantiomers) (Candidates should appreciate that compounds can contain more than one chiral centre, but knowledge of meso compounds, or nomenclature such as diastereoisomers is not required.)"
+              },
+              {
+                "number": "5",
+                "text": "identify chiral centres and geometrical (cis/trans) isomerism in a molecule of given structural formula, including cyclic compounds"
+              },
+              {
+                "number": "6",
+                "text": "deduce the possible isomers for an organic molecule of known molecular formula"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "title": "Hydrocarbons",
+        "level": "AS Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "14.1",
+            "title": "Alkanes",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions (reagents and conditions) by which alkanes can be produced: (a) addition of hydrogen to an alkene in a hydrogenation reaction, H2(g) and Pt/Ni catalyst and heat (b) cracking of a longer chain alkane, heat with Al 2O3"
+              },
+              {
+                "number": "2",
+                "text": "describe: (a) the complete and incomplete combustion of alkanes (b) the free-radical substitution of alkanes by Cl 2 or Br2 in the presence of ultraviolet light, as exemplified by the reactions of ethane"
+              },
+              {
+                "number": "3",
+                "text": "describe the mechanism of free-radical substitution with reference to the initiation, propagation and termination steps"
+              },
+              {
+                "number": "4",
+                "text": "suggest how cracking can be used to obtain more useful alkanes and alkenes of lower Mr from heavier crude oil fractions"
+              },
+              {
+                "number": "5",
+                "text": "understand the general unreactivity of alkanes, including towards polar reagents in terms of the strength of the C–H bonds and their relative lack of polarity"
+              },
+              {
+                "number": "6",
+                "text": "recognise the environmental consequences of carbon monoxide, oxides of nitrogen and unburnt hydrocarbons arising from the combustion of alkanes in the internal combustion engine and of their catalytic removal"
+              }
+            ]
+          },
+          {
+            "code": "14.2",
+            "title": "Alkenes",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions (including reagents and conditions) by which alkenes can be produced: (a) elimination of HX from a halogenoalkane by ethanolic NaOH and heat (b) dehydration of an alcohol, by using a heated catalyst (e.g. Al 2O3) or a concentrated acid (e.g. concentrated H2SO4) (c) cracking of a longer chain alkane"
+              },
+              {
+                "number": "2",
+                "text": "describe the following reactions of alkenes: (a) the electrophilic addition of (i) hydrogen in a hydrogenation reaction, H2(g) and Pt/Ni catalyst and heat (ii) steam, H2O(g) and H3PO4 catalyst (iii) a hydrogen halide, HX(g), at room temperature (iv) a halogen, X2 (b) the oxidation by cold dilute acidified KMnO4 to form the diol (c) the oxidation by hot concentrated acidified KMnO4 leading to the cleavage of the carbon–carbon double bond and the identities of the subsequent products to determine the position of alkene linkages in larger molecules (d) addition polymerisation exemplified by the reactions of ethene and propene"
+              },
+              {
+                "number": "3",
+                "text": "describe the use of aqueous bromine to show the presence of a C=C bond"
+              },
+              {
+                "number": "4",
+                "text": "describe the mechanism of electrophilic addition in alkenes, using bromine/ethene and hydrogen bromide/propene as examples"
+              },
+              {
+                "number": "5",
+                "text": "describe and explain the inductive effects of alkyl groups on the stability of primary, secondary and tertiary cations formed during electrophilic addition (this should be used to explain Markovnikov addition)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "title": "Halogen compounds",
+        "level": "AS Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "15.1",
+            "title": "Halogenoalkanes",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions (reagents and conditions) by which halogenoalkanes can be produced: (a) the free-radical substitution of alkanes by Cl 2 or Br2 in the presence of ultraviolet light, as exemplified by the reactions of ethane (b) electrophilic addition of an alkene with a halogen, X2, or hydrogen halide, HX(g), at room temperature (c) substitution of an alcohol, e.g. by reaction with HX(g); or with KCl and concentrated H2SO4 or concentrated H3PO4; or with PCl 3 and heat; or with PCl 5; or with SOCl 2"
+              },
+              {
+                "number": "2",
+                "text": "classify halogenoalkanes into primary, secondary and tertiary"
+              },
+              {
+                "number": "3",
+                "text": "describe the following nucleophilic substitution reactions: (a) the reaction with NaOH(aq) and heat to produce an alcohol (b) the reaction with KCN in ethanol and heat to produce a nitrile (c) the reaction with NH3 in ethanol heated under pressure to produce an amine (d) the reaction with aqueous silver nitrate in ethanol as a method of identifying the halogen present as exemplified by bromoethane"
+              },
+              {
+                "number": "4",
+                "text": "describe the elimination reaction with NaOH in ethanol and heat to produce an alkene as exemplified by bromoethane"
+              },
+              {
+                "number": "5",
+                "text": "describe the SN1 and SN2 mechanisms of nucleophilic substitution in halogenoalkanes including the inductive effects of alkyl groups"
+              },
+              {
+                "number": "6",
+                "text": "recall that primary halogenoalkanes tend to react via the SN2 mechanism; tertiary halogenoalkanes via the SN1 mechanism; and secondary halogenoalkanes by a mixture of the two, depending on structure"
+              },
+              {
+                "number": "7",
+                "text": "describe and explain the different reactivities of halogenoalkanes (with particular reference to the relative strengths of the C–X bonds as exemplified by the reactions of halogenoalkanes with aqueous silver nitrates)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "title": "Hydroxy compounds",
+        "level": "AS Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "16.1",
+            "title": "Alcohols",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions (reagents and conditions) by which alcohols can be produced: (a) electrophilic addition of steam to an alkene, using H2O(g) and H3PO4 catalyst (b) reaction of alkenes with cold dilute acidified potassium manganate(VII) to form a diol (c) substitution of a halogenoalkane using NaOH(aq) and heat (d) reduction of an aldehyde or ketone using NaBH4 or LiAl H4 (e) reduction of a carboxylic acid using LiAl H4 (f) hydrolysis of an ester using dilute acid or dilute alkali and heat"
+              },
+              {
+                "number": "2",
+                "text": "describe: (a) the reaction with oxygen (combustion) (b) substitution to form halogenoalkanes, e.g. by reaction with HX(g); or with KCl and concentrated H2SO4 or concentrated H3PO4; or with PCl 3 and heat; or with PCl 5; or with SOCl 2 (c) the reaction with Na(s) (d) oxidation with acidified K2Cr2O7 or acidified KMnO4 to: (i) carbonyl compounds by distillation (ii) carboxylic acids by refluxing (primary alcohols give aldehydes which can be further oxidised to carboxylic acids, secondary alcohols give ketones, tertiary alcohols cannot be oxidised) (e) dehydration to an alkene, by using a heated catalyst, e.g. Al 2O3 or a concentrated acid (f) formation of esters by reaction with carboxylic acids and concentrated H2SO4 as catalyst as exemplified by ethanol"
+              },
+              {
+                "number": "3",
+                "text": "(a) classify alcohols as primary, secondary and tertiary alcohols, to include examples with more than one alcohol group (b) state characteristic distinguishing reactions, e.g. mild oxidation with acidified K2Cr2O7, colour change from orange to green"
+              },
+              {
+                "number": "4",
+                "text": "deduce the presence of a CH3CH(OH)– group in an alcohol, CH3CH(OH)–R, from its reaction with alkaline I2(aq) to form a yellow precipitate of tri-iodomethane and an ion, RCO2 –"
+              },
+              {
+                "number": "5",
+                "text": "explain the acidity of alcohols compared with water"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "title": "Carbonyl compounds",
+        "level": "AS Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "17.1",
+            "title": "Aldehydes and ketones",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions (reagents and conditions) by which aldehydes and ketones can be produced: (a) the oxidation of primary alcohols using acidified K2Cr2O7 or acidified KMnO4 and distillation to produce aldehydes (b) the oxidation of secondary alcohols using acidified K2Cr2O7 or acidified KMnO4 and distillation to produce ketones"
+              },
+              {
+                "number": "2",
+                "text": "describe: (a) the reduction of aldehydes and ketones using NaBH4 or LiAl H4 to produce alcohols (b) the reaction of aldehydes and ketones with HCN, KCN as catalyst, and heat to produce hydroxynitriles as exemplified by ethanal and propanone"
+              },
+              {
+                "number": "3",
+                "text": "describe the mechanism of the nucleophilic addition reactions of hydrogen cyanide with aldehydes and ketones in 17.1.2(b)"
+              },
+              {
+                "number": "4",
+                "text": "describe the use of 2,4-dinitrophenylhydrazine (2,4-DNPH reagent) to detect the presence of carbonyl compounds"
+              },
+              {
+                "number": "5",
+                "text": "deduce the nature (aldehyde or ketone) of an unknown carbonyl compound from the results of simple tests (Fehling’s and Tollens’ reagents; ease of oxidation)"
+              },
+              {
+                "number": "6",
+                "text": "deduce the presence of a CH3CO – group in an aldehyde or ketone, CH3CO–R, from its reaction with alkaline I2(aq) to form a yellow precipitate of tri-iodomethane and an ion, RCO2 –"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "title": "Carboxylic acids and derivatives",
+        "level": "AS Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "18.1",
+            "title": "Carboxylic acids",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions by which carboxylic acids can be produced: (a) oxidation of primary alcohols and aldehydes with acidified K2Cr2O7 or acidified KMnO4 and refluxing (b) hydrolysis of nitriles with dilute acid or dilute alkali followed by acidification (c) hydrolysis of esters with dilute acid or dilute alkali and heat followed by acidification"
+              },
+              {
+                "number": "2",
+                "text": "describe: (a) the redox reaction with reactive metals to produce a salt and H2(g) (b) the neutralisation reaction with alkalis to produce a salt and H2O(l ) (c) the acid–base reaction with carbonates to produce a salt and H2O(l) and CO2(g) (d) esterification with alcohols with concentrated H2SO4 as catalyst (e) reduction by LiAl H4 to form a primary alcohol"
+              }
+            ]
+          },
+          {
+            "code": "18.2",
+            "title": "Esters",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reaction (reagents and conditions) by which esters can be produced: (a) the condensation reaction between an alcohol and a carboxylic acid with concentrated H₂SO₄ as catalyst"
+              },
+              {
+                "number": "2",
+                "text": "describe the hydrolysis of esters by dilute acid and by dilute alkali and heat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 19,
+        "title": "Nitrogen compounds",
+        "level": "AS Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "19.1",
+            "title": "Primary amines",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions by which amines can be produced: (a) reaction of a halogenoalkane with NH₃ in ethanol heated under pressure (Classification of amines will not be tested at AS Level)."
+              }
+            ]
+          },
+          {
+            "code": "19.2",
+            "title": "Nitriles and hydroxynitriles",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions by which nitriles can be produced: (a) reaction of a halogenoalkane with KCN in ethanol and heat"
+              },
+              {
+                "number": "2",
+                "text": "recall the reactions by which hydroxynitriles can be produced: (a) the reaction of aldehydes and ketones with HCN, KCN as catalyst, and heat"
+              },
+              {
+                "number": "3",
+                "text": "describe the hydrolysis of nitriles with dilute acid or dilute alkali followed by acidification to produce a carboxylic acid"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 20,
+        "title": "Polymerisation",
+        "level": "AS Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "20.1",
+            "title": "Addition polymerisation",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe addition polymerisation as exemplified by poly(ethene) and poly(chloroethene), PVC"
+              },
+              {
+                "number": "2",
+                "text": "deduce the repeat unit of an addition polymer obtained from a given monomer"
+              },
+              {
+                "number": "3",
+                "text": "identify the monomer(s) present in a given section of an addition polymer molecule"
+              },
+              {
+                "number": "4",
+                "text": "recognise the difficulty of the disposal of poly(alkene)s, i.e. non-biodegradability and harmful combustion products"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 21,
+        "title": "Organic synthesis",
+        "level": "AS Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "21.1",
+            "title": "Organic synthesis",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "for an organic molecule containing several functional groups: (a) identify organic functional groups using the reactions in the syllabus (b) predict properties and reactions"
+              },
+              {
+                "number": "2",
+                "text": "devise multi-step synthetic routes for preparing organic molecules using the reactions in the syllabus"
+              },
+              {
+                "number": "3",
+                "text": "analyse a given synthetic route in terms of type of reaction and reagents used for each step of it, and possible by-products"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 22,
+        "title": "Analytical techniques",
+        "level": "AS Level",
+        "category": "Analysis",
+        "subtopics": [
+          {
+            "code": "22.1",
+            "title": "Infrared spectroscopy",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "analyse an infrared spectrum of a simple molecule to identify functional groups (see the Data section for the functional groups required)"
+              }
+            ]
+          },
+          {
+            "code": "22.2",
+            "title": "Mass spectrometry",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "analyse mass spectra in terms of m/e values and isotopic abundances (knowledge of the working of the mass spectrometer is not required)"
+              },
+              {
+                "number": "2",
+                "text": "calculate the relative atomic mass of an element given the relative abundances of its isotopes, or its mass spectrum"
+              },
+              {
+                "number": "3",
+                "text": "deduce the molecular mass of an organic molecule from the molecular ion peak in a mass spectrum"
+              },
+              {
+                "number": "4",
+                "text": "suggest the identity of molecules formed by simple fragmentation in a given mass spectrum"
+              },
+              {
+                "number": "5",
+                "text": "deduce the number of carbon atoms, n, in a compound using the [M + 1]+ peak and the formula n = 100 × abundance of [M + 1]+ ion 1.1 × abundance of M+ ion"
+              },
+              {
+                "number": "6",
+                "text": "deduce the presence of bromine and chlorine atoms in a compound using the [M + 2]+ peak"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "a2": {
+    "qualification": "Cambridge International A Level Chemistry",
+    "syllabus": "9701",
+    "years": "2028–2030",
+    "topics": [
+      {
+        "number": 23,
+        "title": "Chemical energetics",
+        "level": "A2 Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "23.1",
+            "title": "Lattice energy and Born-Haber cycles",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define and use the terms: (a) enthalpy change of atomisation, ΔHat (b) lattice energy, ΔHlatt (the change from gas phase ions to solid lattice)"
+              },
+              {
+                "number": "2",
+                "text": "(a) define and use the term first electron affinity, EA (b) explain the factors affecting the electron affinities of elements (c) describe and explain the trends in the electron affinities of the Group 16 and Group 17 elements"
+              },
+              {
+                "number": "3",
+                "text": "construct and use Born–Haber cycles for ionic solids (limited to +1 and +2 cations, –1 and –2 anions)"
+              },
+              {
+                "number": "4",
+                "text": "carry out calculations involving Born–Haber cycles"
+              },
+              {
+                "number": "5",
+                "text": "explain, in qualitative terms, the effect of ionic charge and of ionic radius on the numerical magnitude of a lattice energy"
+              }
+            ]
+          },
+          {
+            "code": "23.2",
+            "title": "Enthalpies of solution and hydration",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define and use the term enthalpy change with reference to hydration, ΔHhyd, and solution, ΔHsol"
+              },
+              {
+                "number": "2",
+                "text": "construct and use an energy cycle involving enthalpy change of solution, lattice energy and enthalpy change of hydration"
+              },
+              {
+                "number": "3",
+                "text": "carry out calculations involving the energy cycles in 23.2.2"
+              },
+              {
+                "number": "4",
+                "text": "explain, in qualitative terms, the effect of ionic charge and of ionic radius on the numerical magnitude of an enthalpy change of hydration"
+              }
+            ]
+          },
+          {
+            "code": "23.3",
+            "title": "Entropy change, ΔS",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define the term entropy, S, as the number of possible arrangements of the particles and their energy in a given system"
+              },
+              {
+                "number": "2",
+                "text": "predict and explain the sign of the entropy changes that occur: (a) during a change in state, e.g. melting, boiling and dissolving (and their reverse) (b) during a temperature change (c) during a reaction in which there is a change in the number of gaseous molecules"
+              },
+              {
+                "number": "3",
+                "text": "calculate the entropy change for a reaction, ΔS, given the standard entropies, S ⦵, of the reactants and products, ΔS ⦵ = ΣS ⦵(products) – ΣS ⦵(reactants) (use of ΔS ⦵ = ΔSsurr + ΔSsys is not required)"
+              }
+            ]
+          },
+          {
+            "code": "23.4",
+            "title": "Gibbs free energy change, ΔG",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "state and use the Gibbs equation ΔG ⦵ = ΔH ⦵ – TΔS ⦵"
+              },
+              {
+                "number": "2",
+                "text": "perform calculations using the equation ΔG ⦵ = ΔH ⦵ – TΔS ⦵"
+              },
+              {
+                "number": "3",
+                "text": "state whether a reaction or process will be feasible by using the sign of ΔG"
+              },
+              {
+                "number": "4",
+                "text": "predict the effect of temperature change on the feasibility of a reaction, given standard enthalpy and entropy changes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 24,
+        "title": "Electrochemistry",
+        "level": "A2 Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "24.1",
+            "title": "Electrolysis",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "predict the identities of substances liberated during electrolysis from the state of electrolyte (molten or aqueous), position in the redox series (electrode potential) and concentration"
+              },
+              {
+                "number": "2",
+                "text": "state and apply the relationship F = Le between the Faraday constant, F, the Avogadro constant, L, and the charge on the electron, e"
+              },
+              {
+                "number": "3",
+                "text": "calculate: (a) the quantity of charge passed during electrolysis, using Q = It (b) the mass and/or volume of substance liberated during electrolysis"
+              },
+              {
+                "number": "4",
+                "text": "describe the determination of a value of the Avogadro constant by an electrolytic method ⦵ ⦵"
+              }
+            ]
+          },
+          {
+            "code": "24.2",
+            "title": "Standard electrode potentials E⦵, standard cell potentials E⦵cell and the Nernst equation",
+            "note": "⦵ cell and the Nernst equation",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define the terms: (a) standard electrode (reduction) potential (b) standard cell potential"
+              },
+              {
+                "number": "2",
+                "text": "describe the standard hydrogen electrode"
+              },
+              {
+                "number": "3",
+                "text": "describe methods used to measure the standard electrode potentials of: (a) metals or non-metals in contact with their ions in aqueous solution (b) ions of the same element in different oxidation states"
+              },
+              {
+                "number": "4",
+                "text": "calculate a standard cell potential by combining two standard electrode potentials"
+              },
+              {
+                "number": "5",
+                "text": "use standard cell potentials to: (a) deduce the polarity of each electrode and hence explain/deduce the direction of electron flow in the external circuit of a simple cell (b) predict the feasibility of a reaction"
+              },
+              {
+                "number": "6",
+                "text": "deduce from E ⦵ values the relative reactivity of elements, compounds and ions as oxidising agents or as reducing agents"
+              },
+              {
+                "number": "7",
+                "text": "construct redox equations using the relevant half-equations"
+              },
+              {
+                "number": "8",
+                "text": "predict qualitatively how the value of an electrode potential, E, varies with the concentrations of the aqueous ions"
+              },
+              {
+                "number": "9",
+                "text": "use the Nernst equation, e.g. E = E ⦵ + (0.059/z) log [oxidised species] [reduced species] , to predict quantitatively how the value of an electrode potential varies with the concentrations of the aqueous ions; examples include Cu2+(aq) + 2e–⇌ Cu(s), Fe3+(aq) + e– ⇌ Fe2+(aq)"
+              },
+              {
+                "number": "10",
+                "text": "understand and use the equation ΔG ⦵ = –nE ⦵ cell F"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 25,
+        "title": "Equilibria",
+        "level": "A2 Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "25.1",
+            "title": "Acids and bases",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "understand and use the terms conjugate acid and conjugate base"
+              },
+              {
+                "number": "2",
+                "text": "define conjugate acid–base pairs, identifying such pairs in reactions"
+              },
+              {
+                "number": "3",
+                "text": "define mathematically the terms pH, Ka, pKa and Kw and use them in calculations (Kb and the equation Kw = Ka × Kb will not be tested)"
+              },
+              {
+                "number": "4",
+                "text": "calculate [H+(aq)] and pH values for: (a) strong acids (b) strong alkalis (c) weak acids"
+              },
+              {
+                "number": "5",
+                "text": "(a) define a buffer solution (b) explain how a buffer solution can be made (c) explain how buffer solutions control pH; use chemical equations in these explanations (d) describe and explain the uses of buffer solutions, including the role of HCO3 – in controlling pH in blood"
+              },
+              {
+                "number": "6",
+                "text": "calculate relevant concentrations and the pH of buffer solutions, given appropriate data"
+              },
+              {
+                "number": "7",
+                "text": "understand and use the term solubility product, Ksp"
+              },
+              {
+                "number": "8",
+                "text": "write an expression for Ksp"
+              },
+              {
+                "number": "9",
+                "text": "calculate Ksp from concentrations and vice versa"
+              },
+              {
+                "number": "10",
+                "text": "(a) understand and use the common ion effect to explain the different solubility of a compound in a solution containing a common ion (b) perform calculations using Ksp values and concentration of a common ion"
+              }
+            ]
+          },
+          {
+            "code": "25.2",
+            "title": "Partition coefficients",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "state what is meant by the term partition coefficient, Kpc"
+              },
+              {
+                "number": "2",
+                "text": "calculate and use a partition coefficient for a system in which the solute is in the same physical state in the two solvents"
+              },
+              {
+                "number": "3",
+                "text": "understand the factors affecting the numerical value of a partition coefficient in terms of the polarities of the solute and the solvents used"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 26,
+        "title": "Reaction kinetics",
+        "level": "A2 Level",
+        "category": "Physical chemistry",
+        "subtopics": [
+          {
+            "code": "26.1",
+            "title": "Simple rate equations, orders of reaction and rate constants",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "explain and use the terms rate equation, order of reaction, overall order of reaction, rate constant, half-life, rate-determining step and intermediate"
+              },
+              {
+                "number": "2",
+                "text": "(a) understand and use rate equations of the form rate = k [A]m[B]n (for which m and n are 0, 1 or 2) (b) deduce the order of a reaction from concentration–time graphs or from experimental data relating to the initial rates method and half-life method (c) interpret experimental data in graphical form, including concentration–time and rate–concentration graphs (d) calculate an initial rate using concentration data (e) construct a rate equation"
+              },
+              {
+                "number": "3",
+                "text": "(a) show understanding that the half-life of a first-order reaction is independent of concentration (b) use the half-life of a first-order reaction in calculations"
+              },
+              {
+                "number": "4",
+                "text": "calculate the numerical value of a rate constant, for example by: (a) using the initial rates and the rate equation (b) using the half-life, t"
+              },
+              {
+                "number": "1",
+                "text": ", and the equation k = 0.693/t"
+              },
+              {
+                "number": "5",
+                "text": "for a multi-step reaction: (a) suggest a reaction mechanism that is consistent with the rate equation and the equation for the overall reaction (b) predict the order that would result from a given reaction mechanism and rate-determining step (c) deduce a rate equation using a given reaction mechanism and rate-determining step for a given reaction (d) identify an intermediate or catalyst from a given reaction mechanism (e) identify the rate determining step from a rate equation and a given reaction mechanism"
+              },
+              {
+                "number": "6",
+                "text": "describe qualitatively the effect of temperature change on the rate constant and hence the rate of a reaction"
+              }
+            ]
+          },
+          {
+            "code": "26.2",
+            "title": "Homogeneous and heterogeneous catalysts",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "explain that catalysts can be homogeneous or heterogeneous"
+              },
+              {
+                "number": "2",
+                "text": "describe the mode of action of a heterogeneous catalyst to include adsorption of reactants, bond weakening and desorption of products, for example: (a) iron in the Haber process (b) palladium, platinum and rhodium in the catalytic removal of oxides of nitrogen from the exhaust gases of car engines"
+              },
+              {
+                "number": "3",
+                "text": "describe the mode of action of a homogeneous catalyst by being used in one step and reformed in a later step, for example: (a) atmospheric oxides of nitrogen in the oxidation of atmospheric sulfur dioxide (b) Fe2+ or Fe3+ in the I–/S2O8 2– reaction"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 27,
+        "title": "Group 2",
+        "level": "A2 Level",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "27.1",
+            "title": "Similarities and trends in the properties of the Group 2 metals, magnesium to barium, and their compounds",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe and explain qualitatively the trend in the thermal stability of the nitrates and carbonates, including the effect of ionic radius on the polarisation of the large anion"
+              },
+              {
+                "number": "2",
+                "text": "describe and explain qualitatively the variation in solubility and of enthalpy change of solution, ΔH ⦵ sol, of the hydroxides and sulfates in terms of relative magnitudes of the enthalpy change of hydration and the lattice energy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 28,
+        "title": "Chemistry of transition elements",
+        "level": "A2 Level",
+        "category": "Inorganic chemistry",
+        "subtopics": [
+          {
+            "code": "28.1",
+            "title": "General physical and chemical properties of the first row of transition elements, titanium",
+            "note": "to copper",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define a transition element as a d-block element which forms one or more stable ions with incomplete d orbitals"
+              },
+              {
+                "number": "2",
+                "text": "sketch the shape of a 3dxy orbital and 3dz² orbital"
+              },
+              {
+                "number": "3",
+                "text": "understand that transition elements have the following properties: (a) they have variable oxidation states (b) they behave as catalysts (c) they form complex ions (d) they form coloured compounds"
+              },
+              {
+                "number": "4",
+                "text": "explain why transition elements have variable oxidation states in terms of the similarity in energy of the 3d and the 4s sub-shells"
+              },
+              {
+                "number": "5",
+                "text": "explain why transition elements behave as catalysts in terms of having more than one stable oxidation state, and vacant d orbitals that are energetically accessible and can form dative bonds with ligands"
+              },
+              {
+                "number": "6",
+                "text": "explain why transition elements form complex ions in terms of vacant d orbitals that are energetically accessible"
+              }
+            ]
+          },
+          {
+            "code": "28.2",
+            "title": "General characteristic chemical properties of the first row of transition elements, titanium",
+            "note": "to copper",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe and explain the reactions of transition elements with ligands to form complexes, including the complexes of copper(II) and cobalt(II) ions with water and ammonia molecules and hydroxide and chloride ions"
+              },
+              {
+                "number": "2",
+                "text": "define the term ligand as a species that contains a lone pair of electrons that forms a dative covalent bond to a central metal atom/ion"
+              },
+              {
+                "number": "3",
+                "text": "understand and use the terms: (a) monodentate ligand including as examples H2O, NH3, Cl – and CN– (b) bidentate ligand including as examples 1,2-diaminoethane, en, H2NCH2CH2NH2, and the ethanedioate ion, C2O4 2– (c) polydentate ligand including as an example EDTA4–"
+              },
+              {
+                "number": "4",
+                "text": "define the term complex as a molecule or ion formed by a central metal atom/ion surrounded by one or more ligands"
+              },
+              {
+                "number": "5",
+                "text": "describe the geometry (shape and bond angles) of transition element complexes which are linear, square planar, tetrahedral or octahedral"
+              },
+              {
+                "number": "6",
+                "text": "(a) state what is meant by coordination number (b) predict the formula and charge of a complex ion, given the metal ion, its charge or oxidation state, the ligand and its coordination number or geometry"
+              },
+              {
+                "number": "7",
+                "text": "explain qualitatively that ligand exchange can occur, including the complexes of copper(II) ions and cobalt(II) ions with water and ammonia molecules and hydroxide and chloride ions"
+              },
+              {
+                "number": "8",
+                "text": "predict, using E ⦵ values, the feasibility of redox reactions involving transition elements and their ions"
+              },
+              {
+                "number": "9",
+                "text": "describe the reactions of, and perform calculations involving: (a) MnO4 –/C2O4 2– in acid solution given suitable data (b) MnO4 –/Fe2+ in acid solution given suitable data (c) Cu2+/I– given suitable data"
+              },
+              {
+                "number": "10",
+                "text": "perform calculations involving other redox systems given suitable data"
+              }
+            ]
+          },
+          {
+            "code": "28.3",
+            "title": "Colour of complexes",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define and use the terms degenerate and non-degenerate d orbitals"
+              },
+              {
+                "number": "2",
+                "text": "describe the splitting of degenerate d orbitals into two non-degenerate sets of d orbitals of higher energy, and use of Δ E in: (a) octahedral complexes, two higher and three lower d orbitals (b) tetrahedral complexes, three higher and two lower d orbitals"
+              },
+              {
+                "number": "3",
+                "text": "explain why transition elements form coloured compounds in terms of the frequency of light absorbed as an electron is promoted between two non-degenerate d orbitals"
+              },
+              {
+                "number": "4",
+                "text": "describe, in qualitative terms, the effects of different ligands on Δ E, frequency of light absorbed, and hence the complementary colour that is observed"
+              },
+              {
+                "number": "5",
+                "text": "use the complexes of copper(II) ions and cobalt(II) ions with water and ammonia molecules and hydroxide and chloride ions as examples of ligand exchange affecting the colour observed"
+              }
+            ]
+          },
+          {
+            "code": "28.4",
+            "title": "Stereoisomerism in transition element complexes",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe the types of stereoisomerism shown by complexes, including those associated with bidentate ligands: (a) geometrical (cis/trans) isomerism, e.g. square planar such as [Pt(NH₃)₂Cl ₂] and octahedral such as [Co(NH3)4(H2O)2]2+ and [Ni(H2NCH2CH2NH2)2(H2O)2]2+ (b) optical isomerism, e.g. [Ni(H2NCH2CH2NH2)3]2+ and [Ni(H2NCH2CH2NH2)2(H2O)2]2+"
+              },
+              {
+                "number": "2",
+                "text": "deduce the overall polarity of complexes such as those described in 28.4.1(a) and 28.4.1(b)"
+              }
+            ]
+          },
+          {
+            "code": "28.5",
+            "title": "Stability constants, Kstab",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "define the stability constant, Kstab, of a complex as the equilibrium constant for the formation of the complex ion in a solvent (from its constituent ions or molecules)"
+              },
+              {
+                "number": "2",
+                "text": "write an expression for a Kstab of a complex ([H₂O] should not be included)"
+              },
+              {
+                "number": "3",
+                "text": "use Kstab expressions to perform calculations"
+              },
+              {
+                "number": "4",
+                "text": "describe and explain ligand exchanges in terms of Kstab values and understand that a large Kstab is due to the formation of a stable complex ion"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 29,
+        "title": "An introduction to A Level organic chemistry",
+        "level": "A2 Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "29.1",
+            "title": "Formulas, functional groups and the naming of organic compounds",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "understand that the compounds in the table on page 47 contain a functional group which dictates their physical and chemical properties"
+              },
+              {
+                "number": "2",
+                "text": "interpret and use the general, structural, displayed and skeletal formulas of the classes of compound stated in the table on page 47"
+              },
+              {
+                "number": "3",
+                "text": "understand and use systematic nomenclature of simple aliphatic organic molecules (including cyclic compounds containing a single ring of up to six carbon atoms) with functional groups detailed in the table on page 47, up to six carbon atoms (six plus six for esters and amides, straight chains only for esters and nitriles)"
+              },
+              {
+                "number": "4",
+                "text": "understand and use systematic nomenclature of simple aromatic molecules with one benzene ring and one or more simple substituents, for example 3-nitrobenzoic acid or 2,4,6-tribromophenol"
+              }
+            ]
+          },
+          {
+            "code": "29.2",
+            "title": "Characteristic organic reactions",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "understand and use the following terminology associated with types of organic mechanisms: (a) electrophilic substitution (b) addition–elimination"
+              }
+            ]
+          },
+          {
+            "code": "29.3",
+            "title": "Shapes of aromatic organic molecules; σ and π bonds",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe and explain the shape of benzene and other aromatic molecules, including sp² hybridisation, in terms of σ bonds and a delocalised π system"
+              }
+            ]
+          },
+          {
+            "code": "29.4",
+            "title": "Optical isomerism",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "understand that enantiomers have identical physical and chemical properties apart from their ability to rotate plane polarised light and their potential biological activity"
+              },
+              {
+                "number": "2",
+                "text": "understand and use the terms optically active and racemic mixture"
+              },
+              {
+                "number": "3",
+                "text": "describe the effect on plane polarised light of the two optical isomers of a single substance"
+              },
+              {
+                "number": "4",
+                "text": "explain the relevance of chirality to the synthetic preparation of drug molecules including: (a) the potential different biological activity of the two enantiomers (b) the need to separate a racemic mixture into two pure enantiomers (c) the use of chiral catalysts to produce a single pure optical isomer (Candidates should appreciate that compounds can contain more than one chiral centre, but knowledge of meso compounds and nomenclature such as diastereoisomers is not required.)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 30,
+        "title": "Hydrocarbons",
+        "level": "A2 Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "30.1",
+            "title": "Arenes",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe the chemistry of arenes as exemplified by the following reactions of benzene and methylbenzene: (a) substitution reactions with Cl ₂ and with Br₂ in the presence of a catalyst, Al Cl ₃ or Al Br₃, to form halogenoarenes (aryl halides) (b) nitration with a mixture of concentrated HNO₃ and concentrated H₂SO₄ at a temperature between"
+              },
+              {
+                "number": "25",
+                "text": "°C and 60 °C (c) Friedel–Crafts alkylation by CH₃Cl and Al Cl ₃ and heat (d) Friedel–Crafts acylation by CH₃COCl and Al Cl ₃ and heat (e) complete oxidation of the side-chain using hot alkaline KMnO₄ and then dilute acid to give a benzoic acid (f) hydrogenation of the benzene ring using H₂ and Pt/Ni catalyst and heat to form a cyclohexane ring"
+              },
+              {
+                "number": "2",
+                "text": "describe the mechanism of electrophilic substitution in arenes: (a) as exemplified by the formation of nitrobenzene and bromobenzene (b) with regards to the effect of delocalisation (aromatic stabilisation) of electrons in arenes to explain the predomination of substitution over addition"
+              },
+              {
+                "number": "3",
+                "text": "predict whether halogenation will occur in the side-chain or in the aromatic ring in arenes depending on reaction conditions"
+              },
+              {
+                "number": "4",
+                "text": "describe that in the electrophilic substitution of arenes, different substituents direct to different ring positions (limited to the directing effects of –NH₂, –OH, –R, –NO₂, –COOH and –COR)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 31,
+        "title": "Halogen compounds",
+        "level": "A2 Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "31.1",
+            "title": "Halogen compounds",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions by which halogenoarenes can be produced: substitution of an arene with Cl₂ or Br₂ in the presence of a catalyst, Al Cl₃ or Al Br₃ to form a halogenoarene, exemplified by benzene to form chlorobenzene and methylbenzene to form 2-chloromethylbenzene and 4-chloromethylbenzene"
+              },
+              {
+                "number": "2",
+                "text": "explain the difference in reactivity between a halogenoalkane and a halogenoarene as exemplified by chloroethane and chlorobenzene"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 32,
+        "title": "Hydroxy compounds",
+        "level": "A2 Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "32.1",
+            "title": "Alcohols",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe the reaction with acyl chlorides to form esters using ethyl ethanoate"
+              }
+            ]
+          },
+          {
+            "code": "32.2",
+            "title": "Phenol",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions (reagents and conditions) by which phenol can be produced: (a) reaction of phenylamine with HNO₂ or NaNO₂ and dilute acid below 10 °C to produce the diazonium salt; further warming of the diazonium salt with H₂O to give phenol"
+              },
+              {
+                "number": "2",
+                "text": "recall the chemistry of phenol, as exemplified by the following reactions: (a) with bases, for example NaOH(aq) to produce sodium phenoxide (b) with Na(s) to produce sodium phenoxide and H2(g) (c) in NaOH(aq) with diazonium salts, to give azo compounds (d) nitration of the aromatic ring with dilute HNO₃(aq) at room temperature to give a mixture of 2-nitrophenol and 4-nitrophenol (e) bromination of the aromatic ring with Br₂(aq) to form 2,4,6-tribromophenol"
+              },
+              {
+                "number": "3",
+                "text": "explain the acidity of phenol"
+              },
+              {
+                "number": "4",
+                "text": "describe and explain the relative acidities of water, phenol and ethanol"
+              },
+              {
+                "number": "5",
+                "text": "explain why the reagents and conditions for the nitration and bromination of phenol are different from those for benzene"
+              },
+              {
+                "number": "6",
+                "text": "recall that the hydroxyl group of a phenol directs to the 2-, 4- and 6-positions"
+              },
+              {
+                "number": "7",
+                "text": "apply knowledge of the reactions of phenol to those of other phenolic compounds, e.g. naphthol"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 33,
+        "title": "Carboxylic acids and derivatives",
+        "level": "A2 Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "33.1",
+            "title": "Carboxylic acids",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reaction by which benzoic acid can be produced: (a) reaction of an alkylbenzene with hot alkaline KMnO₄ and then dilute acid, exemplified by methylbenzene"
+              },
+              {
+                "number": "2",
+                "text": "describe the reaction of carboxylic acids with PCl ₃ and heat, PCl ₅ or SOCl ₂ to form acyl chlorides"
+              },
+              {
+                "number": "3",
+                "text": "recognise that some carboxylic acids can be further oxidised: (a) the oxidation of methanoic acid, HCOOH, with Fehling’s reagent or Tollens’ reagent or acidified KMnO₄ or acidified K₂Cr₂O₇ to form carbon dioxide and water (b) the oxidation of ethanedioic acid, HOOCCOOH, with warm acidified KMnO₄ to form carbon dioxide"
+              },
+              {
+                "number": "4",
+                "text": "describe and explain the relative acidities of carboxylic acids, phenols and alcohols"
+              },
+              {
+                "number": "5",
+                "text": "describe and explain the relative acidities of chlorine-substituted carboxylic acids"
+              }
+            ]
+          },
+          {
+            "code": "33.2",
+            "title": "Esters",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reaction by which esters can be produced: (a) reaction of alcohols with acyl chlorides using the formation of ethyl ethanoate and phenyl benzoate as examples"
+              }
+            ]
+          },
+          {
+            "code": "33.3",
+            "title": "Acyl chlorides",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions (reagents and conditions) by which acyl chlorides can be produced: (a) reaction of carboxylic acids with PCl ₃ and heat, PCl ₅ or SOCl ₂"
+              },
+              {
+                "number": "2",
+                "text": "describe the following reactions of acyl chlorides: (a) hydrolysis on addition of water at room temperature to produce the carboxylic acid and HCl (b) reaction with an alcohol at room temperature to produce an ester and HCl (c) reaction with phenol at room temperature to produce an ester and HCl (d) reaction with ammonia at room temperature to produce an amide and HCl (e) reaction with a primary or secondary amine at room temperature to produce an amide and HCl"
+              },
+              {
+                "number": "3",
+                "text": "describe the addition–elimination mechanism of acyl chlorides in reactions in 33.3.2(a)–(e)"
+              },
+              {
+                "number": "4",
+                "text": "explain the relative ease of hydrolysis of acyl chlorides, alkyl chlorides and halogenoarenes (aryl chlorides)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 34,
+        "title": "Nitrogen compounds",
+        "level": "A2 Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "34.1",
+            "title": "Primary and secondary amines",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions (reagents and conditions) by which primary and secondary amines are produced: (a) reaction of halogenoalkanes with NH₃ in ethanol heated under pressure (b) reaction of halogenoalkanes with primary amines in ethanol, heated in a sealed tube/under pressure (c) the reduction of amides with LiAl H₄ (d) the reduction of nitriles with LiAl H₄ or H₂/Ni"
+              },
+              {
+                "number": "2",
+                "text": "describe the condensation reaction of ammonia or an amine with an acyl chloride at room temperature to give an amide"
+              },
+              {
+                "number": "3",
+                "text": "describe and explain the basicity of aqueous solutions of amines"
+              }
+            ]
+          },
+          {
+            "code": "34.2",
+            "title": "Phenylamine and azo compounds",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe the preparation of phenylamine via the nitration of benzene to form nitrobenzene followed by reduction with hot Sn/concentrated HCl followed by NaOH(aq)"
+              },
+              {
+                "number": "2",
+                "text": "describe: (a) the reaction of phenylamine with Br₂(aq) at room temperature (b) the reaction of phenylamine with HNO₂ or NaNO₂ and dilute acid below 10 °C to produce the diazonium salt; further warming of the diazonium salt with H₂O to give phenol"
+              },
+              {
+                "number": "3",
+                "text": "describe and explain the relative basicities of aqueous ammonia, ethylamine and phenylamine"
+              },
+              {
+                "number": "4",
+                "text": "recall the following about azo compounds: (a) describe the coupling of benzenediazonium chloride with phenol in NaOH(aq) to form an azo compound (b) identify the azo group (c) state that azo compounds are often used as dyes (d) that other azo dyes can be formed via a similar route"
+              }
+            ]
+          },
+          {
+            "code": "34.3",
+            "title": "Amides",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recall the reactions (reagents and conditions) by which amides are produced: (a) the reaction between ammonia and an acyl chloride at room temperature (b) the reaction between a primary amine and an acyl chloride at room temperature"
+              },
+              {
+                "number": "2",
+                "text": "describe the reactions of amides: (a) hydrolysis with aqueous alkali or aqueous acid (b) the reduction of the CO group in amides with LiAl H₄ to form an amine"
+              },
+              {
+                "number": "3",
+                "text": "state and explain why amides are much weaker bases than amines"
+              }
+            ]
+          },
+          {
+            "code": "34.4",
+            "title": "Amino acids",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe the acid/base properties of amino acids and the formation of zwitterions, to include the isoelectric point"
+              },
+              {
+                "number": "2",
+                "text": "describe the formation of amide (peptide) bonds between amino acids to give di- and tripeptides"
+              },
+              {
+                "number": "3",
+                "text": "interpret and predict the results of electrophoresis on mixtures of amino acids and dipeptides at varying pHs (the assembling of the apparatus will not be tested)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 35,
+        "title": "Polymerisation",
+        "level": "A2 Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "35.1",
+            "title": "Condensation polymerisation",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe the formation of polyesters: (a) the reaction between a diol and a dicarboxylic acid or dioyl chloride (b) the reaction of a hydroxycarboxylic acid"
+              },
+              {
+                "number": "2",
+                "text": "describe the formation of polyamides: (a) the reaction between a diamine and a dicarboxylic acid or dioyl chloride (b) the reaction of an aminocarboxylic acid (c) the reaction between amino acids"
+              },
+              {
+                "number": "3",
+                "text": "deduce the repeat unit of a condensation polymer obtained from a given monomer or pair of monomers"
+              },
+              {
+                "number": "4",
+                "text": "identify the monomer(s) present in a given section of a condensation polymer molecule"
+              }
+            ]
+          },
+          {
+            "code": "35.2",
+            "title": "Predicting the type of polymerisation",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "predict the type of polymerisation reaction for a given monomer or pair of monomers"
+              },
+              {
+                "number": "2",
+                "text": "deduce the type of polymerisation reaction which produces a given section of a polymer molecule"
+              }
+            ]
+          },
+          {
+            "code": "35.3",
+            "title": "Degradable polymers",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "recognise that poly(alkenes) are chemically inert and can therefore be difficult to biodegrade"
+              },
+              {
+                "number": "2",
+                "text": "recognise that some polymers can be degraded by the action of light"
+              },
+              {
+                "number": "3",
+                "text": "recognise that polyesters and polyamides are biodegradable by acidic and alkaline hydrolysis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 36,
+        "title": "Organic synthesis",
+        "level": "A2 Level",
+        "category": "Organic chemistry",
+        "subtopics": [
+          {
+            "code": "36.1",
+            "title": "Organic synthesis",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "for an organic molecule containing several functional groups: (a) identify organic functional groups using the reactions in the syllabus (b) predict properties and reactions"
+              },
+              {
+                "number": "2",
+                "text": "devise multi-step synthetic routes for preparing organic molecules using the reactions in the syllabus"
+              },
+              {
+                "number": "3",
+                "text": "analyse a given synthetic route in terms of type of reaction and reagents used for each step of it, and possible by-products"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": 37,
+        "title": "Analytical techniques",
+        "level": "A2 Level",
+        "category": "Analysis",
+        "subtopics": [
+          {
+            "code": "37.1",
+            "title": "Thin-layer chromatography",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe and understand the terms (a) stationary phase, for example aluminium oxide (on a solid support) (b) mobile phase; a polar or non-polar solvent (c) Rf value (d) solvent front and baseline"
+              },
+              {
+                "number": "2",
+                "text": "interpret Rf values"
+              },
+              {
+                "number": "3",
+                "text": "explain the differences in Rf values in terms of interaction with the stationary phase and of relative solubility in the mobile phase"
+              }
+            ]
+          },
+          {
+            "code": "37.2",
+            "title": "Gas / liquid chromatography",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "describe and understand the terms (a) stationary phase; a high boiling point non-polar liquid (on a solid support) (b) mobile phase; an unreactive gas (c) retention time"
+              },
+              {
+                "number": "2",
+                "text": "interpret gas/liquid chromatograms in terms of the percentage composition of a mixture"
+              },
+              {
+                "number": "3",
+                "text": "explain retention times in terms of interaction with the stationary phase"
+              }
+            ]
+          },
+          {
+            "code": "37.3",
+            "title": "Carbon-13 NMR spectroscopy",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "analyse and interpret a carbon-13 NMR spectrum of a simple molecule to deduce: (a) the different environments of the carbon atoms present (b) the possible structures for the molecule"
+              },
+              {
+                "number": "2",
+                "text": "predict or explain the number of peaks in a carbon-13 NMR spectrum for a given molecule"
+              }
+            ]
+          },
+          {
+            "code": "37.4",
+            "title": "Proton (1H) NMR spectroscopy",
+            "note": "",
+            "outcomes": [
+              {
+                "number": "1",
+                "text": "analyse and interpret a proton (1H) NMR spectrum of a simple molecule to deduce: (a) the different environments of proton present using chemical shift values (b) the relative numbers of each type of proton present from relative peak areas (c) the number of equivalent protons on the carbon atom adjacent to the one to which the given proton is attached from the splitting pattern, using the n + 1 rule (limited to singlet, doublet, triplet, quartet and multiplet) (d) the possible structures for the molecule"
+              },
+              {
+                "number": "2",
+                "text": "predict the chemical shifts and splitting patterns of the protons in a given molecule"
+              },
+              {
+                "number": "3",
+                "text": "describe the use of tetramethylsilane, TMS, as the standard for chemical shift measurements"
+              },
+              {
+                "number": "4",
+                "text": "state the need for deuterated solvents, e.g. CDCl ₃, when obtaining a proton NMR spectrum"
+              },
+              {
+                "number": "5",
+                "text": "describe the identification of O–H and N–H protons by proton exchange using D₂O"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
